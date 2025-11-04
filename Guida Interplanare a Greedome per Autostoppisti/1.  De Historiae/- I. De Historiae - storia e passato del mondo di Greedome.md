@@ -110,31 +110,18 @@ Allontanato con una scusa l'ignaro collega dalla cima del [[Great Dong]], Chromi
 Chiunque, su Greedome, percepì la catastrofe; per una notte intera il cielo del continente si trasformò in una tavolozza viola/scarlatta. Chrominus, in estasi, voleva proseguire nella sua opera di distruzione mentre Foilgoroth, inorridito e preso dal rimorso di aver incenerito anche le stamperie della WotC, tentava invano di dissuaderlo.
 
 Scoppiò una lotta tra i due, la forza di Chrominus era soverchiante grazie a varie migliorie meccaniche, ma proprio quando sta per avere la meglio, Foilgoroth cade atterra implorante e con un pianto isterico invova l'aiuto di [[Elenderath]], regina delle fate, degli spiritelli e sua cugina. 
-Poco sappiamo di [[Elenderath]], cosi come sappiamo poco di quel che accadde poi. Le leggende raccontano di come quest'ultima abbia garantito a Foilgoroth la forza per sconfiggere Chrominus, in cambio del suo titolo di Drago Antico (vedi la voce Draghi, nel capitolo 14: “[[XV.  De Bestiae Ferae - bestiario delle specie autoctone del mondo di Greedome]]”).
-[[Elenderath]] esaudisce il desiderio e maledice Chrominus,  che viene costretto alla fuga, in fin di vita.+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Poco sappiamo di [[Elenderath]], cosi come sappiamo poco di quel che accadde poi. Le leggende raccontano di come quest'ultima abbia garantito a Foilgoroth la forza per sconfiggere Chrominus, in cambio del suo titolo di Drago Antico (per un approfondimento, vedi la voce [[Draghi]], nel capitolo 14).
+[[Elenderath]] esaudisce il desiderio e maledice Chrominus, che viene costretto alla fuga, in fin di vita.
 
 Foilgoroth, privato del suo titolo, regredisce ad una viverna (pur mantenendo il suo intelletto) e si rifugia nelle profondità del [[Lochmòr]], divenendo il padre delle [[Coccatrici]].
 
-(@) [**_N.d.A._** Il titolo di un drago, da come ci perviene da antichi scritti draconici, racchiude in sé il potere del drago stesso, che è più o meno proporzionale al suo grado nella scala gerarchica dei draghi. La scala prevede, in ordine crescente:
-
-[[Viverne]] (non-draghi, discendenti, addestrabili e allevabili con estrema difficoltà anche dagli umanoidi, non attendono al Summit),
-
-[[Draghi Elementali]] (draghi non dotati di parola o di vero e proprio intelletto, avidi e istintivi, attendono ma non votano al Summit),
-
-[[Draghi Superiori]] (draghi magici dotati di intelletto, votano),
-
-[[Draghi Antichi]] (draghi eredi dei Primordiali, votano),
-
-[[Draghi Primordiali]] (5 diretti discendenti del Pàndragon generati assieme a Greedome stessa, rappresentanti i 5 colori di Magic, hanno potere di veto)
-
-ed infine il [[Pàndragon]] (un Drago-Orrore? Mistero misterioso, nessuno l'ha mai visto. Ancora nessuno s'è mai lamentato della sua assenza.).
-
-C’è infine da precisare che tutto ciò che accadde nella Grande Guerra del Cataclisma, per Draghi Superiori, Antichi e Primordiali non fu null'altro che “una scaramuccia mal gestita” e che anzi li portò a concludere che se quelli erano i risultati di un intero Summit, tanto valeva non farne più e li dichiararono “illegali, oltre che una gran rottura di cazzo”. E si diedero ai Cube.
-**_end N.d.A._**]
+**_N.d.A._**
+Il titolo di un drago, da come ci perviene da antichi scritti draconici, racchiude in sé il potere del drago stesso, che è più o meno proporzionale al suo grado nella scala gerarchica dei draghi. C’è infine da precisare che tutto ciò che accadde nella Grande Guerra del Cataclisma, per Draghi Superiori, Antichi e Primordiali non fu null'altro che “una scaramuccia mal gestita” e che anzi li portò a concludere che se quelli erano i risultati di un intero Summit, tanto valeva non farne più e li dichiararono “illegali, oltre che una gran rottura di cazzo”. E si diedero ai Cube.
+**_end N.d.A._**
 
 **_La fine della Grande Guerra del Cataclisma_**
 
-Con il Gran Sole Rosso le armate del fronte Est erano solo un ricordo, lo stesso Karras presumibilmente morto (non ne fu mai trovato il cadavere, anche se si mormora che sia morto inveendo e bestemmiando contro il Gran Sole Rosso, sul tetto di una torre. Tanto patetico, quanto inutile.), una piccola Élite dell'Impero Zithiano riuscì a teletrasportarsi (non del tutto intenzionalmente) a [[Dagonor]], i pochi superstiti dell’Ordine fuggirono tra le montagne mentre alcuni Redcap riuscirono a fuggire (non senza aver prima fatto esplodere un considerevole numero di cose e/o persone) e ad ottenere asilo presso i [[Meccanisti]]. Un denutrito clan di Labmin li avrebbe raggiunti di lì a poco. 
+Con il Gran Sole Rosso le armate del fronte Est erano solo un ricordo, lo stesso Karras presumibilmente morto (non ne fu mai trovato il cadavere, anche se si mormora che sia morto inveendo e bestemmiando contro il Gran Sole Rosso, sul tetto di una torre. Tanto patetico, quanto inutile.), una piccola Élite dell'ormai ex impero zithiano riuscì a teletrasportarsi (non del tutto intenzionalmente) a [[Dagonor]], i pochi superstiti dell’Ordine fuggirono tra le montagne mentre alcuni Redcap riuscirono a fuggire (non senza aver prima fatto esplodere un considerevole numero di cose e/o persone) e ad ottenere asilo presso i [[Meccanisti]]. Un denutrito clan di Labmin li avrebbe raggiunti di lì a poco. 
 [[Gnomi]], [[Quar]], Labmin e Redcap sono le razze che fonderanno il Tetrarcato di [[Mekkania]], rifuggendo la guerra e le discriminazioni.
 
 Sul Fronte Ovest, i [[Bestiali]] presi alla sprovvista dalla luce della Cometa furono sbaragliati dalle armate umane che concessero loro la resa. I loro servitori [[Argoniani]] (gentilmente forniti loro dall'[[Impero Zith]]) fuggirono e si dispersero, alcuni trovarono libertà e ingiustizie (sia da commettere, che da subire) nelle [[Colonie Pirata]], mentre altri tornarono dai loro vecchi padroni a [[Dagonor]] dove, raggiunti i loro vecchi alleati zithiani, iniziarono la fondazione dell’attuale Impero della Magia Arcana di [[Eldreicht]]. I [[Quar]] dei [[Monti Thabagora]], stremati da un conflitto che li ha visti solo sfruttati ed impoveriti, si sparsero nelle città umane mendicando lavoro.

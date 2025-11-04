@@ -32,7 +32,7 @@
 
 [[- XIV.  De Mundis & Urbis - geografia del mondo di Greedome]]
 
-[[XV.  De Bestiae Ferae - bestiario delle specie autoctone del mondo di Greedome]]
+[[- XV.  De Bestiae Ferae - bestiario delle specie autoctone del mondo di Greedome]]
 
 [[- XVI.  De Vips - genti famose del mondo di Greedome]]
  
