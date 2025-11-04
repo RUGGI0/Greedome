@@ -15,29 +15,28 @@ I risultati del conflitto tra Magia e Tecnologia sono lasciati alla discrezione 
 
 **_Legge & Ordine vs. Libertà & Chaos_**
 
-Un'altra potente dicotomia in Greedome, una con molto spazio grigio tra i poli, è la disputa tra Legge e Caos. Questo è un elemento comune nei giochi di ruolo e dovrebbe essere già chiaro alla maggior parte dei giocatori esperti. I personaggi di una campagna Greedome non devono necessariamente avere un allineamento. Molti personaggi del gioco, come nel caso degli individui nel mondo reale, non si preoccuperanno di questa dualità oppure più semplicemente non divulgheranno e/o non ne parleranno.
+Un'altra potente dicotomia in Greedome, una con molto spazio grigio tra i poli, è la disputa tra Legge e Caos. Questo è un elemento comune nei giochi di ruolo e dovrebbe essere già chiaro alla maggior parte dei giocatori esperti. I personaggi di una campagna Greedome non hanno un allineamento. Molti personaggi del gioco, come nel caso degli individui nel mondo reale, non si preoccuperanno di questa dualità oppure più semplicemente ne parleranno.
 
-È, tuttavia, una componente chiave di qualsiasi narrazione. Anche nei tempi antichi, quando gli Antichi erano venerati e rispettati, il dibattito tra queste forze infuriava. Nell'era attuale, lo scontro tra le leggi, la struttura, il controllo delle città e della natura selvaggia, l'autonomia e il nomadismo di molti popoli rurali porta questo conflitto in primo piano. Può anche essere osservato nel problema di Magia vs. [[Ender Tech]], con i sostenitori sia della Legge che del Caos su entrambi i lati di tali fazioni.
+È, tuttavia, una componente chiave di qualsiasi narrazione. Lo scontro tra le leggi, la struttura, il controllo delle città e della natura selvaggia, l'autonomia e il nomadismo di molti popoli rurali porta questo conflitto in primo piano. Può anche essere osservato nel problema di Magia vs. [[Ender Tech]], con i sostenitori sia della Legge che del Caos su entrambi i lati di tali fazioni.
 
 **_Disparità economica, schiavitù salariale e razzismo_**
 
-Con lo sviluppo di città basate sulla [[Steam Tech]] e con quella tecnologia che dipende e riposa nelle mani di un'élite, gli ”[[Hiborg]]", sorgono una serie di disuguaglianze sociali e pregiudizi.
+Con lo sviluppo di città basate sulla [[Ender Tech]] e con quella tecnologia che dipende e riposa nelle mani di un'élite, gli ”[[Hiborg]]", sorgono una serie di disuguaglianze sociali e pregiudizi.
 
-Lampante, tra questi è la situazione economica dei [[--Nani]]. Non tutti i [[--Nani]] si trovano in questa situazione, ma la maggior parte dei nani vive in uno stato di pseudo-schiavitù. Perfino quei [[--Nani]] che non lavorano per gli [[Hiborg]] vivono di solito in condizioni di povertà urbana, facendo spesso affidamento sul crimine per integrare la loro esistenza misera.
-
-Oltre alla miseria economica dei [[--Nani]], c'è l'intenso razzismo. Questo razzismo, quasi universale, degli [[Hiborg]] e il loro monopolio della tecnologia e della ricchezza della [[Ender Tech]] assicurano che la maggior parte dei membri dei [[Loborg]] vivano in una più o meno grave povertà urbana.
+Lampante, tra questi è la situazione economica dei [[Quar]]. Non tutti i [[Quar]] si trovano in questa situazione, ma la maggior parte dei nani vive in uno stato di pseudo-schiavitù. Perfino quelli che non lavorano per gli [[Hiborg]] vivono di solito in condizioni di povertà urbana, facendo spesso affidamento sul crimine per integrare la loro esistenza misera.
 
 **_Urbano vs. Rurale, "Civilizzato" vs. "Primitivo”_**
 
-Poiché l'enfasi nelle questioni mondiali si è spostata dalle tradizionali comunità rurali alla cultura urbana, i popoli delle città, in particolare gli Hiborg, vedono le comunità rurali come "barbare" e arretrate, ignoranti e addirittura sincere. Molte comunità rurali e cittadine, in particolare quelle che subiscono la pressione del "progresso" a causa della loro vicinanza ai centri urbani, cercano di impressionare la gente della città modificando le loro usanze e credenze native. Entrambi questi atteggiamenti portano all'oppressione e alla persecuzione di chiunque sia considerato "strano" o anormale, senza esclusione degli utenti magici.
+Poiché l'enfasi nelle questioni mondiali si è spostata dalle tradizionali comunità rurali, alla cultura urbana, i popoli delle città, in particolare gli [[Hiborg]], vedono le comunità rurali come "barbare" e arretrate, ignoranti e addirittura sincere. Alcuni detestano la mancanza delle comodità della vita rurale, altri la ricercano con bramosia.
+Non è strano per gli esploratore e avventurieri da tutte le parti del mondo, avventurarsi nei più remoti ed inesplorati posti di Greedome, guidati dalla brama di fama, fortuna o conoscenza.
+Sono famosi nella [[Repubblica Unita]] alcuni club e gilde di avventurieri dediti all'esplorazione (e allo sfruttamento) delle terre inesplorate e non sono rare le spedizioni scietinfiche in partenza dal porto di [[Città della Repubblica]].
+All'altra estremità dello spettro ci sono le comunità rurali autosufficienti che resistono categoricamente all'urbanizzazione tecnofila. Queste comunità devote alla magia o più semplicemente scettiche, si fondono assieme per non rinunciare ai loro modi di vita tradizionali. All'interno di queste comunità naturali/rurali, la tecnologia moderna, in particolare l’[[Ender Tech]], incontra sguardi dubbi e volte resistenza fisica.
 
-All'altra estremità dello spettro ci sono le comunità rurali autosufficienti che resistono categoricamente all'urbanizzazione tecnofila. Queste comunità devote alla magia o più semplicemente scettiche, si fondono assieme per non rinunciare ai loro modi di vita tradizionali. All'interno di queste comunità naturali/rurali, la tecnologia moderna, in particolare l’Ender Tech, incontra sguardi dubbi e spesso resistenza fisica.
-
-La disputa tra urbano e rurale spesso si interseca e si incrocia con la dicotomia di [[Ender Tech]] vs. [[Magia]] e quella di Ordine vs. Chaos.
+La disputa tra urbano e rurale spesso si interseca e si incrocia con la dicotomia di [[Ender Tech]] vs. [[Magia]].
 
 **_Scetticismo & Ateismo vs. Spiritualità_**
 
-Quasi tutti nell'odierna Greedome sono scettici sui "poteri superiori". La maggior parte sono atei veri e propri, nonostante la concezione pressoché universale degli Orrori nei tempi passati, delle loro imprese e delle loro opere cronache. Ci sono alcuni, tuttavia, che mantengono in vita frammenti della [[Vecchia Via]], quei pochi speciali che hanno catturato l’essenza, vera o fittizia, degli Orrori incarnati in forma fisica.
+Quasi tutti nell'odierna Greedome sono scettici all'idea di "esseri semi-divini in grado di plasmare la realtà". La maggior parte della popolazione si definirebbe atea se ne avesse una buona motivazione, nonostante le storie pressoché universale sugli [[Orrori di Eldritch]], delle loro imprese e delle loro opere cronache. Ci sono alcuni, tuttavia, che mantengono in vita frammenti della [[Vecchia Via]], quei pochi speciali che hanno catturato l’essenza, letteralmente o figurativamente, degli Orrori.
 
 Questo è un'altra grande fonte di conflitti su Greedome, quello tra Scetticismo/Ateismo e Spiritualità.
 
@@ -45,7 +44,8 @@ Per maggiori informazioni, consultare il capitolo 6: “[[De Cultorum - culture,
 
 **_Nobiltà vs. Borghesia, il classismo_**
 
-Uno dei conflitti più complicati e confusi di Greedome è quello tra la nobiltà e la gente comune. Anche tra i dotti e gli eruditi, nessuno su Greedome comprende davvero il sistema dei titoli nobiliari. Molte famiglie nobili tracciano i loro alberi genealogici attraverso gli eroi e le eroine dei tempi antichi. Altri, ai lignaggi di sacerdoti, druidi e utenti magici onorati dal tempo. Alla maggior parte della nobiltà moderna viene concesso l’acquisto di titoli in linea con la ricchezza e il potere che accumulato attraverso l’[[Ender Tech]] o il commercio.
+Uno dei conflitti più lampanti di Greedome è quello tra la nobiltà e la gente comune. 
+Anche tra i dotti e gli eruditi, nessuno su Greedome comprende davvero il sistema dei titoli nobiliari. Molte famiglie nobili tracciano i loro alberi genealogici attraverso gli eroi e le eroine dei tempi antichi. Altri, ai lignaggi di sacerdoti, druidi e utenti di forum magici onorati dal tempo. Attualmente maggior parte della nobiltà moderna viene concesso l’acquisto di titoli in linea con la ricchezza e il potere che accumulato attraverso l’[[Ender Tech]] o il commercio.
 
 In alcune province e città-stato, sono presenti ancora dei monarchi. In queste terre, i titoli nobiliari sono decretati dal monarca o da un membro della sua corte, facendo si, che la stessa nobiltà sia generalmente accettata e ben compresa, al contrario della confusione causata dalla nobiltà delle terre non-monarchiche.
 
