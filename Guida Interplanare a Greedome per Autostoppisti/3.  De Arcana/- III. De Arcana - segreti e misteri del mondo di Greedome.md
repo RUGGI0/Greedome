@@ -2,8 +2,8 @@
 
 **_N.d.R.:_**
 
-Nel capitolo precedente, abbiamo discusso dei conflitti comuni su Greedome, le tensioni quotidiane, che offrono eccellenti opportunità di roleplay. Ci sono anche un certo numero di forze nascoste che causano conflitti e tumulti, i segreti e i misteri di Greedome celati ai comuni popolani. Questi segreti celati emergono durante le campagne su Greedome, spostandosi dalle vicende mondane agli affari arcani, dalle avventure in paesaggi urbani e steampunk alle avventure nelle rovine del passato e negli imperi della magia.
-
+Nel capitolo precedente, abbiamo discusso dei conflitti comuni su Greedome, le tensioni quotidiane, che offrono eccellenti opportunità di roleplay. Ci sono anche un certo numero di forze nascoste che causano conflitti e tumulti, di segreti e i misteri di Greedome celati ai comuni popolani. Questi segreti emergono durante le campagne su Greedome, spostandosi dalle vicende mondane agli affari arcani, dalle avventure in paesaggi urbani e steampunk, alle avventure nelle rovine del passato e negli imperi della magia.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **_I vecchi poteri della terra, i vecchi dei, la vecchia fede_**
 
 I Dungeon Master e i Giocatori dovrebbero capire che Greedome è scritto dal punto di vista dell'esistenza degli [[Orrori di Eldritch]]. Questo è in qualche modo simile a Dragonlance, in cui i chierici adoravano nuovi Dei inesistenti mentre gli antichi dei siedono pigramente in uno stato dimenticato. Alcuni culti dedicati ad alcuni Dei esistono ancora su Greedome moderno, ma la maggior parte delle vecchie potenze è stata dimenticata o trascurata.
@@ -18,7 +18,7 @@ Tenete a mente che i personaggi del mondo di Greedome non sono a conoscenza del 
 
 **_Faeldumn, la lingua degli Antichi_**
 
-Il linguaggio dei glifi magici utilizzato e parzialmente compreso dai maghi di tutto il mondo si chiama Faeldumn. È discusso in modo approfondito nel capitolo 5: “[[V. De Linguae - lingue e Dialetti del mondo di Greedome]]”. È menzionato qui perché è anche uno dei grandi misteri della [[Magia]]. Cioè, nessuno comprende davvero le origini di questa lingua, e nessuna singola persona o gruppo di individui combinati si è anche solo avvicinata al suo segreto.
+Il linguaggio dei glifi magici utilizzato e parzialmente compreso dai maghi di tutto il mondo si chiama Faeldumn. È discusso in modo approfondito nel capitolo 6: “[[- VI.  De Linguae - lingue e Dialetti del mondo di Greedome]]”. È menzionato qui perché è anche uno dei grandi misteri della [[Magia]]. Cioè, nessuno comprende davvero le origini di questa lingua, e nessuna singola persona o gruppo di individui combinati si è anche solo avvicinata al suo segreto.
 
 Il [[Faeldumn]] è il linguaggio della creazione, l'incarnazione delle vibrazioni dell'energia vitale e dell'essenza magica che ha creato il mondo di Greedome. È anche la lingua parlata dai draghi e ancor prima, dagli Orrori.
 
@@ -30,7 +30,7 @@ Forse più importanti e più rilevanti per le campagne su Greedome, i moderni ar
 
 **_Il Glifo Finale, il Segno della Distruzione, la Parola Cataclismatica_**
 
-Questo mistero si riferisce al magico ordine profetico dei [[Custodi]], come descritto nel capitolo 7: “[[VII. De Factiorum - gruppi, organizzazioni e fazioni del mondo di Greedome]]”.
+Questo mistero si riferisce al magico ordine profetico dei [[Custodi]], come descritto nel capitolo 7: “[[- VII.  De Cultorum - culture, religioni e tradizioni del mondo di Greedome]]”.
 I [[Custodi]] sono un antico ordine dedicatosi esclusivamente all'uso dei Glifi Faeldumniani e delle rune per la profetizzazione del futuro. Parte della loro mitologia riguarda l'idea dell’esistenza di un Glifo dalla potenza incommensurabile capace di portare la distruzione, detto anche il Glifo Finale. Filosofeggiando sono arrivati alla conclusione che Faeldumn è il linguaggio-veicolo con il quale gli Antichi hanno dato luogo alla Creazione e di conseguenza alla [[Magia]]. Ragionando al contrario si può (o meglio, possono i Custodi) dedurre che esista una parola (e/o un Glifo scritto) capace dell’opposto della Creazione, ovvero la Distruzione di Greedome.
 
 I [[Custodi]] dedicano le loro vite mortali e i loro poteri profetici e arti divinatorie per impedire che questo Glifo venga scoperto, e possa cadere in mani sbagliate.
@@ -42,7 +42,7 @@ Labirinti di fogne e canali si estendono al di sotto delle metropoli, celando po
 
 I mondi sotterranei e i luoghi dimenticati dovrebbero ben combinarsi bene con gli altri Segreti e Misteri elencati in questo capitolo.
 
-**_La [[Follia]]_**
+**_[[Follia]]_**
 
 La [[Follia]], è una malattia psicologica che imperversa su Greedome, trasformando normali cittadini in persone disturbate, violente e spesso omicide.
 Le sue origini sono sconosciute e non esiste un vero deterrente della [[Follia]], che tutt’ora non può essere interamente curata ma solo lenita fino a farla sparire.
