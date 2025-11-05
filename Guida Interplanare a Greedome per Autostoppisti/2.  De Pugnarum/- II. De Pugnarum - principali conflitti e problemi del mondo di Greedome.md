@@ -13,7 +13,7 @@ Il concetto di elettricità, per esempio, illustra bene questo concetto. Un lamp
 Tale “complicata compatibilità” talvolta porta a conseguenze indesiderate, a volte di natura catastrofica e disastrosa. Ad esempio, se un potente piromante dovesse salire a bordo di una locomotiva a vapore e tentasse di usare le sue abilità, la caldaia a vapore del treno potrebbe trasformarsi in una pentola a pressione pronta ad esplodere.
 I risultati del conflitto tra Magia e Tecnologia sono lasciati alla discrezione e alla creatività dello Dungeon Master, come al solito. Questi effetti dovrebbero funzionare in modo simile delle Magie offensive, come descritto nel Manuale Base del Giocatore. Oppure, se si utilizza un altro sistema, seguire le regole in ivi contenute.
 
-**_Legge & Ordine vs. Libertà & Chaos_**
+**_Legge vs. Ordine, Libertà vs. Chaos_**
 
 Un'altra potente dicotomia in Greedome, una con molto spazio grigio tra i poli, è la disputa tra Legge e Caos. Questo è un elemento comune nei giochi di ruolo e dovrebbe essere già chiaro alla maggior parte dei giocatori esperti. I personaggi di una campagna Greedome non hanno un allineamento. Molti personaggi del gioco, come nel caso degli individui nel mondo reale, non si preoccuperanno di questa dualità oppure più semplicemente ne parleranno.
 
@@ -40,15 +40,18 @@ Quasi tutti nell'odierna Greedome sono scettici all'idea di "esseri semi-divini 
 
 Questo è un'altra grande fonte di conflitti su Greedome, quello tra Scetticismo/Ateismo e Spiritualità.
 
-Per maggiori informazioni, consultare il capitolo 6: “[[De Cultorum - culture, religioni e tradizioni del mondo di Greedome]]”.
+Per maggiori informazioni, consultare il capitolo 6: “[[- VII.  De Cultorum - culture, religioni e tradizioni del mondo di Greedome]]”.
 
-**_Nobiltà vs. Borghesia, il classismo_**
+**_Nobiltà vs. Borghesia e classismo_**
 
 Uno dei conflitti più lampanti di Greedome è quello tra la nobiltà e la gente comune. 
 Anche tra i dotti e gli eruditi, nessuno su Greedome comprende davvero il sistema dei titoli nobiliari. Molte famiglie nobili tracciano i loro alberi genealogici attraverso gli eroi e le eroine dei tempi antichi. Altri, ai lignaggi di sacerdoti, druidi e utenti di forum magici onorati dal tempo. Attualmente maggior parte della nobiltà moderna viene concesso l’acquisto di titoli in linea con la ricchezza e il potere che accumulato attraverso l’[[Ender Tech]] o il commercio.
 
 In alcune province e città-stato, sono presenti ancora dei monarchi. In queste terre, i titoli nobiliari sono decretati dal monarca o da un membro della sua corte, facendo si, che la stessa nobiltà sia generalmente accettata e ben compresa, al contrario della confusione causata dalla nobiltà delle terre non-monarchiche.
 
-Compreso o no, il concetto e la pratica della Nobiltà causano grandi conflitti ovunque. I poveri e gli impoveriti disprezzano la nobiltà, e la maggior parte dei nobili vede i popolani come parassiti da sradicare o bestiame da sfruttare. Questo non è universalmente vero, ma dove esistono questi atteggiamenti, il conflitto abbonda.
+Compreso o no, il concetto e la pratica della Nobiltà causano grandi conflitti ovunque. I poveri e gli impoveriti disprezzano la nobiltà, e la maggior parte dei nobili vede i popolani come parassiti da eradicare o bestiame da sfruttare. Questo non è universalmente vero, ma dove esistono questi atteggiamenti, il conflitto abbonda.
+
+**_Geopolitica, guerra e commercio _**
+
 
 **_end N.d.R._**
