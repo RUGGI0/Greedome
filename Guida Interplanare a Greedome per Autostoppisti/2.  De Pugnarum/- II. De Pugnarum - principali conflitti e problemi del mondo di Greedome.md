@@ -51,7 +51,9 @@ In alcune province e città-stato, sono presenti ancora dei monarchi. In queste 
 
 Compreso o no, il concetto e la pratica della Nobiltà causano grandi conflitti ovunque. I poveri e gli impoveriti disprezzano la nobiltà, e la maggior parte dei nobili vede i popolani come parassiti da eradicare o bestiame da sfruttare. Questo non è universalmente vero, ma dove esistono questi atteggiamenti, il conflitto abbonda.
 
-**_Geopolitica, guerra e commercio _**
+**_Geopolitica, guerra e commercio_**
 
+"Dopo la Grande Guerra, la situazione geopolitica è apparentemente stabile" è l'eufemismo che il buon [[6100]] ha usato per descrivere l'attuale situazione su Greedome, per quanto non sia un'affermazione tecnicamente falsa, diciamo che è un modo molto ottimista di vedere la situazione (quantomeno è un punto di vista curioso per un droide ricercatore di circa 380 anni che ha visto più orrori della maggior parte della popolazione).
+La triste realtà è molto più complessa di così: la situazione politica mondiale post-guerra è bloccata in una silenziosa guerra fredda tra le 3 maggiori potenze commerciali: 
 
 **_end N.d.R._**
