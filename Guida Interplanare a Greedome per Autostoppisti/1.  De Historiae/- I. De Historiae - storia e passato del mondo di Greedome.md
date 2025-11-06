@@ -62,7 +62,7 @@ Le principali Contee di [[Deadmoor]] e di [[Kinsdale]] si tennero neutrali nel c
 
 Dopo la [[Notte delle Criniere Cremisi]], la [[Suprema Accademia delle Scienze della Repubblica Unita]] classifica i [[Bestiali]], come "estinti".
 
-La maggior parte delle località insulari e peninsulare occidentali restanti, comprese gran parte degli attuali [[Territori Indipendenti della Federazione del Commercio]], [[Dagonor]], le colonie pirata delle [[Cluster Islands]] e l’[[Arcipelago Woodoo Woodoo]], rimasero pressoché intoccati dal conflitto, salvo poi per diventare meta di migrazione per i profughi di guerra (ad esclusione dell’Arcipelago, che rimase strettamente autocratico e xenofobo).
+La maggior parte delle località insulari e peninsulare occidentali restanti, comprese gran parte degli attuali [[Territori Indipendenti della Confederazione del Commercio]], [[Dagonor]], le colonie pirata delle [[Cluster Islands]] e l’[[Arcipelago Woodoo Woodoo]], rimasero pressoché intoccati dal conflitto, salvo poi per diventare meta di migrazione per i profughi di guerra (ad esclusione dell’Arcipelago, che rimase strettamente autocratico e xenofobo).
 
 Il continente di [[Bolvangar]] rimase freddo, silenzioso ed inviolato per l'intero secolo di guerra. E nessuno se ne lamentò.
 
