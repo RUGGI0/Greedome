@@ -11,7 +11,7 @@ Un tema ricorrente in Greedome è il conflitto tra le arti e le energie magiche 
 L'elettricità, per esempio, illustra bene questo concetto. Un lampo magico, ad esempio, viaggia da un lanciatore a un bersaglio, senza riguardo alla "legge scientifica", rimane comunque elettricità ma viene incanalata attraverso la Magia Arcana, una sorta di forza vitale in grado da plasmare la realtà. Una pistola Tesla, d'altra parte, opera secondo principi scientifici ed il suo raggio si inarca lungo il percorso più conduttivo quando spara. Queste due meccaniche sono perlopiù paradossali anche se non del tutto incompatibili (se ad esempio, il bersaglio del suddetto Lampo Magico, si rifugiasse all’interno di una gabbia di Faraday, l’energia elettrica, una volta a contatto con la superficie metallica della gabbia tornerebbe ad essere sottoposta alle leggi della fisica e viene quindi verrebbe dissipata) e quindi possono coesistere, solo con un po' di ingegno.
 
 Tale “complicata compatibilità” talvolta porta a conseguenze indesiderate, a volte di natura catastrofica e disastrosa. Ad esempio, se un potente piromante dovesse salire a bordo di una locomotiva a vapore e tentasse di usare le sue abilità, la caldaia a vapore del treno potrebbe trasformarsi in una pentola a pressione pronta ad esplodere.
-I risultati del conflitto tra Magia e Tecnologia sono lasciati alla discrezione e alla creatività dello Dungeon Master, come al solito. Questi effetti dovrebbero funzionare in modo simile delle Magie offensive, come descritto nel Manuale Base del Giocatore. Oppure, se si utilizza un altro sistema, seguire le regole in ivi contenute.
+I risultati del conflitto tra Magia e Tecnologia sono lasciati alla discrezione e alla creatività dello Dungeon Master, come al solito. Questi effetti dovrebbero funzionare in modo simile delle magie offensive, come descritto nel Manuale Base del Giocatore. Oppure, se si utilizza un altro sistema, seguire le regole in ivi contenute.
 
 **_Legge vs. Ordine, Libertà vs. Chaos_**
 
@@ -23,7 +23,9 @@ Un'altra potente dicotomia in Greedome, una con molto spazio grigio tra i poli, 
 
 Con lo sviluppo di città basate sulla [[Ender Tech]] e con quella tecnologia che dipende e riposa nelle mani di un'élite, gli ”[[Hiborg]]", sorgono una serie di disuguaglianze sociali e pregiudizi.
 
-Lampante, tra questi è la situazione economica dei [[Quar]]. Non tutti i [[Quar]] si trovano in questa situazione, ma la maggior parte dei nani vive in uno stato di pseudo-schiavitù. Perfino quelli che non lavorano per gli [[Hiborg]] vivono di solito in condizioni di povertà urbana, facendo spesso affidamento sul crimine per integrare la loro esistenza misera.
+Lampante, tra questi è la situazione economica dei [[Quar]]. Non tutti i [[Quar]] si trovano in questa situazione, ma una parte di questi vive in uno stato di pseudo-schiavitù. Perfino quelli che non lavorano per gli [[Hiborg]] vivono di solito in condizioni di povertà urbana, facendo spesso affidamento sul crimine.
+La [[Repubblica Unita]] ne è un buon esempio: le strade di [[Città della Repubblica]] sono illuminate notte e giorno da mille diavolerie tecnologiche, cartelloni pubblicitari e vetrate di empori carichi di ogni sorta di mercanzia, ma dietro questa facciata luminosa e futuristica, scure ombre si allungano nei vicoli malfamati. Una parte della popolazione, esclusa da questo benessere e lusso, vive nell'[[UnderCity]] un enorme città sotterranea che si estende sotto tutta la capitale.
+E' un luogo sporco e pericoloso, ricco di vita, ma povero di morale. La maggior parte dell'illegalità si riunisce qui
 
 **_Urbano vs. Rurale, "Civilizzato" vs. "Primitivo”_**
 
