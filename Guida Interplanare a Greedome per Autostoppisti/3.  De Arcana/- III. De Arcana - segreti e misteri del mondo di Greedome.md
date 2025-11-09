@@ -33,7 +33,7 @@ Forse più importanti e più rilevanti per le campagne su Greedome, i moderni ar
 Come nel nostro mondo, le principali città di Greedome sono costruite sulle rovine delle civiltà del passato.
 Labirinti di fogne e canali si estendono al di sotto delle metropoli, celando popoli dimenticati e mutati, tesori favolosi, bestie orribili e potenti manufatti del vecchio mondo. Alcuni raccontano di idoli nascosti, misteriose sparizioni e di follia, che brama le menti degli avventati esploratori.
 Prima, tra queste mete, è l'[[UnderCity]], posta al di sotto di [[Città della Repubblica]], è un'intera città sotterranea inabissata per km sotto la capitale. 
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 **_[[Follia]]_**
 
 La [[Follia]], è una malattia psicologica che imperversa su Greedome, trasformando normali cittadini in persone disturbate, violente e spesso omicide.
