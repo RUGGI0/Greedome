@@ -28,19 +28,11 @@ Questo non è esattamente un mistero o un segreto. Con l'arrivo del metodo scien
 
 Forse più importanti e più rilevanti per le campagne su Greedome, i moderni arcanisti scientifici cercano di documentare lingue e origini linguistiche. La maggior parte delle persone su Greedome parla il [[Basic]] (la lingua comune di Greedome) e il [[Carav]] (la lingua dei raminghi), ma oltre a queste e allle altre due lingue letterarie-scientifiche dominanti ([[Arc]] e [[Faeldumn]]), ci sono migliaia di lingue e dialetti regionali privi di documentazione. Scavando abbastanza indietro nel tempo, ci si accorge che tutte queste lingue hanno le loro radici nel [[Faeldumn]], l'antica lingua della creazione. Per i Giocatori tecnofili e linguisti intraprendenti, questo mistero dovrebbe fornire una buona quantità di materiale di gioco.
 
-**_Il Glifo Finale, il Segno della Distruzione, la Parola Cataclismatica_**
-
-Questo mistero si riferisce al magico ordine profetico dei [[Custodi]], come descritto nel capitolo 7: “[[- VII.  De Cultorum - culture, religioni e tradizioni del mondo di Greedome]]”.
-I [[Custodi]] sono un antico ordine dedicatosi esclusivamente all'uso dei Glifi Faeldumniani e delle rune per la profetizzazione del futuro. Parte della loro mitologia riguarda l'idea dell’esistenza di un Glifo dalla potenza incommensurabile capace di portare la distruzione, detto anche il Glifo Finale. Filosofeggiando sono arrivati alla conclusione che Faeldumn è il linguaggio-veicolo con il quale gli Antichi hanno dato luogo alla Creazione e di conseguenza alla [[Magia]]. Ragionando al contrario si può (o meglio, possono i Custodi) dedurre che esista una parola (e/o un Glifo scritto) capace dell’opposto della Creazione, ovvero la Distruzione di Greedome.
-
-I [[Custodi]] dedicano le loro vite mortali e i loro poteri profetici e arti divinatorie per impedire che questo Glifo venga scoperto, e possa cadere in mani sbagliate.
-
 **_Inferi, antiche città e fogne labirintiche_**
 
-Si dice principali città di Greedome siano costruite sulle rovine delle antiche città. Voci più o meno affidabili, forse di malati di mente o forse di saggi, affermano che allo stesso modo che in superficie, intere culture vivano sottoterra.
-Labirinti di fogne e canali si estendono al di sotto delle metropoli, celando popoli dimenticati e mutati, tesori favolosi, bestie orribili e creature magnifiche, e potenti manufatti del vecchio mondo. Alcuni raccontano persino di idoli nascosti, misteriose sparizioni e di follia generata nelle menti degli avventati esploratori.
-
-I mondi sotterranei e i luoghi dimenticati dovrebbero ben combinarsi bene con gli altri Segreti e Misteri elencati in questo capitolo.
+Come nel nostro mondo, le principali città di Greedome sono costruite sulle rovine delle civiltà del passato.
+Labirinti di fogne e canali si estendono al di sotto delle metropoli, celando popoli dimenticati e mutati, tesori favolosi, bestie orribili e potenti manufatti del vecchio mondo. Alcuni raccontano di idoli nascosti, misteriose sparizioni e di follia, che brama le menti degli avventati esploratori.
+Prima, tra queste mete, è l'[[UnderCity]], posta al di sotto di [[Città della Repubblica]], è un'intera città sotterranea inabissata per km sotto la capitale. 
 
 **_[[Follia]]_**
 
