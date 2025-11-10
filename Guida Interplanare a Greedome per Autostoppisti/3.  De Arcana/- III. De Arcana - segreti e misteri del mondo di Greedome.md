@@ -25,8 +25,7 @@ Il [[Faeldumn]] è il linguaggio della creazione, l'incarnazione delle vibrazion
 **_Archeologia e Mistero_**
 
 Nonostante la storia moderna di Greedome sia quasi esaustivamente raccolta dagli storici contemporanei, non si può dire lo stesso per un passato più remoto.
-Grazie al [[Tomo del Kith e del Kin]], pubblicato dalla [[Sylenst Forgood Kinsdale Pub.]], e a pochi altri titoli conservati nelle più polverose biblioteche, possiamo ricostruire fino a circa 500 anni nel passato, soli pochi centinaia di anni prima della [[Grande Guerra]]
-
+Grazie al [[Tomo del Kith e del Kin]], pubblicato dalla [[Sylenst Forgood Kinsdale Pub.]], e a pochi altri titoli conservati nelle più polverose biblioteche, possiamo ricostruire fino a circa 500 anni nel passato, soli pochi centinaia di anni prima della [[Grande Guerra]]+++++++++++++++++++
 
 **_Scienza, categorizzazione e documentazione di Greedome_**
 
