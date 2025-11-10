@@ -22,6 +22,12 @@ Il linguaggio dei glifi magici utilizzato e parzialmente compreso dai maghi di t
 
 Il [[Faeldumn]] è il linguaggio della creazione, l'incarnazione delle vibrazioni dell'energia vitale e dell'essenza magica che ha creato il mondo di Greedome. È anche la lingua parlata dai draghi e ancor prima, dagli Orrori.
 
+**_Archeologia e Mistero_**
+
+Nonostante la storia moderna di Greedome sia quasi esaustivamente raccolta dagli storici contemporanei, non si può dire lo stesso per un passato più remoto.
+Grazie al [[Tomo del Kith e del Kin]], pubblicato dalla [[Sylenst Forgood Kinsdale Pub.]], e a pochi altri titoli conservati nelle più polverose biblioteche, possiamo ricostruire fino a circa 500 anni nel passato, soli pochi centinaia di anni prima della [[Grande Guerra]]
+
+
 **_Scienza, categorizzazione e documentazione di Greedome_**
 
 Questo non è esattamente un mistero o un segreto. Con l'arrivo del metodo scientifico, sempre più accademici e filosofi naturali sentono l'imperativo di categorizzare, sintetizzare, nominare e documentare tutte le cose del mondo. Ciò include flora, fauna, sostanze chimiche, costituenti, batteri, terre emerse, morfologie, modelli meteorologici e bioregioni, culture e civiltà passate, razze e origini...
@@ -32,8 +38,9 @@ Forse più importanti e più rilevanti per le campagne su Greedome, i moderni ar
 
 Come nel nostro mondo, le principali città di Greedome sono costruite sulle rovine delle civiltà del passato.
 Labirinti di fogne e canali si estendono al di sotto delle metropoli, celando popoli dimenticati e mutati, tesori favolosi, bestie orribili e potenti manufatti del vecchio mondo. Alcuni raccontano di idoli nascosti, misteriose sparizioni e di follia, che brama le menti degli avventati esploratori.
-Prima, tra queste mete, è l'[[UnderCity]], posta al di sotto di [[Città della Repubblica]], è un'intera città sotterranea inabissata per km sotto la capitale. 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Prima, tra queste mete, è l'[[UnderCity]], posta al di sotto di [[Città della Repubblica]], è un'intera città sotterranea inabissata per km sotto la capitale, ricca di poveri e povera di roba pulita.
+Negli ultimi anni, hanno iniziato a riaffiorare in questi posti, strana tecnologia pre-bellica, datata più di 500 anni nel passato: nessuno ha una vaga idea di come funzioni precisamente o da dove origini, ma come dice il detto: la spazzatura di un Greedomiano, è il tesoro di un altro Greedomiano, probabilmente più povero.
+
 **_[[Follia]]_**
 
 La [[Follia]], è una malattia psicologica che imperversa su Greedome, trasformando normali cittadini in persone disturbate, violente e spesso omicide.
