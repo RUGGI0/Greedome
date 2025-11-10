@@ -37,7 +37,7 @@ Poco più alti e sottili degli umani sono dediti alle Arti e alla Perfezione, in
 
 **_Privilegiati Sociali:_** la loro posizione di razza [[Hiborg]], oltre al garantire tutto l’odio possibile della concittadinanza Loborg, garantisce anche del lecchinaggio gratuito di tutti gli esercizi commerciali, autorità e passacarte generico locato nel territorio della Repubblica, nei territori fedeli al Conclave e qualsiasi autorità territoriale filo-scientifica.
 
-**_Lingue:_** Aetherven.
+**_Lingue:_** [[Aetherven]].
 
 **_Nomi Tipici_**
 

@@ -2,7 +2,7 @@
 
 **_N.d.R.:_**
 
-Nel capitolo precedente, abbiamo discusso dei conflitti comuni su Greedome, le tensioni quotidiane, che offrono eccellenti opportunità di roleplay. Oltre a quello esistono su Greedome un certo numero di forze nascoste, di segreti e di misteri che rimangono celati ai comuni popolani. Questi segreti sono il vero fine degli avventurieri su Greedome, dalle vicende mondane agli affari arcani, dalle macchinazioni steampunk alla diplomazia ???.
+Nel capitolo precedente, abbiamo discusso dei conflitti comuni su Greedome, le tensioni quotidiane, che offrono eccellenti opportunità di roleplay. Oltre a quello esistono su Greedome un certo numero di forze nascoste, di segreti e di misteri che rimangono celati ai comuni popolani. Questi segreti sono il vero fine degli avventurieri su Greedome, dalle vicende mondane agli affari arcani, dalle macchinazioni steampunk alla "diplomazia alla cowboy"
 
 **_I vecchi poteri della terra, i vecchi dei, la vecchia fede_**
 
@@ -25,13 +25,15 @@ Il [[Faeldumn]] è il linguaggio della creazione, l'incarnazione delle vibrazion
 **_Archeologia e Mistero_**
 
 Nonostante la storia moderna di Greedome sia quasi esaustivamente raccolta dagli storici contemporanei, non si può dire lo stesso per un passato più remoto.
-Grazie al [[Tomo del Kith e del Kin]], pubblicato dalla [[Sylenst Forgood Kinsdale Pub.]], e a pochi altri titoli conservati nelle più polverose biblioteche, possiamo ricostruire fino a circa 500 anni nel passato, soli pochi centinaia di anni prima della [[Grande Guerra]]+++++++++++++++++++
+Grazie al [[Tomo del Kith e del Kin]], pubblicato dalla [[Sylenst Forgood's Kinsdale Press]], e a pochi altri titoli conservati nelle più polverose biblioteche, possiamo ricostruire fino a circa 800 anni nel passato, soli pochi centinaia di anni prima della [[Grande Guerra]]. 
+Cio che fù nel passato è ignoto, ma non per molto ancora! L'era dell'[[Ender Tech]] ha portanto con sé un rinnovato interesse per l'archeologia: ogni giorno nuove nuove scoperte vengono fatte, antiche tecnologie chiamate [[ArcheoTech]] vengono riportate alla luce (con motivazioni più o meno nefaste). 
+Le informazioni sul passato antico di Greedome possono essere di gran valore per le menti giuste, e pericolose armi nelle mani sbagliate. 
 
 **_Scienza, categorizzazione e documentazione di Greedome_**
 
 Questo non è esattamente un mistero o un segreto. Con l'arrivo del metodo scientifico, sempre più accademici e filosofi naturali sentono l'imperativo di categorizzare, sintetizzare, nominare e documentare tutte le cose del mondo. Ciò include flora, fauna, sostanze chimiche, costituenti, batteri, terre emerse, morfologie, modelli meteorologici e bioregioni, culture e civiltà passate, razze e origini...
 
-Forse più importanti e più rilevanti per le campagne su Greedome, i moderni arcanisti scientifici cercano di documentare lingue e origini linguistiche. La maggior parte delle persone su Greedome parla il [[Basic]] (la lingua comune di Greedome) e il [[Carav]] (la lingua dei raminghi), ma oltre a queste e allle altre due lingue letterarie-scientifiche dominanti ([[Arc]] e [[Faeldumn]]), ci sono migliaia di lingue e dialetti regionali privi di documentazione. Scavando abbastanza indietro nel tempo, ci si accorge che tutte queste lingue hanno le loro radici nel [[Faeldumn]], l'antica lingua della creazione. Per i Giocatori tecnofili e linguisti intraprendenti, questo mistero dovrebbe fornire una buona quantità di materiale di gioco.
+Alcuni tra i moderni arcanisti cercano di documentare le lingue e le origini linguistiche di Greedome. La maggior parte delle persone su Greedome parla il [[Basic]] (la lingua comune di Greedome) e il [[Carav]] (la lingua dei raminghi), ma oltre a queste e allle altre due lingue letterarie-scientifiche dominanti ([[Arc]] e [[Faeldumn]]), ci sono migliaia di lingue e dialetti regionali privi di documentazione. Scavando abbastanza indietro nel tempo, ci si accorge che tutte queste lingue hanno le loro radici nel [[Faeldumn]], l'antica lingua della creazione. 
 
 **_Inferi, antiche città e fogne labirintiche_**
 
@@ -43,7 +45,7 @@ Negli ultimi anni, hanno iniziato a riaffiorare in questi posti, strana tecnolog
 **_[[Follia]]_**
 
 La [[Follia]], è una malattia psicologica che imperversa su Greedome, trasformando normali cittadini in persone disturbate, violente e spesso omicide.
-Le sue origini sono sconosciute e non esiste un vero deterrente della [[Follia]], che tutt’ora non può essere interamente curata ma solo lenita fino a farla sparire.
+Le sue origini sono sconosciute e non esiste un vero deterrente della [[Follia]], che tutt’ora non può essere interamente curata ma solo lenita fino a renderla asintomatica.
 
 **_Altri continenti, altri piani, altri mondi_**
 

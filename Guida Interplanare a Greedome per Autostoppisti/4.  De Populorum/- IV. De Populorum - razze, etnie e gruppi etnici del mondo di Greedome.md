@@ -2,9 +2,11 @@
 
 N.d.R.:
 
-Molte opere di fantasia, in particolare i giochi di ruolo, incoraggiano e perpetuano un discreto numero di stereotipi razziali. Greedome, cerca di distaccarsene, fallendo con onore. Gli [[Aetherdar]] di questo mondo non sono arcieri dei boschi, né i nani sono tutti barbuti minatori ubriachi con accento scozzese (anche se statisticamente molti sì). In realtà, questi stereotipi sono abbastanza stravolti su Greedome. Gli [[Aetherdar]] [[Hiborg]] sono i principali beneficiari del lusso dato dalla [[Ender Tech]] ed evitano con dovizia quasi religiosa boschi e [[Magia]].
+Molte opere di fantasia, in particolare i giochi di ruolo, incoraggiano e perpetuano un discreto numero di stereotipi razziali. Greedome, cerca di distaccarsene, fallendo con onore. Gli [[Aetherdar]] di questo mondo non sono arcieri dei boschi. 
+In realtà, questi stereotipi sono abbastanza stravolti su Greedome. Gli [[Aetherdar]] [[Hiborg]] sono i principali beneficiari del lusso dato dalla [[Ender Tech]] ed evitano con dovizia quasi religiosa boschi e [[Magia]].
 
-Inoltre, non ci sono "lingue razziali" in Greedome. Ad esempio, non esistono lingue "elfiche", "gnomiche" o "naniche". Come spiegato nel capitolo 5: “[[V. De Linguae - lingue e Dialetti del mondo di Greedome]]”, esiste una universale lingua commerciale, usata in tutte le città del mondo, conosciuta come [[Basic]], anche se esistono pletore di lingue regionali e dialetti locali.
+Non ci sono "lingue razziali" in Greedome. 
+Ad esempio, non esistono lingue "elfiche", "gnomiche" o "naniche". Come spiegato nel capitolo 5: “[[V. De Linguae - lingue e Dialetti del mondo di Greedome]]”, ma esistono lingue "territoriali" proprie dei vari stati, esattamente come nel nostro mondo. La più parlata, anche a livello diplomatico commerciale è conosciuta come [[Basic]] (alla stessa maniera del nostro Inglese).
 
 Per evitare confusione quando si sceglie un personaggio dalle razze seguenti, è altamente raccomandato ai Giocatori e ai Dungeon Master di Greedome di leggere le voci nella loro interezza.
 
@@ -14,12 +16,11 @@ Oltretutto, le razze che mantengono delle comunità rurali nonostante la globale
 
 Lo stesso vale per le comunità integrate da diverse razze, i membri di queste comunità avranno stessi costumi e tradizioni anche se sono di razze differenti!
 
-Per aiutare a distinguere il gruppo etnico dalla razza, la maggior parte dei Giocatori e degli NPC su Greedome identificano sé stessi a partire dal loro luogo di origine. Ad esempio, "Sono un Elfo di Clearbrook" o "Sono una donna di Twinoaks", e così via.
+Per aiutare a distinguere il gruppo etnico dalla razza, la maggior parte dei Giocatori e degli NPC su Greedome identificano sé stessi a partire dal loro luogo di origine. Ad esempio, "Sono un Elfo di Clearbrook" o "Sono una donna di Twinoaks", e così via (è ancora in uso la pratica di denominare i trovatelli in base alla regione di ritrovamento, un esempio famoso è [[SIr Mentor delle Mittvaal]]).
 
 Segue la lista delle razze giocabili di Greedome, in ordine alfabetico:
 
 [[Aetherdar]] | [[Argoniani]] | [[Droidi]] | [[Gnomi]] | [[Goblinoidi]] | [[Kenku]] | [[Kithkin]] | [[Panzerbjörn]] | [[Quar]] | [[Skaven]] | [[Tortle]] | [[Tramutanti]] | [[Umani]] | [[Undead]] | [[Vampiri]]
 
-![[0.Razze_Greedome.xlsx]]
 
 End N.d.R.

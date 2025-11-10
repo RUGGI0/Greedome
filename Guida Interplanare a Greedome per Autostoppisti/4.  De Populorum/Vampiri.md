@@ -46,6 +46,8 @@ Regno di [[Valakitia]], non esistono altre comunità di SOLI vampiri.
 
 **_Genesi Vampira:_** dal lv. 9 quando riducono a 0 i punti vita di un nemico con un _Morso_ possono farlo tornare in vita come Ghoul in 1d10min. Hanno completo controllo sul [[Ghoul]] che può riottenere la libertà solo con la morte o bevendo il sangue del proprio padrone. Un Vampiro può controllare solo tanti [[Ghoul]] quanti il suo modificatore CHAR. L'entità ghoulizzata non può essere di un lv + mod CHAR più alto dell'utilizzatore.
 
+**_Lingue:_** [[Valaktan]].
+
 **_Nomi Tipici_**
 
 **_maschili e femminili:_** Nomi di origine slava.

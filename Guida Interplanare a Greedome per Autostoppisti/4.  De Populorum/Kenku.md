@@ -42,6 +42,8 @@ Esclusivi dell'[[Arcipelago Woodoo Woodoo]].
 **_Kurai Kai_**: Anche chiamata "Danza dei Petali d'Ombra" è una delle tradizioni più importanti e permeanti della cultura Kenku. Una volta per riposo breve, un Kenku può entrare in una forma di combattimento rituale che può mantenere per un solo minuto. Durante la Danza, il Kenku, può usare un’azione bonus per compiere un attacco addizionale con un’arma da mischia leggera o con cui sia competente. Ogni attacco andato a segno può costringere l’avversario a retrocedere di un metro e mezzo, a meno che non superi un tiro salvezza su Forza pari a 8 + competenza + DEX del Kenku. Inoltre, per tutta la durata della Danza, il guerriero corvino aggiunge il suo bonus competenza alle prove di _Performance_ o _Intimidation_.
 Nel caso di un duello fra Kenku, indietreggiare per più di 4 metri comporta l'immediata sconfitta.
 
+**_Lingue:_** [[Woodoongo]].
+
 **_Nomi Tipici_**
 
 **_maschili e femminili:_** nomi orientali, spesso contenenti "pun" sui volatili/corvi.

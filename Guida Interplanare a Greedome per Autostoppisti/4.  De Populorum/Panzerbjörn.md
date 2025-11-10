@@ -56,6 +56,8 @@ Solo nel gelido Continente di [[Bolvangar]].
 **_Grammar Berserk:_** quando qualcuno commette un’aberrazione linguistica grave (max 1 volta per giorno), nel turno successivo, il Panzerbjörn si infuria. Tira un d20. Su un risultato tra 11-20, usa la sua azione successiva per attaccare la creatura ostile più vicina. Se troppo lontano si lancia semplicemente alla carica verso di esso. In caso di Attacco, si tratta sempre di un colpo critico. Su un risultato di <=10, l’utilizzatore entra in Berserk fino alla fine della battaglia. E li son cazzi.
 Per i successivi 30min, il Panzerbjörn è mosso ad attaccare la creatura più vicina, amichevole o ostile che sia. Guadagna resistenza ai Danni Contundenti, Danni da Affondo e ai Danni da Taglio. E un vantaggio su tutti i tiri per colpire.
 
+**_Lingue:_** [[Vinterim]].
+
 **_Nomi Tipici_**
 
 **_maschili:_** Vegnynn, Urdugnur, Naxagn, Sygneryn, Gnohmor, Enagnamòr(-gn-).

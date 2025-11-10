@@ -77,7 +77,7 @@ I Wortle controllano uno dei territori più inospitali di tutta Greedome, e per 
 
 **_Pugni Armati:_** i loro spuntoni taglienti ricoprono anche il dorso di braccia e mani. I loro colpi senz’arme provocano 1d4 + mod FOR.
 
-**_Lingue:_** Hydroan.
+**_Lingue:_** [[Hydroan]].
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

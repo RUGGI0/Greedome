@@ -25,7 +25,7 @@ Con lo sviluppo di città basate sulla [[Ender Tech]] e con quella tecnologia ch
 
 Lampante, tra questi è la situazione economica dei [[Quar]]. Non tutti i [[Quar]] si trovano in questa situazione, ma una parte di questi vive in uno stato di pseudo-schiavitù. Perfino quelli che non lavorano per gli [[Hiborg]] vivono di solito in condizioni di povertà urbana, facendo spesso affidamento sul crimine.
 La [[Repubblica Unita]] ne è un buon esempio: le strade di [[Città della Repubblica]] sono illuminate notte e giorno da mille diavolerie tecnologiche, cartelloni pubblicitari e vetrate di empori carichi di ogni sorta di mercanzia, ma dietro questa facciata luminosa e futuristica, scure ombre si allungano nei vicoli malfamati. Una parte della popolazione, esclusa da questo benessere e lusso, vive nell'[[UnderCity]] un enorme città sotterranea che si estende sotto tutta la capitale.
-E' un luogo sporco e pericoloso, ricco di vita, ma povero di morale. La maggior parte dell'illegalità e della malavita si riunisce qui, in maniera tanto concentrata da essere quasi impossibile per la [[Guardia Repubblicana]] anche soltanto entrare in alcune zone della Capitale Sotterranea.
+E' un luogo sporco e pericoloso, ricco di vita, ma povero di morale. La maggior parte dell'illegalità e della malavita della repubblica si riunisce qui, in maniera tanto concentrata da essere quasi impossibile per la [[Guardia Repubblicana]] anche soltanto entrare in alcune zone della Capitale Sotterranea.
 Lo scontro tra privilegio e povertà porta sempre, inesorabilmente, al conflitto. 
 
 **_Urbano vs. Rurale, "Civilizzato" vs. "Primitivo”_**
