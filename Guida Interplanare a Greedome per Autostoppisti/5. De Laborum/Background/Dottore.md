@@ -23,7 +23,4 @@ Chi hai curato può sentirsi in debito con te, ma anche legato da un sottile ter
 La mente di un medico è un bisturi: fredda, precisa e pericolosa. Alcuni rimangono idealisti, combattendo per la vita nonostante tutto; altri, con il tempo, iniziano a considerare la carne solo come materia da analizzare. I più corrotti confondono la salvezza con il controllo, la guarigione con la sperimentazione.  
 Dietro ogni gesto gentile può celarsi un calcolo. Dietro ogni guarigione, un prezzo.
 
-Molti portano cicatrici invisibili: il peso delle vite non salvate, la consapevolezza che non tutti meritano di essere curati… o la segreta convinzione che il dolore sia, in fondo, una forma di verità.
-
-
 
