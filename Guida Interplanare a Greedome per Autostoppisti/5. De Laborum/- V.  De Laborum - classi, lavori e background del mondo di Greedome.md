@@ -29,3 +29,35 @@
 | **Magico (M)**      | Psionic, Shaman, Witch, Cardmaster, Bloodhunter, Bard(M/S), Magus(M/F) | **5 + 2 ibride** |
 | **Tecnologico (T)** | Alchemist, Gunslinger, Inventor, Technomancer, Glitch                  | **5**            |
 | **Sociale (S)**     | Merchant, Detective, Medic, Archaeologist, Bard(M/S)                   | **4 + 1 ibrida** |
+
+
+
+
+# 📜 Indice Alfabetico – Background Grim (Definitivo)
+
+| Nome | Gruppo | Tratto Distintivo |
+|------|---------|-------------------|
+| **Accolito** | Sociali / Intellettuali | Fede e sacrificio, tra devozione e fanatismo. |
+| **Artigiano** | Sociali / Intellettuali | Creatore ossessivo, consumato dal perfezionismo. |
+| **Bodyguard** | Militare / Ordine | Protettore professionista, fedele solo al contratto. |
+| **Cacciatore di Taglie** | Criminali / Cinici | Spietato e pragmatico, vende giustizia per denaro. |
+| **Carovaniere** | Selvatici / Erranti | Viaggiatore esperto, vive tra strade e confini. |
+| **Cavaliere Ordinato** | Militare / Ordine | Guerriero consacrato alla fede o al dovere. |
+| **Ciarlatano** | Criminali / Cinici | Manipolatore elegante, truffatore di professione. |
+| **Criminale** | Criminali / Cinici | Fuorilegge, sopravvissuto ai margini della società. |
+| **Dottore** | Sociali / Intellettuali | Guaritore ambiguo, sospeso tra scienza e colpa. |
+| **Eremita** | Selvatici / Erranti | Isolato dal mondo, mistico o folle. |
+| **Filosofo** | Sociali / Intellettuali | Pensatore disilluso, tormentato dal dubbio. |
+| **Gangster** | Criminali / Cinici | Uomo di strada legato a una banda o famiglia criminale; fedele solo al proprio codice. |
+| **Gladiatore** | Lavoratori / Sopravvissuti | Guerriero spettacolare, prigioniero dell’arena. |
+| **Hiborg** | Sociali / Intellettuali | Nobile post-umano, simbolo di decadenza e potere corrotto. |
+| **Ingegnere** | Lavoratori / Sopravvissuti | Costruttore ossessivo, fedele solo alla macchina. |
+| **Inquisitore** | Militare / Ordine | Giudice armato e fanatico della verità. |
+| **Intrattenitore** | Sociali / Intellettuali | Maschera decadente, vive di finzione e consenso. |
+| **Mercante** | Sociali / Intellettuali | Opportunista e manipolatore, schiavo del profitto. |
+| **Operaio** | Lavoratori / Sopravvissuti | Fatica e rassegnazione, sopravvive al lavoro. |
+| **Ricercatore** | Sociali / Intellettuali | Ossessionato dalla conoscenza proibita. |
+| **Sbirro** | Militare / Ordine | Tutore dell’ordine urbano, stanco, corrotto o disilluso. |
+| **Sentinella** | Militare / Ordine | Vigile e disciplinato, simbolo di resistenza e controllo. |
+| **Veterano** | Criminali / Cinici | Sopravvissuto alla guerra e al tempo, cinico e pragmatico. |
+
