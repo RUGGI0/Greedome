@@ -33,31 +33,35 @@
 
 
 
-# 📜 Indice Alfabetico – Background Grim (Definitivo)
+Background Grim (Definitivo)
 
-| Nome | Gruppo | Tratto Distintivo |
-|------|---------|-------------------|
-| **Accolito** | Sociali / Intellettuali | Fede e sacrificio, tra devozione e fanatismo. |
-| **Artigiano** | Sociali / Intellettuali | Creatore ossessivo, consumato dal perfezionismo. |
-| **Bodyguard** | Militare / Ordine | Protettore professionista, fedele solo al contratto. |
-| **Cacciatore di Taglie** | Criminali / Cinici | Spietato e pragmatico, vende giustizia per denaro. |
-| **Carovaniere** | Selvatici / Erranti | Viaggiatore esperto, vive tra strade e confini. |
-| **Cavaliere Ordinato** | Militare / Ordine | Guerriero consacrato alla fede o al dovere. |
-| **Ciarlatano** | Criminali / Cinici | Manipolatore elegante, truffatore di professione. |
-| **Criminale** | Criminali / Cinici | Fuorilegge, sopravvissuto ai margini della società. |
-| **Dottore** | Sociali / Intellettuali | Guaritore ambiguo, sospeso tra scienza e colpa. |
-| **Eremita** | Selvatici / Erranti | Isolato dal mondo, mistico o folle. |
-| **Filosofo** | Sociali / Intellettuali | Pensatore disilluso, tormentato dal dubbio. |
-| **Gangster** | Criminali / Cinici | Uomo di strada legato a una banda o famiglia criminale; fedele solo al proprio codice. |
-| **Gladiatore** | Lavoratori / Sopravvissuti | Guerriero spettacolare, prigioniero dell’arena. |
-| **Hiborg** | Sociali / Intellettuali | Nobile post-umano, simbolo di decadenza e potere corrotto. |
-| **Ingegnere** | Lavoratori / Sopravvissuti | Costruttore ossessivo, fedele solo alla macchina. |
-| **Inquisitore** | Militare / Ordine | Giudice armato e fanatico della verità. |
-| **Intrattenitore** | Sociali / Intellettuali | Maschera decadente, vive di finzione e consenso. |
-| **Mercante** | Sociali / Intellettuali | Opportunista e manipolatore, schiavo del profitto. |
-| **Operaio** | Lavoratori / Sopravvissuti | Fatica e rassegnazione, sopravvive al lavoro. |
-| **Ricercatore** | Sociali / Intellettuali | Ossessionato dalla conoscenza proibita. |
-| **Sbirro** | Militare / Ordine | Tutore dell’ordine urbano, stanco, corrotto o disilluso. |
-| **Sentinella** | Militare / Ordine | Vigile e disciplinato, simbolo di resistenza e controllo. |
-| **Veterano** | Criminali / Cinici | Sopravvissuto alla guerra e al tempo, cinico e pragmatico. |
+
+
+# ⚙️ Background Grim – Tabella Estesa (Definitiva)
+
+| Nome | Abilità | Strumenti / Linguaggi |
+|------|----------|------------------------|
+| **Accolito** | Religione, Intuizione | +1 Linguaggio |
+| **Artigiano** | Indagare, Persuasione | Strumenti da Artigiano |
+| **Bodyguard** | Percezione, Intimidire | +1 Linguaggio |
+| **Cacciatore di Taglie** | Indagare, Percezione | Strumenti da Caccia |
+| **Carovaniere** | Sopravvivenza, Persuasione | Veicoli terrestri |
+| **Cavaliere Ordinato** | Persuasione, Intimidire | +1 Linguaggio |
+| **Ciarlatano** | Inganno, Raggirare | Kit del Truffatore |
+| **Criminale** | Furtività, Inganno | Strumenti da Ladro |
+| **Dottore** | Medicina, Indagare | Kit del Medico |
+| **Eremita** | Medicina, Religione | +1 Linguaggio |
+| **Filosofo** | Storia, Intuizione | +2 Linguaggi |
+| **Gangster** | Intimidire, Inganno | Strumenti da Gioco |
+| **Gladiatore** | Atletica, Intimidire | Strumento Musicale |
+| **Hiborg** | Persuasione, Intimidire | +1 Linguaggio |
+| **Ingegnere** | Arcana, Indagare | Strumenti da Artigiano |
+| **Inquisitore** | Intimidire, Indagare | +1 Linguaggio |
+| **Intrattenitore** | Intrattenere, Acrobazia | Strumento Musicale |
+| **Mercante** | Persuasione, Intuizione | +1 Linguaggio |
+| **Operaio** | Atletica, Sopravvivenza | Strumenti da Artigiano |
+| **Ricercatore** | Arcana, Storia | +2 Linguaggi |
+| **Sbirro** | Atletica, Intuizione | +1 Linguaggio |
+| **Sentinella** | Atletica, Intimidire | Veicoli terrestri |
+| **Veterano** | Intimidire, Percezione | Veicoli terrestri |
 
