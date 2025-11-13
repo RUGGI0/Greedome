@@ -28,7 +28,7 @@ Regno di [[Valakitia]], non esistono altre comunità di SOLI vampiri.
 
 **_Allineamento Magi/Tecnico:_** abbastanza Magico-filo, anche se in recenti tempi si sono aperti alla [[Ender Tech]].
 
-**_Livello Sociale:_** [[Hiborg]] ([[Repubblica Unita]]), Estraneo ([[Woodoo Woodoo]], [[Eldreicht]], [[Mekkania]], [[Bolvangar]]), Bandito ([[Jahamura]]), Locale ([[Valakitia]]).
+**_Livello Sociale:_** [[Hiborg - Askeri]] ([[Repubblica Unita]]), Estraneo ([[Woodoo Woodoo]], [[Eldreicht]], [[Mekkania]], [[Bolvangar]]), Bandito ([[Jahamura]]), Locale ([[Valakitia]]).
 
 **_Dimensioni:_** Taglia M (~1.80m).
 

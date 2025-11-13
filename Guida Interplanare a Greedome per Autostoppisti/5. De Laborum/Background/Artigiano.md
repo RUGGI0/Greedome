@@ -1,20 +1,16 @@
 
 ---
 
-**Proficienze di Abilità:** Intuizione, Persuasione  
+**Proficienze di Abilità:** Indagare, Percezione  
 
-**Competenza negli Strumenti:** Un set di artigianato a scelta  
+**Linguaggi:** —  
 
-**Linguaggi:** +1  
-
-**Equipaggiamento:** Set di artigianato scelto, lettera di raccomandazione della gilda, abiti da lavoro, borsa con 15 monete d’oro.
+**Equipaggiamento:** Strumenti da Artigiano (a scelta), abiti da lavoro, pezzo difettoso della tua creazione, 10 monete d’oro.
 
 ---
 
-Hai trascorso la vita piegato su un banco di lavoro, a perfezionare gesti che pochi comprendono e nessuno apprezza davvero. Ogni creazione è un pezzo di te, un frammento di carne trasformato in metallo, legno o pietra. La gente vede solo l’oggetto finito, mai le mani sanguinanti che l’hanno forgiato.  
+Lavorare come artigiano ti ha insegnato molte cose: la precisione, la pazienza e la sorprendente capacità dei clienti di rompere oggetti apparentemente indistruttibili. Hai passato anni a piegarti su banchi da lavoro scomodi, respirando polvere, fumo o scintille, a seconda del mestiere, mentre qualcuno ti chiedeva “quanto manca?” ogni cinque minuti. Hai sviluppato un occhio attento ai dettagli e un orecchio sensibile ai rumori sospetti — soprattutto quelli che indicano che il tuo lavoro sta per esplodere, cadere o ribellarsi alla geometria.
 
-Hai imparato a rispettare il lavoro, ma anche a disprezzare chi lo compra senza comprenderlo. I ricchi pagano per la maestria e si vantano del tuo talento come se fosse loro. Le gilde, con le loro regole e promesse, non proteggono l’artigiano: lo legano, lo consumano, lo usano finché le sue dita non tremano più.  
+Col tempo hai capito che l’arte della creazione è fatta per metà di talento e per metà di bestemmie sussurrate. Ogni oggetto che produci contiene un pezzo della tua anima e almeno due dita di frustrazione. Molti rispettano il tuo lavoro… almeno finché non vedono il prezzo. E anche se nessuno lo ammette, tutti sanno che gli artigiani sono un po’ stregoni: prendono materiali grezzi e li trasformano in qualcosa che funziona — o che fa finta di funzionare quando li guardi. In ogni caso, il mondo si regge anche sulle tue mani, per quanto tremanti possano essere dopo otto ore di lavoro.
 
-La perfezione è la tua maledizione. Ogni errore ti perseguita, ogni opera ti sembra incompleta, ogni successo solo un passo verso un fallimento più grande. A volte ti chiedi se stai creando per lasciare un segno o solo per colmare un vuoto che cresce ogni giorno.  
-
-Il mondo ti considera un costruttore, ma tu sai di essere un distruttore silenzioso. Ogni colpo di martello, ogni filo tessuto, ogni incisione ti ricorda che la bellezza è fragile e il tempo la corrode. Eppure continui, perché senza il lavoro non sei nulla.  
+---

@@ -1,18 +1,16 @@
 
 ---
 
-**Proficienze di Abilità:** Atletica, Persuasione  
+**Proficienze di Abilità:** Intimidire, Sopravvivenza  
 
-**Competenza negli Strumenti:** Un set di artigianato a scelta, veicoli terrestri  
+**Linguaggi:** —  
 
-**Equipaggiamento:** Emblema o sigillo di una compagnia mercenaria, arma pulita ma usurata, abiti comuni o militari, borsa con 10 monete d’oro.
+**Equipaggiamento:** Veicoli terrestri, mantello logoro, piastrine militari false o vere (difficile dirlo), 10 monete d’oro.
 
 ---
 
-Hai venduto la tua forza e la tua lealtà al miglior offerente. Hai combattuto guerre che non erano tue, difeso cause in cui non credevi e ucciso uomini che non avevano motivo di morire. Ogni contratto era solo un altro giorno vissuto, un altro modo per non finire tra i corpi che lasciavi indietro.  
+Essere un veterano significa aver visto troppe battaglie, troppe notti fredde e troppi comandanti convinti che “sarà una missione facile”. Hai imparato a riconoscere il suono dei proiettili, il peso dei silenzi e l’odore di qualcuno che sta per fare una scelta davvero stupida. Sai cosa vuol dire svegliarti prima dell’alba perché il tuo corpo ormai non si fida più delle ore normali, e mangiare razioni che sembrano progettate per punire il morale.
 
-Hai marciato accanto a uomini e donne che chiamavi fratelli, ma che avrebbero venduto la tua vita per una paga doppia. La compagnia è la tua casa, ma è una casa costruita su ossa e promesse non mantenute. Le risate intorno al fuoco si spengono presto, e i nomi dei caduti vengono dimenticati prima che la terra si asciughi sopra di loro.  
+Col tempo hai capito che la guerra non finisce mai davvero: si limita a seguirti ovunque, anche nelle taverne affollate e nelle conversazioni innocenti. Hai visto reclute diventare eroi, eroi diventare ricordi e ricordi diventare incubi. Eppure continui a marciare, non perché ti piaccia combattere, ma perché la pace è sospetta, troppo silenziosa, troppo fragile... e tu hai imparato a fidarti solo del rumore.
 
-Sai che la guerra non cambia mai. Cambiano i colori delle bandiere, i nomi dei comandanti, le canzoni che i bardi cantano. Ma il sangue ha sempre lo stesso odore, e la paura lo stesso sapore. Ti sei convinto che non esistono guerre giuste, solo battaglie più o meno ben pagate.  
-
-Ora vivi con il peso dei tuoi peccati e il suono degli ordini nelle orecchie. Ti muovi con la calma di chi ha visto la morte troppo da vicino per averne ancora paura. Non combatti più per ideali o per gloria. Combatti perché non sai più chi saresti senza una spada in mano e un nemico davanti.  
+---

@@ -31,7 +31,7 @@ Solo nel gelido Continente di [[Bolvangar]].
 
 **_Allineamento Magi/Tecnico:_** hanno importanti tradizioni magiche legate al loro territorio (Vinterim), non disdegnano la tecnologia e la usano abitualmente, ma vista la loro stazza è difficile, per loro trovare attrezzi e oggetti adatti alle loro esigenze al di fuori di Bolvangar.
 
-**_Livello Sociale:_** sia [[Hiborg]] che [[Loborg]], a seconda dei casi ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Eldreicht]], [[Mekkania]]), [[Rayah]] ([[Jahamura]]), Locale ([[Bolvangar]]).
+**_Livello Sociale:_** sia [[Hiborg - Askeri]] che [[Loborg]], a seconda dei casi ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Eldreicht]], [[Mekkania]]), [[Rayah]] ([[Jahamura]]), Locale ([[Bolvangar]]).
 
 **_Dimensioni:_** sono la razza senziente (ad esclusione dei Draghi) più grande di tutta Greedome e sono classificati come XL (~2.50-3.00m da bipedi).
 

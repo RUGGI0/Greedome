@@ -1,3 +1,4 @@
+
 | Classe                | Tipo | Ruolo / Descrizione sintetica                          |
 | :-------------------- | :--- | :----------------------------------------------------- |
 | **[[Alchemist]]**     | T    | Scienziato e mutageno vivente.                         |
@@ -31,55 +32,31 @@
 | **Sociale (S)**     | Merchant, Detective, Medic, Archaeologist, Bard(M/S)                   | **4 + 1 ibrida** |
 
 
-| Nome                         | Abilità                    | Strumenti / Linguaggi  |
-| ---------------------------- | -------------------------- | ---------------------- |
-| **[[Accolito]]**             | Religione, Intuizione      | +1 Linguaggio          |
-| **[[Artigiano]]**            | Indagare, Persuasione      | Strumenti da Artigiano |
-| **[[Bodyguard]]**            | Percezione, Intimidire     | +1 Linguaggio          |
-| **[[Cacciatore di Taglie]]** | Indagare, Percezione       | Strumenti da Caccia    |
-| **[[Carovaniere]]**          | Sopravvivenza, Persuasione | Veicoli terrestri      |
-| **[[Cavaliere Ordinato]]**   | Persuasione, Intimidire    | +1 Linguaggio          |
-| **[[Ciarlatano]]**           | Inganno, Raggirare         | Kit del Truffatore     |
-| **[[Criminale]]**            | Furtività, Inganno         | Strumenti da Ladro     |
-| **[[Dottore]]**              | Medicina, Indagare         | Kit del Medico         |
-| **[[Eremita]]**              | Medicina, Religione        | +1 Linguaggio          |
-| **[[Filosofo]]**             | Storia, Intuizione         | +2 Linguaggi           |
-| **[[Gangster]]**             | Intimidire, Inganno        | Strumenti da Gioco     |
-| **[[Gladiatore]]**           | Atletica, Intimidire       | Strumento Musicale     |
-| **[[Hiborg]]**               | Persuasione, Intimidire    | +1 Linguaggio          |
-| **[[Ingegnere]]**            | Arcana, Indagare           | Strumenti da Artigiano |
-| **[[Inquisitore]]**          | Intimidire, Indagare       | +1 Linguaggio          |
-| **[[Intrattenitore]]**       | Intrattenere, Acrobazia    | Strumento Musicale     |
-| **[[Mercante]]**             | Persuasione, Intuizione    | +1 Linguaggio          |
-| **[[Operaio]]**              | Atletica, Sopravvivenza    | Strumenti da Artigiano |
-| **[[Ricercatore]]**          | Arcana, Storia             | +2 Linguaggi           |
-| **[[Sbirro]]**               | Atletica, Intuizione       | +1 Linguaggio          |
-| **[[Sentinella]]**           | Atletica, Intimidire       | Veicoli terrestri      |
-| **[[Veterano]]**             | Intimidire, Percezione     | Veicoli terrestri      |
+ Background 
 
-# ⚙️ Background Grim – Tabella Equilibrata
+| Background          | Abilità                    | Strumenti                            | Linguaggi |
+| ------------------- | -------------------------- | ------------------------------------ | --------- |
+| [[Accolito]]        | Religione, Intuizione      | Strumenti da Calligrafo              | +1        |
+| [[Agente Segreto]]  | Furtività, Indagare        | Kit da Spia                          | Cant, +1  |
+| [[Artigiano]]       | Indagare, Percezione       | Strumenti da Artigiano               | —         |
+| [[Bodyguard]]       | Percezione, Intimidire     | Kit da Buttafuori                    | —         |
+| [[Carovaniere]]     | Persuasione, Sopravvivenza | Veicoli terrestri                    | +1        |
+| [[Ciarlatano]]      | Inganno, Persuasione       | Kit del Truffatore                   | —         |
+| [[Criminale]]       | Furtività, Inganno         | Strumenti da Ladro                   | Cant      |
+| [[Dottore]]         | Medicina, Indagare         | Kit del Medico                       | —         |
+| [[Eremita]]         | Religione, Natura          | Strumenti da Erborista               | —         |
+| [[Filosofo]]        | Storia                     | Strumenti da Calligrafo              | +2        |
+| [[Gangster]]        | Intimidire, Inganno        | Strumenti da Gioco                   | —         |
+| [[Gladiatore]]      | Atletica, Intimidire       | Attrezzi da Atleta                   | —         |
+| [[Hiborg – Askeri]] | Persuasione, Intimidire    | [[N.O.R.M]] o [[Grazia del Sultano]] | +1        |
+| [[Ingegnere]]       | Arcana, Indagare           | Uno a scelta                         | Arc       |
+| [[Inquisitore]]     | Intuizione, Intimidire     | Strumenti da Calligrafo              | +1        |
+| [[Intrattenitore]]  | Intrattenere, Acrobazia    | Strumento musicale                   | —         |
+| [[Marinaio]]        | Atletica, Percezione       | Veicoli acquatici e Aeronavi         | —         |
+| [[Mercante]]        | Intuizione, Persuasione    | Strumenti da Mercante                | +1        |
+| [[Operaio]]         | Atletica, Sopravvivenza    | Attrezzi da Operaio                  | —         |
+| [[Ricercatore]]     | Arcana, Storia             | Strumenti da Scrivano                | +1, Arc   |
+| [[Sbirro]]          | Indagare, Percezione       | Kit da Sbirro                        | —         |
+| [[Sentinella]]      | Atletica, Percezione       | Veicoli terrestri                    | —         |
+| [[Veterano]]        | Intimidire, Sopravvivenza  | Veicoli terrestri                    | —         |
 
-| Nome                 | Abilità                    | Strumento                                 | Linguaggio |
-| -------------------- | -------------------------- | ----------------------------------------- | ---------- |
-| Accolito             | Religione, Intuizione      | Kit del Sacerdote                         | +1         |
-| Artigiano            | Indagare, Percezione       | Strumenti da Artigiano                    | No         |
-| Bodyguard            | Percezione, Intimidire     | Kit da Buttafuori                         | No         |
-| Cacciatore di Taglie | Indagare, Sopravvivenza    | Kit da Predatore Urbano                   | No         |
-| Carovaniere          | Persuasione, Sopravvivenza | Veicoli terrestri                         | +1         |
-| Ciarlatano           | Inganno, Persuasione       | Kit del Truffatore                        | No         |
-| Criminale            | Furtività, Inganno         | Strumenti da Ladro                        | No         |
-| Dottore              | Medicina, Indagare         | Kit del Medico                            | No         |
-| Eremita              | Religione, Natura          | Strumenti da Erborista                    | No         |
-| Filosofo             | Storia, Religione<br>      | Kit dello Scrittore                       | +2         |
-| Gangster             | Intimidire, Inganno        | Strumenti da Gioco                        | No         |
-| Gladiatore           | Atletica, Intimidire       | Strumento Musicale                        | No         |
-| Hiborg               | Persuasione, Intimidire    | Sigillo Nobiliare Mutato                  | +1         |
-| Ingegnere            | Arcana, Indagare           | Strumenti da Artigiano                    | No         |
-| Inquisitore          | Intimidire, Indagare       | Reliquia dell’Inquisizione                | Sì         |
-| Intrattenitore       | Intrattenere, Inganno      | Strumento Musicale                        | No         |
-| Mercante             | Persuasione, Intuizione    | Kit del Mercante (bilancia, registro)     | No         |
-| Operaio              | Atletica, Intuizione       | Strumenti da Artigiano                    | No         |
-| Ricercatore          | Arcana, Storia             | Kit dello Studioso                        | Sì         |
-| Sbirro               | Indagare, Percezione       | Kit della Polizia (tesserino, fischietto) | No         |
-| Sentinella           | Atletica, Percezione       | Veicoli terrestri                         | No         |
-| Veterano             | Intimidire, Sopravvivenza  | Veicoli terrestri                         | No         |

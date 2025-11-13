@@ -1,20 +1,16 @@
 
 ---
 
-**Proficienze di Abilità:** Medicina, Religione  
+**Proficienze di Abilità:** Religione, Natura  
 
-**Linguaggi:** +1  
+**Linguaggi:** —  
 
-**Competenza negli Strumenti:** Erboristeria  
-
-**Equipaggiamento:** Set di erboristeria, una coperta ruvida, diario pieno di note incomprensibili, abiti logori, 5 monete d’oro.
+**Equipaggiamento:** Strumenti da Erborista, mantello consumato, diario pieno di appunti deliranti, una tisana dal sapore sospetto, 5 monete d’oro.
 
 ---
 
-Hai scelto il silenzio del mondo, o forse è stato il mondo a scacciarti. Ti sei ritirato tra le montagne, nei boschi o in una cella dimenticata, cercando qualcosa che non potevi trovare tra gli uomini. Forse la redenzione, forse la verità, forse solo pace. Ma la solitudine non offre risposte, solo echi della propria mente.  
+Vivere da eremita significa allontanarsi dal mondo per “trovare la pace interiore”, e poi scoprire che la pace interiore urla molto forte quando passano più di tre giorni senza parlare con qualcuno. Hai imparato a vivere del poco che la natura offre: radici che sanno di terra, bacche che potrebbero uccidere e foglie che ti hanno promesso guarigione ma avevano un senso dell’umorismo crudele. La solitudine ti ha reso saggio, oppure solo bravo a parlare con animali che non avevano alcuna intenzione di ascoltarti.
 
-Hai imparato a vivere senza voce, a dialogare con il vento e con i ricordi. Giorno dopo giorno hai scavato dentro te stesso, e ciò che hai trovato non sempre ti è piaciuto. Alcuni chiamano questo illuminazione. Tu lo chiami sopravvivenza.  
+Col tempo hai capito che il ritiro spirituale non è fatto solo di meditazione, ma di rumori strani nel bosco, sospetti sulla propria sanità mentale e improvvisi momenti di illuminazione che poi dimentichi entro dieci minuti. Quando sei tornato alla civiltà—per scelta o per esaurimento mentale—ti sei reso conto che la gente è rumorosa, complicata e inspiegabilmente convinta che tu sappia cose importanti solo perché vivi in una capanna. E a volte li lasci crederlo: è più semplice che spiegare cosa stavi facendo davvero in quei boschi.
 
-Le cicatrici della tua anima si sono trasformate in conoscenza. Forse hai scoperto qualcosa di grande, un segreto che il mondo non deve sapere. Oppure hai capito che non esiste alcuna verità, solo la follia che cresce nel vuoto. Le tue mani tremano per la fatica, o forse per ciò che hai visto.  
-
-Ora cammini di nuovo tra la gente, ma non appartieni più a loro. Ti osservano come un profeta o come un pazzo, e forse hanno ragione entrambi. Dentro di te la voce del silenzio non si è mai spenta. Ti accompagna ovunque, sussurrando verità che nessun altro osa ascoltare.  
+---

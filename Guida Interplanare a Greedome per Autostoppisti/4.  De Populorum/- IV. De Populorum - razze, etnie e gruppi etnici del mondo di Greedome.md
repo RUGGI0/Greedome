@@ -3,7 +3,7 @@
 N.d.R.:
 
 Molte opere di fantasia, in particolare i giochi di ruolo, incoraggiano e perpetuano un discreto numero di stereotipi razziali. Greedome, cerca di distaccarsene, fallendo con onore. Gli [[Aetherdar]] di questo mondo non sono arcieri dei boschi. 
-In realtà, questi stereotipi sono abbastanza stravolti su Greedome. Gli [[Aetherdar]] [[Hiborg]] sono i principali beneficiari del lusso dato dalla [[Ender Tech]] ed evitano con dovizia quasi religiosa boschi e [[Magia]].
+In realtà, questi stereotipi sono abbastanza stravolti su Greedome. Gli [[Aetherdar]] [[Hiborg - Askeri]] sono i principali beneficiari del lusso dato dalla [[Ender Tech]] ed evitano con dovizia quasi religiosa boschi e [[Magia]].
 
 Non ci sono "lingue razziali" in Greedome. 
 Ad esempio, non esistono lingue "elfiche", "gnomiche" o "naniche". Come spiegato nel capitolo 5: “[[V. De Linguae - lingue e Dialetti del mondo di Greedome]]”, ma esistono lingue "territoriali" proprie dei vari stati, esattamente come nel nostro mondo. La più parlata, anche a livello diplomatico commerciale è conosciuta come [[Basic]] (alla stessa maniera del nostro Inglese).

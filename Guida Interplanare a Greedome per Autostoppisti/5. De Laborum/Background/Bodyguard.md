@@ -1,18 +1,16 @@
 
 ---
 
-**Proficienze di Abilità:** Percezione, Intimidazione  
+**Proficienze di Abilità:** Percezione, Intimidire  
 
-**Competenza negli Strumenti:** Veicoli terrestri o set da gioco  
+**Linguaggi:** —  
 
-**Equipaggiamento:** Emblema o contratto del datore di lavoro, mantello logoro o uniforme usurata, arma che non abbandoni mai, borsa con 10 monete d’oro.
+**Equipaggiamento:** Kit da Buttafuori, stivali rinforzati, abiti comuni, piccolo oggetto salvato da un vecchio incarico, 10 monete d’oro.
 
 ---
 
-Hai vissuto per proteggere gli altri, o almeno quelli che potevano permetterselo. Sei stato la lama tra la vita e la morte di qualcun altro, un muro di carne che si ergeva per ordine o per denaro. Ti sei preso colpi destinati ad altri, e hai scoperto che nessuno ringrazia un muro per aver resistito.  
+Fare il bodyguard significa passare metà della vita a bloccare pugni e l’altra metà a bloccare idioti. Hai imparato a riconoscere con un solo sguardo chi è pericoloso, chi si crede pericoloso e chi è solo ubriaco. Le tue giornate sono fatte di corridoi stretti, guardie annoiate, clienti che promettono di comportarsi bene (e che non lo fanno mai) e porte che devi proteggere come se fossero reliquie sacre. Se qualcuno ti paga per difenderlo, di solito significa che ha fatto qualcosa di molto stupido… e tu finirai per pagarne le conseguenze.
 
-Hai imparato a osservare tutto: le mani che tremano, gli occhi che mentono, i movimenti prima di un’aggressione. Ogni giornata trascorsa accanto a chi difendevi era una scommessa silenziosa: chi cadrà per primo, tu o loro?  
+Col tempo hai scoperto che la vera arma non è la forza, ma lo sguardo: quello che dice “non costringermi ad alzarmi”. Hai affrontato risse, imboscate e conversazioni interminabili con nobili che parlano troppo, eppure sei ancora qui, più duro e sarcastico di prima. Sei stato colpito, spinto, tradito e ringraziato raramente, ma non hai mai abbandonato un incarico. Non perché ti importi… ma perché, se lo facessi, qualcuno molto più pericoloso del tuo cliente verrebbe a chiederti spiegazioni. E tu odi dare spiegazioni.
 
-La lealtà è un concetto fragile. Forse hai servito padroni indegni, protetto mostri con titoli nobiliari, o perso amici perché la tua arma era al servizio del nemico. Ma l’hai fatto comunque, perché era il tuo compito. E l’unica cosa che ti resta è l’onore di averlo fatto bene.  
-
-Ora vivi con un istinto che non si spegne mai. Anche nella folla, la tua mano scivola verso l’elsa. Dormi poco, mangi in silenzio, e non credi più alle promesse di chi ti paga. Perché in fondo lo sai: ogni corpo che proteggi diventa un peso, e ogni vita salvata è solo una condanna rimandata.  
+---

@@ -1,19 +1,16 @@
 
 ---
 
-**Proficienze di Abilità:** Inganno, Rapidità di Mano  
+**Proficienze di Abilità:** Inganno, Persuasione  
 
-**Competenza negli Strumenti:** Kit del falsario, strumento da gioco o da truccatore  
+**Linguaggi:** —  
 
-**Equipaggiamento:** Set di carte truccate o dadi truccati, abiti eleganti ma logori, anello o oggetto falso di valore, borsa con 15 monete d’oro.
+**Equipaggiamento:** Kit del Truffatore, documento fasullo, abiti eleganti ma logori, un sorriso pericolosamente convincente, 10 monete d’oro.
 
 ---
 
-Hai costruito la tua vita su una menzogna e l’hai indossata con orgoglio. Ogni sorriso, ogni parola, ogni gesto è stato un inganno perfettamente orchestrato. Hai venduto sogni ai disperati e speranze ai creduloni, e per un po’ ti sei quasi convinto che fosse un dono.  
+Vivere da ciarlatano significa essere un artista: l’arte del convincere gli altri a fare cose stupide con un entusiasmo incredibile. Hai venduto cure miracolose che curavano solo la sete, pozioni “rinvigorenti” che sapevano di alcol scadente e mappe del tesoro che portavano a un fosso molto poco avventuroso. Conosci il potere di un buon discorso, di un sorriso sghembo e del silenzio al momento giusto. La verità è sopravvalutata… soprattutto quando la menzogna paga meglio.
 
-Hai imparato a leggere le persone meglio di chiunque altro — i loro desideri, le loro debolezze, la fame di qualcosa in cui credere. Tu glielo davi, e in cambio prendevi ciò che ti serviva: denaro, fiducia, o semplicemente il piacere di vedere quanto facilmente cadevano.  
+A forza di ingannare la gente hai sviluppato un talento per leggere chi hai davanti: chi è ingenuo, chi è disperato, chi è pericoloso, e chi comprerà qualsiasi cosa se gliela presenti come “limitata ed esclusiva”. A volte ti senti quasi in colpa per ciò che fai… poi conti le monete e il senso di colpa passa rapidamente. Sei un venditore di sogni, bugie e soluzioni creative. E se qualcuno scopre il trucco e si arrabbia, be’, almeno hai affinato l’arte di correre molto, molto veloce.
 
-A volte ti chiedi chi tu sia davvero, sotto le maschere. Forse lo hai dimenticato, o forse non sei mai stato niente di più del ruolo che stavi interpretando. Ti sei trasformato così tante volte che ormai anche la tua voce suona falsa.  
-
-Hai tradito, mentito e sopravvissuto a tutto. Ma l’inganno ha un prezzo: ti lascia solo, circondato da volti che ti sorridono senza sapere chi sei. Ogni bugia che racconti è un filo che ti lega a un mondo che non ti accetterà mai per quello che sei davvero.  
-Eppure continui a mentire, perché la verità, per te, è la più grande truffa di tutte.  
+---

@@ -21,16 +21,16 @@ Un'altra potente dicotomia in Greedome, una con molto spazio grigio tra i poli, 
 
 **_Disparità economica, schiavitù salariale e razzismo_**
 
-Con lo sviluppo di città basate sulla [[Ender Tech]] e con quella tecnologia che dipende e riposa nelle mani di un'élite, gli ”[[Hiborg]]", sorgono una serie di disuguaglianze sociali e pregiudizi.
+Con lo sviluppo di città basate sulla [[Ender Tech]] e con quella tecnologia che dipende e riposa nelle mani di un'élite, gli ”[[Hiborg - Askeri]]", sorgono una serie di disuguaglianze sociali e pregiudizi.
 
-Lampante, tra questi è la situazione economica dei [[Quar]]. Non tutti i [[Quar]] si trovano in questa situazione, ma una parte di questi vive in uno stato di pseudo-schiavitù. Perfino quelli che non lavorano per gli [[Hiborg]] vivono di solito in condizioni di povertà urbana, facendo spesso affidamento sul crimine.
+Lampante, tra questi è la situazione economica dei [[Quar]]. Non tutti i [[Quar]] si trovano in questa situazione, ma una parte di questi vive in uno stato di pseudo-schiavitù. Perfino quelli che non lavorano per gli [[Hiborg - Askeri]] vivono di solito in condizioni di povertà urbana, facendo spesso affidamento sul crimine.
 La [[Repubblica Unita]] ne è un buon esempio: le strade di [[Città della Repubblica]] sono illuminate notte e giorno da mille diavolerie tecnologiche, cartelloni pubblicitari e vetrate di empori carichi di ogni sorta di mercanzia, ma dietro questa facciata luminosa e futuristica, scure ombre si allungano nei vicoli malfamati. Una parte della popolazione, esclusa da questo benessere e lusso, vive nell'[[UnderCity]] un enorme città sotterranea che si estende sotto tutta la capitale.
 E' un luogo sporco e pericoloso, ricco di vita, ma povero di morale. La maggior parte dell'illegalità e della malavita della repubblica si riunisce qui, in maniera tanto concentrata da essere quasi impossibile per la [[Guardia Repubblicana]] anche soltanto entrare in alcune zone della Capitale Sotterranea.
 Lo scontro tra privilegio e povertà porta sempre, inesorabilmente, al conflitto. 
 
 **_Urbano vs. Rurale, "Civilizzato" vs. "Primitivo”_**
 
-Poiché l'enfasi nelle questioni mondiali si è spostata dalle tradizionali comunità rurali, alla cultura urbana, i popoli delle città, in particolare gli [[Hiborg]], vedono le comunità rurali come "barbare" e arretrate, ignoranti e addirittura sincere. Alcuni detestano la mancanza delle comodità della vita rurale, altri la ricercano con bramosia.
+Poiché l'enfasi nelle questioni mondiali si è spostata dalle tradizionali comunità rurali, alla cultura urbana, i popoli delle città, in particolare gli [[Hiborg - Askeri]], vedono le comunità rurali come "barbare" e arretrate, ignoranti e addirittura sincere. Alcuni detestano la mancanza delle comodità della vita rurale, altri la ricercano con bramosia.
 Non è strano per gli esploratore e avventurieri da tutte le parti del mondo, avventurarsi nei più remoti ed inesplorati posti di Greedome, guidati dalla brama di fama, fortuna o conoscenza.
 Sono famosi nella [[Repubblica Unita]] alcuni club e gilde di avventurieri dediti all'esplorazione (e allo sfruttamento) delle terre inesplorate e non sono rare le spedizioni scietinfiche in partenza dal porto di [[Città della Repubblica]].
 All'altra estremità dello spettro ci sono le comunità rurali autosufficienti che resistono categoricamente all'urbanizzazione tecnofila. Queste comunità devote alla magia o più semplicemente scettiche, si fondono assieme per non rinunciare ai loro modi di vita tradizionali. All'interno di queste comunità naturali/rurali, la tecnologia moderna, in particolare l’[[Ender Tech]], incontra sguardi dubbi e volte resistenza fisica.

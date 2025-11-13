@@ -1,26 +1,16 @@
 
 ---
 
-**Proficienze di Abilità:** Medicina, Investigazione
+**Proficienze di Abilità:** Medicina, Indagare  
 
-**Competenza negli Strumenti:** Kit del Medico  
+**Linguaggi:** —  
 
-**Linguaggi:** +1
-
-**Equipaggiamento:** Strumenti da medico, tenda da campo, sacco a pelo, coperta, libro di anatomia o chirurgia, abiti comuni e una borsa contenente qualche moneta e una fiala di disinfettante dal forte odore.
+**Equipaggiamento:** Kit del Medico, bende insanguinate (pulite… più o meno), un manuale di anatomia logoro, abiti comuni e camice, 10 monete d’oro.
 
 ---
 
-Che tu sia stato un guaritore tribale, un chirurgo da campo o un dottore di una società illuminata, hai visto più sofferenza di quanto molti possano sopportare. Hai osservato corpi aperti come libri, ascoltato rantoli spezzati e sentito l’odore dolciastro della cancrena. Hai toccato la morte e, in qualche modo, hai deciso di non voltarle mai le spalle.
+Fare il dottore significa convivere con tre certezze: la gente mente sui sintomi, il sangue macchia tutto e nessuno ti ringrazia davvero finché non smette di sanguinare. Hai visto ferite che sembravano gareggiare per il premio “più improbabile”, malattie che si presentavano con troppa personalità e pazienti che giuravano di star bene mentre cadevano per terra. Conosci l’odore del disinfettante, della paura e, purtroppo, del paziente che ti dice “non farà male, vero?” mentre tieni in mano qualcosa di affilato.
 
-Forse lo fai per compassione. Forse per dovere. O forse, semplicemente, per curiosità.
+La medicina ti ha reso pratico, cinico e sorprendentemente creativo. Hai imparato a operare con strumenti inadatti, a curare usando ciò che hai e a sorridere quando qualcuno chiede uno sconto sulla vita. A volte ti domandi se sei diventato un salvatore o un macellaio con più formazione, ma in fondo il risultato è lo stesso: la gente viene da te per restare viva. E tu fai del tuo meglio, anche se spesso il tuo “meglio” dipende da quante ore hai dormito e da quanto rumore fa il paziente quando sviene.
 
-Hai pronunciato un giuramento: proteggere la vita, trattare chi soffre, formare nuovi guaritori, esercitare con competenza e senza avidità. Ma anche le parole più sacre possono piegarsi. C’è chi cura per salvare… e chi cura per capire. Chi seziona per scoprire, o sperimenta per superare i limiti imposti dal buon senso.  
-
-Il Medico è una figura rispettata e temuta. La conoscenza che possiede può essere tanto una salvezza quanto una condanna. Un medico può alleviare la sofferenza... o prolungarla per studio.  
-Chi hai curato può sentirsi in debito con te, ma anche legato da un sottile terrore. I tuoi servigi aprono porte nei monasteri e nelle università, ma la tua reputazione può anche precederti come un’ombra macchiata di sangue.
-
-La mente di un medico è un bisturi: fredda, precisa e pericolosa. Alcuni rimangono idealisti, combattendo per la vita nonostante tutto; altri, con il tempo, iniziano a considerare la carne solo come materia da analizzare. I più corrotti confondono la salvezza con il controllo, la guarigione con la sperimentazione.  
-Dietro ogni gesto gentile può celarsi un calcolo. Dietro ogni guarigione, un prezzo.
-
-
+---

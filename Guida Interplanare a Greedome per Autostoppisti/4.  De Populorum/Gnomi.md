@@ -9,7 +9,7 @@ Sono alti circa 1.50 m con nasi e teste leggermente sproporzionati, portano spes
 **_Ingegneri estrosi, inventori bizzarri e geni rivoluzionari_**
 
 Gli ideatori originari della [[Ender Tech]], gli Gnomi sono naturalmente predisposti all’uso della tecnologia, sia di origine scientifica che di origine magica; e spesso questi loro talenti li collocano in posizioni di rilievo.
-Molti di loro, raggiungono posizioni socialmente rilevanti, facendoli entrare con facilità nella cerchia sociale [[Hiborg]].
+Molti di loro, raggiungono posizioni socialmente rilevanti, facendoli entrare con facilità nella cerchia sociale [[Hiborg - Askeri]].
 Sono la prima delle 4 popolazioni fondatrici della Tetrarcato di [[Mekkania]].
 
 ![[Clever-Conjurer-.jpg]]
@@ -26,7 +26,7 @@ Gli Gnomi sono abbastanza onnipresenti nel panorama mondiale, la maggior parte c
 
 **_Allineamento Magi-Tecnico:_** estremamente tecnofili, ma abili anche nella magia, soprattutto quella illusoria.
 
-**_Livello Sociale:_** prevalentemente [[Hiborg]] ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Eldreicht]], [[Bolvangar]]), [[Rayah]] ([[Jahamura]]), Locale ([[Mekkania]]).
+**_Livello Sociale:_** prevalentemente [[Hiborg - Askeri]] ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Eldreicht]], [[Bolvangar]]), [[Rayah]] ([[Jahamura]]), Locale ([[Mekkania]]).
 
 **_Dimensioni:_** taglia S (~1.30m).
 

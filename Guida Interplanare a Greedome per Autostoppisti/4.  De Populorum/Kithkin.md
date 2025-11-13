@@ -32,7 +32,7 @@ Quando in preda ad emozioni forti, gli occhi dei Kithkin cangiano; iride e pupil
 
 **_Allineamento Magi-Tecnico:_** sono principalmente neutrali e accettano sia la [[Magia]] che l’[[Ender Tech]] e le implementano in pari misura.
 
-**_Livello Sociale:_** sia [[Hiborg]] che [[Loborg]], a seconda dei casi ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Eldreicht]], [[Mekkania]], [[Bolvangar]]), [[Rayah]] ([[Jahamura]]).
+**_Livello Sociale:_** sia [[Hiborg - Askeri]] che [[Loborg]], a seconda dei casi ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Eldreicht]], [[Mekkania]], [[Bolvangar]]), [[Rayah]] ([[Jahamura]]).
 
 **_Dimensioni:_** taglia S (~1.20m).
 

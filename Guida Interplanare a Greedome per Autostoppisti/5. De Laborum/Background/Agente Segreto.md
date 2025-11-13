@@ -1,18 +1,17 @@
 
 ---
 
-**Proficienze di Abilità:** Intuizione, una a scelta tra Persuasione, Inganno o Religione  
+**Proficienze di Abilità:** Furtività, Indagare  
 
-**Linguaggi:** +2  
+**Linguaggi:** Cant, +1
 
-**Equipaggiamento:** Documento di riconoscimento o sigillo della fazione, messaggio cifrato o anello di contatto, abiti comuni, borsa con 15 monete d’oro.
+**Equipaggiamento:** Kit da Spia, cappuccio scuro, taccuino criptato, abiti comuni, 10 monete d’oro.
 
 ---
 
-Hai giurato fedeltà a una fazione, un’organizzazione o un ideale, ma presto hai imparato che la lealtà è solo un’altra forma di debito. Ti muovi tra spie e informatori, tra fanatici e opportunisti, in un gioco dove la fiducia è una merce che si scambia solo con la paura.  
+Fare la spia sembrava affascinante finché non hai scoperto che la maggior parte del lavoro consiste nel nasconderti in posti scomodi, ascoltare segreti deludenti e fingere identità che nemmeno ti stanno simpatiche. Hai imparato a decifrare bugie, mezze verità e soprattutto persone che parlano troppo. Le missioni clandestine e i travestimenti ridicoli sono diventati parte della tua routine, inclusi quei baffi finti che prudono come se fossero maledetti.
 
-La tua vita è fatta di segreti. Li raccogli, li vendi, li proteggi. Ogni parola può essere un’arma, ogni sguardo una minaccia. Hai imparato a parlare senza dire nulla, a mentire con sincerità e a sorridere quando la lama ti sfiora il fianco. Il potere non è mai puro, ma tu hai smesso di cercarlo: ti basta restare vivo abbastanza a lungo da usarlo.  
+La paranoia ormai è il tuo migliore amico. Controlli due volte le ombre, tre volte le uscite e saluti qualcuno solo dopo aver valutato la sua probabile pericolosità. Nessuno sa per chi lavori davvero—e a volte non lo sai neanche tu—ma continui a farlo perché è più facile cambiare identità che affrontare la tua vita reale. E poi, essere una spia ti permette di ascoltare tutti… senza dover rispondere a nessuno.
 
-La tua fazione parla di giustizia, equilibrio o libertà, ma tu hai visto cosa significano davvero quelle parole. Sono solo maschere per interessi più grandi, strumenti per controllare i deboli e punire chi non obbedisce. Forse ci credi ancora, o forse reciti bene la parte del credente.  
+---
 
-Ti hanno addestrato a essere invisibile, ma dentro di te si agita qualcosa che non riesci più a ignorare — un dubbio, un rimorso, una fame diversa dal denaro. Ti sei perso nel labirinto della politica e ora non sai più se lavori per la tua fazione o se è lei a lavorare attraverso di te.  

@@ -33,7 +33,7 @@ Più o meno dappertutto nelle aree urbane dove l’[[Ender Tech]] è presente, c
 
 **_Allineamento Magi-Tecnico:_** [vedi tratto: Custom Design].
 
-**_Livello Sociale:_** [[Loborg]], raramente [[Hiborg]] ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Bolvangar]]), Locale ([[Mekkania]]), [[Rayah]] ([[Jahamura]]), Bandito ([[Eldreicht]]).
+**_Livello Sociale:_** [[Loborg]], raramente [[Hiborg - Askeri]] ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Bolvangar]]), Locale ([[Mekkania]]), [[Rayah]] ([[Jahamura]]), Bandito ([[Eldreicht]]).
 
 **_Dimensioni:_** [vedi tratto: Custom Design].
 

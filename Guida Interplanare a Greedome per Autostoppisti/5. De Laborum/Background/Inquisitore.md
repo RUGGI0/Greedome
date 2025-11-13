@@ -1,21 +1,16 @@
 
-
 ---
 
-**Proficienze di Abilità:** Investigazione, Intuizione  
-
-**Competenza negli Strumenti:** Kit del falsario o strumenti da ladro  
+**Proficienze di Abilità:** Intuizione, Intimidire  
 
 **Linguaggi:** +1  
 
-**Equipaggiamento:** Taccuino logoro, penna e calamaio, lente d’ingrandimento incrinata, abiti comuni, borsa con 10 monete d’oro.
+**Equipaggiamento:** Strumenti da Calligrafo, registro delle confessioni (vuote… per ora), mantello troppo drammatico, 10 monete d’oro.
 
 ---
 
-Hai trascorso anni a cercare risposte dove gli altri vedevano solo menzogne. Hai scavato nei segreti degli uomini, sollevato le pietre sotto cui marcisce la verità e imparato che dietro ogni innocente c’è una colpa che aspetta di essere scoperta. La gente ti rispetta, ma non ti ama. Nessuno ama chi sa vedere troppo.  
+Essere un inquisitore significa fare domande difficili a persone che preferirebbero essere ovunque tranne che davanti a te. Hai sviluppato un talento nel capire quando qualcuno mente, quando dice la verità e quando sta improvvisando per disperazione. Hai passato giorni interi a interrogare peccatori, sospetti, testimoni confusi e individui che pensavano che l’inquisizione fosse un invito a una festa. La tua presenza mette a disagio la gente, e non solo perché fai domande scomode: è proprio il tuo sorriso a preoccuparli.
 
-Hai imparato a leggere nei volti più che nei libri, a riconoscere il tremolio di una bugia, il battito del rimorso. Le tue mani sono macchiate d’inchiostro e sospetto. Ti muovi con calma, ma dietro i tuoi occhi c’è la stanchezza di chi ha guardato dentro troppi cuori e non ha trovato niente di puro.  
+Col tempo hai imparato che la verità è rara, la bugia è comune e la versione che finisce nel tuo registro è un compromesso disturbante fra le due. Hai visto persone crollare, altre diventare aggressive e alcune così serene che ti hanno fatto temere per la tua sanità mentale. A volte dubiti di tutto — incluse le tue stesse conclusioni — ma continui comunque il tuo lavoro. Perché nulla è più soddisfacente che scoprire un segreto nascosto… o far credere a un colpevole che lo hai scoperto anche quando non avevi idea di cosa stessi cercando.
 
-La verità, hai scoperto, è una bestia che si nutre di chi la insegue. Ogni mistero risolto lascia una ferita, ogni colpevole catturato ti somiglia un po’ di più. I tuoi superiori parlano di giustizia, ma tu sai che è solo un altro modo per dire controllo. Ti hanno addestrato a cercare i colpevoli, ma mai a chiederti chi scrive le leggi.  
-
-Quando dormi, rivedi i volti di coloro che hai interrogato, accusato, forse distrutto. Alcuni erano colpevoli, altri no. La differenza non ti interessa più. Ciò che conta è che, in fondo, nessuno è innocente.  
+---

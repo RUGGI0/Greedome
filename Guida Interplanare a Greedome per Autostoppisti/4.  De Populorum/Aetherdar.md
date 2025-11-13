@@ -1,6 +1,6 @@
 **_Classismo di classe_**
 
-Altezzosi e rigidi, gli Aetherdar sono i custodi del [[Conclave Razionale]] e tra i pochi a potersi definire “una razza [[Hiborg]]” (tenendo conto del loro ridottissimo numero è ragionevole pensare che l’intera popolazione Aetherdari sia fedele alla [[Chiesa del Conclave Razionale]], anche se le eccezioni esistono. E vengono mal sopportate. Il loro passato prima della [[Grande Guerra]] è ignoto e qualsiasi documento che ne parli è stato sequestrato e fatto sparire dal Conclave Razionale.
+Altezzosi e rigidi, gli Aetherdar sono i custodi del [[Conclave Razionale]] e tra i pochi a potersi definire “una razza [[Hiborg - Askeri]]” (tenendo conto del loro ridottissimo numero è ragionevole pensare che l’intera popolazione Aetherdari sia fedele alla [[Chiesa del Conclave Razionale]], anche se le eccezioni esistono. E vengono mal sopportate. Il loro passato prima della [[Grande Guerra]] è ignoto e qualsiasi documento che ne parli è stato sequestrato e fatto sparire dal Conclave Razionale.
 
 **_Eteree Perfezioni_**
 
@@ -23,7 +23,7 @@ Poco più alti e sottili degli umani sono dediti alle Arti e alla Perfezione, in
 
 **_Allineamento Magi-tecnico:_** estremamente tecnofili.
 
-**_Livello Sociale:_** [[Hiborg]] ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Mekkania]], [[Bolvangar]]), [[Askeri]] ([[Jahamura]]), Bandito ([[Eldreicht]]).
+**_Livello Sociale:_** [[Hiborg - Askeri]] ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Mekkania]], [[Bolvangar]]), [[Askeri]] ([[Jahamura]]), Bandito ([[Eldreicht]]).
 
 **_Dimensioni:_** taglia M (~1.90m).
 
@@ -35,7 +35,7 @@ Poco più alti e sottili degli umani sono dediti alle Arti e alla Perfezione, in
 
 **_Antenati Fatati:_** il loro lignaggio segreto previene loro l'essere affascinati magicamente e/o  addormentati magicamente. Sono impervi alla manipolazione mentale di origine magico-arcana.
 
-**_Privilegiati Sociali:_** la loro posizione di razza [[Hiborg]], oltre al garantire tutto l’odio possibile della concittadinanza Loborg, garantisce anche del lecchinaggio gratuito di tutti gli esercizi commerciali, autorità e passacarte generico locato nel territorio della Repubblica, nei territori fedeli al Conclave e qualsiasi autorità territoriale filo-scientifica.
+**_Privilegiati Sociali:_** la loro posizione di razza [[Hiborg - Askeri]], oltre al garantire tutto l’odio possibile della concittadinanza Loborg, garantisce anche del lecchinaggio gratuito di tutti gli esercizi commerciali, autorità e passacarte generico locato nel territorio della Repubblica, nei territori fedeli al Conclave e qualsiasi autorità territoriale filo-scientifica.
 
 **_Lingue:_** [[Aetherven]].
 

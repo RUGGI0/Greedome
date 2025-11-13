@@ -1,7 +1,7 @@
 **_Il coltellino svizzero di Greedome_**
 
 Gli esseri Umani sono i Jack-of-all-Trades tra le razze di Greedome, buoni a far di tutto (e ha farsi di tutto), sono la razza più popolosa di Greedome, dove è difficile anche solo trovare un luogo, nell’intero piano, dove non si siano stabiliti, abbiano prosperato e infine mandato tutto in malora. Nonostante il loro numero, la loro leggendaria indole ipercritica e generalmente rompicoglioni ha sempre prevenuto la nascita di uno stato al 100% “Umano”, con grande gioia da parte delle altre razze.
-Nella [[Repubblica Unita]] occupano sia posizioni [[Loborg]], che [[Hiborg]].
+Nella [[Repubblica Unita]] occupano sia posizioni [[Loborg]], che [[Hiborg - Askeri]].
 
 **_I diversi tra gli eguali_**
 
@@ -23,7 +23,7 @@ Letteralmente, ovunque.
 
 **_Allineamento Tecnologico/Magico:_** a seconda della zona di appartenenza il loro allineamento si adatta agli usi e costumi del territorio.
 
-**_Livello Sociale:_** sia [[Hiborg]] che [[Loborg]], a seconda dei casi ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Eldreicht]], [[Mekkania]], [[Bolvangar]]), [[Rayah]] ([[Jahamura]]).
+**_Livello Sociale:_** sia [[Hiborg - Askeri]] che [[Loborg]], a seconda dei casi ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Eldreicht]], [[Mekkania]], [[Bolvangar]]), [[Rayah]] ([[Jahamura]]).
 
 **_Dimensione:_** taglia M (~1.80m).
 

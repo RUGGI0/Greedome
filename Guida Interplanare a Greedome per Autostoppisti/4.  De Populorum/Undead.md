@@ -29,7 +29,7 @@ Più o meno ovunque, con poche eccezioni su base regionale.
 
 **_Allineamento Magi/Tecnico:_** [vedi tratto: Lasciti dall’aldiquà].
 
-**_Livello Sociale:_** sia [[Hiborg]] che [[Loborg]], a seconda dei casi ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Eldreicht]], [[Mekkania]], [[Bolvangar]]), [[Askeri]] ([[Jahamura]]).
+**_Livello Sociale:_** sia [[Hiborg - Askeri]] che [[Loborg]], a seconda dei casi ([[Repubblica Unita]]), Estraneo ([[Valakitia]], [[Woodoo Woodoo]], [[Eldreicht]], [[Mekkania]], [[Bolvangar]]), [[Askeri]] ([[Jahamura]]).
 
 **_Dimensioni:_** [vedi tratto: Lasciti dall’aldiquà].
 

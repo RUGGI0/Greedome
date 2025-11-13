@@ -1,19 +1,16 @@
 
 ---
 
-**Proficienze di Abilità:** Inganno, Furtività  
+**Proficienze di Abilità:** Furtività, Inganno  
 
-**Competenza negli Strumenti:** Un set da gioco, strumenti da scasso  
+**Linguaggi:** Cant  
 
-**Equipaggiamento:** Set di strumenti da scasso, abiti scuri con cappuccio, un oggetto rubato di valore personale, 15 monete d’oro.
+**Equipaggiamento:** Strumenti da Ladro, cappuccio scuro, ricordo di un vecchio colpo andato bene (o malissimo), 10 monete d’oro.
 
 ---
 
-Hai vissuto ai margini della società, dove la legge è solo un’illusione per chi ha il potere di ignorarla. Sei cresciuto tra bugie, minacce e alleanze fragili come vetro. Forse sei stato un ladro, un truffatore, un assassino o semplicemente qualcuno che ha fatto ciò che serviva per sopravvivere. La linea tra necessità e peccato si è fatta sottile da tempo.  
+Essere un criminale non è solo un lavoro: è un modo di vivere, soprattutto se ti piace correre, nasconderti o fingere che tutto fosse parte del piano. Hai scassinato serrature che sembravano sorriderti con cattiveria, rubato oggetti che valevano meno del rischio e imparato che la notte è piena di rumori inquietanti… la maggior parte dei quali sei tu che cerchi di non fare rumore. Conosci ogni scorciatoia, ogni tetto che scricchiola e ogni guardia che dorme più del dovuto.
 
-Hai imparato che la fiducia è una moneta più rara dell’oro, e che ogni favore ha un prezzo. Le persone come te non durano se non imparano a osservare, a muoversi nell’ombra, a capire chi è disposto a tradirti e chi lo ha già fatto. Ti muovi nel mondo come un fantasma che conosce tutti i vicoli, tutti i segreti e tutte le debolezze.  
+Col tempo hai capito che rubare non è difficile; è tornare indietro intero la parte complicata. Hai incontrato criminali più ingenui di te, criminali più disperati di te e criminali che non erano criminali finché non hanno incontrato te. A volte ti chiedi se la vita sarebbe più semplice onestamente… poi ti ricordi quanto pagano male i lavori onesti. E torni felicemente a fare ciò che sai fare meglio: essere un problema con gambe.
 
-A volte ti chiedi se il crimine ti abbia scelto o se sia stato tu a sceglierlo. Ci sono momenti in cui rimpiangi ciò che hai perso, ma il rimorso non serve a nulla quando il sangue è già asciutto. Hai visto amici impiccati, complici svaniti nel buio e padroni più crudeli dei giudici che li condannavano.  
-
-Ora porti il peccato come un mantello, non con orgoglio ma con rassegnazione. Sai che il mondo non ha posto per i puri di cuore. Forse rubi per sopravvivere, forse per il gusto della sfida, o forse solo per ricordarti che esisti ancora.  
-Nel silenzio, quando nessuno guarda, ti chiedi quanto di te sia rimasto umano e quanto appartenga ormai alla notte.  
+---
