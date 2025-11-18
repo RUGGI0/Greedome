@@ -185,7 +185,7 @@ Ritira un tiro di Concentrazione fallito (tieni il secondo risultato).
 ### Distorsione Cinetico-Vettoriale
 Reazione • 9 m  
 
-Quando tu o un alleato effettuate un attacco a distanza entro 9 m:  
+Quando tu o un alleato effettuate un attacco a distanza (proiettile fisico) entro 9 m:  
 • Conferisci vantaggio all’attacco.  
 • Se aveva già vantaggio, aggiunge +1d4 al tiro per colpire.
 Quando un attacco a distanza basato su proiettile entro 9 m ti colpisce:  
@@ -372,7 +372,7 @@ Effetto:
 **Costo:** 9 Focus  
 **Durata:** 1 minuto (Concentrazione)
 
-Crei una bolla dove il tempo smette di funzionare bene.
+Crei una bolla dove il tempo smette di funzionare.
 
 I bersagli nell’area subiscono:  
 - Velocità = 0  
