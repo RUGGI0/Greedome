@@ -22,28 +22,28 @@ d8 per livello
 
 # Tabella del Glitch
 
-| Liv | Bonus | Talenti | Poteri | Focus | Caratteristiche |
-|-----|-------|---------|--------|--------|----------------|
-| 1 | +2 | 4 | 1 | 2 | Distorsione, Talenti |
-| 2 | +2 | 4 | 2 | 3 | Passo Distorto |
-| 3 | +2 | 4 | 3 | 4 | Specializzazione |
-| 4 | +2 | 4 | 3 | 5 | Aumento di Caratteristica |
-| 5 | +3 | 5 | 4 | 6 | Attacco Extra |
-| 6 | +3 | 5 | 5 | 7 | Privilegio Specializzazione |
-| 7 | +3 | 5 | 6 | 8 | Poteri Tier II |
-| 8 | +3 | 5 | 6 | 9 | Aumento di Caratteristica |
-| 9 | +4 | 6 | 7 | 10 | Evasione |
-| 10 | +4 | 6 | 8 | 11 | Privilegio Specializzazione |
-| 11 | +4 | 6 | 9 | 12 | Surge di Focus |
-| 12 | +4 | 6 | 9 | 13 | Aumento di Caratteristica |
-| 13 | +5 | 6 | 10 | 14 | Poteri Tier III |
-| 14 | +5 | 7 | 11 | 15 | Privilegio Specializzazione |
-| 15 | +5 | 7 | 12 | 16 | Balzo Interdimensionale |
-| 16 | +5 | 7 | 12 | 17 | Aumento di Caratteristica |
-| 17 | +6 | 8 | 13 | 18 | Distorsione Permanente |
-| 18 | +6 | 8 | 14 | 19 | Privilegio Specializzazione |
-| 19 | +6 | 8 | 14 | 20 | Aumento di Caratteristica |
-| 20 | +6 | 8 | 15 | 20 | Riscrittura della Realtà |
+| Liv | Bonus | Talenti | Poteri | Focus | Caratteristiche             |
+| --- | ----- | ------- | ------ | ----- | --------------------------- |
+| 1   | +2    | 4       | 1      | 2     | Distorsione, Talenti        |
+| 2   | +2    | 4       | 2      | 3     | Passo Distorto              |
+| 3   | +2    | 4       | 3      | 4     | Specializzazione            |
+| 4   | +2    | 4       | 3      | 5     | Aumento di Caratteristica   |
+| 5   | +3    | 5       | 4      | 6     | Attacco Extra               |
+| 6   | +3    | 5       | 5      | 7     | Privilegio Specializzazione |
+| 7   | +3    | 5       | 6      | 8     | Poteri Tier II              |
+| 8   | +3    | 5       | 6      | 9     | Aumento di Caratteristica   |
+| 9   | +4    | 6       | 7      | 10    | Evasione                    |
+| 10  | +4    | 6       | 8      | 11    | Privilegio Specializzazione |
+| 11  | +4    | 6       | 9      | 12    | Surge di Focus              |
+| 12  | +4    | 6       | 9      | 13    | Aumento di Caratteristica   |
+| 13  | +5    | 6       | 10     | 14    | Poteri Tier III             |
+| 14  | +5    | 7       | 11     | 15    | Privilegio Specializzazione |
+| 15  | +5    | 7       | 12     | 16    | Balzo Interdimensionale     |
+| 16  | +5    | 7       | 12     | 17    | Aumento di Caratteristica   |
+| 17  | +6    | 8       | 13     | 18    | Distorsione Permanente      |
+| 18  | +6    | 8       | 14     | 19    | Privilegio Specializzazione |
+| 19  | +6    | 8       | 14     | 20    | Aumento di Caratteristica   |
+| 20  | +6    | 8       | 15     | 20    | Riscrittura della Realtà    |
 
 ---
 
@@ -90,7 +90,6 @@ Come azione bonus, spendi **1 Focus** per teletrasportarti di **9 metri** in uno
 Questo movimento **non provoca attacchi di opportunità**.
 
 ---
-
 ## Specializzazione (Liv. 3)
 Scegli una tra:
 
@@ -149,47 +148,56 @@ Una volta per riposo lungo, puoi alterare un evento attorno a te:
 Non puoi usare questa abilità per creare oggetti magici, riscrivere la storia o piegare la volontà del DM.
 
 ---
-## Quirk
+## Quirk Glitch
 
-### **Anomalia Minore**
-Crei una piccola distorsione sensoriale entro 9 m: un rumore glitch, un tremolio visivo, un'ombra distorta o un eco innaturale.  
-Hai vantaggio al tuo prossimo tiro di **Furtività** o **Inganno**.
+### Arma Vivente
+Passiva
 
----
-
-### **Bit Statico**
-Scagli un lampo di energia instabile contro una creatura entro 18 m.  
-Tiro per colpire → **1d6 danni da forza**.  
-
-Il danno aumenta a 2d6 (liv. 5), 3d6 (liv. 11), 4d6 (liv. 17).
+I tuoi attacchi senz’armi infliggono 1d6 + Forza.  
+Aumentano a 2d6 (liv. 5), 3d6 (liv. 10), 4d6 (liv. 15).  
+Come Azione Bonus puoi spendere 1 FP per aggiungere +1d6 al tuo prossimo attacco (max +3d6, 3 FP totali).
 
 ---
 
-### **Distorsione di Passo**
-Ti sposti di **1,5 m** senza provocare attacchi di opportunità.
+### Anomalia Minore
+Azione • Istantanea  
+
+Crei una distorsione sensoriale entro 9 m.  
+Ottieni vantaggio al prossimo tiro di Furtività o Inganno.
 
 ---
 
-### **Micro-Overclock**
-Ritira un tiro di **Concentrazione** fallito.  
-Puoi usare questo Quirk **una volta per riposo breve**.
+### Passo Vacuo
+Azione Bonus • 1/Riposo Breve  
+
+Teletrasportati di 1,5 m senza provocare attacchi di opportunità.  
+Se usato dopo aver colpito un bersaglio, ottieni vantaggio al prossimo TS su Destrezza entro 1 turno.
 
 ---
 
-### **Distorsione Vettoriale**
-Manipoli brevemente la traiettoria di un oggetto/proietti lanciato entro 9 m.  
-Concedi **vantaggio** al tiro per colpire di un’arma da lancio  
-oppure **dimezzi la gittata** di un’arma da lancio contro di te.
+### Micro-Overclock
+Reazione • 1/Riposo Breve  
+
+Ritira un tiro di Concentrazione fallito (tieni il secondo risultato).
 
 ---
+
+### Distorsione Cinetico-Vettoriale
+Reazione • 9 m  
+
+Quando tu o un alleato effettuate un attacco a distanza entro 9 m:  
+• Conferisci vantaggio all’attacco.  
+• Se aveva già vantaggio, aggiunge +1d4 al tiro per colpire.
+Quando un attacco a distanza basato su proiettile entro 9 m ti colpisce:  
+• Dimezzi il danno ricevuto.  
+• Dimezzi la gittata effettiva del proiettile per quell’attacco. 
 
 ## Tier I Powers
 
 ---
 
 ### **Fractured Spark**  
-**Costo:** 1 Focus  
-**Azione:** 1 azione  
+**Costo:** 1 Focus , Azione 
 **Gittata:** 60 ft  
 
 Lanci un impulso di codice instabile che distorce la traiettoria del mondo intorno al bersaglio.  
@@ -201,8 +209,7 @@ Lanci un impulso di codice instabile che distorce la traiettoria del mondo intor
 ---
 
 ### **Laggy Step**  
-**Costo:** 2 Focus  
-**Azione:** 1 bonus action  
+**Costo:** 2 Focus, Azione Bonus
 
 Ti “desincronizzi” per un istante, apparendo con un frame di ritardo nello spazio.  
 **Effetto:** ti teletrasporti fino a **10 ft** in uno spazio che puoi vedere.  
@@ -211,16 +218,15 @@ Ottieni **+2 alla CA** contro il primo attacco che ti colpisce prima dell’iniz
 ---
 
 ### **Kinetic Fold**  
-**Costo:** 2 Focus  
-**Azione:** 1 reazione  
+**Costo:** 2 Focus, Reazione
 **Trigger:** un attacco ti colpisce  
 
-Piegando leggermente le leggi fisiche, distorci la traiettoria dell’attacco.  
+Piegando leggermente le leggi fisiche, distorci la traiettoria di un attacco a distanza entro 3m.  
 Riduci il danno subito di:
 
-**1d10 + Mod DES + metà del tuo livello da Glitch (arrotondato per difetto)**.  
+**1d10 + Mod DES + metà lv. Glitch (per difetto)**.  
 
-Se riduci il danno a 0, puoi **rilanciare** il proiettile come parte della stessa reazione:  
+Se riduci il danno a 0, puoi **rilanciare** l'attacco a distanza come parte della stessa reazione:  
 **20/60 ft, 1d6 danni, usi la tua competenza**.
 
 ---
