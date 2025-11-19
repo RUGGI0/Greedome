@@ -121,7 +121,7 @@ Per un’azione, spendi **3 Focus** e entri in uno stato distorto:
 
 - puoi passare attraverso creature e oggetti difficili come fossero ombre,  
 - ottieni vantaggio ai tiri salvezza su DES,  
-- puoi teletrasportarti fino a 9 m a ogni turno **senza costo**.
+- puoi teletrasportarti fino a 9 m a ogni turno senza costo.
 
 Dura 1 minuto.
 
@@ -132,7 +132,7 @@ La realtà non riesce più a fissarti correttamente:
 
 - immunità a rallentato, paralizzato, costretto  
 - puoi agire nel primo round anche se sorpreso  
-- Passo Distorto non costa più Focus **una volta per turno**
+- Passo Distorto non costa più Focus una volta per turno
 
 ---
 
@@ -150,9 +150,7 @@ Non puoi usare questa abilità per creare oggetti magici, riscrivere la storia o
 ---
 ## Quirk Glitch
 
-### Arma Vivente
-Passiva
-
+### Arma Vivente (Passivo)
 I tuoi attacchi senz’armi infliggono 1d6 + Forza.  
 Aumentano a 2d6 (liv. 5), 3d6 (liv. 10), 4d6 (liv. 15).  
 Come Azione Bonus puoi spendere 1 FP per aggiungere +1d6 al tuo prossimo attacco (max +3d6, 3 FP totali).
@@ -161,7 +159,6 @@ Come Azione Bonus puoi spendere 1 FP per aggiungere +1d6 al tuo prossimo attacco
 
 ### Anomalia Minore
 Azione • Istantanea  
-
 Crei una distorsione sensoriale entro 9 m.  
 Ottieni vantaggio al prossimo tiro di Furtività o Inganno.
 
@@ -169,7 +166,6 @@ Ottieni vantaggio al prossimo tiro di Furtività o Inganno.
 
 ### Passo Vacuo
 Azione Bonus • 1/Riposo Breve  
-
 Teletrasportati di 1,5 m senza provocare attacchi di opportunità.  
 Se usato dopo aver colpito un bersaglio, ottieni vantaggio al prossimo TS su Destrezza entro 1 turno.
 
@@ -177,7 +173,6 @@ Se usato dopo aver colpito un bersaglio, ottieni vantaggio al prossimo TS su Des
 
 ### Micro-Overclock
 Reazione • 1/Riposo Breve  
-
 Ritira un tiro di Concentrazione fallito (tieni il secondo risultato).
 
 ---
@@ -185,12 +180,14 @@ Ritira un tiro di Concentrazione fallito (tieni il secondo risultato).
 ### Distorsione Cinetico-Vettoriale
 Reazione • 9 m  
 
-Quando tu o un alleato effettuate un attacco a distanza (proiettile fisico) entro 9 m:  
+Quando tu o un alleato effettuate un attacco a distanza entro 9 m:  
 • Conferisci vantaggio all’attacco.  
 • Se aveva già vantaggio, aggiunge +1d4 al tiro per colpire.
-Quando un attacco a distanza basato su proiettile entro 9 m ti colpisce:  
+
+Quando un attacco a distanza basato su proiettile entro 9 m ti sta per colpire:  
 • Dimezzi il danno ricevuto.  
-• Dimezzi la gittata effettiva del proiettile per quell’attacco. 
+• Dimezzi la gittata effettiva del proiettile per quell’attacco.  
+(Non funziona contro attacchi puramente energetici)
 
 ## Tier I Powers
 
@@ -204,7 +201,7 @@ Lanci un impulso di codice instabile che distorce la traiettoria del mondo intor
 **Tiro per Colpire:** attacco a distanza con la tua abilità da Glitch.  
 **Danno:** 1d8 forza.  
 
-**Glitch:** il bersaglio ha **svantaggio** al suo prossimo tiro per colpire entro l'inizio del tuo prossimo turno.
+**Glitch:** il bersaglio ha svantaggio al suo prossimo tiro per colpire entro l'inizio del tuo prossimo turno.
 
 ---
 
@@ -212,8 +209,8 @@ Lanci un impulso di codice instabile che distorce la traiettoria del mondo intor
 **Costo:** 2 Focus, Azione Bonus
 
 Ti “desincronizzi” per un istante, apparendo con un frame di ritardo nello spazio.  
-**Effetto:** ti teletrasporti fino a **10 ft** in uno spazio che puoi vedere.  
-Ottieni **+2 alla CA** contro il primo attacco che ti colpisce prima dell’inizio del tuo prossimo turno.
+**Effetto:** ti teletrasporti fino a 10 ft in uno spazio che puoi vedere.  
+Ottieni +2 alla CA contro il primo attacco che ti colpisce prima dell’inizio del tuo prossimo turno.
 
 ---
 
@@ -224,10 +221,10 @@ Ottieni **+2 alla CA** contro il primo attacco che ti colpisce prima dell’iniz
 Piegando leggermente le leggi fisiche, distorci la traiettoria di un attacco a distanza entro 3m.  
 Riduci il danno subito di:
 
-**1d10 + Mod DES + metà lv. Glitch (per difetto)**.  
+1d10 + Mod DES + metà lv. Glitch (per difetto).  
 
-Se riduci il danno a 0, puoi **rilanciare** l'attacco a distanza come parte della stessa reazione:  
-**20/60 ft, 1d6 danni, usi la tua competenza**.
+Se riduci il danno a 0, puoi rilanciare l'attacco a distanza come parte della stessa reazione:  
+20/60 ft, 1d6 danni, usi la tua competenza.
 
 ---
 
@@ -235,17 +232,17 @@ Se riduci il danno a 0, puoi **rilanciare** l'attacco a distanza come parte dell
 **Costo:** 2 Focus  
 **Azione:** 1 azione  
 **Gittata:** 30 ft  
-**Bersagli:** fino a **tre creature**  
+**Bersagli:** fino a tre creature  
 **TS:** Saggezza  
 
 Instilli un “bug” cognitivo nei bersagli, corrompendo temporaneamente il loro sistema percettivo e linguistico.
 
-**Fallimento:** per **1 minuto** il bersaglio:  
-- **non può parlare**,  
-- **non può comunicare** (verbale, gestuale, telepatico, magico o tramite segnali),  
+**Fallimento:** per 1 minuto il bersaglio:  
+- non può parlare,  
+- non può comunicare (verbale, gestuale, telepatico, magico o tramite segnali),  
 - ogni suo tentativo viene percepito come distorsione incomprensibile.
 
-Il bersaglio può ripetere il TS **alla fine di ogni suo turno**.
+Il bersaglio può ripetere il TS alla fine di ogni suo turno.
 
 **Successo:** nessun effetto.
 
@@ -270,22 +267,41 @@ Un’onda d’urto di spazio deformato esplode da te, ribaltando tutto ciò che 
 
 Sovraccarichi il codice mentale di una creatura entro portata.
 
-TS **Saggezza**.  
+TS Saggezza.  
 **Fallimento:** niente reazioni, svantaggio al prossimo attacco, velocità −3 m e **1d6 psichici** all’inizio del turno.  
 **Successo:** ignora l’effetto per questo turno e ripete il TS a fine turno.
 
 ---
 
-## **Null Gravity Node**
-**Azione** • **18 m** • **5 Focus** • **1 minuto (Concentrazione)**
+### Cognitive Hack
+**Azione**  
+**Costo:** 3 FP  
+**Range:** 9 m  
+**TS:** Saggezza  
 
-Crei un nodo gravitazionale di **3 m**.
+Rimappi in modo aggressivo i processi mentali di una creatura, accedendo e riscrivendo blocchi di memoria a breve e medio termine.
 
-TS **Forza** all’ingresso o all’inizio del turno.  
-**Fallimento:** levita a 1,5 m, velocità 0, **2d8 forza**.  
-**Successo:** metà danno, nessuna levitazione.
+La creatura deve superare un TS Saggezza.  
+Se fallisce:
 
-Puoi spostare il nodo di **3 m** come azione bonus.
+**1. Lettura della Memoria (ultime 12 ore)**  
+Accedi ai ricordi coscienti della creatura relativi alle ultime 12 ore:  
+eventi, luoghi, conversazioni, percezioni, emozioni e volti.  
+Le informazioni ti arrivano come un flusso disordinato ma comprensibile.
+
+**2. Sovrascrittura della Memoria (2 minuti)**  
+Cancelli fino a 2 minuti consecutivi di memoria delle ultime 12 ore e li sostituisci con un falso ricordo della stessa durata.  
+La creatura accetta il ricordo artificiale come reale e lo integra nella propria continuità mentale.
+
+**Persistenza del Ricordo Alterato**  
+Il ricordo falsificato rimane stabile finché non viene messo in dubbio.  
+Se un evento, una prova concreta o uno stimolo sensoriale contraddice direttamente il ricordo innestato, la creatura effettua un nuovo TS Saggezza:
+
+• **Successo:** rigetta il falso ricordo e recupera quello autentico. 
+• **Fallimento:** mantiene il ricordo alterato e razionalizza l’incongruenza.
+
+L’effetto non richiede concentrazione e la creatura non è consapevole della manipolazione, a meno che non disponga di mezzi soprannaturali per rilevare intrusioni mentali.
+
 
 ---
 
@@ -311,23 +327,23 @@ Se colpisce: il bersaglio ha svantaggio al prossimo TS.
 Crei un pozzo di distorsione di **3 m**.  
 Puoi cambiare modalità con un’azione bonus.
 
-### **Momentum Drain**
+**Momentum Drain**
 Il pozzo rallenta gli avversari e drena il loro slancio.
 
 • Le creature nell’area devono spendere **1,5 m extra** per ogni metro mosso.  
-• Per ogni **1,5 m extra** che un nemico spende, **tu guadagni 1,5 m di movimento** fino alla fine del tuo prossimo turno.
+• Per ogni 1,5 m extra che un nemico spende, tu guadagni 1,5 m di movimento fino alla fine del tuo prossimo turno.
 
-### **Scrambleverse**
+**Scrambleverse**
 Lo spazio locale si frattura in micro-realtà.
 
-• I nemici hanno **svantaggio agli attacchi in mischia** contro te e i tuoi alleati nell’area.  
-• Le creature nell’area sono **immuni ai proiettili e armi a distanza non magiche** (i proiettili “slittano” fuori traiettoria).
+• I nemici hanno svantaggio agli attacchi in mischia contro te e i tuoi alleati nell’area.  
+• Le creature nell’area sono immuni ai proiettili e armi a distanza non magiche (i proiettili “slittano” fuori traiettoria).
 
-### **Logic Collapse**
+**Logic Collapse**
 Le strutture logiche si disassemblano.
 
-• Le creature nell’area hanno svantaggio ai TS **Destrezza**.  
-• Se falliscono un attacco o TS di 5 o più → prendono **1d8 psichici**.
+• Le creature nell’area hanno svantaggio ai TS DEX.  
+• Se falliscono un attacco o TS di 5 o più → prendono 1d8 psichici.
 
 ---
 
@@ -337,10 +353,10 @@ Le strutture logiche si disassemblano.
 Forzi brutalmente un vettore geometrico su una creatura entro portata.
 
 TS **Forza**.  
-**Fallimento:** **4d10 forza** e spinta di **9 m**.  
+**Fallimento:** **4d10 forza** e spinta di 9 m.  
 **Successo:** metà danno, metà spinta.
 
-**Collisione:** Se spinto contro un ostacolo → **+2d6 forza**.  
+**Collisione:** Se spinto contro un ostacolo → +2d6 forza.  
 **Potenziare:** +1 Focus → +1d10 danni.
 
 ---
@@ -359,7 +375,7 @@ Lanci un impulso di realtà invertita che collide con il mondo “al contrario�
 
 Effetto:  
 - Effettua un attacco a distanza con la tua Distorsione.  
-- **6d10 danni psichici**.  
+- 6d10 danni psichici
 - Il colpo ignora tutte le resistenze.  
 - Se il bersaglio è a metà punti ferita o meno, raddoppi il danno dei dadi.
 
@@ -400,4 +416,3 @@ Per la durata:
 Quando la concentrazione termina:  
 - Subisci 3d10 danni da forza  
 - Le creature entro 3 m subiscono 3d10 danni da forza
-
