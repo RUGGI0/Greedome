@@ -1,418 +1,514 @@
-# Glitch
-
-Il Glitch è un manipolatore della realtà, un individuo la cui mente non è perfettamente sincronizzata con il mondo. Vede il codice dietro le superfici, sente il rumore tra i secondi e percepisce percorsi distorti che altri non possono immaginare.  
-Usa la distorsione per muoversi innaturalmente, alterare eventi minori e scagliare ondate di energia glitch provenienti da un luogo che non dovrebbe esistere.
-
-I suoi poteri non sono magia: sono errori.  
-E gli errori, se controllati, sono armi.
+Il Glitch è un’anomalia vivente: un individuo disallineato rispetto alla realtà, capace di manipolare “errori” del mondo sotto forma di distorsioni fisiche, percettive e spazio-temporali.  
+La sua potenza deriva dal consumo di **Byte**, frammenti di coerenza che usa per piegare le regole dell’esistenza.
 
 ---
+# Privilegi di Classe del Glitch
 
 ## Dado Vita
-d8 per livello
+**d8** per livello
 
 ## Competenze
-**Armature:** Nessuna  
-**Armi:** Armi semplici, pugnali, balestre leggere  
-**Strumenti:** Nessuno  
-**Tiri Salvezza:** Destrezza, Intelligenza  
-**Abilità:** Scegli 2 tra Acrobatica, Arcana, Furtività, Indagare, Percezione, Rapidità di Mano, Sopravvivenza
+**Armature:** nessuna
+**Armi:** armi semplici, pistole
+**Strumenti:** nessuno
+**Tiri Salvezza:** Intelligenza, Forza
+**Abilità:** Acrobatica, Atletica, e 2 a scelta tra Arcana, Furtività, Indagare, Percezione, Rapidità di Mano
 
 ---
-
 # Tabella del Glitch
 
-| Liv | Bonus | Talenti | Poteri | Focus | Caratteristiche             |
-| --- | ----- | ------- | ------ | ----- | --------------------------- |
-| 1   | +2    | 4       | 1      | 2     | Distorsione, Talenti        |
-| 2   | +2    | 4       | 2      | 3     | Passo Distorto              |
-| 3   | +2    | 4       | 3      | 4     | Specializzazione            |
-| 4   | +2    | 4       | 3      | 5     | Aumento di Caratteristica   |
-| 5   | +3    | 5       | 4      | 6     | Attacco Extra               |
-| 6   | +3    | 5       | 5      | 7     | Privilegio Specializzazione |
-| 7   | +3    | 5       | 6      | 8     | Poteri Tier II              |
-| 8   | +3    | 5       | 6      | 9     | Aumento di Caratteristica   |
-| 9   | +4    | 6       | 7      | 10    | Evasione                    |
-| 10  | +4    | 6       | 8      | 11    | Privilegio Specializzazione |
-| 11  | +4    | 6       | 9      | 12    | Surge di Focus              |
-| 12  | +4    | 6       | 9      | 13    | Aumento di Caratteristica   |
-| 13  | +5    | 6       | 10     | 14    | Poteri Tier III             |
-| 14  | +5    | 7       | 11     | 15    | Privilegio Specializzazione |
-| 15  | +5    | 7       | 12     | 16    | Balzo Interdimensionale     |
-| 16  | +5    | 7       | 12     | 17    | Aumento di Caratteristica   |
-| 17  | +6    | 8       | 13     | 18    | Distorsione Permanente      |
-| 18  | +6    | 8       | 14     | 19    | Privilegio Specializzazione |
-| 19  | +6    | 8       | 14     | 20    | Aumento di Caratteristica   |
-| 20  | +6    | 8       | 15     | 20    | Riscrittura della Realtà    |
+| Liv | Bonus | Quirk | Poteri        | Byte | Caratteristiche             |
+| --- | ----- | ----- | ------------- | ---- | --------------------------- |
+| 1   | +2    | 5     | Tier I        | 3    | Distorsione, Quirk          |
+| 2   | +2    | 5     | Tier I        | 3    | Passo Distorto              |
+| 3   | +2    | 5     | Tier I        | 6    | Specializzazione            |
+| 4   | +2    | 5     | Tier I        | 6    | Aumento di Caratteristica   |
+| 5   | +3    | 5     | Tier I        | 9    | Attacco Extra               |
+| 6   | +3    | 5     | Tier I        | 9    | Privilegio Specializzazione |
+| 7   | +3    | 5     | Tier I/II     | 12   | Movimento Distorto          |
+| 8   | +3    | 5     | Tier I/II     | 12   | Aumento di Caratteristica   |
+| 9   | +4    | 5     | Tier I/II     | 15   | Evasione                    |
+| 10  | +4    | 5     | Tier I/II/III | 15   | Privilegio Specializzazione |
+| 11  | +4    | 5     | Tier I/II/III | 18   | Surge di Byte               |
+| 12  | +4    | 5     | Tier I/II/III | 18   | Aumento di Caratteristica   |
+| 13  | +5    | 5     | Tier I/II/III | 21   | Tier III Powers             |
+| 14  | +5    | 5     | Tier I/II/III | 21   | Privilegio Specializzazione |
+| 15  | +5    | 5     | Tier I/II/III | 24   | Balzo Interdimensionale     |
+| 16  | +5    | 5     | Tier I/II/III | 24   | Aumento di Caratteristica   |
+| 17  | +6    | 5     | Tier I/II/III | 27   | Distorsione Permanente      |
+| 18  | +6    | 5     | Tier I/II/III | 27   | Privilegio Specializzazione |
+| 19  | +6    | 5     | Tier I/II/III | 30   | Aumento di Caratteristica   |
+| 20  | +6    | 5     | Tier I/II/III | 30   | Riscrittura della Realtà    |
 
 ---
+## Byte
+Il Glitch usa una risorsa chiamata **Byte** per alimentare i suoi poteri.
+I Byte si ricaricano completamente con un **riposo lungo**.
+Con un **riposo breve** recuperi la metà (per difetto) dei Byte rimanenti.
+Il massimo dei Byte è determinato dal livello.
 
-# CARATTERISTICHE DELLA CLASSE
-
----
-
-## Distorsione
-Al livello 1, la realtà intorno a te è instabile. Ottieni l’abilità di manipolare brevi scatti di energia glitch.  
-Molte delle tue capacità richiedono **Punti Focus** per funzionare.
-
----
-
-## Talenti
-Al livello 1 impari **4 Talenti Glitch**, piccole distorsioni senza costo.  
-Ne apprendi altri ai livelli 5, 9, 14 e 17.
-
-*(I talenti saranno elencati dopo la conferma di questa sezione.)*
-
----
+## Distorsione (Livello 1)
+Accedi alle tecniche glitch.  
+Ottieni **4 Quirk** al livello 1.
 
 ## Poteri
-Ottieni Poteri Glitch, suddivisi in tre Tier.  
-I poteri funzionano come incantesimi psionici, ma non sono magia.
+Sblocchi poteri in tre tier:
+- **Tier I** (livelli 1–6)
+- **Tier II** (livelli 7–13)
+- **Tier III** (livelli 14–20)
 
-- Tier I: livelli 1–6  
-- Tier II: livelli 7–13  
-- Tier III: livelli 14–20  
+Ogni potere consuma **Byte**.
 
-Ogni potere costa **1–4 Focus**.
+## Passo Distorto (Livello 2)
+**Azione Bonus**  
+Teletrasporto di **3 m**.  
+Non provoca attacchi di opportunità.  
+Usabile **INT (min 1)** volte per riposo breve.
 
----
+## Accelerazione Innaturale (Livello 7)
+Movimento e riflessi innaturali.  
+- **+1,5 m** velocità  
+- vantaggio ai TS che riducono movimento  
+- quando vieni colpito da un attacco in mischia: **puoi spendere 1 Byte** per ottenere **+2 CA** contro quell’attacco
 
-## Punti Focus
-Il Glitch usa una riserva di **Punti Focus** per alimentare i Poteri.
+## Schivata Fasata (Livello 9)
+Quando un effetto richiede un **TS DES** per metà danni:
+- 0 danni se superi il TS  
+- metà se fallisci  
+Usi per riposo lungo: **mod INT**.
 
-- Recuperi tutti i Focus con un **riposo breve o lungo**.
-- Non puoi superare il massimo indicato dalla tabella.
+## Surge di Byte (Livello 11)
+**Azione Bonus**  
+Recuperi 4 Byte.  
+1 uso / riposo lungo.
 
----
+## Balzo Interdimensionale (Livello 15)
+**Azione • 3 Byte • 1 minuto**
 
-## Passo Distorto (Liv. 2)
-Come azione bonus, spendi **1 Focus** per teletrasportarti di **9 metri** in uno spazio libero che puoi vedere.  
-Questo movimento **non provoca attacchi di opportunità**.
+Per la durata:
+- attraversi creature e oggetti  
+- vantaggio ai TS DES  
+- teletrasporto di 3 m ogni turno (gratis)
 
----
-## Specializzazione (Liv. 3)
-Scegli una tra:
-
-- **Codebreaker** (anti-magia, disruption)  
-- **Glitchblade** (combattimento in mischia, velocità)  
-- **Nanomancer** (costrutti e manipolazione fisica)
-
-Ricevi privilegi aggiuntivi ai livelli 6, 10, 14 e 18.
-
----
-
-## Attacco Extra (Liv. 5)
-Puoi attaccare due volte anziché una quando effettui l’azione Attacco.
-
----
-
-## Evasione (Liv. 9)
-Come il Ladro.
-
----
-
-## Surge di Focus (Liv. 11)
-Una volta per riposo lungo, recuperi **4 Focus** come azione bonus.
-
----
-
-## Balzo Interdimensionale (Liv. 15)
-Per un’azione, spendi **3 Focus** e entri in uno stato distorto:
-
-- puoi passare attraverso creature e oggetti difficili come fossero ombre,  
-- ottieni vantaggio ai tiri salvezza su DES,  
-- puoi teletrasportarti fino a 9 m a ogni turno senza costo.
-
-Dura 1 minuto.
-
----
-
-## Distorsione Permanente (Liv. 17)
-La realtà non riesce più a fissarti correttamente:
-
+## Distorsione Permanente (Livello 17)
 - immunità a rallentato, paralizzato, costretto  
-- puoi agire nel primo round anche se sorpreso  
-- Passo Distorto non costa più Focus una volta per turno
+- agisci anche se sorpreso  
+- puoi usare Passo Distorto 1 volta/turno gratis
+
+## Riscrittura della Realtà (Livello 20)
+**Azione • 1/Riposo Lungo**
+
+Scegli una opzione:
+
+1. Ritira un dado tirato entro 18 m  
+2. Annulla uno stato negativo su di te  
+3. Lancia un potere senza Byte
+
+Non altera eventi storici né aggira decisioni del GM.
 
 ---
+# Quirk Glitch
 
-## Riscrittura della Realtà (Liv. 20)
-Una volta per riposo lungo, puoi alterare un evento attorno a te:
 
-**Azione:** scegli una di queste:
+## Arma Vivente 
+**Passiva/Azione Bonus**
 
-1. **Inverti un dado:** ritira qualsiasi dado tirato da te o da un’altra creatura entro 18 m.  
-2. **Annulla un effetto:** termine immediato di uno stato negativo (anche mortale).  
-3. **Replica un potere:** lancia qualsiasi potere che conosci **senza costo**.
-
-Non puoi usare questa abilità per creare oggetti magici, riscrivere la storia o piegare la volontà del DM.
-
----
-## Quirk Glitch
-
-### Arma Vivente (Passivo)
 I tuoi attacchi senz’armi infliggono 1d6 + Forza.  
-Aumentano a 2d6 (liv. 5), 3d6 (liv. 10), 4d6 (liv. 15).  
-Come Azione Bonus puoi spendere 1 FP per aggiungere +1d6 al tuo prossimo attacco (max +3d6, 3 FP totali).
+Aumentano a 2d6 (liv. 5), 3d6 (liv. 10), 4d6 (liv. 15).
 
----
+**Azione Bonus:** puoi spendere 1 Byte per aggiungere +1d6 al tuo prossimo attacco  
+(massimo +3d6, costo totale 3 Byte).
 
-### Anomalia Minore
-Azione • Istantanea  
+
+## Anomalia Minore
+**Azione • Istantanea**
+
 Crei una distorsione sensoriale entro 9 m.  
 Ottieni vantaggio al prossimo tiro di Furtività o Inganno.
 
----
 
-### Passo Vacuo
-Azione Bonus • 1/Riposo Breve  
+## Passo Vacuo
+**Azione Bonus • 1/Riposo Breve**
+
 Teletrasportati di 1,5 m senza provocare attacchi di opportunità.  
-Se usato dopo aver colpito un bersaglio, ottieni vantaggio al prossimo TS su Destrezza entro 1 turno.
+Se usato dopo aver colpito un bersaglio → vantaggio al prossimo TS DES entro 1 turno.
+
+
+## Micro-Overclock
+**Reazione • 1/Riposo Breve**
+
+Ritira un tiro di Concentrazione fallito.  
+Tieni il secondo risultato.
+
+
+## Distorsione Cinetico-Vettoriale
+**Reazione • 6 m**
+
+**Offensivo**
+Quando tu o un alleato effettuate un attacco a distanza entro 9 m:
+- Conferisci vantaggio all’attacco.  
+- Se aveva già vantaggio: aggiunge +1d4 al tiro per colpire.
+
+**Difensivo**
+Quando un proiettile sta per colpirti entro 9 m:
+- Dimezzi il danno ricevuto.  
+- Dimezzi la gittata effettiva del proiettile per quell’attacco.
+
+Non funziona contro attacchi puramente energetici.
 
 ---
+# Tier I Powers
 
-### Micro-Overclock
-Reazione • 1/Riposo Breve  
-Ritira un tiro di Concentrazione fallito (tieni il secondo risultato).
 
----
+## Fractured Spark
+**1 Byte • Azione • 18 m**  
+Tiro per colpire (attacco a distanza con Distorsione)
 
-### Distorsione Cinetico-Vettoriale
-Reazione • 9 m  
+**Danno:** 1d8 forza  
+**Glitch:** il bersaglio ha svantaggio al suo prossimo tiro per colpire entro l’inizio del tuo prossimo turno.
 
-Quando tu o un alleato effettuate un attacco a distanza entro 9 m:  
-• Conferisci vantaggio all’attacco.  
-• Se aveva già vantaggio, aggiunge +1d4 al tiro per colpire.
 
-Quando un attacco a distanza basato su proiettile entro 9 m ti sta per colpire:  
-• Dimezzi il danno ricevuto.  
-• Dimezzi la gittata effettiva del proiettile per quell’attacco.  
-(Non funziona contro attacchi puramente energetici)
+## Laggy Step
+**2 Byte • Azione Bonus • Personale**
 
-## Tier I Powers
+Ti teletrasporti di 3 m in uno spazio che puoi vedere.  
+Ottieni +2 CA contro il primo attacco che ti colpisce prima dell’inizio del tuo prossimo turno.
 
----
 
-### **Fractured Spark**  
-**Costo:** 1 Focus , Azione 
-**Gittata:** 60 ft  
+## Kinetic Fold
+**2 Byte • Reazione • Personale**  
+*(Trigger: un attacco a distanza ti colpisce)*
 
-Lanci un impulso di codice instabile che distorce la traiettoria del mondo intorno al bersaglio.  
-**Tiro per Colpire:** attacco a distanza con la tua abilità da Glitch.  
-**Danno:** 1d8 forza.  
+Riduci il danno subito di:  
+1d10 + mod DES + metà del tuo livello da Glitch (per difetto).
 
-**Glitch:** il bersaglio ha svantaggio al suo prossimo tiro per colpire entro l'inizio del tuo prossimo turno.
+Se il danno viene ridotto a 0, puoi rilanciare l’attacco come parte della stessa reazione:  
+Gittata 6/18 m, 1d6 danni da forza, aggiungi competenza.
 
----
 
-### **Laggy Step**  
-**Costo:** 2 Focus, Azione Bonus
+## System Bug
+**2 Byte • Azione • 9 m • Fino a tre bersagli • TS Saggezza • 1 minuto**
 
-Ti “desincronizzi” per un istante, apparendo con un frame di ritardo nello spazio.  
-**Effetto:** ti teletrasporti fino a 10 ft in uno spazio che puoi vedere.  
-Ottieni +2 alla CA contro il primo attacco che ti colpisce prima dell’inizio del tuo prossimo turno.
+Le creature falliscono il TS vengono affette da un “bug” cognitivo:
 
----
+- non possono parlare  
+- non possono comunicare in alcun modo  
+- ogni tentativo appare come distorsione incomprensibile  
 
-### **Kinetic Fold**  
-**Costo:** 2 Focus, Reazione
-**Trigger:** un attacco ti colpisce  
+I bersagli ripetono il TS Saggezza alla fine di ogni loro turno.
 
-Piegando leggermente le leggi fisiche, distorci la traiettoria di un attacco a distanza entro 3m.  
-Riduci il danno subito di:
 
-1d10 + Mod DES + metà lv. Glitch (per difetto).  
+## Distortion Pulse
+**3 Byte • Azione • Cono 4,5 m • TS Forza**
 
-Se riduci il danno a 0, puoi rilanciare l'attacco a distanza come parte della stessa reazione:  
-20/60 ft, 1d6 danni, usi la tua competenza.
+Un’onda distorta emana da te.
 
----
-
-### **System Bug**  
-**Costo:** 2 Focus  
-**Azione:** 1 azione  
-**Gittata:** 30 ft  
-**Bersagli:** fino a tre creature  
-**TS:** Saggezza  
-
-Instilli un “bug” cognitivo nei bersagli, corrompendo temporaneamente il loro sistema percettivo e linguistico.
-
-**Fallimento:** per 1 minuto il bersaglio:  
-- non può parlare,  
-- non può comunicare (verbale, gestuale, telepatico, magico o tramite segnali),  
-- ogni suo tentativo viene percepito come distorsione incomprensibile.
-
-Il bersaglio può ripetere il TS alla fine di ogni suo turno.
-
-**Successo:** nessun effetto.
-
----
-
-### **Distortion Pulse**  
-**Costo:** 3 Focus  
-**Azione:** 1 azione  
-**Area:** cono da 15 ft  
-**TS:** Forza  
-
-Un’onda d’urto di spazio deformato esplode da te, ribaltando tutto ciò che tocca.  
-
-- **Fallimento:** 2d6 danni da forza + spinto di **10 ft**.  
-- **Successo:** metà danno, non spinto.
+**Fallimento:** 2d6 forza e spinta di 3 m  
+**Successo:** metà danno, non spinto
 
 ---
 # Tier II Powers
 
-## **Code Jam**
-**Azione** • **18 m** • **4 Focus** • **1 minuto (Concentrazione)**
 
-Sovraccarichi il codice mentale di una creatura entro portata.
+## Code Jam
+**4 Byte • Azione • 18 m • 1 minuto (Concentrazione)**  
+TS Saggezza
 
-TS Saggezza.  
-**Fallimento:** niente reazioni, svantaggio al prossimo attacco, velocità −3 m e **1d6 psichici** all’inizio del turno.  
-**Successo:** ignora l’effetto per questo turno e ripete il TS a fine turno.
+**Fallimento:**  
+- niente reazioni  
+- svantaggio al prossimo attacco  
+- velocità −3 m  
+- **1d6 psichici** a inizio turno  
 
----
-
-### Cognitive Hack
-**Azione**  
-**Costo:** 3 FP  
-**Range:** 9 m  
-**TS:** Saggezza  
-
-Rimappi in modo aggressivo i processi mentali di una creatura, accedendo e riscrivendo blocchi di memoria a breve e medio termine.
-
-La creatura deve superare un TS Saggezza.  
-Se fallisce:
-
-**1. Lettura della Memoria (ultime 12 ore)**  
-Accedi ai ricordi coscienti della creatura relativi alle ultime 12 ore:  
-eventi, luoghi, conversazioni, percezioni, emozioni e volti.  
-Le informazioni ti arrivano come un flusso disordinato ma comprensibile.
-
-**2. Sovrascrittura della Memoria (2 minuti)**  
-Cancelli fino a 2 minuti consecutivi di memoria delle ultime 12 ore e li sostituisci con un falso ricordo della stessa durata.  
-La creatura accetta il ricordo artificiale come reale e lo integra nella propria continuità mentale.
-
-**Persistenza del Ricordo Alterato**  
-Il ricordo falsificato rimane stabile finché non viene messo in dubbio.  
-Se un evento, una prova concreta o uno stimolo sensoriale contraddice direttamente il ricordo innestato, la creatura effettua un nuovo TS Saggezza:
-
-• **Successo:** rigetta il falso ricordo e recupera quello autentico. 
-• **Fallimento:** mantiene il ricordo alterato e razionalizza l’incongruenza.
-
-L’effetto non richiede concentrazione e la creatura non è consapevole della manipolazione, a meno che non disponga di mezzi soprannaturali per rilevare intrusioni mentali.
+Ripete TS a fine turno.
 
 
----
+## Cognitive Hack
+**3 Byte • Azione • 9 m • TS Saggezza**
 
-## **Static Echo Clone**
-**Azione** • **Personale** • **4 Focus** • **1 minuto (Concentrazione)**
+**Fallimento:**
 
-Crei un clone statico-glitch.
+1. Lettura Memoria (12 ore)
+Leggi i ricordi coscienti delle ultime 12h.
 
-**Clone:**  
-CA = tua CA − 1  
-PF = **⅓** dei tuoi PF massimi  
-Movimento = tuo − 3 m  
-Attacco: **1d8 forza**  
-Azioni: Attacco, Aiuto, Nascondersi, Schivare  
-Se oltre 18 m svanisce.  
-Se colpisce: il bersaglio ha svantaggio al prossimo TS.
+2. Riscrittura (2 minuti)
+Rimuovi 2 minuti continui delle ultime 12h e li sostituisci con un ricordo falso.
 
----
+3. Persistenza/Innesco
+Se qualcosa contraddice il ricordo:
+TS Saggezza:
+- **Successo:** ricordo reale ripristinato  
+- **Fallimento:** mantiene il falso ricordo e lo razionalizza
 
-## **Distortion Sink**
-**Azione** • **12 m** • **5 Focus** • **1 minuto (Concentrazione)**
 
-Crei un pozzo di distorsione di **3 m**.  
-Puoi cambiare modalità con un’azione bonus.
+## Static Echo Clone
+**4 Byte • Azione • Personale • 1 minuto (Concentrazione)**
+
+Crea un clone statico-glitch.
+
+- CA = tua CA − 1  
+- PF = 1/3 dei tuoi PF massimi  
+- Move = tuo − 3 m  
+- Attacco: 1d8 forza  
+- Azioni: Attaccare, Aiutare, Nascondersi, Schivare  
+- Oltre 18 m → svanisce  
+- Se colpisce → svantaggio al prossimo TS del bersaglio
+
+
+## Distortion Sink
+**5 Byte • Azione • 12 m • 1 minuto (Concentrazione)**  
+Area: **3 m**
+
+Puoi alternare modalità come Azione Bonus.
 
 **Momentum Drain**
-Il pozzo rallenta gli avversari e drena il loro slancio.
-
-• Le creature nell’area devono spendere **1,5 m extra** per ogni metro mosso.  
-• Per ogni 1,5 m extra che un nemico spende, tu guadagni 1,5 m di movimento fino alla fine del tuo prossimo turno.
+- Nemici: +1,5 m costo per muoversi ogni 1 m  
+- Per ogni 1,5 m extra spesi dai nemici → tu guadagni 1,5 m di movimento
 
 **Scrambleverse**
-Lo spazio locale si frattura in micro-realtà.
+- Svantaggio agli attacchi melee su te/alleati nell’area  
+- Immunità totale ai proiettili non magici
 
-• I nemici hanno svantaggio agli attacchi in mischia contro te e i tuoi alleati nell’area.  
-• Le creature nell’area sono immuni ai proiettili e armi a distanza non magiche (i proiettili “slittano” fuori traiettoria).
+ **Logic Collapse**
+- Svantaggio ai TS DES  
+- Se falliscono di 5+ → **1d8 psichici**
 
-**Logic Collapse**
-Le strutture logiche si disassemblano.
 
-• Le creature nell’area hanno svantaggio ai TS DEX.  
-• Se falliscono un attacco o TS di 5 o più → prendono 1d8 psichici.
+## Vector Crush
+**6 Byte • Azione • 12 m • Istantaneo**  
+TS Forza
+
+**Fallimento:**  
+- 3d10 forza  
+- spinta 9 m  
+**Successo:** dimezzi spinta e danni
+
+**Collisione:** +2d6 forza  
+**Potenziare:** +1 Byte → +1d10
+
+---
+# Tier III Powers
+
+
+## Paradox Blast
+**8 Byte • Azione • 18 m**
+
+Un fulmine di energia "paradossale" che spacca la realtà.
+
+- **6d10 psichici**  
+- ignora tutte le resistenze  
+- se il bersaglio è a metà PF o meno → **raddoppi i dadi**
+
+
+## Clockfreeze Bubble
+**9 Byte • Azione • 18 m • Sfera 6 m • 1 min (Concentrazione)**
+
+Una bolla anti-tempo.
+
+I bersagli subiscono:
+- velocità 0  
+- svantaggio a: TS, prove, attacchi subiti  
+- TS COS a fine turno per finire l’effetto
+
+
+## Kernel Overclock
+**9 Byte • Azione • Personale • 1 min (Concentrazione)**
+
+Potenzia il tuo corpo oltre i limiti.
+
+Per la durata:
+- +6 m movimento, il movimento non crea attacchi di opportunità.
+- gli attacchi meelee infliggono +6d6 forza.
+- svantaggio all'esser colpiti.
+
+**Fine Carica:**
+Tu e chiunque entro 6m subite 6d6 forza  
 
 ---
 
-## **Vector Crush**
-**Azione** • **12 m** • **6 Focus** • **Istantaneo**
+# Specializzazioni del Glitch
+Ogni Specializzazione fornisce privilegi al **3, 6, 10, 14, 18**.
 
-Forzi brutalmente un vettore geometrico su una creatura entro portata.
+# CODEBREAKER
 
-TS **Forza**.  
-**Fallimento:** **4d10 forza** e spinta di 9 m.  
-**Successo:** metà danno, metà spinta.
 
-**Collisione:** Se spinto contro un ostacolo → +2d6 forza.  
-**Potenziare:** +1 Focus → +1d10 danni.
+## Byte Desync (3°)
+ **1 Byte • Reazione • 9 m**
+
+Quando una creatura entro 9 m:
+- lancia un incantesimo
+- usa un potere soprannaturale
+- attiva un oggetto tecnologico
+
+Puoi forzarne la “desincronizzazione”.
+
+TS INT del bersaglio.  
+**Fallimento:** l’azione fallisce e il bersaglio perde l’uso dell’effetto fino al suo prossimo turno.  
+**Successo:** svantaggio al prossimo tiro per colpire o TS.
+
+
+### Scramble Injection (6°)
+ **2 Byte • Azione Bonus • 9 m**
+
+Inietti un errore permanente nel suo flusso di calcolo.
+
+Per 1 minuto il bersaglio:
+- ha svantaggio ai TS contro i tuoi effetti
+- subisce +1d6 psichici la prima volta che ti colpisce ogni turno
+
+TS SAG a fine turno per terminare l’effetto.
+
+
+## Backtrace (10°)
+**3 Byte • Reazione** 
+
+Quando un nemico entro 9 m ti bersaglia con un attacco o potere:
+- ottieni vantaggio al TS o +4 CA fino alla fine dell’attacco
+- puoi immediatamente identificare tutti i suoi poteri / incantesimi / abilità soprannaturali
+
+Non richiede linea di vista: basta esserne bersaglio.
+
+
+## System Crash (14°)
+**5 Byte • Azione • 9 m**  
+TS INT
+
+Instilli un crash di processo nel bersaglio.
+
+**Fallimento:**
+- niente reazioni  
+- perde l’azione Bonus  
+- il primo attacco che fallisce → si autosubisce 2d10 psichici
+
+Dura 1 minuto. TS SAG a fine turno per terminare.
+
+
+### Cascade Failure (18°)
+**7 Byte • Azione • 12 m • 1 minuto (Concentrazione)**
+
+Crei una zona di instabilità di 6 m.
+
+All’interno:
+- incantesimi richiedono TS per essere lanciati  
+- attacchi e TS dei nemici hanno svantaggio  
+- ogni volta che una creatura fallisce un TS: perde 1 Byte o 1 slot o 1 utilizzo di un’abilità ricaricabile.
+
+Potente contro caster e boss.
 
 ---
+# GLITCHBLADE
 
-## Tier III Glitch Powers
+
+### Blade Desync (3°)
+ **1 Byte • Azione Bonus**
+
+Per 1 minuto:
+- i tuoi attacchi senz’armi diventano attacchi di distorsione: ignorano resistenze e immunità non-magiche  
+- se colpisci due volte lo stesso bersaglio in un turno: applichi Fractured Spark gratis
+
+Usabile un numero di volte pari al tuo mod INT, ricarica con riposo lungo.
+
+
+### Distortion Step Mastery (6°)
+
+Passo Vacuo ora:
+- si usa due volte per riposo breve  
+- diventa 3 m invece di 1,5 m
+E quando lo usi:
+- il tuo prossimo attacco nel turno ha vantaggio
+
+
+### Speed Fold (10°)
+ **2 Byte • Azione Bonus**
+
+Per 1 turno:
+- ottieni +3 m movimento
+- puoi fare un attacco senz’armi aggiuntivo
+- quell’attacco aggiunge +1d6 forza
+
+
+### Phase Carve (14°)
+
+Quando colpisci una creatura:
+- puoi spendere 2 Byte per infliggere 2d8 psichici extra
+- il bersaglio subisce “Desync dell’Arma”: il suo prossimo attacco ha svantaggio
+
+Puoi applicarlo una volta per turno.
+
+
+### Overflow Velocity (18°)
+**5 Byte • Azione • Durata 1 minuto**
+
+Diventi un glitch vivente di pura velocità.
+
+Durante la durata:
+- movimento raddoppiato  
+- attacchi senz’armi = +1d8 forza
+- vantaggio ai TS DES
+- puoi Passo Vacuo ogni turno senza spendere cariche
+
+Una volta per riposo lungo.
 
 ---
+# NANOMANCER
 
-### Paradox Blast
-**Casting Time:** 1 azione  
-**Raggio:** 18 m  
-**Costo:** 8 Focus  
-**Durata:** Istantanea  
 
-Lanci un impulso di realtà invertita che collide con il mondo “al contrario”.
+### Nanite Swarmform (3°)
+ **1 Byte • Azione**
 
-Effetto:  
-- Effettua un attacco a distanza con la tua Distorsione.  
-- 6d10 danni psichici
-- Il colpo ignora tutte le resistenze.  
-- Se il bersaglio è a metà punti ferita o meno, raddoppi il danno dei dadi.
+Ti trasformi in uno **sciame di naniti** per 1 turno:
+- vantaggio ai TS DES
+- immunità a afferrare, trattenere e restrizione
+- puoi occupare spazi di creature nemiche
+- attacco speciale: 1d6 perforanti + mod INT
 
----
+Usabile mod INT volte per riposo lungo.
 
-### Clockfreeze Bubble
-**Casting Time:** 1 azione  
-**Raggio:** 18 m  
-**Area:** Sfera di 6 m  
-**Costo:** 9 Focus  
-**Durata:** 1 minuto (Concentrazione)
 
-Crei una bolla dove il tempo smette di funzionare.
+### Morphic Limbs (6°)
+**2 Byte • Azione Bonus**
 
-I bersagli nell’area subiscono:  
-- Velocità = 0  
-- Svantaggio a tutti i tiri salvezza  
-- Svantaggio a tutte le prove  
-- Gli attacchi contro di loro hanno vantaggio  
+Crea un potenziamento al corpo per 1 minuto:
 
-Alla fine del proprio turno, una creatura può effettuare un TS Costituzione per terminare l’effetto su di sé.
+Scegli **uno**:
+- **Braccia estese:** portata +1,5 m  
+- **Lama nanitica:** attacco senz’armi 2d6 taglienti  
+- **Tentacoli:** puoi spingere / tirare di 1,5 m come azione bonus
 
----
 
-### Kernel Overclock
-**Casting Time:** 1 azione  
-**Raggio:** Personale  
-**Costo:** 7 Focus  
-**Durata:** 1 minuto (Concentrazione)
+### Swarm Split (10°)
+ **3 Byte • Azione**
 
-Sovraccarichi il tuo “kernel”, rendendo il tuo corpo troppo veloce per essere renderizzato correttamente.
+Crei una copia di naniti (non un clone perfetto).  
+Dura 1 minuto.
 
-Per la durata:  
-- +6 m di movimento  
-- Una volta per turno, quando colpisci con un attacco → +3d6 danni da forza
+La copia:
+- PF = ¼ dei tuoi  
+- CA = tua − 2  
+- attacco 1d6 forza  
+- Azioni: Aiuto, Attacco, Distrarre
 
-**Esplosione di Fine Carica:**  
-Quando la concentrazione termina:  
-- Subisci 3d10 danni da forza  
-- Le creature entro 3 m subiscono 3d10 danni da forza
+Se la copia subisce danno pari a metà dei suoi PF max, esplode infliggendo 2d6 forza (3 m).
+
+
+### Adaptive Rebuild (14°)
+ **5 Byte • Reazione**
+
+Quando subisci danni:
+- riduci i danni di 1d12 + mod INT
+- recuperi 1 Byte
+- ottieni resistenza al tipo di danno subito finché non usi di nuovo questa abilità
+
+
+### Nanite Ascension (18°)
+**8 Byte • Azione • 1 minuto**
+
+Diventi un’entità biomeccanica superiore.
+Per la durata:
+- movimento di volo = movimento base  
+- Attacchi senz’armi: 3d6 forza  
+- immunità a perforante e tagliente non-magico  
+- puoi attraversare creature/oggetti come se fossero liquidi  
+- quando colpisci una creatura → essa perde 1 Byte / 1 uso / 1 slot
+
+Usabile 1/riposo lungo.
