@@ -1,11 +1,11 @@
 Il Glitch è un’anomalia vivente: un individuo disallineato rispetto alla realtà, capace di manipolare “errori” del mondo sotto forma di distorsioni fisiche, percettive e spazio-temporali.  
-La sua potenza deriva dal consumo di **Byte**, frammenti di coerenza che usa per piegare le regole dell’esistenza.
+La sua potenza deriva dal consumo di Byte, frammenti di coerenza che usa per piegare le regole dell’esistenza.
 
 ---
 # Privilegi di Classe del Glitch
 
 ## Dado Vita
-**d8** per livello
+d8 per livello
 
 ## Competenze
 **Armature:** nessuna
@@ -42,14 +42,14 @@ La sua potenza deriva dal consumo di **Byte**, frammenti di coerenza che usa per
 
 ---
 ## Byte
-Il Glitch usa una risorsa chiamata **Byte** per alimentare i suoi poteri.
-I Byte si ricaricano completamente con un **riposo lungo**.
-Con un **riposo breve** recuperi la metà (per difetto) dei Byte rimanenti.
+Il Glitch usa una risorsa chiamata Byte per alimentare i suoi poteri.
+I Byte si ricaricano completamente con un riposo lungo.
+Con un riposo breve recuperi la metà (per difetto) dei Byte rimanenti.
 Il massimo dei Byte è determinato dal livello.
 
 ## Distorsione (Livello 1)
 Accedi alle tecniche glitch.  
-Ottieni **4 Quirk** al livello 1.
+Ottieni 4 Quirk al livello 1.
 
 ## Poteri
 Sblocchi poteri in tre tier:
@@ -57,25 +57,26 @@ Sblocchi poteri in tre tier:
 - **Tier II** (livelli 7–13)
 - **Tier III** (livelli 14–20)
 
-Ogni potere consuma **Byte**.
+Ogni potere consuma Byte.
 
 ## Passo Distorto (Livello 2)
-**Azione Bonus**  
-Teletrasporto di **3 m**.  
+**Azione Bonus**
+
+Teletrasporto di 3 m.  
 Non provoca attacchi di opportunità.  
-Usabile **INT (min 1)** volte per riposo breve.
+Usabile INT Mod volte per riposo breve.
 
 ## Accelerazione Innaturale (Livello 7)
 Movimento e riflessi innaturali.  
-- **+1,5 m** velocità  
+- +1,5 m velocità  
 - vantaggio ai TS che riducono movimento  
-- quando vieni colpito da un attacco in mischia: **puoi spendere 1 Byte** per ottenere **+2 CA** contro quell’attacco
+- quando vieni colpito da un attacco in mischia: puoi spendere 1 Byte per ottenere +2 CA contro quell’attacco
 
 ## Schivata Fasata (Livello 9)
-Quando un effetto richiede un **TS DES** per metà danni:
+Quando un effetto richiede un TS DES per metà danni:
 - 0 danni se superi il TS  
 - metà se fallisci  
-Usi per riposo lungo: **mod INT**.
+Usi per riposo lungo: mod INT.
 
 ## Surge di Byte (Livello 11)
 **Azione Bonus**  
@@ -246,14 +247,15 @@ TS Saggezza:
 
 Crea un clone statico-glitch.
 
-- CA = tua CA − 1  
-- PF = 1/3 dei tuoi PF massimi  
-- Move = tuo − 3 m  
-- Attacco: 1d8 forza  
-- Azioni: Attaccare, Aiutare, Nascondersi, Schivare  
-- Oltre 18 m → svanisce  
-- Se colpisce → svantaggio al prossimo TS del bersaglio
-
+| Caratteristica      | Valore                                   |
+|---------------------|-------------------------------------------|
+| CA                  | Tua CA - 1                                |
+| Punti Ferita (PF)   | 1/3 dei tuoi PF massimi                   |
+| Movimento           | Tuo movimento - 3 m                       |
+| Attacco             | 1d8 danni da forza                        |
+| Azioni disponibili  | Attaccare, Aiutare, Nascondersi, Schivare |
+| Raggio operativo    | Oltre 18 m → svanisce                     |
+| Effetto speciale    | Se colpisce → svantaggio al prossimo TS   |
 
 ## Distortion Sink
 **5 Byte • Azione • 12 m • 1 minuto (Concentrazione)**  
