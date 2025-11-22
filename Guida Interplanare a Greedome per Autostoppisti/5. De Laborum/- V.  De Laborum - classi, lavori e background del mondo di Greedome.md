@@ -8,7 +8,7 @@
 | **[[Glitch]]**        | T    | Essere corrotto o digitale, manipola errori di realtà. |
 | **[[Magus]]**         | M/F  | Guerriero che fonde incanto e acciaio.                 |
 | **[[Psionic]]**       | M    | Potere mentale, telepatia, telecinesi.                 |
-| **[[Shaman]]**        | M    | Intermediario tra spiriti e uomini.                    |
+| **[[Warlock]]**       | M    | Intermediario tra spiriti e uomini.                    |
 | **[[Witch]]**         | M    | Maledizioni e patti oscuri.                            |
 | **[[Cardmaster]]**    | M    | Fato e fortuna incantati nelle carte.                  |
 | **[[Bloodhunter]]**   | M    | Potere nel sangue e sacrificio.                        |
