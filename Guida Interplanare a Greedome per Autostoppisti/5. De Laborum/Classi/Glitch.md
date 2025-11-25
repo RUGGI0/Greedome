@@ -4,6 +4,7 @@ La sua potenza deriva dal consumo di Byte, frammenti di coerenza che usa per pie
 ---
 # Privilegi di Classe Glitch
 
+
 ## Dado Vita
 d8 per livello
 
@@ -112,11 +113,12 @@ Scegli una opzione:
 ## Arma Vivente
 **Passiva/Azione Bonus**
 
-I tuoi attacchi senz’armi infliggono 1d6 + STR.
+I tuoi attacchi senz’armi infliggono 1d6 + Mod STR.
 Aumentano a 2d6 (liv. 5), 3d6 (liv. 10), 4d6 (liv. 15).
 
 **Azione Bonus:** puoi spendere 1 Byte per aggiungere +1d6 al tuo prossimo attacco
 (massimo +3d6, costo totale 3 Byte).
+
 
 ## Anomalia Minore
 **Azione • Istantanea**
@@ -124,17 +126,20 @@ Aumentano a 2d6 (liv. 5), 3d6 (liv. 10), 4d6 (liv. 15).
 Crei una distorsione sensoriale entro 9 m.
 Ottieni vantaggio al prossimo tiro di Furtività o Inganno.
 
+
 ## Passo Vacuo
 **Azione Bonus • 1/Riposo Breve**
 
 Teletrasportati di 1,5 m senza provocare attacchi di opportunità.
 Se usato dopo aver colpito un bersaglio → vantaggio al prossimo TS DEX entro 1 turno.
 
+
 ## Micro-Overclock
 **Reazione • 1/Riposo Breve**
 
 Ritira un tiro di Concentrazione fallito.
 Tieni il secondo risultato.
+
 
 ## Distorsione Cinetico-Vettoriale
 **Reazione • 6 m**
@@ -154,20 +159,23 @@ Non funziona contro attacchi puramente energetici.
 ---
 # Tier I Powers
 
-## Fractured Spark
+
+## Scintilla Distorta
 **1 Byte • Azione • 18 m**
 Tiro per colpire (attacco a distanza con Distorsione)
 
-**Danno:** 1d8 STR
+**Danno:** 1d8 + Mod INT
 **Glitch:** il bersaglio ha svantaggio al suo prossimo tiro per colpire entro l’inizio del tuo prossimo turno.
 
-## Laggy Step
+
+## Passo Laggante
 **2 Byte • Azione Bonus • Personale**
 
 Ti teletrasporti di 3 m in uno spazio che puoi vedere.
 Ottieni +2 CA contro il primo attacco che ti colpisce prima dell’inizio del tuo prossimo turno.
 
-## Kinetic Fold
+
+## Ripiegamento Cinetico
 **2 Byte • Reazione • Personale**
 *(Trigger: un attacco a distanza ti colpisce)*
 
@@ -175,9 +183,10 @@ Riduci il danno subito di:
 1d10 + Mod DEX + metà del tuo livello da Glitch (per difetto).
 
 Se il danno viene ridotto a 0, puoi rilanciare l’attacco come parte della stessa reazione:
-Gittata 6/18 m, 1d6 danni da STR, aggiungi competenza.
+Gittata 6/18 m, 1d6 + Mod STR, aggiungi competenza.
 
-## System Bug
+
+## Bug Sistemico
 **2 Byte • Azione • 9 m • Fino a tre bersagli • TS WIS • 1 minuto**
 
 Le creature che falliscono il TS vengono affette da un “bug” cognitivo:
@@ -188,19 +197,20 @@ Le creature che falliscono il TS vengono affette da un “bug” cognitivo:
 
 I bersagli ripetono il TS WIS alla fine di ogni loro turno.
 
-## Distortion Pulse
+
+## Impulso Distorsivo
 **3 Byte • Azione • Cono 4,5 m • TS STR**
 
 Un’onda distorta emana da te.
 
-**Fallimento:** 2d6 STR e spinta di 3 m
+**Fallimento:** 2d6 + Mod STR e spinta di 3 m
 **Successo:** metà danno, non spinto
 
 ---
 # Tier II Powers
 
 
-## Code Jam
+## "Jamm'd!"
 **4 Byte • Azione • 18 m • 1 minuto (Concentrazione)**
 TS WIS
 
@@ -212,7 +222,8 @@ TS WIS
 
 Ripete TS a fine turno.
 
-## Cognitive Hack
+
+## Hackeraggio Cognitivo
 **3 Byte • Azione • 9 m • TS WIS**
 
 **Fallimento:**
@@ -229,56 +240,59 @@ TS WIS:
 - **Successo:** ricordo reale ripristinato
 - **Fallimento:** mantiene il falso ricordo e lo razionalizza
 
-## Static Echo Clone
+
+## Clone d’Eco Statico
 **4 Byte • Azione • Personale • 1 minuto (Concentrazione)**
 
 Crea un clone statico-glitch.
 
-| Caratteristica      | Valore                                   |
-|---------------------|-------------------------------------------|
-| CA                  | Tua CA - 1                                |
-| Punti Ferita (PF)   | 1/3 dei tuoi PF massimi                   |
-| Movimento           | Tuo movimento - 3 m                       |
-| Attacco             | 1d8 danni da STR                        |
-| Azioni disponibili  | Attaccare, Aiutare, Nascondersi, Schivare |
-| Raggio operativo    | Oltre 18 m → svanisce                     |
-| Effetto speciale    | Se colpisce → svantaggio al prossimo TS   |
+| Caratteristica     | Valore                                    |
+| ------------------ | ----------------------------------------- |
+| CA                 | Tua CA - 1                                |
+| Punti Ferita (PF)  | 1/3 dei tuoi PF massimi                   |
+| Movimento          | Tuo movimento - 3 m                       |
+| Attacco            | 1d8 + Mod STR                             |
+| Azioni disponibili | Attaccare, Aiutare, Nascondersi, Schivare |
+| Raggio operativo   | Oltre 18 m → svanisce                     |
+| Effetto speciale   | Se colpisce → svantaggio al prossimo TS   |
 
-## Distortion Sink
+
+## Maelstrom Distorsivo
 **5 Byte • Azione • 12 m • 1 minuto (Concentrazione)**
 Area: **3 m**
 
 Puoi alternare modalità come Azione Bonus.
 
-**Momentum Drain**
+**Assorbimento Cinetico**
 - Nemici: +1,5 m costo per muoversi ogni 1 m
 - Per ogni 1,5 m extra spesi dai nemici → tu guadagni 1,5 m di movimento
 
-**Scrambleverse**
+**Mondo Distorto**
 - Svantaggio agli attacchi melee su te/alleati nell’area
 - Immunità totale ai proiettili non magici
 
-**Logic Collapse**
+**Collasso Logico**
 - Svantaggio ai TS DEX
 - Se falliscono di 5+ → **1d8 psichici**
 
-## Vector Crush
+
+## Schianto Vettoriale
 **6 Byte • Azione • 12 m • Istantaneo**
 TS STR
 
 **Fallimento:**
-- 3d10 STR
+- 3d10 + Mod STR
 - spinta 9 m
 **Successo:** dimezzi spinta e danni
 
-**Collisione:** +2d6 STR
+**Collisione:** +2d6 + Mod STR
 **Potenziare:** +1 Byte → +1d10
 
 ---
 # Tier III Powers
 
 
-## Paradox Blast
+## Deflagrazione Paradossale
 **8 Byte • Azione • 18 m**
 
 Un fulmine di energia "paradossale" che spacca la realtà.
@@ -287,7 +301,8 @@ Un fulmine di energia "paradossale" che spacca la realtà.
 - ignora tutte le resistenze
 - se il bersaglio è a metà PF o meno → **raddoppi i dadi**
 
-## Clockfreeze Bubble
+
+## Bolla Temporale
 **9 Byte • Azione • 18 m • Sfera 6 m • 1 min (Concentrazione)**
 
 Una bolla anti-tempo.
@@ -297,27 +312,29 @@ I bersagli subiscono:
 - svantaggio a: TS, prove, attacchi subiti
 - TS CON a fine turno per finire l’effetto
 
-## Kernel Overclock
+
+## Overclock del Kernel
 **9 Byte • Azione • Personale • 1 min (Concentrazione)**
 
 Potenzia il tuo corpo oltre i limiti.
 
 Per la durata:
 - +6 m movimento, il movimento non crea attacchi di opportunità.
-- gli attacchi meelee infliggono +6d6 STR.
+- gli attacchi meelee infliggono +6d6 + Mod STR.
 - svantaggio all'esser colpiti.
 
 **Fine Carica:**
-Tu e chiunque entro 6m subite 6d6 STR
+Tu e chiunque entro 6m subite 6d6 + Mod STR
 
 ---
 # Specializzazioni
 
+---
 
 ## CODEBREAKER
 
 
-## Byte Desync (3°)
+## Desincronizzatore Autonomo (3°)
 **1 Byte • Reazione • 9 m**
 
 Quando una creatura entro 9 m:
@@ -325,13 +342,14 @@ Quando una creatura entro 9 m:
 - usa un potere soprannaturale
 - attiva un oggetto tecnologico
 
-Puoi STRrne la “desincronizzazione”.
+Puoi forzarne la “desincronizzazione”.
 
 TS INT del bersaglio.
 **Fallimento:** l’azione fallisce e il bersaglio perde l’uso dell’effetto fino al suo prossimo turno.
 **Successo:** svantaggio al prossimo tiro per colpire o TS.
 
-### Scramble Injection (6°)
+
+## Upload Corrotto (6°)
 **2 Byte • Azione Bonus • 9 m**
 
 Inietti un errore permanente nel suo flusso di calcolo.
@@ -342,7 +360,8 @@ Per 1 minuto il bersaglio:
 
 TS WIS a fine turno per terminare l’effetto.
 
-## Backtrace (10°)
+
+## Retromappatura (10°)
 **3 Byte • Reazione**
 
 Quando un nemico entro 9 m ti bersaglia con un attacco o potere:
@@ -351,7 +370,8 @@ Quando un nemico entro 9 m ti bersaglia con un attacco o potere:
 
 Non richiede linea di vista: basta esserne bersaglio.
 
-## System Crash (14°)
+
+## Collasso Sistemico (14°)
 **5 Byte • Azione • 9 m**
 TS INT
 
@@ -365,7 +385,8 @@ Instilli un crash di processo nel bersaglio.
 Dura 1 minuto.
 TS WIS a fine turno per terminare.
 
-### Cascade Failure (18°)
+
+## BSOD (18°)
 **7 Byte • Azione • 12 m • 1 minuto (Concentrazione)**
 
 Crei una zona di instabilità di 6 m.
@@ -380,7 +401,7 @@ All’interno:
 # GLITCHBLADE
 
 
-### Blade Desync (3°)
+## Lama Distorta (3°)
 **1 Byte • Azione Bonus**
 
 Per 1 minuto:
@@ -389,7 +410,8 @@ Per 1 minuto:
 
 Usabile un numero di volte pari al tuo Mod INT, ricarica con riposo lungo.
 
-### Distortion Step Mastery (6°)
+
+## Passo Distorto Asincrono (6°)
 
 Passo Vacuo ora:
 - si usa due volte per riposo breve
@@ -397,15 +419,17 @@ Passo Vacuo ora:
 E quando lo usi:
 - il tuo prossimo attacco nel turno ha vantaggio
 
-### Speed Fold (10°)
+
+## Velocità di Curvatura (10°)
 **2 Byte • Azione Bonus**
 
 Per 1 turno:
 - ottieni +3 m movimento
 - puoi fare un attacco senz’armi aggiuntivo
-- quell’attacco aggiunge +1d6 STR
+- quell’attacco aggiunge +1d6 + Mod STR
 
-### Phase Carve (14°)
+
+## Fendente Sfasato (14°)
 
 Quando colpisci una creatura:
 - puoi spendere 2 Byte per infliggere 2d8 psichici extra
@@ -413,14 +437,15 @@ Quando colpisci una creatura:
 
 Puoi applicarlo una volta per turno.
 
-### Overflow Velocity (18°)
+
+## Velocità Terminale (18°)
 **5 Byte • Azione • Durata 1 minuto**
 
 Diventi un glitch vivente di pura velocità.
 
 Durante la durata:
 - movimento raddoppiato
-- attacchi senz’armi = +1d8 STR
+- attacchi senz’armi = +1d8 + Mod STR
 - vantaggio ai TS DEX
 - puoi Passo Vacuo ogni turno senza spendere cariche
 
@@ -431,7 +456,7 @@ Una volta per riposo lungo.
 # NANOMANCER
 
 
-### Nanite Swarmform (3°)
+## Forma di Sciame Nanitico (3°)
 **1 Byte • Azione**
 
 Ti trasformi in uno **sciame di naniti** per 1 turno:
@@ -442,7 +467,8 @@ Ti trasformi in uno **sciame di naniti** per 1 turno:
 
 Usabile Mod INT volte per riposo lungo.
 
-### Morphic Limbs (6°)
+
+## Arti Morfici (6°)
 **2 Byte • Azione Bonus**
 
 Crea un potenziamento al corpo per 1 minuto:
@@ -452,21 +478,23 @@ Scegli **uno**:
 - **Lama nanitica:** attacco senz’armi 2d6 taglienti
 - **Tentacoli:** puoi spingere / tirare di 1,5 m come azione bonus
 
-### Swarm Split (10°)
+
+### Clone Nanitico (10°)
 **3 Byte • Azione**
 
 Crei una copia di naniti (non un clone perfetto).
-Dura 1 minuto.
+Dura 10 minuti.
 
-La copia:
-- PF = ¼ dei tuoi
-- CA = tua − 2
-- attacco 1d6 STR
-- Azioni: Aiuto, Attacco, Distrarre
+| Caratteristica | Valore                                                     |
+| -------------- | ---------------------------------------------------------- |
+| PF             | 1/4 dei tuoi                                               |
+| CA             | Tua CA - 2                                                 |
+| Attacco        | 1d6 + Mod STR                                              |
+| Azioni         | Aiuto, Attacco, Distrarre                                  |
+| Esplosione     | Se subisce metà PF max → Esplode per 2d6 + Mod STR (3 m^2) |
 
-Se la copia subisce danno pari a metà dei suoi PF max, esplode infliggendo 2d6 STR (3 m).
 
-### Adaptive Rebuild (14°)
+## Costituzione Adattiva (14°)
 **5 Byte • Reazione**
 
 Quando subisci danni:
@@ -474,15 +502,14 @@ Quando subisci danni:
 - recuperi 1 Byte
 - ottieni resistenza al tipo di danno subito finché non usi di nuovo questa abilità
 
-### Nanite Ascension (18°)
-**8 Byte • Azione • 1 minuto**
+
+## Ascensione Nanitica (18°)
+**8 Byte • Azione • 1 minuto • 1/riposo lungo**
 
 Diventi un’entità biomeccanica superiore.
 Per la durata:
 - movimento di volo = movimento base
-- Attacchi senz’armi: 3d6 STR
+- Attacchi senz’armi: 3d6 + Mod STR
 - immunità a perforante e tagliente non-magico
 - puoi attraversare creature/oggetti come se fossero liquidi
 - quando colpisci una creatura → essa perde 1 Byte / 1 uso / 1 slot
-
-Usabile 1/riposo lungo.
