@@ -4,9 +4,8 @@ La sua potenza deriva dal consumo di Byte, frammenti di coerenza che usa per pie
 ---
 # Privilegi di Classe Glitch
 
-
 ## Dado Vita
-d8 per livello
+d8.
 
 ## Competenze
 **Armature:** nessuna
@@ -20,17 +19,17 @@ d8 per livello
 
 | Liv | Bonus | Quirk | Poteri        | Byte | Caratteristiche             |
 | --- | ----- | ----- | ------------- | ---- | --------------------------- |
-| 1   | +2    | 5     | Tier I        | 3    | Distorsione, Quirk          |
+| 1   | +2    | 5     | Tier I        | 3    | Quirk, Tier I Powers        |
 | 2   | +2    | 5     | Tier I        | 3    | Passo Distorto              |
-| 3   | +2    | 5     | Tier I        | 6    | Specializzazione            |
+| 3   | +2    | 5     | Tier I        | 6    | Privilegio Specializzazione |
 | 4   | +2    | 5     | Tier I        | 6    | Aumento di Caratteristica   |
 | 5   | +3    | 5     | Tier I        | 9    | Attacco Extra               |
 | 6   | +3    | 5     | Tier I        | 9    | Privilegio Specializzazione |
-| 7   | +3    | 5     | Tier I/II     | 12   | Movimento Distorto          |
+| 7   | +3    | 5     | Tier I/II     | 12   | Accelerazione Innaturale    |
 | 8   | +3    | 5     | Tier I/II     | 12   | Aumento di Caratteristica   |
-| 9   | +4    | 5     | Tier I/II     | 15   | Evasione                    |
+| 9   | +4    | 5     | Tier I/II     | 15   | Schivata Sfasata            |
 | 10  | +4    | 5     | Tier I/II/III | 15   | Privilegio Specializzazione |
-| 11  | +4    | 5     | Tier I/II/III | 18   | Surge di Byte               |
+| 11  | +4    | 5     | Tier I/II/III | 18   | Cheat-a-Byte                |
 | 12  | +4    | 5     | Tier I/II/III | 18   | Aumento di Caratteristica   |
 | 13  | +5    | 5     | Tier I/II/III | 21   | Tier III Powers             |
 | 14  | +5    | 5     | Tier I/II/III | 21   | Privilegio Specializzazione |
@@ -48,12 +47,9 @@ I Byte si ricaricano completamente con un riposo lungo.
 Con un riposo breve recuperi la metà (per difetto) dei Byte rimanenti.
 Il massimo dei Byte è determinato dal livello.
 
-## Distorsione (Livello 1)
-Accedi alle tecniche glitch.
-Ottieni 4 Quirk al livello 1.
-
-## Poteri
-Sblocchi poteri in tre tier:
+## Quirk e Poteri (Livello 1)
+Il Glitch ottiene accesso alle tecniche base, 5 Quirk.
+Sblocca poteri in tre tier:
 - **Tier I** (livelli 1–6)
 - **Tier II** (livelli 7–13)
 - **Tier III** (livelli 14–20)
@@ -68,19 +64,23 @@ Non provoca attacchi di opportunità.
 Usabile Mod INT volte per riposo breve.
 
 ## Accelerazione Innaturale (Livello 7)
-Movimento e riflessi innaturali.
+**Passiva**
+
 - +1,5 m velocità
 - vantaggio ai TS che riducono movimento
-- quando vieni colpito da un attacco in mischia: puoi spendere 1 Byte per ottenere +2 CA contro quell’attacco
+- quando vieni colpito da un attacco in mischia: puoi spendere 1 Byte come reazione per ottenere +2 CA contro quell’attacco. Max/riposo lungo: Mod INT
 
-## Schivata Fasata (Livello 9)
+## Schivata Sfasata (Livello 9)
+**Passiva**
+
 Quando un effetto richiede un TS DEX per metà danni:
 - 0 danni se superi il TS
 - metà se fallisci
 Usi per riposo lungo: Mod INT.
 
-## Surge di Byte (Livello 11)
+## Cheat-a-Byte (Livello 11)
 **Azione Bonus**
+
 Recuperi 4 Byte.
 1 uso / riposo lungo.
 
@@ -93,6 +93,8 @@ Per la durata:
 - teletrasporto di 3 m ogni turno (gratis)
 
 ## Distorsione Permanente (Livello 17)
+**Passiva**
+
 - immunità a rallentato, paralizzato, costretto
 - agisci anche se sorpreso
 - puoi usare Passo Distorto 1 volta/turno gratis
@@ -101,13 +103,13 @@ Per la durata:
 **Azione • 1/Riposo Lungo**
 
 Scegli una opzione:
-
-1. Ritira un dado tirato entro 18 m
+1. Riscrivi un evento accaduto di massimo 5min, entro 2 min e 36 m dal Glitch. 
 2. Annulla uno stato negativo su di te
-3. Lancia un potere senza Byte
+3. Lancia un potere senza consumare Byte
 
 ---
-# Quirk Glitch
+
+# Quirks
 
 
 ## Arma Vivente
@@ -116,12 +118,12 @@ Scegli una opzione:
 I tuoi attacchi senz’armi infliggono 1d6 + Mod STR.
 Aumentano a 2d6 (liv. 5), 3d6 (liv. 10), 4d6 (liv. 15).
 
-**Azione Bonus:** puoi spendere 1 Byte per aggiungere +1d6 al tuo prossimo attacco
-(massimo +3d6, costo totale 3 Byte).
+**Azione Bonus:** puoi spendere Byte per aggiungere +1d6 al tuo prossimo attacco
+(fino ad un massimo di 3 Byte spesi).
 
 
 ## Anomalia Minore
-**Azione • Istantanea**
+**Azione Bonus • 1/Riposo Breve**
 
 Crei una distorsione sensoriale entro 9 m.
 Ottieni vantaggio al prossimo tiro di Furtività o Inganno.
@@ -138,7 +140,6 @@ Se usato dopo aver colpito un bersaglio → vantaggio al prossimo TS DEX entro 1
 **Reazione • 1/Riposo Breve**
 
 Ritira un tiro di Concentrazione fallito.
-Tieni il secondo risultato.
 
 
 ## Distorsione Cinetico-Vettoriale
@@ -150,50 +151,47 @@ Quando tu o un alleato effettuate un attacco a distanza entro 9 m:
 - Se aveva già vantaggio: aggiunge +1d4 al tiro per colpire.
 
 **Difensivo**
-Quando un proiettile sta per colpirti entro 9 m:
+Quando un proiettile sta per colpirti, sparato entro 9 m:
 - Dimezzi il danno ricevuto.
 - Dimezzi la gittata effettiva del proiettile per quell’attacco.
 
-Non funziona contro attacchi puramente energetici.
+Non ha effetto contro attacchi puramente energetici/magici.
+
 
 ---
+
 # Tier I Powers
 
 
 ## Scintilla Distorta
 **1 Byte • Azione • 18 m**
-Tiro per colpire (attacco a distanza con Distorsione)
+
+Una spaccatura della realtà, simile ad un fulmine, che colpisce singoli bersagli con precisione.
 
 **Danno:** 1d8 + Mod INT
-**Glitch:** il bersaglio ha svantaggio al suo prossimo tiro per colpire entro l’inizio del tuo prossimo turno.
+Il bersaglio ha svantaggio al suo prossimo tiro per colpire.
 
 
 ## Passo Laggante
 **2 Byte • Azione Bonus • Personale**
 
-Ti teletrasporti di 3 m in uno spazio che puoi vedere.
-Ottieni +2 CA contro il primo attacco che ti colpisce prima dell’inizio del tuo prossimo turno.
+Il Glitch si teletrasporta di 3 m, in uno spazio vuoto che può vedere.
+Ottiene +2 CA contro il primo attacco.
 
 
 ## Ripiegamento Cinetico
 **2 Byte • Reazione • Personale**
-*(Trigger: un attacco a distanza ti colpisce)*
 
-Riduci il danno subito di:
-1d10 + Mod DEX + metà del tuo livello da Glitch (per difetto).
+Quando il Glitch bersagliato da un attacco a distanza, riduce il danno subito di 1d10 + lv. Glitch (arrotondato per difetto).
 
-Se il danno viene ridotto a 0, puoi rilanciare l’attacco come parte della stessa reazione:
-Gittata 6/18 m, 1d6 + Mod STR, aggiungi competenza.
+Se il danno viene ridotto a 0, può rilanciare l’attacco come parte della reazione stessa:
+Gittata 6/18 m, 1d6 + Mod STR + competenza.
 
 
 ## Bug Sistemico
 **2 Byte • Azione • 9 m • Fino a tre bersagli • TS WIS • 1 minuto**
 
-Le creature che falliscono il TS vengono affette da un “bug” cognitivo:
-
-- non possono parlare
-- non possono comunicare in alcun modo
-- ogni tentativo appare come distorsione incomprensibile
+Le creature che falliscono il TS vengono affette da un “bug” cognitivo, non possono comunicare in alcun modo, ogni tentativo appare come distorsione incomprensibile.
 
 I bersagli ripetono il TS WIS alla fine di ogni loro turno.
 
@@ -201,18 +199,21 @@ I bersagli ripetono il TS WIS alla fine di ogni loro turno.
 ## Impulso Distorsivo
 **3 Byte • Azione • Cono 4,5 m • TS STR**
 
-Un’onda distorta emana da te.
+Un’onda distorta, che ha il Glitch come epicentro.
 
 **Fallimento:** 2d6 + Mod STR e spinta di 3 m
-**Successo:** metà danno, non spinto
+**Successo:** metà danno.
+
 
 ---
+
 # Tier II Powers
 
 
-## "Jamm'd!"
-**4 Byte • Azione • 18 m • 1 minuto (Concentrazione)**
-TS WIS
+## Sabotaggio Sinaptico
+**4 Byte • Azione • 18 m • 1 minuto (Concentrazione) • TS WIS**
+
+Una creatura bersaglio viene colpita un misterioso malessere nervoso che le impedisce di muoversi e agire agevolmente.
 
 **Fallimento:**
 - niente reazioni
@@ -226,17 +227,13 @@ Ripete TS a fine turno.
 ## Hackeraggio Cognitivo
 **3 Byte • Azione • 9 m • TS WIS**
 
-**Fallimento:**
+Il Glitch ottiene l'accesso alla mente dei propri bersagli, rendendolo in grado di leggere e riscrivere la mente altrui.
 
-1. Lettura Memoria (12 ore)
-Leggi i ricordi coscienti delle ultime 12h.
+Il bersaglio compie un TS WIS, al fallimento:
+1. Lettura Memoria (12 ore): Leggi i ricordi coscienti delle ultime 12h.
+2. Riscrittura (2 minuti): Rimuovi 2 minuti continui delle ultime 12h e li sostituisci con un ricordo falso.
 
-2. Riscrittura (2 minuti)
-Rimuovi 2 minuti continui delle ultime 12h e li sostituisci con un ricordo falso.
-
-3. Persistenza/Innesco
-Se qualcosa contraddice il ricordo:
-TS WIS:
+Se il bersaglio viene in contatto con qualcosa che contraddice il ricordo, si ripete il TS WIS:
 - **Successo:** ricordo reale ripristinato
 - **Fallimento:** mantiene il falso ricordo e lo razionalizza
 
@@ -244,41 +241,39 @@ TS WIS:
 ## Clone d’Eco Statico
 **4 Byte • Azione • Personale • 1 minuto (Concentrazione)**
 
-Crea un clone statico-glitch.
+Crea un clone di elettricità statica.
 
-| Caratteristica     | Valore                                    |
-| ------------------ | ----------------------------------------- |
-| CA                 | Tua CA - 1                                |
-| Punti Ferita (PF)  | 1/3 dei tuoi PF massimi                   |
-| Movimento          | Tuo movimento - 3 m                       |
-| Attacco            | 1d8 + Mod STR                             |
-| Azioni disponibili | Attaccare, Aiutare, Nascondersi, Schivare |
-| Raggio operativo   | Oltre 18 m → svanisce                     |
-| Effetto speciale   | Se colpisce → svantaggio al prossimo TS   |
-
+| Caratteristica     | Valore                                                |
+| ------------------ | ----------------------------------------------------- |
+| CA                 | CA Glitch -2                                          |
+| Punti Ferita (PF)  | 1/3 PF Glitch massimi                                 |
+| Movimento          | Velocità Glitch -3 m                                  |
+| Attacco            | 1d6 + Mod STR                                         |
+| Azioni disponibili | azioni semplici possibili per un umanoide             |
+| Raggio operativo   | Oltre 18 m → svanisce                                 |
+| Effetto speciale   | Se colpisce → svantaggio al prossimo TS del bersaglio |
 
 ## Maelstrom Distorsivo
-**5 Byte • Azione • 12 m • 1 minuto (Concentrazione)**
-Area: **3 m**
+**5 Byte • Azione • 12 m • 2 minuti (Concentrazione) • Area 3 m**
 
-Puoi alternare modalità come Azione Bonus.
+Una sorta di "buco nero" della realtà, può alternare modalità come Azione Bonus.
 
 **Assorbimento Cinetico**
 - Nemici: +1,5 m costo per muoversi ogni 1 m
 - Per ogni 1,5 m extra spesi dai nemici → tu guadagni 1,5 m di movimento
 
 **Mondo Distorto**
-- Svantaggio agli attacchi melee su te/alleati nell’area
-- Immunità totale ai proiettili non magici
+- Svantaggio agli attacchi melee su Glitch e alleati nell’area
+- Immunità totale ai proiettili non magici, alleati e/o nemici
 
 **Collasso Logico**
-- Svantaggio ai TS DEX
+- I nemici ottengo svantaggio ai TS DEX
 - Se falliscono di 5+ → **1d8 psichici**
 
-
 ## Schianto Vettoriale
-**6 Byte • Azione • 12 m • Istantaneo**
-TS STR
+**6 Byte • Azione • 12 m • Istantaneo • TS STR**
+
+Il Glitch accelera un bersaglio lungo un vettore matematico, schiantandolo.
 
 **Fallimento:**
 - 3d10 + Mod STR
@@ -288,7 +283,9 @@ TS STR
 **Collisione:** +2d6 + Mod STR
 **Potenziare:** +1 Byte → +1d10
 
+
 ---
+
 # Tier III Powers
 
 
@@ -305,18 +302,18 @@ Un fulmine di energia "paradossale" che spacca la realtà.
 ## Bolla Temporale
 **9 Byte • Azione • 18 m • Sfera 6 m • 1 min (Concentrazione)**
 
-Una bolla anti-tempo.
+Crea una bolla all'interno della quale il tempo scorre più lentamente.
 
 I bersagli subiscono:
 - velocità 0
 - svantaggio a: TS, prove, attacchi subiti
-- TS CON a fine turno per finire l’effetto
+- TS CON a fine turno per terminare l’effetto
 
 
 ## Overclock del Kernel
 **9 Byte • Azione • Personale • 1 min (Concentrazione)**
 
-Potenzia il tuo corpo oltre i limiti.
+Potenzia il corpo del Glitch oltre i limiti di un umanoide.
 
 Per la durata:
 - +6 m movimento, il movimento non crea attacchi di opportunità.
@@ -324,7 +321,8 @@ Per la durata:
 - svantaggio all'esser colpiti.
 
 **Fine Carica:**
-Tu e chiunque entro 6m subite 6d6 + Mod STR
+Il Glitch e chiunque entro 6m subite 6d6 + Mod STR
+
 
 ---
 # Specializzazioni
@@ -337,14 +335,12 @@ Tu e chiunque entro 6m subite 6d6 + Mod STR
 ## Desincronizzatore Autonomo (3°)
 **1 Byte • Reazione • 9 m**
 
-Quando una creatura entro 9 m:
+Un Codebreaker può forzare una “desincronizzazione”, quando una creatura entro 9 m:
 - lancia un incantesimo
 - usa un potere soprannaturale
 - attiva un oggetto tecnologico
 
-Puoi forzarne la “desincronizzazione”.
-
-TS INT del bersaglio.
+Il bersaglio compie un TS INT.
 **Fallimento:** l’azione fallisce e il bersaglio perde l’uso dell’effetto fino al suo prossimo turno.
 **Successo:** svantaggio al prossimo tiro per colpire o TS.
 
@@ -352,7 +348,7 @@ TS INT del bersaglio.
 ## Upload Corrotto (6°)
 **2 Byte • Azione Bonus • 9 m**
 
-Inietti un errore permanente nel suo flusso di calcolo.
+Inietti un errore permanente nel suo flusso mentale di un bersaglio.
 
 Per 1 minuto il bersaglio:
 - ha svantaggio ai TS contro i tuoi effetti
@@ -372,18 +368,17 @@ Non richiede linea di vista: basta esserne bersaglio.
 
 
 ## Collasso Sistemico (14°)
-**5 Byte • Azione • 9 m**
-TS INT
+**5 Byte • Azione • 9 m • TS INT**
 
 Instilli un crash di processo nel bersaglio.
 
 **Fallimento:**
 - niente reazioni
 - perde l’azione Bonus
-- il primo attacco che fallisce → si autosubisce 2d10 psichici
+- il primo attacco che fallisce → subisce 2d10 psichici
 
 Dura 1 minuto.
-TS WIS a fine turno per terminare.
+TS WIS a fine turno per terminare l'effetto.
 
 
 ## BSOD (18°)
@@ -395,6 +390,7 @@ All’interno:
 - incantesimi richiedono TS per essere lanciati
 - attacchi e TS dei nemici hanno svantaggio
 - ogni volta che una creatura fallisce un TS: perde 1 Byte o 1 slot o 1 utilizzo di un’abilità ricaricabile.
+
 
 ---
 
@@ -412,11 +408,12 @@ Usabile un numero di volte pari al tuo Mod INT, ricarica con riposo lungo.
 
 
 ## Passo Distorto Asincrono (6°)
+**Passiva**
 
 Passo Vacuo ora:
-- si usa due volte per riposo breve
-- diventa 3 m invece di 1,5 m
-E quando lo usi:
+- due volte per riposo breve
+- spostamento di 3 m invece di 1,5 m
+All'uso:
 - il tuo prossimo attacco nel turno ha vantaggio
 
 
@@ -430,6 +427,7 @@ Per 1 turno:
 
 
 ## Fendente Sfasato (14°)
+**Passiva**
 
 Quando colpisci una creatura:
 - puoi spendere 2 Byte per infliggere 2d8 psichici extra
@@ -461,8 +459,8 @@ Una volta per riposo lungo.
 
 Ti trasformi in uno **sciame di naniti** per 1 turno:
 - vantaggio ai TS DEX
-- immunità a afferrare, trattenere e restrizione
-- puoi occupare spazi di creature nemiche
+- immunità a afferrare, trattenere, restrizione, proiettili fisici
+- puoi occupare spazi di creature nemiche, non provochi attacchi di oppurtunità
 - attacco speciale: 1d6 perforanti + Mod INT
 
 Usabile Mod INT volte per riposo lungo.
@@ -474,7 +472,7 @@ Usabile Mod INT volte per riposo lungo.
 Crea un potenziamento al corpo per 1 minuto:
 
 Scegli **uno**:
-- **Braccia estese:** portata +1,5 m
+- **Braccia estensibili:** portata +1,5 m
 - **Lama nanitica:** attacco senz’armi 2d6 taglienti
 - **Tentacoli:** puoi spingere / tirare di 1,5 m come azione bonus
 
@@ -485,22 +483,24 @@ Scegli **uno**:
 Crei una copia di naniti (non un clone perfetto).
 Dura 10 minuti.
 
-| Caratteristica | Valore                                                     |
-| -------------- | ---------------------------------------------------------- |
-| PF             | 1/4 dei tuoi                                               |
-| CA             | Tua CA - 2                                                 |
-| Attacco        | 1d6 + Mod STR                                              |
-| Azioni         | Aiuto, Attacco, Distrarre                                  |
-| Esplosione     | Se subisce metà PF max → Esplode per 2d6 + Mod STR (3 m^2) |
+| Caratteristica     | Valore                                                |
+| ------------------ | ----------------------------------------------------- |
+| CA                 | CA Glitch -1                                          |
+| Punti Ferita (PF)  | 1/2 PF Glitch massimi                                 |
+| Movimento          | Velocità Glitch -3 m                                  |
+| Attacco            | 1d8 + Mod STR                                         |
+| Azioni disponibili | azioni semplici possibili per un umanoide             |
+| Effetto speciale   | Se colpisce → svantaggio al prossimo TS del bersaglio |
+| Esplosione         | A 0 PF → Esplode per 2d6 + Mod STR (3 m^2)            |
 
 
 ## Costituzione Adattiva (14°)
 **5 Byte • Reazione**
 
 Quando subisci danni:
-- riduci i danni di 1d12 + Mod INT
-- recuperi 1 Byte
-- ottieni resistenza al tipo di danno subito finché non usi di nuovo questa abilità
+- riduci i danni di 1d12 + Mod INT.
+- recuperi 1 Byte.
+- ottieni resistenza al tipo di danno subito finché non usi di nuovo questa abilità, o fino al prossimo riposo.
 
 
 ## Ascensione Nanitica (18°)
