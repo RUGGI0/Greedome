@@ -372,9 +372,8 @@ All'uso:
 **6 Byte • Azione Bonus**
 
 Per 1 turno:
-- ottieni +3 m movimento
+- ottieni +6 m movimento
 - puoi fare un attacco senz’armi aggiuntivo
-- quell’attacco aggiunge +1d6 + Mod STR
 
 ### Fendente Sfasato (14°)
 **Passiva • 1/turno**
