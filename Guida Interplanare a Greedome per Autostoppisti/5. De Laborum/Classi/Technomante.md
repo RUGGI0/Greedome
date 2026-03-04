@@ -1,192 +1,385 @@
-
-Il Technomante è uno studioso della tecnologia arcana. Dove il Glitch forza la realtà attraverso errori, il Technomante la comprende, la stabilizza e la costruisce.
+Il Technomante è uno studioso della tecnologia arcana: dove il Glitch forza la realtà attraverso errori, il Technomante la comprende, la stabilizza e la costruisce.
 Non piega il sistema. Lo progetta.
 
 ---
-
 # Privilegi di Classe Technomante
 
 ## Dado Vita
 d8.
 
 ## Competenze
-
 **Armature:** leggere, medie, scudi
 **Armi:** armi semplici, armi da fuoco
-**Strumenti:** strumenti da artigiano (es. strumenti da fabbro, da inventore, kit da hacker)
+**Strumenti:** strumenti da artigiano, arnesi da scasso
 **Tiri Salvezza:** CON, INT
 **Abilità:** 2 a scelta tra Arcana, Indagare, Percezione, Medicina, Storia, Rapidità di Mano
 
 ---
-
 # Tabella Technomante
 
-| Liv | Bonus | Disciplina | Protocolli | Patch | Caratteristiche                                    |
-| --- | ----- | ---------- | ---------- | ----- | -------------------------------------------------- |
-| 1   | +2    | —          | 1°         | —     | Protocolli techno-magici, Micro-Ingegneria Pratica |
-| 2   | +2    | —          | 1°         | 2     | Patch Hardware (Infondere Oggetto)                 |
-| 3   | +2    | 1          | 2°         | 2     | Disciplina (Specializzazione)                      |
-| 4   | +2    | 1          | 2°         | 2     | Aumento di Caratteristica                          |
-| 5   | +3    | 1          | 2°         | 2     | Privilegio Disciplina                              |
-| 6   | +3    | 1          | 3°         | 3     | Strumento Esperto                                  |
-| 7   | +3    | 1          | 3°         | 3     | Elaborazione Tattica Rapida                        |
-| 8   | +3    | 1          | 3°         | 3     | Aumento di Caratteristica                          |
-| 9   | +4    | 1          | 4°         | 3     | Privilegio Disciplina                              |
-| 10  | +4    | 1          | 4°         | 4     | Rete di Dispositivi Avanzata                       |
-| 11  | +4    | 1          | 4°         | 4     | Matrice di Memoria Arcano-Tecnica                  |
-| 12  | +4    | 1          | 4°         | 4     | Aumento di Caratteristica                          |
-| 13  | +5    | 1          | 5°         | 4     | —                                                  |
-| 14  | +5    | 1          | 5°         | 5     | Sincronizzazione Avanzata                          |
-| 15  | +5    | 1          | 5°         | 5     | Privilegio Disciplina                              |
-| 16  | +5    | 1          | 5°         | 5     | Aumento di Caratteristica                          |
-| 17  | +6    | 1          | 5°         | 5     | —                                                  |
-| 18  | +6    | 1          | 5°         | 6     | Maestro di Rete                                    |
-| 19  | +6    | 1          | 5°         | 6     | Aumento di Caratteristica                          |
-| 20  | +6    | —          | 5°         | 6     | Anima Arcano-Tecnica                               |
+| Liv | Bonus | Disciplina | Protocolli | Patch | Caratteristiche                    |
+| --- | ----- | ---------- | ---------- | ----- | ---------------------------------- |
+| 1   | +2    | —          | 1°         | —     | Protocolli, Micro-Ingegneria       |
+| 2   | +2    | —          | 1°         | 2     | Patch Hardware                     |
+| 3   | +2    | 1          | 2°         | 2     | Specializzazione, Strumento Giusto |
+| 4   | +2    | 1          | 2°         | 2     | Aumento di Caratteristica          |
+| 5   | +3    | 1          | 2°         | 2     | Privilegio Specializzazione        |
+| 6   | +3    | 1          | 3°         | 3     | Tech Savvy                         |
+| 7   | +3    | 1          | 3°         | 3     | Elaborazione Tattica Rapida        |
+| 8   | +3    | 1          | 3°         | 3     | Aumento di Caratteristica          |
+| 9   | +4    | 1          | 4°         | 3     | Privilegio Specializzazione        |
+| 10  | +4    | 1          | 4°         | 4     | Patch Migliorate                   |
+| 11  | +4    | 1          | 4°         | 4     | Matrice di Memoria                 |
+| 12  | +4    | 1          | 4°         | 4     | Aumento di Caratteristica          |
+| 13  | +5    | 1          | 5°         | 4     | —                                  |
+| 14  | +5    | 1          | 5°         | 5     | Sincronizzazione Avanzata          |
+| 15  | +5    | 1          | 5°         | 5     | Privilegio Specializzazione        |
+| 16  | +5    | 1          | 5°         | 5     | Aumento di Caratteristica          |
+| 17  | +6    | 1          | 5°         | 5     | Maestro di Rete                    |
+| 18  | +6    | 1          | 5°         | 6     | Privilegio Specializzazione        |
+| 19  | +6    | 1          | 5°         | 6     | Aumento di Caratteristica          |
+| 20  | +6    | —          | 5°         | 6     | IT-guy Definitivo                  |
 
 ---
 
-## Protocolli techno-magici (Livello 1)
+## Protocolli (Livello 1)
+**Passiva**
 
-Il Technomante è un mezzo incantatore. Non lancia "magie", ma esegue script, compila codice al volo o attiva gadget preassemblati.
-
-* **Caratteristica da incantatore:** INT
-* **Focus:** Usa strumenti da artigiano come focus (che possono apparire come terminali olografici, guanti aptici, un palmare, ...).
-* **Lista incantesimi:** Artificiere ufficiale 2025.
-* **Livello massimo:** 5°.
+Il Technomante non lancia "magie", ma esegue script di natura magica o tecnica.
+- **Caratteristica:** INT
+- **Focus:** Strumenti da artigiano (terminali olografici, guanti aptici, palmari).
+- **Lista:** Artificiere.
 
 ## Micro-Ingegneria Pratica (Livello 1)
-**Azione**
-Puoi infondere un minuscolo trucco tecnologico in un piccolo oggetto non magico. Scegli uno dei seguenti effetti:
+**Azione • Tocco**
 
-* L'oggetto emette luce (raggio 1,5 m).
-* L'oggetto riproduce un breve messaggio audio registrato.
-* L'oggetto emette un odore o un suono continuo.
-* Appare un'immagine olografica statica sulla superficie.
+Infondi un minuscolo trucco in un piccolo oggetto.
+Effetti possibili: luce, messaggio audio registrato, odore/suono continuo, ologramma statico.
 
-## Patch Hardware / Infondere Oggetto (Livello 2)
-Puoi riscrivere temporaneamente la matrice arcana di un oggetto non magico. Applichi dei veri e propri "Overclock" all'equipaggiamento alleato.
+## Patch Hardware (Livello 2)
+**Riposo Lungo • Tocco**
 
-* Il numero massimo di infusioni attive è determinato dal livello (vedi Tabella, colonna "Patch").
-* Le infusioni terminano al riposo lungo (i componenti si bruciano o le batterie si scaricano).
-* Nessuna creazione permanente, solo modifiche temporanee ad altissima resa.
+Riscrivi temporaneamente la matrice di un oggetto non magico ("Infusione").
+- **Durata:** fino al prossimo riposo lungo.
+- **Limite:** vedi colonna "Patch" nella tabella.
+- **Effetto:** Applica bonus numerici o proprietà speciali (es. +1 attacco/danni, +1 CA, creazione oggetti specifici).
 
-## Strumento Esperto (Livello 6)
+## Cacciavite Sonico (Livello 3)
+**1 ora • Strumenti da Artigiano**
 
+Crei uno strumento all-in-one capace di sostituire qualsiasi kit; per passare da una configurazione di kit all'altra serve 1 ora.
+
+## Tech Savvy (Livello 6)
 **Passiva**
-Il tuo legame con la tecnologia si affina. Il tuo bonus di competenza è raddoppiato per qualsiasi prova di abilità che effettui usando strumenti in cui hai competenza.
+
+Il tuo bonus di competenza è raddoppiato per qualsiasi prova di abilità che effettui usando strumenti in cui hai competenza.
 
 ## Elaborazione Tattica Rapida (Livello 7)
+**Reazione • 9 m • Mod INT/Riposo Lungo**
 
-**Reazione**
-La tua mente calcola le probabilità più velocemente di un computer. Quando tu o una creatura entro 9 metri da te effettuate un Tiro Salvezza o una prova di caratteristica, puoi usare la tua reazione per aggiungere il tuo Modificatore di Intelligenza al tiro.
-Usi per riposo lungo: Modificatore di Intelligenza.
+La tua mente calcola le probabilità più velocemente di un computer.
+Quando tu o una creatura entro 9 m effettuate un Tiro Salvezza o una prova di caratteristica:
+- Aggiungi il tuo Modificatore di Intelligenza al tiro.
 
-## Matrice di Memoria Arcano-Tecnica (Livello 11)
-
-**Azione**
-Al termine di un riposo lungo, puoi immagazzinare un protocollo (incantesimo) di 1° o 2° livello che richieda 1 Azione per essere lanciato in un'arma o in un focus. Qualsiasi creatura che impugna l'oggetto può usare un'Azione per produrre l'effetto dell'incantesimo, usando il tuo modificatore di Intelligenza.
-Cariche: 2 * Modificatore di Intelligenza.
-
-## Anima Arcano-Tecnica (Livello 20)
-
+## Patch Migliorate (Livello 10)
 **Passiva**
-Ottieni i benefici finali ufficiali dell'Artificiere 2025. La tua sintesi con la tecnologia è totale.
-Ottieni un bonus di +1 a tutti i Tiri Salvezza per ogni Patch Hardware attualmente attiva su di te. Inoltre, se scendi a 0 Punti Ferita, puoi terminare una delle tue infusioni per scendere invece a 1 Punto Ferita.
+
+L'efficienza del tuo codice migliora.
+- Le Patch che forniscono bonus numerici (attacco, CA, ecc.) aumentano di potenza (es. da +1 diventano +2).
+- Puoi sintonizzarti con un oggetto magico in più (fino a 4).
+
+## Matrice di Memoria (Livello 11)
+**Azione • Tocco • Riposo Lungo**
+
+Immagazzini un Protocollo (1° o 2° livello, tempo di lancio 1 Azione) in un oggetto.
+Chi impugna l'oggetto può usare un'Azione per lanciare il Protocollo usando la tua INT.
+**Usi:** 2 × Mod INT.
+
+## Sincronizzazione Avanzata (Livello 14)
+**Passiva**
+
+- Puoi sintonizzarti con un oggetto magico in più (fino a 5).
+- Ignori tutti i requisiti di classe, razza, incantesimi e livello per sintonizzarti o usare un oggetto magico.
+
+## Maestro di Rete (Livello 17)
+**Passiva**
+
+- Puoi sintonizzarti con un oggetto magico in più (fino a 6).
+
+## IT-guy Definitivo (Livello 20)
+**Passiva**
+
+La tua sintesi con la tecnologia è totale.
+- **Saving Throw:** +1 a tutti i TS per ogni Patch Hardware attiva su di te.
+- **Death Ward:** Se scendi a 0 PF, puoi terminare una Patch attiva per scendere invece a 1 PF.
+
+---
+# Patch Hardware (Infusioni)
+
+Le Patch Hardware sono modifiche al codice della realtà, applicate a oggetti fisici.
+
+### Servomotori Iper-Reattivi
+**Prerequisito: Armatura o abito • Riposo Lungo**
+
+Chi la indossa ottiene +1 alla CA. I servomotori correggono la postura e assorbono gli impatti cinetici minori.
+
+### Risonanza Cinetica
+**Prerequisito: Arma semplice o da guerra • Riposo Lungo**
+
+L'arma diventa un oggetto magico e ottiene un bonus di +1 ai tiri per colpire e ai danni.
+Vibra leggermente quando impugnata, cercando il bersaglio.
+
+### Caricatore a Sintesi Infinita
+**Prerequisito: Arma con proprietà munizioni • Riposo Lungo**
+
+L'arma genera autonomamente le proprie munizioni (proiettili di luce solida che svaniscono dopo l'impatto).
+- Ignora la proprietà "Ricarica" dell'arma.
+- Ottiene +1 ai tiri per colpire.
+- Danni magici.
+
+### Zaino a Compressione Spaziale
+**Prerequisito: Contenitore o zaino • Riposo Lungo**
+
+Lo spazio interno è piegato dimensionalmente.
+- Il contenitore può trasportare fino a 250 kg, ma pesa sempre e solo 7 kg.
+- L'apertura è larga 60 cm.
+- Recuperare un oggetto richiede un'Azione (l'interfaccia neurale lo porta in mano).
+
+### Visore a Spettro Completo
+**Prerequisito: Elmo o occhiali • Riposo Lungo**
+
+- Chi lo indossa ottiene Scurovisione fino a 18 m.
+- **Azione Bonus:** Attivi il filtro tattico. Non puoi essere sorpreso fino al tuo prossimo turno.
 
 ---
 
-# Discipline (Specializzazioni)
+# Protocolli
 
-Il Technomante sceglie una Disciplina al 3° livello.
+Il Technomante usa la lista incantesimi da Artificiere, ma ecco come appaiono visivamente i suoi "cast".
+
+### Spray Bio-Saldante (Cura Ferite)
+**1 Slot • Azione • Tocco**
+
+Un getto di schiuma medica o naniti che chiude le ferite istantaneamente.
+**Effetto:** La creatura recupera 1d8 + Mod INT Punti Ferita.
+
+### Scanner AR (Individuazione del Magico)
+**1 Slot • Azione • Personale**
+
+Attiva un overlay di Realtà Aumentata sulla retina.
+**Effetto:** Per 10 minuti, vedi le aure delle tecnologie arcane o delle anomalie entro 9 metri.
+
+### Deflettore di Emergenza (Scudo)
+**1 Slot • Reazione • Personale**
+
+Un emettitore da polso proietta un campo di forza esagonale istantaneo.
+**Effetto:** +5 alla CA fino all'inizio del tuo prossimo turno. Nega i Dardi Incantati (Micro-missili).
+
+### Micro-Missili a Ricerca (Dardo Incantato)
+**1 Slot • Azione • 36 m**
+
+Dalla spalla o dal braccio partono tre micro-razzi traccianti.
+**Effetto:** 3 dardi che colpiscono automaticamente. 1d4+1 danni da forza ciascuno.
+
+### Impulso Sonico (Onda Tonante)
+**1 Slot • Azione • Cubo 4,5 m**
+
+Una cassa di risonanza o un guanto sismico rilascia un'onda d'urto.
+**Effetto:** Ogni creatura nel cubo fa un TS CON. Fallimento: 2d8 danni da tuono e spinta di 3m.
+
+---
+# Discipline
 
 ---
 
 ## ARCHITETTO BELLICO
 
-L'Architetto Bellico (ex Battlesmith) unisce le sue competenze mediche e belliche alla progettazione di droni di supporto autonomi.
+### Calibrazione Marziale (3°)
+**Passiva**
 
-**Competenze Bonus (3°)**
-Ottieni competenza nelle armi da guerra.
+- Competenza in armi da guerra.
+- Quando attacchi con un'arma magica (o con Patch): usi Mod INT invece di STR/DEX per colpire e danni.
 
-**Calibrazione Marziale (3°)**
-Puoi usare il tuo Modificatore di Intelligenza al posto della Forza o Destrezza per i tiri per colpire e per i danni quando attacchi con un'arma magica (o un'arma che ha una tua Patch attiva).
+### Drone d'Assalto (3°)
+**Azione Bonus (Comando)**
 
-**Drone d'Assalto (3°)**
-Crei un Drone d'Assalto (Steel Defender) fedele. È un costrutto meccanico che agisce durante il tuo turno. Se non gli impartisci ordini tramite un'Azione Bonus, prenderà solo l'azione di Schivata.
+Crei un costrutto fedele che agisce subito dopo di te.
 
-**Attacco Extra (5°)**
-Puoi attaccare due volte, anziché una, quando usi l'Azione di Attacco nel tuo turno.
+| Caratteristica | Valore                                      |
+| :--- | :--- |
+| **CA** | 15 (o 10 + PB + DEX) |
+| **PF** | 2 + Mod INT + (5 × Liv Technomante) |
+| **Movimento** | 12 m |
+| **Reazione** | Svantaggio ad un attacco contro un alleato (1,5 m) |
+| **Azione** | Schivata (se non comandato) |
+| **Comando** | **Render:** 1d8 + PB Forza. |
 
-**Scarica Cinetica (9°)**
-Una volta per turno, quando colpisci un bersaglio con un attacco magico o il tuo Drone d'Assalto colpisce un bersaglio, puoi incanalare energia per:
+Se il Drone muore, puoi rianimarlo con uno Slot di 1° livello o riposo lungo.
 
-* Infliggere 2d6 danni da forza extra.
-* Curare 2d6 Punti Ferita a un bersaglio entro 9 metri.
+### Attacco Extra (5°)
+**Azione Extra**
 
-**Difensore Ottimizzato (15°)**
-La Scarica Cinetica aumenta a 4d6 e il tuo Drone d'Assalto guadagna un potenziamento passivo alla sua CA e un attacco reattivo migliorato.
+Puoi attaccare due volte quando usi l'azione di Attacco.
+
+### Scarica Cinetica (9°)
+**Colpo/Drone • Mod INT/Riposo Lungo**
+
+Quando tu o il drone colpite un bersaglio, incanali energia extra.
+Scegli uno:
+- **Danno:** 2d6 danni da forza extra al bersaglio.
+- **Cura:** 2d6 PF rigenerati a un alleato entro 9 m.
+
+### Difensore Ottimizzato (15°)
+**Passiva**
+
+- Scarica Cinetica sale a **4d6**.
+- Il Drone ottiene +2 CA.
+- Quando il Drone usa la sua reazione, infligge 1d4 + Mod INT danni da forza all'attaccante.
+
+### Protocollo Titano (18°)
+**Passiva • Sincronizzazione Totale**
+
+Tu e il tuo Drone combattete come un'unica entità perfetta.
+- Se tu e il Drone siete entro 9 m l'uno dall'altro: resistenza a tutti i danni per entrambi.
+- Il Drone può usare la Reazione per attaccare ogni volta che una creatura si muove nella sua portata (anche se non esce).
 
 ---
 
 ## INGEGNERE BALISTICO
 
-L'Ingegnere Balistico (ex Artillerist) è lo specialista del controllo dell'area e della potenza di fuoco pesante, capace di schierare torrette e armamenti devastanti.
+### Torretta Modulare (3°)
+**Azione Bonus • 1 uso Gratis, poi Slot/riposo lungo • 1 ora**
 
-**Torretta Modulare (3°)**
-Come Azione Bonus, puoi schierare una torretta automatizzata entro 1,5 metri da te. Scegli la modalità:
+Schieri una torretta magica (Piccola o Minuscola).
+Attivazione successiva: **Azione Bonus**.
+Puoi crearla gratuitamente una volta per riposo lungo, poi spendendo uno slot.
 
-* **Lanciafiamme:** Un cono di fuoco che brucia i nemici.
-* **Balista a Rotaia:** Spara proiettili a energia a lunga distanza.
-* **Generatore di Scudi:** Emette un campo di forza temporaneo che garantisce PF temporanei agli alleati vicini.
+| Modulo | Effetto |
+| :--- | :--- |
+| **Lanciafiamme** | Cono 4,5 m • TS DEX • 2d8 Fuoco (dimezza se salvo) |
+| **Balista** | Raggio 36 m • TxC Magico • 2d8 Forza + spinta 1,5 m |
+| **Protettore** | Raggio 3 m • Alleati ottengono 1d8 + Mod INT PF Temp |
 
-**Arma da Fuoco Arcano-Tecnica (5°)**
-Puoi convertire una bacchetta, bastone o verga in un'arma da fuoco arcana. Quando lanci un protocollo (incantesimo) attraverso questo oggetto, aggiungi un d8 a uno dei tiri per i danni dell'incantesimo.
+### Arma da Fuoco Arcano-Tecnica (5°)
+**Passiva**
 
-**Torretta Esplosiva (9°)**
-La tua torretta aumenta i suoi danni e i suoi effetti. Inoltre, come azione, puoi farla sovraccaricare e detonare, infliggendo ingenti danni ad area.
+Converti una arma da fuoco in focus offensivo.
+Quando lanci un Protocollo attraverso l'arma: +1d8 ai danni di un tiro dell'incantesimo.
 
-**Posizione Fortificata (15°)**
-Puoi avere due torrette attive contemporaneamente e ottieni una copertura passiva permanente finché sei vicino a esse.
+### Torretta Esplosiva (9°)
+**Azione • Distanza 18 m**
 
----
+- Danni delle torrette aumentano a **3d8**.
+- Puoi far esplodere la torretta: Raggio 6 m, TS DEX, **3d8 forza**.
 
-## PROGETTISTA DI ESOSCHELETRI
+### Posizione Fortificata (15°)
+**Passiva**
 
-Il Progettista di Esoscheletri (ex Armorer) si fonde con la propria creazione. Trasforma le armature in esoscheletri cibernetici all'avanguardia.
+- Puoi avere **due torrette** attive.
+- Tu e i tuoi alleati avete **Mezza Copertura** (+2 CA/TS DEX) se entro 3 m da una torretta.
 
-**Esoscheletro Arcano-Tecnico (3°)**
-Puoi trasformare un'armatura che indossi in un Esoscheletro. L'armatura si espande per coprirti completamente, non ha requisiti di Forza e può essere usata come focus per i tuoi incantesimi.
+### Bombardamento Orbitale (18°)
+**Azione • 1/Riposo Lungo**
 
-**Modalità Operativa (3°)**
-Puoi personalizzare l'Esoscheletro in due modalità:
-
-* **Guardiano:** Ottieni *Guanti a Repulsione* (attacchi in mischia che attirano l'attenzione dei nemici) e un campo di forza difensivo.
-* **Infiltratore:** Ottieni *Nodi Elettromagnetici* (attacchi a distanza), velocità di movimento bonus e vantaggio alle prove di Furtività grazie a un mimetismo ottico.
-
-**Attacco Extra (5°)**
-Puoi attaccare due volte, anziché una, quando usi l'Azione di Attacco nel tuo turno.
-
-**Modifiche Modulari (9°)**
-Il tuo Esoscheletro conta come più oggetti separati (elmo, stivali, arma, armatura) ai fini delle Patch Hardware, permettendoti di installare molte più infusioni contemporaneamente su te stesso.
-
-**Esoscheletro Perfetto (15°)**
-Entrambe le modalità operative guadagnano potenti miglioramenti offensivi e tattici (es. attirare nemici a te come Guardiano o infliggere danni extra e accecare come Infiltratore).
+Ordini alle tue torrette di rilasciare tutta la loro energia in un singolo istante devastante.
+Tutte le torrette attive emettono un impulso. Ogni creatura entro 9 m da una torretta deve fare un TS DEX.
+- **Danni:** 10d8 danni da forza (o fuoco, in base alla torretta).
+- Dimezza se supera il TS.
 
 ---
 
-## BIO-INGEGNERE ALCHEMICO
+## JUGGERNAUT
 
-Il Bio-Ingegnere Alchemico (ex Alchemist) manipola la biologia e la chimica, creando composti, stimpack e naniti curativi.
+### Esoscheletro Arcano-Tecnico (3°)
+**Azione • Personale**
 
-**Sintesi di Stimpack (3°)**
-Al termine di un riposo lungo, crei casualmente uno (o più) Stimpack sperimentali. Bere uno Stimpack richiede un'azione. Gli effetti variano: cure, velocità di movimento aumentata, bonus alla CA, o capacità di levitare temporaneamente.
+Trasformi l'armatura che indossi.
+- Nessun requisito di Forza.
+- Diventa Focus Arcano.
+- Sostituisce arti mancanti.
 
-**Catalizzatore Chimico (5°)**
-Il tuo strumento da alchimista diventa un inalatore o un iniettore tattico. Aggiungi il tuo Modificatore di Intelligenza a un tiro di dado quando lanci un incantesimo che cura Punti Ferita o infligge danni da acido, fuoco, necrotici o veleno.
+### Modalità Operativa (3°)
+**Azione Bonus (Cambio Assetto)**
 
-**Reagenti Rigeneranti (9°)**
-I tuoi Stimpack garantiscono Punti Ferita temporanei extra a chi li consuma e puoi lanciare versioni potenziate di protocolli di cura senza spendere slot.
+Configura l'armatura in uno dei due assetti (include competenza armi):
 
-**Maestria Chimica (15°)**
-Ottieni resistenza ai danni da acido e veleno, immunità alla condizione avvelenato e puoi usare incantesimi di altissimo livello (come Guarigione) usando le tue scorte chimiche avanzate.
+**Guardiano**
+- **Guanti Thunder:** 1d8 Tuono. Colpito = svantaggio ad attaccare altri.
+- **Campo:** Azione Bonus, ottieni PF Temp pari a Livello.
+
+**Infiltratore**
+- **Fulmine Launcher:** 1d6 (o 2d6) Fulmine. Gittata 27/90 m.
+- **Stealth:** +1,5 m movimento, Vantaggio a Furtività.
+
+### Attacco Extra (5°)
+**Azione Extra**
+
+Puoi attaccare due volte quando usi l'azione di Attacco.
+
+### Modifiche Modulari (9°)
+**Passiva**
+
+L'esoscheletro conta come più oggetti separati (Armatura, Elmo, Stivali, Arma) ai fini delle Patch Hardware.
+Ottieni +2 slot massimi per le Patch (solo per la tua armatura).
+
+### Esoscheletro Perfetto (15°)
+**Passiva**
+
+- **Guardiano:** Se attiri un nemico con i Guanti, il prossimo attacco contro di lui ha Vantaggio.
+- **Infiltratore:** Il Fulmine Launcher fa brillare il bersaglio: Vantaggio al prossimo attacco contro di lui e subisce danni extra.
+
+### Sincronizzazione Neurale (18°)
+**Passiva**
+
+Il sistema nervoso è cablato direttamente nell'armatura. Non c'è più latenza.
+- Ottieni Resistenza ai danni Contundenti, Perforanti e Taglienti.
+- Immunità ai colpi critici: ogni critico subito diventa un colpo normale.
+
+---
+
+## BIO-ALCHEMISTA
+
+### Sintesi di Stimpack (3°)
+**Azione/Riposo Lungo • Random**
+
+Crei elisir sperimentali in fiale vuote.
+Si consumano come **Azione**.
+
+| d6  | Effetto                                        |
+| :-- | :--------------------------------------------- |
+| 1   | **Healing:** 2d4 + Mod INT                     |
+| 2   | **Swiftness:** +3 m velocità (1 ora)           |
+| 3   | **Resilience:** +1 CA (10 min)                 |
+| 4   | **Boldness:** +1d4 a TxC e TS (1 min)          |
+| 5   | **Flight:** Volare 3 m (10 min)                |
+| 6   | **Alteration:** Trasformazione fisica (10 min) |
+
+Puoi crearne extra spendendo uno Slot di 1° livello.
+
+### Catalizzatore Chimico (5°)
+**Passiva**
+
+Quando lanci un Protocollo usando strumenti da alchimista:
+Aggiungi Mod INT alle cure o ai danni (acido, fuoco, necrotico, veleno).
+
+### Reagenti Rigeneranti (9°)
+**Passiva**
+
+- Chi beve uno Stimpack ottiene anche **2d6 + Mod INT** PF Temporanei.
+- Puoi lanciare *Ristorare Inferiore* senza slot (Mod INT/giorno).
+
+### Maestria Chimica (15°)
+**Passiva**
+
+- Immunità alla condizione avvelenato.
+- Resistenza danni acido e veleno.
+- Puoi lanciare *Guarigione* (Heal) e *Ristorare Superiore* una volta gratis per riposo lungo.
+
+### Panacea Universale (18°)
+**Azione • 1/Riposo Lungo**
+
+Rilasci una nube di naniti medici o gas curativo in un raggio di 9 m da te.
+Scegli fino a 6 creature nella zona. Esse ottengono:
+- Recupero di 50 Punti Ferita.
+- Rimozione di qualsiasi condizione negativa, malattia o veleno.
+- Vantaggio a tutti i TS per 1 minuto.

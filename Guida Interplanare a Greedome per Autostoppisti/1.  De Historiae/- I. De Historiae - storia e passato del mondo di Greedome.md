@@ -30,7 +30,7 @@ Finché qualcosa cambiò.
 Per alcune menti di un certo gruppo di [[Gnomi]] (denominati poi [[Meccanisti]]), la ricerca della conoscenza doveva essere una esperienza più eclettica invece di concentrarsi esclusivamente sulle arti arcane. Furono proprio i [[Meccanisti]] a sviluppare un primo "Metodo Scientifico", portando ad un’impennata nello sviluppo tecnologico, bellico e sociale.
 E a quello, che solo in seguito, fu definito come “[[il Grande Cataclisma]]”.
 
-Sempre i [[Meccanisti]], furono i primi a concepire e realizzare il primo motore ad [[Ender Tech]], un prodigo dell'ingegneria capace di fondere insieme l’utilizzo della Magia e della Scienza per generare immense quantità di energia. Le possibilità di applicazione sono pressoché infinite e, ad oggi è considerata l'apice della tecnologia Greedomiana   
+Sempre i [[Meccanisti]], furono i primi a concepire e realizzare il primo motore ad [[Ender Tech]], un prodigo dell'ingegneria capace di fondere insieme l’utilizzo della Magia e della Scienza per generare immense quantità di energia. Le possibilità di applicazione sono pressoché infinite e, ad oggi è considerata l'apice della tecnologia Greedomiana.
 
 Di lì a poco, simili menti, ispirate dagli scritti gnomico-meccanisti, sorsero tra le altre popolazioni, contribuendo all'innalzamento e la diffusione della tecnologia in tutta Greedome.
 
@@ -70,7 +70,7 @@ Il continente di [[Bolvangar]] rimase freddo, silenzioso ed inviolato per l'inte
 
 Sul fronte Est si fronteggiavano brutalmente, la neo-nata [[Utopia Techton]] e l’antico [[Impero Zith]], in uno dei campi di battaglia più terrificanti che la storia di Greedome abbia mai conosciuto. 
 Areomobili contro aviazione magica, unità meccaniche contro golem magici, fanteria da trincea contro soldati-magus, bombe incendiarie contro palle di fuoco, armi chimiche contro miasmi magici... 
-Una guerra di logoramento dove nessuno dei due schieramenti riusciva ad avere la meglio sull'altro, dove morte e devastazione hanno rimodellato il territorio in una wasteland radioattiva, attraversata da km di trincee, filo spinato e cadaveri.
+Una guerra di logoramento dove nessuno dei due schieramenti riusciva ad avere la meglio sull'altro, dove morte e devastazione rimodellano il territorio in una wasteland radioattiva, attraversata da km di trincee, filo spinato e cadaveri.
 Il [[Regno di Valakitia]], guidata dall’allora giovane vampiro [[Vorin Temnatov]], erede del [[casato Temnatov]] (dichiaratosi da subito contrario alla politica dell'[[Utopia Techton]]), non scese mai in guerra aperta al fianco dei filo-magici, limitandosi a difendere i propri confini da qualsiasi tipo di intrusione (sempre si possa considerare “limitarsi” il fare a pezzi o far impazzire qualsiasi malcapitato che aveva la sfortuna di capitare per sbaglio in Valakitia, tramite un buffet di aberrazioni, mostri e illusioni degne di un incubo di Tim Burton).
 
 Stagliata tra le due principali potenze, la piccola Contea del [[Tortleshire]] fu uno dei principali campi di battaglia e, come si può ben evincere, una tomba per la gran parte della combattiva popolazione dei [[Tortle]].
