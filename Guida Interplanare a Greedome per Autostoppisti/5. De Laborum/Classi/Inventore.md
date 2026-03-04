@@ -1,8 +1,8 @@
-Il Technomante è uno studioso della tecnologia arcana: dove il Glitch forza la realtà attraverso errori, il Technomante la comprende, la stabilizza e la costruisce.
+L'Inventore è uno studioso della tecnologia arcana: dove il Glitch forza la realtà attraverso errori, l'Inventore la comprende, la stabilizza e la costruisce.
 Non piega il sistema. Lo progetta.
 
 ---
-# Privilegi di Classe Technomante
+# Privilegi di Classe Inventore
 
 ## Dado Vita
 d8.
@@ -15,7 +15,7 @@ d8.
 **Abilità:** 2 a scelta tra Arcana, Indagare, Percezione, Medicina, Storia, Rapidità di Mano
 
 ---
-# Tabella Technomante
+# Tabella Inventore
 
 | Liv | Bonus | Disciplina | Protocolli | Patch | Caratteristiche                    |
 | --- | ----- | ---------- | ---------- | ----- | ---------------------------------- |
@@ -45,7 +45,7 @@ d8.
 ## Protocolli (Livello 1)
 **Passiva**
 
-Il Technomante non lancia "magie", ma esegue script di natura magica o tecnica.
+Il Inventore non lancia "magie", ma esegue script di natura magica o tecnica.
 - **Caratteristica:** INT
 - **Focus:** Strumenti da artigiano (terminali olografici, guanti aptici, palmari).
 - **Lista:** Artificiere.
@@ -155,7 +155,7 @@ Lo spazio interno è piegato dimensionalmente.
 
 # Protocolli
 
-Il Technomante usa la lista incantesimi da Artificiere, ma ecco come appaiono visivamente i suoi "cast".
+Il Inventore usa la lista incantesimi da Artificiere, ma ecco come appaiono visivamente i suoi "cast".
 
 ### Spray Bio-Saldante (Cura Ferite)
 **1 Slot • Azione • Tocco**
@@ -208,7 +208,7 @@ Crei un costrutto fedele che agisce subito dopo di te.
 | Caratteristica | Valore                                      |
 | :--- | :--- |
 | **CA** | 15 (o 10 + PB + DEX) |
-| **PF** | 2 + Mod INT + (5 × Liv Technomante) |
+| **PF** | 2 + Mod INT + (5 × Liv Inventore) |
 | **Movimento** | 12 m |
 | **Reazione** | Svantaggio ad un attacco contro un alleato (1,5 m) |
 | **Azione** | Schivata (se non comandato) |
