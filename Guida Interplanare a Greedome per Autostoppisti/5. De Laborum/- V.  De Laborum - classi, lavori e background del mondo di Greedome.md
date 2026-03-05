@@ -2,7 +2,7 @@
 | Classe                | Tipo | Ruolo / Descrizione sintetica                          |
 | :-------------------- | :--- | :----------------------------------------------------- |
 | **[[Alchemist]]**     | T    | Scienziato e mutageno vivente.                         |
-| **[[_Gunslinger]]**    | T    | Tiratore esperto con armi da fuoco.                    |
+| **[[Pistolero]]**    | T    | Tiratore esperto con armi da fuoco.                    |
 | **[[Inventor]]**      | T    | Costruttore di macchine e automi.                      |
 | **[[Technomancer]]**  | T    | Controlla energia e tecnologia magica.                 |
 | **[[Glitch]]**        | T    | Essere corrotto o digitale, manipola errori di realtà. |

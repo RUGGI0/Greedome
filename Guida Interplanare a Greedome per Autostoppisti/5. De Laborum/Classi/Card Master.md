@@ -16,31 +16,28 @@ d8.
 ---
 # Tabella Card Master
 
-| Liv | Bonus | Caratteristiche               | Trucchetti | Punti Mazzo | Max Liv. Inc. |
-| --- | ----- | ----------------------------- | ---------- | ----------- | ------------- |
-| 1   | +2    | Magia delle Carte, Full House | 3          | 4           | 1°            |
-| 2   | +2    | Archetipo (Sottoclasse)       | 3          | 6           | 1°            |
-| 3   | +2    | Cycling (Riciclo)             | 3          | 14          | 2°            |
-| 4   | +2    | Aumento di Caratteristica     | 4          | 17          | 2°            |
-| 5   | +3    | —                             | 4          | 27          | 3°            |
-| 6   | +3    | Privilegio Archetipo          | 4          | 32          | 3°            |
-| 7   | +3    | Botta de Culo                 | 4          | 38          | 4°            |
-| 8   | +3    | Aumento di Caratteristica     | 4          | 44          | 4°            |
-| 9   | +4    | —                             | 4          | 57          | 5°            |
-| 10  | +4    | Privilegio Archetipo          | 5          | 64          | 5°            |
-| 11  | +4    | Carta Leggendaria (6° liv)    | 5          | 75          | 5°            |
-| 12  | +4    | Aumento di Caratteristica     | 5          | 75          | 5°            |
-| 13  | +5    | Carta Leggendaria (7° liv)    | 5          | 85          | 5°            |
-| 14  | +5    | Privilegio Archetipo          | 5          | 85          | 5°            |
-| 15  | +5    | Carta Leggendaria (8° liv)    | 5          | 95          | 5°            |
-| 16  | +5    | Aumento di Caratteristica     | 5          | 95          | 5°            |
-| 17  | +6    | Carta Leggendaria (9° liv)    | 5          | 100         | 5°            |
-| 18  | +6    | —                             | 5          | 100         | 5°            |
-| 19  | +6    | Aumento di Caratteristica     | 5          | 100         | 5°            |
-| 20  | +6    | Mazzo delle Leggende          | 5          | 125         | 5°            |
-
----
-
+| Liv | Bonus | Caratteristiche                              | Trucchetti | Punti Mazzo | Max Liv. Inc. |
+| --- | ----- | -------------------------------------------- | ---------- | ----------- | ------------- |
+| 1   | +2    | Magia delle Carte, Full House                | 3          | 4           | 1°            |
+| 2   | +2    | Specializzazione                             | 3          | 6           | 1°            |
+| 3   | +2    | Cycling (Riciclo)                            | 3          | 14          | 2°            |
+| 4   | +2    | Aumento di Caratteristica                    | 4          | 17          | 2°            |
+| 5   | +3    | —                                            | 4          | 27          | 3°            |
+| 6   | +3    | Privilegio Specializzazione, Mazzo Fortunato | 4          | 32          | 3°            |
+| 7   | +3    | Botta de Culo                                | 4          | 38          | 4°            |
+| 8   | +3    | Aumento di Caratteristica                    | 4          | 44          | 4°            |
+| 9   | +4    | —                                            | 4          | 57          | 5°            |
+| 10  | +4    | Privilegio Specializzazione                  | 5          | 64          | 5°            |
+| 11  | +4    | Carta Leggendaria (6° liv)                   | 5          | 75          | 5°            |
+| 12  | +4    | Aumento di Caratteristica                    | 5          | 75          | 5°            |
+| 13  | +5    | Carta Leggendaria (7° liv)                   | 5          | 85          | 5°            |
+| 14  | +5    | Privilegio Specializzazione                  | 5          | 85          | 5°            |
+| 15  | +5    | Carta Leggendaria (8° liv)                   | 5          | 95          | 5°            |
+| 16  | +5    | Aumento di Caratteristica                    | 5          | 95          | 5°            |
+| 17  | +6    | Carta Leggendaria (9° liv)                   | 5          | 100         | 5°            |
+| 18  | +6    | —                                            | 5          | 100         | 5°            |
+| 19  | +6    | Aumento di Caratteristica                    | 5          | 100         | 5°            |
+| 20  | +6    | Mazzo delle Leggende                         | 5          | 125         | 5°            |
 ## Magia delle Carte (Livello 1)
 **Passiva**
 
@@ -49,34 +46,41 @@ Il Card Master usa un mazzo di carte incantate o tecnologiche per lanciare incan
 - **Focus:** Il mazzo di carte funge da focus arcano.
 - **Il Mazzo:** Il Card Master costruisce un mazzo di 20 carte ogni giorno. Ogni carta rappresenta un incantesimo.
 - **Punti Mazzo:** Inserire carte nel mazzo costa punti in base al livello dell'incantesimo (es. Liv 1 = 2 punti). Il totale non può superare i *Punti Mazzo* della tabella.
-- **La Mano:** Come azione, il Card Master pesca una "Mano" di 5 carte che fluttuano magicamente attorno a lui. Lanciare un incantesimo consuma la carta.
+- **La Mano:** Come azione (o gratuitamente non appena tira l'Iniziativa), il Card Master pesca una "Mano" di 5 carte che fluttuano magicamente attorno a lui.
+- **Consumo:** Lanciare un incantesimo di 1° livello o superiore consuma la carta. I Trucchetti non consumano la carta, che torna nel mazzo dopo l'uso.
 - **Mulligan:** Se la mano non è soddisfacente, il Card Master può usare un'azione per rimescolarla nel mazzo e pescarne una nuova (con una carta in meno).
 
-## Full House (Livello 1)
+## Full House (1°)
 **1/Riposo Lungo**
 
 Il Card Master è esperto nel recuperare risorse.
 Una volta al giorno, dopo aver completato un riposo lungo, può scegliere 5 carte dalla sua pila degli scarti e rimescolarle nel mazzo.
 
-## Seguire l'Archetipo (Livello 2)
+## Seguire l'Archetipo (2°)
 **Passiva**
 
-Il Card Master sceglie una specializzazione, chiamata "Archetipo": **Duellante**, **Veggente** (*Fortune Teller*), **Scommettitore** (*Gambler*), o **Prestigiatore** (*Prestige*).
+Il Card Master sceglie una specializzazione: **Duellante**, **Cartomante**, **Scommettitore** o **Prestigiatore**.
 
-## Riciclo (Livello 3)
+## Riciclo (3°)
 **Azione Bonus**
 
 Il Card Master manipola il mazzo per trovare ciò che gli serve.
 Può scartare una "carta bianca" (una carta vuota usata per riempire il mazzo se mancano punti) dalla sua mano e pescarne immediatamente una nuova per sostituirla.
 
-## Botta de Culo (Livello 7)
+## Mazzo Fortunato (6°)
+**Passiva**
+
+La maestria del Card Master nel manipolare l'energia arcana si affina.
+Il Card Master aggiunge il proprio Modificatore di Carisma ai danni inflitti da qualsiasi Trucchetto (Cantrip) lanciato tramite le carte.
+
+## Botta de Culo (7°)
 **Passiva • 1/Riposo Breve o Lungo**
 
 La volontà del Card Master si manifesta nei suoi incantesimi.
 Quando il Card Master lancia un incantesimo di 4° livello o superiore che bersaglia un nemico, può forzarlo a fare un TS su Saggezza.
 - **Fallimento:** La creatura è *Stordita* fino alla fine del suo prossimo turno.
 
-## Carta Leggendaria (Livello 11)
+## Carta Leggendaria (11°)
 **Passiva**
 
 La magia del Card Master manifesta una carta unica e potente, separata dalla collezione normale.
@@ -84,7 +88,7 @@ La magia del Card Master manifesta una carta unica e potente, separata dalla col
 - **Effetto:** Quando è nella mano, il Card Master ottiene +1 al Tiro per Colpire degli incantesimi e alla CD. Se scartata, torna nel mazzo invece che negli scarti.
 - **Incantesimi:** Contiene un incantesimo di 6° livello. Ai livelli successivi ne guadagna di 7°, 8° e 9° (vedi tabella). Ogni incantesimo leggendario può essere lanciato una volta per riposo lungo.
 
-## Mazzo delle Leggende (Livello 20)
+## Mazzo delle Leggende (20°)
 **Passiva**
 
 Il Card Master può inserire due copie della sua Carta Leggendaria nel mazzo (costo extra: 25 punti), permettendogli di lanciare i suoi incantesimi più potenti due volte al giorno.
@@ -93,7 +97,7 @@ Il Card Master può inserire due copie della sua Carta Leggendaria nel mazzo (co
 # SPECIALIZZAZIONI
 ---
 
-## DUELLANTE
+## <u>Duellante</u>
 
 I Duellanti usano la magia per il combattimento diretto, sfoggiando abilità appariscenti in tornei o scontri mortali.
 
@@ -121,7 +125,8 @@ Se la mano è vuota, invece di pescare 5 carte a caso, il Card Master può cerca
 
 ---
 
-## VEGGENTE
+## <u>Cartomante</u>
+
 I Veggenti usano le carte per leggere il futuro, manipolare il destino e supportare gli alleati.
 
 ### Senso della Scrutazione (2°)
@@ -151,7 +156,8 @@ Finché ci sono più di 10 carte nella pila degli scarti, il Card Master ha Vant
 
 ---
 
-## SCOMMETTITORE
+## <u>Scommettitore</u>
+
 Gli Scommettitori amano il rischio e il caos, manipolando la fortuna a proprio vantaggio (o svantaggio).
 
 ### Asso nella Manica (2°)
@@ -182,7 +188,8 @@ Dopo aver risolto l'azione, subisce danni psichici pari al numero scelto. Questi
 
 ---
 
-## PRESTIGIATORE
+## <u>Prestigiatore</u>
+
 I Prestigiatore usano l'inganno e la furtività, nascondendo la loro magia dietro trucchi di scena e ombre.
 
 ### Mano Nascosta (2°)

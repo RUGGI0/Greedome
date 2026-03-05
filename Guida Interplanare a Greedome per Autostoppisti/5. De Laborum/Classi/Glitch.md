@@ -21,7 +21,7 @@ d8.
 | --- | ----- | ----- | ------------- | ---- | --------------------------- |
 | 1   | +2    | 5     | Tier I        | 3    | Quirk, Tier I Powers        |
 | 2   | +2    | 5     | Tier I        | 3    | Passo Distorto              |
-| 3   | +2    | 5     | Tier I        | 6    | Privilegio Specializzazione |
+| 3   | +2    | 5     | Tier I        | 6    | Specializzazione            |
 | 4   | +2    | 5     | Tier I        | 6    | Aumento di Caratteristica   |
 | 5   | +3    | 5     | Tier I        | 9    | Attacco Extra               |
 | 6   | +3    | 5     | Tier I        | 9    | Privilegio Specializzazione |
@@ -61,6 +61,11 @@ Sblocca poteri in tre tier:
 Il Glitch sfrutta un lag della realtà per saltare i frame intermedi del movimento.
 - Il Glitch si teletrasporta di 3 m.
 - Non provoca attacchi di opportunità.
+
+## Evoluzione (3°)
+**Passiva**
+
+Il Glitch sceglie una specializzazione: **Codebreaker**, **Glitchblade** o **Nanomancer**.
 
 ## Attacco Extra (5°)
 **Azione Extra**

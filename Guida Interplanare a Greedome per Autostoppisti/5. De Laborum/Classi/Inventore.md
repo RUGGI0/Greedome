@@ -68,6 +68,11 @@ L'Inventore riscrive temporaneamente la matrice di un oggetto non magico ("Infus
 
 Questo strumento universale vibra a frequenze modulabili, adattandosi molecolarmente per svolgere qualsiasi funzione tecnica. L'Inventore crea uno strumento all-in-one capace di sostituire qualsiasi kit; per passare da una configurazione di kit all'altra impiega 1 ora.
 
+## Dipartimento (3°)
+**Passiva**
+
+L'Inventore sceglie una specializzazione: **Architetto Bellico**, **Geniere Balistico**, **Juggernaut** o **Bio-Alchemista**.
+
 ## Tech Savvy (6°)
 **Passiva**
 
@@ -183,7 +188,7 @@ L'Inventore e il suo Drone combattono come un'unica entità perfetta.
 - Il Drone può usare la Reazione per attaccare ogni volta che una creatura si muove nella sua portata (anche se non esce).
 
 ---
-## <u>Ingegnere Balistico</u>
+## <u>Geniere Balistico</u>
 
 Specialista dell'artiglieria, l'Ingegnere Balistico domina il campo di battaglia con torrette autonome capaci di scatenare l'inferno o proteggere gli alleati.
 ### Torretta Modulare (3°)
