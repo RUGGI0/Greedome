@@ -41,7 +41,7 @@ d8.
 | 20  | +6    | 5     | Tier I/II/III | 30   | Riscrittura della Realtà    |
 
 ---
-## Byte, Quirk e Poteri (Livello 1)
+## Byte, Quirk e Poteri (1°)
 **Passiva**
 
 Il Glitch usa una risorsa chiamata Byte per alimentare i suoi poteri.
@@ -55,51 +55,55 @@ Sblocca poteri in tre tier:
 - **Tier II** (livelli 7–13)
 - **Tier III** (livelli 14–20)
 
-## Passo Distorto (Livello 2)
+## Passo Distorto (2°)
 **Azione Bonus • Mod STR/riposo breve**
 
-Il Glitch si teletrasporta di 3 m.
-Non provoca attacchi di opportunità.
+Il Glitch sfrutta un lag della realtà per saltare i frame intermedi del movimento.
+- Il Glitch si teletrasporta di 3 m.
+- Non provoca attacchi di opportunità.
 
-## Attacco Extra (Livello 5)
+## Attacco Extra (5°)
 **Azione Extra**
 
 Il Glitch può attaccare due volte quando usa l'azione di Attacco.
 
-## Accelerazione Innaturale (Livello 9)
+## Accelerazione Innaturale (9°)
 **Passiva/Reazione • Mod STR/riposo lungo**
 
+Il corpo del Glitch smette, per qualche attimo, di rispettare le leggi della fisica newtoniana.
 - +1,5 m velocità.
 - Vantaggio ai TS per le riduzioni di movimento.
 - Quando il Glitch viene colpito da un attacco in mischia: può spendere 1 Byte come reazione per ottenere +2 CA contro quell’attacco.
 
-## Cheat-a-Byte (Livello 11)
+## Cheat-a-Byte (11°)
 **Azione Bonus • 1/riposo lungo**
 
-Il Glitch acquisisce 4 Byte extra.
+Forzando un _buffer overflow_ nel proprio corpo, il Glitch estrae dai residui statici dell'ambiente.
+ - Il Glitch acquisisce 4 Byte extra.
 
-## Balzo Interdimensionale (Livello 15)
+## Balzo Interdimensionale (15°)
 **Azione • 3 Byte • 1 minuto**
 
-Per la durata:
+Il Glitch esce parzialmente dalla fase materiale, diventando un spettro digitale. Per la durata:
 - Il Glitch attraversa creature e oggetti.
 - Vantaggio ai TS.
 - Teletrasporto di 3 m ogni turno (gratis).
 
-## Distorsione Permanente (Livello 17)
+## Distorsione Permanente (17°)
 **Passiva**
 
+L'esistenza del Glitch è ormai così instabile che i vincoli fisici non riescono più a bloccarlo.
 - Immunità a rallentato, paralizzato, costretto.
 - Il Glitch agisce anche se sorpreso.
 - Può usare Passo Distorto 1 volta/turno gratis.
 
-## Riscrittura della Realtà (Livello 20)
+## Riscrittura della Realtà (20°)
 **Azione • 1/Riposo Lungo**
 
-Il Glitch sceglie una opzione:
-1. Riscrive un evento accaduto di massimo 5 min, entro 2 min e 36 m dal Glitch.
-2. Annulla uno stato negativo su di sé.
-3. Lancia un potere senza consumare Byte.
+Il Glitch ottiene i privilegi di amministratore sulla realtà locale, modificando il codice sorgente degli eventi. Sceglie una opzione:
+- Riscrive un evento accaduto di massimo 5 min, entro 2 min e 100 m dal Glitch.
+- Annulla uno stato negativo su di sé. Qualsiasi. Pure la morte.
+- Lancia un potere senza consumare Byte.
 
 ---
 # Quirks
@@ -115,6 +119,8 @@ vedi [[Powers]] nel capitolo *17. De Tabellorum*
 # SPECIALIZZAZIONI
 ---
 ## <u>Codebreaker</u>
+
+Il Codebreaker è un hacker della realtà che si specializza nel mandare in crash le abilità nemiche. Interrompe incantesimi e processi mentali, trasformando i punti di forza avversari in errori fatali.
 
 ### Desincronizzatore Autonomo (3°)
 **3 Byte • Reazione • 9 m • TS INT**
@@ -139,7 +145,7 @@ Per 1 minuto il bersaglio:
 ### Retromappatura (10°)
 **5 Byte • Reazione**
 
-Quando un nemico entro 9 m bersaglia il Codebreaker con un attacco o potere:
+Il Codebreaker analizza i metadati dell'attacco in arrivo per tracciarne l'origine e sfruttarne le debolezze. Quando un nemico entro 9 m bersaglia il Codebreaker con un'azione:
 - Il Codebreaker ottiene vantaggio al TS o +4 CA fino alla fine dell’attacco.
 - Può immediatamente identificare tutti i poteri / incantesimi / abilità soprannaturali del nemico.
 Non richiede linea di vista.
@@ -167,19 +173,21 @@ All’interno:
 ---
 ## <u>Glitchblade</u>
 
+Il Glitchblade focalizza l'anomalia nel combattimento ravvicinato, colpendo con armi che sfarfallano fuori dall'esistenza. Si muove a scatti attraverso il campo di battaglia, impossibile da bloccare o prevedere.
+
 ### Lama Distorta (3°)
 **3 Byte • Azione Bonus • Mod STR/Riposo Lungo • 1 min**
 
-Per 1 minuto:
+Le mani del Glitchblade vibrano violentemente, solidificando errori grafici in armi letali capaci di tagliare la realtà. Per 1 minuto:
 - Gli attacchi senz’armi del Glitchblade diventano attacchi di distorsione: ignorano resistenze e immunità non-magiche.
-- Se colpisce due volte lo stesso bersaglio in un turno: applica Scintilla Distorta gratis.
+- Se colpisce due volte lo stesso bersaglio in un turno: applica *Scintilla Distorta* gratis.
 
 ### Passo Distorto Asincrono (6°)
 **Passiva**
 
-Passo Vacuo ora:
-- Due volte per riposo breve.
-- Spostamento di 3 m invece di 1,5 m.
+Il protocollo di teletrasporto viene ottimizzato, riducendo i tempi di ricarica per un uso tattico aggressivo. *Passo Vacuo*:
+- utilizzabile 2/riposo breve.
+- Spostamento esteso da 1,5 m a 3 m.
 
 All'uso:
 - Il prossimo attacco del Glitchblade nel turno ha vantaggio.
@@ -187,14 +195,14 @@ All'uso:
 ### Velocità di Curvatura (10°)
 **6 Byte • Azione Bonus**
 
-Per 1 turno:
+Il Glitchblade overclocca i propri riflessi, muovendosi come un blur indistinto per l'occhio umano. Per 1 turno:
 - Il Glitchblade ottiene +6 m movimento.
 - Può fare un attacco senz’armi aggiuntivo.
 
 ### Fendente Sfasato (14°)
 **Passiva • 1/turno**
 
-Quando il Glitchblade colpisce una creatura:
+L'attacco non colpisce solo la carne, ma corrompe i dati posizionali del bersaglio, disorientandolo. Quando il Glitchblade colpisce una creatura:
 - Può spendere 2 Byte per infliggere 2d8 psichici extra.
 - Il bersaglio subisce “Desync dell’Arma”: il suo prossimo attacco ha svantaggio.
 
@@ -210,6 +218,8 @@ Durante la durata:
 
 ---
 ## <u>Nanomancer</u>
+
+Il Nanomancer riscrive la propria biologia trasformandosi in uno sciame senziente di nano-macchine microscopiche. Diventa un'entità fluida e adattabile, capace di assorbire danni e alterare la propria forma per ogni necessità.
 
 ### Forma di Sciame Nanitico (3°)
 **2 Byte • Azione**
@@ -250,7 +260,7 @@ Dura 10 minuti.
 ### Costituzione Adattiva (14°)
 **7 Byte • Reazione**
 
-Quando il Nanomancer subisce danni:
+Lo sciame risponde al trauma indurendosi istantaneamente nel punto d'impatto o disperdendo l'energia cinetica. Quando il Nanomancer subisce danni:
 - Riduce i danni di 1d12 + Mod INT.
 - Recupera 1 Byte.
 - Ottiene resistenza al tipo di danno subito finché non usa di nuovo questa abilità, o fino al prossimo riposo.

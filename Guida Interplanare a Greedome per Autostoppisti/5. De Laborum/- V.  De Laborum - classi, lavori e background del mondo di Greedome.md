@@ -10,7 +10,7 @@
 | **[[_Psionic]]**       | M    | Potere mentale, telepatia, telecinesi.                 |
 | **[[Warlock]]**       | M    | Intermediario tra spiriti e uomini.                    |
 | **[[-Witch]]**         | M    | Maledizioni e patti oscuri.                            |
-| **[[_Cardmaster]]**    | M    | Fato e fortuna incantati nelle carte.                  |
+| **[[Card Master]]**    | M    | Fato e fortuna incantati nelle carte.                  |
 | **[[_Bloodhunter]]**   | M    | Potere nel sangue e sacrificio.                        |
 | **[[_Pirate]]**        | F    | Combattente libero e carismatico dei mari.             |
 | **[[-Ranger]]**        | F    | Cacciatore ed esploratore.                             |
