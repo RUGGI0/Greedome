@@ -1,5 +1,4 @@
 Il Card Master è un praticante di un'arte mistica che si affida alle carte come focus arcano. Invece di bacchette fragili o componenti disordinati, il Card Master incanala il potere nella sua collezione, rilasciando energia sotto forma di esplosioni infuocate, illusioni e fulmini.
-
 Per i suoi pari, questa magia è poco ortodossa, quasi infantile. Ma il Card Master sa che la vita è una partita a poker, e lui ha sempre un asso nella manica.
 
 ---
@@ -7,7 +6,6 @@ Per i suoi pari, questa magia è poco ortodossa, quasi infantile. Ma il Card Mas
 
 ## Dado Vita
 d8.
-
 ## Competenze
 **Armature:** leggere
 **Armi:** armi semplici, armi da fianco (sidearms), armi da fuoco con proprietà *scatter*

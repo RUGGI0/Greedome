@@ -41,7 +41,7 @@ d8.
 | 20  | +6    | 5°         | 6     | IT-guy Definitivo                   |
 
 ---
-## Protocolli (Livello 1)
+## Protocolli (1°)
 **Passiva**
 
 L'Inventore non lancia "magie", ma esegue script di natura magica o tecnica.
@@ -49,13 +49,13 @@ L'Inventore non lancia "magie", ma esegue script di natura magica o tecnica.
 - **Focus:** Strumenti da artigiano (terminali olografici, guanti aptici, palmari).
 - **Lista:** Artificiere.
 
-## Micro-Matrice Analogica (Livello 1)
+## Micro-Matrice Analogica (1°)
 **Azione • Tocco**
 
+L'Inventore manipola il codice della realtà di un oggetto per produrre effetti minori, senza sprecare risorse primarie. 
 L'Inventore infonde un trucchetto in un piccolo oggetto.
-Effetti possibili: luce, messaggio audio registrato, odore/suono continuo, ologramma statico.
 
-## Patch Hardware (Livello 2)
+## Patch Hardware (2°)
 **Riposo Lungo • Tocco**
 
 L'Inventore riscrive temporaneamente la matrice di un oggetto non magico ("Infusione").
@@ -63,52 +63,55 @@ L'Inventore riscrive temporaneamente la matrice di un oggetto non magico ("Infus
 - **Limite:** vedi colonna "Patch" nella tabella.
 - **Effetto:** Applica bonus numerici o proprietà speciali (es. +1 attacco/danni, +1 CA, creazione oggetti specifici).
 
-## Cacciavite Sonico (Livello 3)
-**1 ora • Strumenti da Artigiano**
+## Cacciavite Sonico (3°)
+**1 ora • Omni-Tool**
 
-L'Inventore crea uno strumento all-in-one capace di sostituire qualsiasi kit; per passare da una configurazione di kit all'altra impiega 1 ora.
+Questo strumento universale vibra a frequenze modulabili, adattandosi molecolarmente per svolgere qualsiasi funzione tecnica. L'Inventore crea uno strumento all-in-one capace di sostituire qualsiasi kit; per passare da una configurazione di kit all'altra impiega 1 ora.
 
-## Tech Savvy (Livello 6)
+## Tech Savvy (6°)
 **Passiva**
 
 Il bonus di competenza dell'Inventore è raddoppiato per qualsiasi prova di abilità effettuata usando strumenti in cui possiede competenza.
 
-## Elaborazione Tattica Rapida (Livello 7)
+## Elaborazione Tattica Rapida (7°)
 **Reazione • 9 m • Mod INT/Riposo Lungo**
 
-La mente dell'Inventore calcola le probabilità più velocemente di un computer.
+Un algoritmo predittivo mentale permette all'Inventore di anticipare l'esito di un evento e suggerire la correzione ottimale in tempo reale.
 Quando l'Inventore o una creatura entro 9 m effettuano un Tiro Salvezza o una prova di caratteristica:
-- Aggiunge il Modificatore di Intelligenza al tiro.
+- + Mod INT.
 
-## Patch Migliorate (Livello 10)
+## Patch Migliorate (10°)
 **Passiva**
 
-L'efficienza del codice dell'Inventore migliora con l'esperienza.
+_Inserire dopo: `Passiva`_
+
+L'Inventore ottimizza il codice, eliminando ridondanze e aumentando l'efficienza dei sistemi.
 - Le Patch che forniscono bonus numerici (attacco, CA, ecc.) aumentano di potenza (es. da +1 diventano +2).
 - L'Inventore può sintonizzarsi con un oggetto magico in più (fino a 4).
 
-## Matrice TechnoMagica (Livello 11)
+## Matrice TechnoMagica (11°)
 **Azione • Tocco • Riposo Lungo**
 
 L'Inventore immagazzina un Protocollo (1° o 2° livello, tempo di lancio 1 Azione) in un oggetto.
 Chi impugna l'oggetto può usare un'Azione per lanciare il Protocollo usando l'INT dell'Inventore.
 **Usi:** 2 × Mod INT.
 
-## Sincronizzazione Avanzata (Livello 14)
+## Sincronizzazione Avanzata (14°)
 **Passiva**
 
+La mente dell'Inventore si interfaccia direttamente con la trama magica degli oggetti, bypassando i blocchi di sicurezza standard.
 - L'Inventore può sintonizzarsi con un oggetto magico in più (fino a 5).
 - Ignora tutti i requisiti di classe, razza, incantesimi e livello per sintonizzarsi o usare un oggetto magico.
 
-## Maestro Technomante (Livello 17)
+## Maestro Technomante (17°)
 **Passiva**
 
-- L'Inventore può sintonizzarsi con un oggetto magico in più (fino a 6).
+L'Inventore può sintonizzarsi con un oggetto magico in più (fino a 6).
 
-## IT-guy Definitivo (Livello 20)
+## IT-guy Definitivo (20°)
 **Passiva**
 
-La sintesi dell'Inventore con la tecnologia è totale.
+La sintesi dell'Inventore con la tecnologia è totale, diventando un nodo vivente della rete arcana.
 - **Saving Throw:** +1 a tutti i TS per ogni Patch Hardware attiva su di sé.
 - **Death Ward:** Se scende a 0 PF, può terminare una Patch attiva per scendere invece a 1 PF.
 
@@ -126,6 +129,8 @@ vedi [[Protocolli]] nel capitolo *17. De Tabellorum*
 # SPECIALIZZAZIONI
 ---
 ## <u>Architetto Bellico</u>
+
+L'Architetto Bellico scende in campo accompagnato da un costrutto d'acciaio, combinando tattiche militari e supporto logistico.
 
 ### Calibrazione Marziale (3°)
 **Passiva**
@@ -172,6 +177,7 @@ Sceglie un effetto:
 ### Protocollo Titano (18°)
 **Passiva • Sincronizzazione Totale**
 
+I sistemi difensivi di creatore e creazione si fondono in un unico firewall impenetrabile.
 L'Inventore e il suo Drone combattono come un'unica entità perfetta.
 - Se l'Inventore e il Drone sono entro 9 m l'uno dall'altro: resistenza a tutti i danni per entrambi.
 - Il Drone può usare la Reazione per attaccare ogni volta che una creatura si muove nella sua portata (anche se non esce).
@@ -179,6 +185,7 @@ L'Inventore e il suo Drone combattono come un'unica entità perfetta.
 ---
 ## <u>Ingegnere Balistico</u>
 
+Specialista dell'artiglieria, l'Ingegnere Balistico domina il campo di battaglia con torrette autonome capaci di scatenare l'inferno o proteggere gli alleati.
 ### Torretta Modulare (3°)
 **Azione Bonus • 1 uso Gratis, poi Slot/riposo lungo • 1 ora**
 
@@ -186,11 +193,11 @@ L'Inventore schiera una torretta magica (Piccola o Minuscola).
 Attivazione successiva: **Azione Bonus**.
 Può crearla gratuitamente una volta per riposo lungo, poi spendendo uno slot.
 
-| Modulo           | Effetto                                             |
-| :---             | :---                                                |
-| **Lanciafiamme** | Cono 4,5 m • TS DEX • 2d8 Fuoco (dimezza se salvo)  |
-| **Balista** | Raggio 36 m • TxC Magico • 2d8 Forza + spinta 1,5 m |
-| **Protettore** | Raggio 3 m • Alleati ottengono 1d8 + Mod INT PF Temp|
+| Modulo           | Effetto                                              |
+| :--------------- | :--------------------------------------------------- |
+| **Lanciafiamme** | Cono 4,5 m • TS DEX • 2d8 Fuoco (dimezza se salvo)   |
+| **Balista**      | Raggio 36 m • TxC Magico • 2d8 Forza + spinta 1,5 m  |
+| **Protettore**   | Raggio 3 m • Alleati ottengono 1d8 + Mod INT PF Temp |
 
 ### Arma da Fuoco Arcano-Tecnica (5°)
 **Passiva**
@@ -221,6 +228,7 @@ Tutte le torrette attive emettono un impulso. Ogni creatura entro 9 m da una tor
 ---
 ## <u>Juggernaut</u>
 
+Il Juggernaut trasforma il proprio corpo in una macchina da guerra, fondendosi con un'armatura potenziata che funge da seconda pelle.
 ### Esoscheletro Arcano-Tecnico (3°)
 **Azione • Personale**
 
@@ -308,6 +316,7 @@ Aggiunge il Mod INT alle cure o ai danni (acido, fuoco, necrotico, veleno).
 ### Panacea Universale (18°)
 **Azione • 1/Riposo Lungo**
 
+Il Bio-Alchemista rilascia un agente patogeno benefico che riscrive il codice biologico degli alleati, riparando ogni danno a livello cellulare.
 Rilascia una nube di naniti medici o gas curativo in un raggio di 9 m da sé.
 Sceglie fino a 6 creature nella zona. Esse ottengono:
 - Recupero di 50 Punti Ferita.
