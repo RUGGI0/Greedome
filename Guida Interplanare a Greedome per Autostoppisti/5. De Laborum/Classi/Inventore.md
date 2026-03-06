@@ -88,8 +88,6 @@ Quando l'Inventore o una creatura entro 9 m effettuano un Tiro Salvezza o una pr
 ## Patch Migliorate (10°)
 **Passiva**
 
-_Inserire dopo: `Passiva`_
-
 L'Inventore ottimizza il codice, eliminando ridondanze e aumentando l'efficienza dei sistemi.
 - Le Patch che forniscono bonus numerici (attacco, CA, ecc.) aumentano di potenza (es. da +1 diventano +2).
 - L'Inventore può sintonizzarsi con un oggetto magico in più (fino a 4).
