@@ -71,7 +71,7 @@ Questo strumento universale vibra a frequenze modulabili, adattandosi molecolarm
 ## Dipartimento (3°)
 **Passiva**
 
-L'Inventore sceglie una specializzazione: **Architetto Bellico**, **Geniere Balistico**, **Juggernaut** o **Bio-Alchemista**.
+L'Inventore sceglie una specializzazione: **Meccatronomo**, **Geniere Balistico**, **Juggernaut** o **Bio-Alchemista**.
 
 ## Tech Savvy (6°)
 **Passiva**
@@ -131,9 +131,9 @@ vedi [[Protocolli]] nel capitolo *17. De Tabellorum*
 ---
 # SPECIALIZZAZIONI
 ---
-## <u>Architetto Bellico</u>
+## <u>Meccatronomo</u>
 
-L'Architetto Bellico scende in campo accompagnato da un costrutto d'acciaio, combinando tattiche militari e supporto logistico.
+Il Meccatronomo scende in campo accompagnato da un costrutto d'acciaio, combinando tattiche militari e supporto logistico.
 
 ### Calibrazione Marziale (3°)
 **Passiva**
@@ -144,7 +144,7 @@ L'Architetto Bellico scende in campo accompagnato da un costrutto d'acciaio, com
 ### Drone d'Assalto (3°)
 **Azione Bonus (Comando)**
 
-L'Inventore crea un costrutto fedele che agisce subito dopo di lui.
+Il Meccatronomo crea un costrutto fedele che agisce subito dopo di lui.
 
 | Caratteristica | Valore                                             |
 | :------------- | :------------------------------------------------- |
@@ -160,12 +160,12 @@ Se il Drone muore, l'Inventore può rianimarlo con uno Slot di 1° livello o rip
 ### Attacco Extra (5°)
 **Azione Extra**
 
-L'Inventore può attaccare due volte quando usa l'azione di Attacco.
+Il Meccatronomo può attaccare due volte quando usa l'azione di Attacco.
 
 ### Scarica Cinetica (9°)
 **Colpo/Drone • Mod INT/Riposo Lungo**
 
-Quando l'Inventore o il drone colpiscono un bersaglio, incanala energia extra.
+Quando il Meccatronomo o il drone colpiscono un bersaglio, incanala energia extra.
 Sceglie un effetto:
 - **Danno:** 2d6 danni da forza extra al bersaglio.
 - **Cura:** 2d6 PF rigenerati a un alleato entro 9 m.
@@ -181,18 +181,18 @@ Sceglie un effetto:
 **Passiva • Sincronizzazione Totale**
 
 I sistemi difensivi di creatore e creazione si fondono in un unico firewall impenetrabile.
-L'Inventore e il suo Drone combattono come un'unica entità perfetta.
+Il Meccatronomo e il suo Drone combattono come un'unica entità perfetta.
 - Se l'Inventore e il Drone sono entro 9 m l'uno dall'altro: resistenza a tutti i danni per entrambi.
 - Il Drone può usare la Reazione per attaccare ogni volta che una creatura si muove nella sua portata (anche se non esce).
 
 ---
 ## <u>Geniere Balistico</u>
 
-Specialista dell'artiglieria, l'Ingegnere Balistico domina il campo di battaglia con torrette autonome capaci di scatenare l'inferno o proteggere gli alleati.
+Specialista dell'artiglieria, il Geniere Balistico domina il campo di battaglia con torrette autonome capaci di scatenare l'inferno o proteggere gli alleati.
 ### Torretta Modulare (3°)
 **Azione Bonus • 1 uso Gratis, poi Slot/riposo lungo • 1 ora**
 
-L'Inventore schiera una torretta magica (Piccola o Minuscola).
+Il Geniere schiera una torretta magica (Piccola o Minuscola).
 Attivazione successiva: **Azione Bonus**.
 Può crearla gratuitamente una volta per riposo lungo, poi spendendo uno slot.
 
@@ -205,7 +205,7 @@ Può crearla gratuitamente una volta per riposo lungo, poi spendendo uno slot.
 ### Arma da Fuoco Arcano-Tecnica (5°)
 **Passiva**
 
-L'Inventore converte un'arma da fuoco in focus offensivo.
+Il Geniere converte un'arma da fuoco in focus offensivo.
 Quando lancia un Protocollo attraverso l'arma: +1d8 ai danni di un tiro dell'incantesimo.
 
 ### Torretta Esplosiva (9°)
@@ -217,8 +217,8 @@ Quando lancia un Protocollo attraverso l'arma: +1d8 ai danni di un tiro dell'inc
 ### Posizione Fortificata (15°)
 **Passiva**
 
-- L'Inventore può avere **due torrette** attive.
-- L'Inventore e i suoi alleati hanno **Mezza Copertura** (+2 CA/TS DEX) se entro 3 m da una torretta.
+- Il Geniere può avere **due torrette** attive.
+- Il Geniere e i suoi alleati hanno **Mezza Copertura** (+2 CA/TS DEX) se entro 3 m da una torretta.
 
 ### Bombardamento Orbitale (18°)
 **Azione • 1/Riposo Lungo**
@@ -235,7 +235,7 @@ Il Juggernaut trasforma il proprio corpo in una macchina da guerra, fondendosi c
 ### Esoscheletro Arcano-Tecnico (3°)
 **Azione • Personale**
 
-L'Inventore trasforma l'armatura che indossa.
+Il Juggernaut trasforma l'armatura che indossa.
 - Nessun requisito di Forza.
 - Diventa Focus Arcano.
 - Sostituisce arti mancanti.
@@ -256,13 +256,13 @@ Configura l'armatura in uno dei due assetti (include competenza armi):
 ### Attacco Extra (5°)
 **Azione Extra**
 
-L'Inventore può attaccare due volte quando usa l'azione di Attacco.
+Il Juggernaut può attaccare due volte quando usa l'azione di Attacco.
 
 ### Modifiche Modulari (9°)
 **Passiva**
 
 L'esoscheletro conta come più oggetti separati (Armatura, Elmo, Stivali, Arma) ai fini delle Patch Hardware.
-L'Inventore ottiene +2 slot massimi per le Patch (solo per la propria armatura).
+Il Juggernaut ottiene +2 slot massimi per le Patch (solo per la propria armatura).
 
 ### Esoscheletro Perfetto (15°)
 **Passiva**
@@ -283,7 +283,7 @@ Il sistema nervoso è cablato direttamente nell'armatura. Non c'è più latenza.
 ### Sintesi di Stimpack (3°)
 **Azione/Riposo Lungo • Random**
 
-L'Inventore crea elisir sperimentali in fiale vuote.
+Il Bio-Alchemista crea elisir sperimentali in fiale vuote.
 Si consumano come **Azione**.
 
 | d6  | Effetto                                        |
@@ -300,21 +300,21 @@ Può crearne extra spendendo uno Slot di 1° livello.
 ### Catalizzatore Chimico (5°)
 **Passiva**
 
-Quando l'Inventore lancia un Protocollo usando strumenti da alchimista:
+Quando il Bio-Alchemista lancia un Protocollo usando strumenti da alchimista:
 Aggiunge il Mod INT alle cure o ai danni (acido, fuoco, necrotico, veleno).
 
 ### Reagenti Rigeneranti (9°)
 **Passiva**
 
 - Chi beve uno Stimpack ottiene anche **2d6 + Mod INT** PF Temporanei.
-- L'Inventore può lanciare *Ristorare Inferiore* senza slot (Mod INT/giorno).
+- Il Bio-Alchemista può lanciare *Ristorare Inferiore* senza slot (Mod INT/giorno).
 
 ### Maestria Chimica (15°)
 **Passiva**
 
 - Immunità alla condizione avvelenato.
 - Resistenza danni acido e veleno.
-- L'Inventore può lanciare *Guarigione* (Heal) e *Ristorare Superiore* una volta gratis per riposo lungo.
+- Il Bio-Alchemista può lanciare *Guarigione* (Heal) e *Ristorare Superiore* una volta gratis per riposo lungo.
 
 ### Panacea Universale (18°)
 **Azione • 1/Riposo Lungo**

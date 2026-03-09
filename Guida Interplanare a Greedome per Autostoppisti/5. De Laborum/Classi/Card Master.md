@@ -127,17 +127,17 @@ Se la mano è vuota, invece di pescare 5 carte a caso, il Card Master può cerca
 
 ## <u>Cartomante</u>
 
-I Veggenti usano le carte per leggere il futuro, manipolare il destino e supportare gli alleati.
+I Cartomanti usano le carte per leggere il futuro, manipolare il destino e supportare gli alleati.
 
 ### Senso della Scrutazione (2°)
 **Passiva**
 
-Quando il Card Master pesca la sua mano, può pescare 6 carte invece di 5, e poi rimetterne una a scelta nel mazzo.
+Quando il Cartomante pesca la sua mano, può pescare 6 carte invece di 5, e poi rimetterne una a scelta nel mazzo.
 
 ### Lettura del Presagio (6°)
 **Rituale (10 min) • 1/Riposo Lungo**
 
-Il Card Master legge il futuro di una creatura consenziente. Tira un d4:
+Il Cartomante legge il futuro di una creatura consenziente. Tira un d4:
 1. **Catastrofe:** -5 ai tiri.
 2. **Sfortuna:** -2 ai tiri.
 3. **Benedizione:** +2 ai tiri.
@@ -147,12 +147,12 @@ Il DM decide quando applicare questi bonus/malus nelle prossime 24 ore.
 ### Forgiare il Destino (10°)
 **Passiva**
 
-Quando il Card Master lancia un incantesimo che bersaglia gli alleati, lui e gli alleati ottengono Punti Ferita Temporanei pari al valore in punti della carta usata.
+Quando il Cartomante lancia un incantesimo che bersaglia gli alleati, lui e gli alleati ottengono Punti Ferita Temporanei pari al valore in punti della carta usata.
 
 ### Sussurri dall'Oltre (14°)
 **Passiva**
 
-Finché ci sono più di 10 carte nella pila degli scarti, il Card Master ha Vantaggio a tutte le prove di abilità.
+Finché ci sono più di 10 carte nella pila degli scarti, il Cartomante ha Vantaggio a tutte le prove di abilità.
 
 ---
 
@@ -163,52 +163,52 @@ Gli Scommettitori amano il rischio e il caos, manipolando la fortuna a proprio v
 ### Asso nella Manica (2°)
 **Azione Gratuita • 1/Riposo Breve o Lungo**
 
-Dopo aver pescato, il Card Master può tentare una prova di Rapidità di Mano (CD 12 + costo carta) per scambiare una carta della mano con una nuova dal mazzo.
+Dopo aver pescato, lo Scommettitore può tentare una prova di Rapidità di Mano (CD 12 + costo carta) per scambiare una carta della mano con una nuova dal mazzo.
 Se riesce, può lanciare quella carta ignorando le componenti verbali e somatiche.
 
 ### Sapere Quando Lasciare (6°)
 **Reazione**
 
-Quando il Card Master è bersaglio di un attacco o deve fare un TS su Destrezza per dimezzare i danni, può scartare una carta:
+Quando lo Scommettitore è bersaglio di un attacco o deve fare un TS su Destrezza per dimezzare i danni, può scartare una carta:
 - **Contro Attacco:** Subisce metà danni.
 - **Contro Effetto:** Subisce 0 danni se supera il TS, o metà se fallisce.
 
 ### Inclinare la Bilancia (10°)
 **Reazione**
 
-Dopo aver fatto un tiro (attacco, abilità, TS), il Card Master può tirare un d10 extra.
+Dopo aver fatto un tiro (attacco, abilità, TS), lo Scommettitore può tirare un d10 extra.
 - **Pari:** Aggiunge il risultato al totale.
 - **Dispari:** Sottrae il risultato al totale.
 
 ### All In (14°)
 **Passiva • 1/Riposo Lungo**
 
-Quando il Card Master fa un tiro, può scegliere di non tirare il d20 e scegliere un numero da 1 a 20.
+Quando lo Scommettitore fa un tiro, può scegliere di non tirare il d20 e scegliere un numero da 1 a 20.
 Dopo aver risolto l'azione, subisce danni psichici pari al numero scelto. Questi danni non possono essere ridotti.
 
 ---
 
 ## <u>Prestigiatore</u>
 
-I Prestigiatore usano l'inganno e la furtività, nascondendo la loro magia dietro trucchi di scena e ombre.
+I Prestigiatori usano l'inganno e la furtività, nascondendo la loro magia dietro trucchi di scena e ombre.
 
 ### Mano Nascosta (2°)
 **Azione Bonus**
 
-Il Card Master può rendere le carte che fluttuano attorno a lui invisibili a occhio nudo.
+Il Prestigiatore può rendere le carte che fluttuano attorno a lui invisibili a occhio nudo.
 **Carta Boomerang:** Quando usa il trucchetto *Lancio della Carta* e manca, può ritirare l'attacco contro un altro bersaglio entro 3 metri.
 
 ### Niente Fumo... (6°)
 **Reazione**
 
-Quando il Card Master lancia un incantesimo, può scartare carte extra per:
+Quando il Prestigiatore lancia un incantesimo, può scartare carte extra per:
 - Ignorare componenti verbali o somatiche.
 - Infliggere +1d6 danni da forza extra per ogni carta scartata.
 
 ### Carta Trucco (10°)
 **Azione**
 
-Il Card Master piazza una carta come trappola invisibile su una superficie. Quando una creatura si avvicina:
+Il Prestigiatore piazza una carta come trappola invisibile su una superficie. Quando una creatura si avvicina:
 - Se è un'illusione: si attiva.
 - Se è altro: esplode (TS su CD incantesimo) causando effetti come *Accecato, Assordato* o *Stordito*.
 
@@ -216,4 +216,4 @@ Il Card Master piazza una carta come trappola invisibile su una superficie. Quan
 **Passiva**
 
 Il danno extra del privilegio "Niente Fumo..." aumenta a 1d8 per carta.
-Inoltre, il Card Master può scartare carte per rendere l'incantesimo totalmente silenzioso o invisibile.
+Inoltre, il Prestigiatore può scartare carte per rendere l'incantesimo totalmente silenzioso o invisibile.

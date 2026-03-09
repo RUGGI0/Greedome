@@ -1,9 +1,9 @@
 
-Il Gunslinger è un maestro della balistica e della chimica esplosiva. In un mondo dove la magia è instabile e la tecnologia complessa, il Gunslinger si affida a una certezza brutale: la polvere nera. Non prega divinità, calcola traiettorie, vento e velocità di rotazione.
-Per il Gunslinger, ogni proiettile è una sentenza, e la sua arma è l'unico giudice di cui ha bisogno.
+Il Pistolero è un maestro della balistica e della chimica esplosiva. In un mondo dove la magia è instabile e la tecnologia complessa, il Pistolero si affida a una certezza brutale: la polvere nera. Non prega divinità, calcola traiettorie, vento e velocità di rotazione.
+Per il Pistolero, ogni proiettile è una sentenza, e la sua arma è l'unico giudice di cui ha bisogno.
 
 ---
-# Privilegi di Classe Gunslinger
+# Privilegi di Classe Pistolero
 
 ## Dado Vita
 d10.
@@ -15,28 +15,28 @@ d10.
 **Abilità:** 2 a scelta tra Acrobazia, Atletica, Intimidire, Percezione, Furtività, Sopravvivenza
 
 ---
-# Tabella Gunslinger
+# Tabella Pistolero
 
 | Liv | Bonus | Punti Adrenalina | Colpi Tattici | Caratteristiche                          |
 | --- | ----- | ---------------- | ------------- | ---------------------------------------- |
 | 1   | +2    | —                | —             | Specialista Balistico, Manutenzione Armi |
-| 2   | +2    | 2                | 2             | Adrenalina (Grit)                        |
-| 3   | +2    | 2                | 2             | Archetipo Balistico                      |
+| 2   | +2    | 2                | 2             | Adrenalina, Trick Shots                  |
+| 3   | +2    | 2                | 2             | Specializzazione                         |
 | 4   | +2    | 2                | 2             | Aumento di Caratteristica                |
-| 5   | +3    | 3                | 2             | Attacco Extra                            |
+| 5   | +3    | 3                | 2             | Attacco Extra, Tattiche di Fuoco         |
 | 6   | +3    | 3                | 2             | Aumento di Caratteristica                |
 | 7   | +3    | 3                | 3             | Sangue Freddo                            |
 | 8   | +3    | 3                | 3             | Aumento di Caratteristica                |
-| 9   | +4    | 4                | 3             | Privilegio Archetipo                     |
+| 9   | +4    | 4                | 3             | Privilegio Specializzazione              |
 | 10  | +4    | 4                | 4             | Ricarica Rapida                          |
 | 11  | +4    | 4                | 4             | Violenza Controllata                     |
 | 12  | +4    | 5                | 4             | Aumento di Caratteristica                |
-| 13  | +5    | 5                | 5             | Privilegio Archetipo                     |
+| 13  | +5    | 5                | 5             | Privilegio Specializzazione              |
 | 14  | +5    | 5                | 5             | Aumento di Caratteristica                |
 | 15  | +5    | 6                | 5             | Ricarica Lampo                           |
 | 16  | +5    | 6                | 5             | Aumento di Caratteristica                |
 | 17  | +6    | 6                | 6             | —                                        |
-| 18  | +6    | 6                | 6             | Privilegio Archetipo                     |
+| 18  | +6    | 6                | 6             | Privilegio Specializzazione              |
 | 19  | +6    | 7                | 6             | Aumento di Caratteristica                |
 | 20  | +6    | 7                | 6             | Leggenda del West                        |
 
@@ -44,21 +44,21 @@ d10.
 ## Specialista Balistico (1°)
 **Passiva**
 
-Il Gunslinger ha una conoscenza enciclopedica delle armi da fuoco.
+Il Pistolero ha una conoscenza enciclopedica delle armi da fuoco.
 - Ottiene competenza nelle armi da fuoco.
 - Può usare la sua competenza negli strumenti da armaiolo per creare munizioni (costo dimezzato) o riparare armi danneggiate durante un riposo breve.
 
 ## Manutenzione Armi (1°)
 **Meccanica: Inceppamento**
 
-Le armi da fuoco sono potenti ma instabili. Ogni arma ha un punteggio di **Inceppamento** (Misfire).
-- Se il Gunslinger tira per colpire e il risultato del dado è uguale o inferiore al punteggio di Misfire dell'arma, il colpo fallisce e l'arma si inceppa.
-- Un'arma inceppata non può sparare finché il Gunslinger non usa un'Azione per tentare una riparazione (CD = 8 + Punteggio Misfire). Se fallisce la riparazione, l'arma è rotta e serve un'ora per sistemarla.
+Le armi da fuoco sono potenti ma instabili. Ogni arma ha un punteggio di **Inceppamento**.
+- Se il Pistolero tira per colpire e il risultato del dado è uguale o inferiore al punteggio di Misfire dell'arma, il colpo fallisce e l'arma si inceppa.
+- Un'arma inceppata non può sparare finché il Pistolero non usa un'Azione per tentare una riparazione (CD = 8 + Punteggio Misfire). Se fallisce la riparazione, l'arma è rotta e serve un'ora per sistemarla.
 
 ## Adrenalina (2°)
 **Passiva • Recupero Variabile**
 
-Il Gunslinger combatte al meglio quando è sotto pressione estrema.
+Il Pistolero combatte al meglio quando è sotto pressione estrema.
 Ottiene un numero di Punti Adrenalina pari al suo Modificatore di Saggezza (minimo 1).
 Recupera 1 Punto Adrenalina quando:
 - Ottiene un Colpo Critico (20 naturale) con un'arma da fuoco.
@@ -68,76 +68,61 @@ Recupera tutti i punti con un Riposo Breve o Lungo.
 ## Trick shot (2°)
 **Speciale**
 
-Il Gunslinger impara manovre speciali chiamate Trick shot.
+Il Pistolero impara manovre speciali chiamate Trick shot.
 Per usare un Trick shot, deve spendere 1 Punto Adrenalina prima di effettuare il tiro per colpire.
 Impara 2 Trick shot al livello 2, e ne apprende altri ai livelli 7, 10, 15 e 18.
+
+## Tattiche di Fuoco (5°)
+**Passiva**
+
+Il Pistolero adotta una specializzazione nel tiro. Sceglie una delle seguenti opzioni:
+
+- **Akimbo:** Quando impugni due armi da fuoco *leggere*, puoi aggiungere il tuo modificatore di caratteristica ai danni del secondo attacco. Puoi ricaricare entrambe le armi da fuoco leggere contemporaneamente usando un'Azione Bonus.
+
+- **Incursore:** Quando effettui un attacco con un'arma da fuoco contro una creatura entro 4,5 metri (15 ft) e tiri un 1 o un 2 sul dado di danno, puoi ritirare il dado e devi usare il nuovo risultato, anche se è un 1 o un 2. L'arma da fuoco deve avere la proprietà *Scatter* (Dispersione) per ottenere questo beneficio.
+
+- **Duellante:** Quando impugni un'arma da fianco (*sidearm*) in una mano e nessun'altra arma, ottieni un bonus di +2 ai tiri per i danni con queste armi.
+
+- **Fucileria:** Quando impugni un'arma da fuoco a due mani che non ha la proprietà *Bulky* (Ingombrante) o *Scatter*, ottieni un bonus di +2 ai tiri per colpire con quell'arma.
+
+- **Tiratore Scelto:** Se effettui un attacco con un'arma da fuoco a due mani contro un bersaglio oltre i 9 metri (30 ft), ottieni un bonus di +2 ai tiri per i danni. L'arma da fuoco non deve avere la proprietà *Scatter* per ottenere questo beneficio.
+
+- **Tiratore con Scudo:** Ora puoi impugnare un'arma da fuoco a *due mani* insieme a uno scudo, ma per sparare devi prima appoggiarla allo scudo usando un'Azione Bonus
 
 ## Sangue Freddo (7°)
 **Passiva**
 
-Anche nel caos, la mano del Gunslinger non trema.
-Il Gunslinger aggiunge il proprio bonus di competenza ai tiri di Iniziativa. Inoltre, può rinfoderare un'arma ed estrarne un'altra come singola interazione gratuita.
+Anche nel caos, la mano del Pistolero non trema.
+Il Pistolero aggiunge il proprio bonus di competenza ai tiri di Iniziativa. Inoltre, può rinfoderare un'arma ed estrarne un'altra come singola interazione gratuita.
 
 ## Ricarica Rapida (10°)
 **Azione Bonus**
 
-La memoria muscolare del Gunslinger è impeccabile.
-Il Gunslinger può ricaricare un'arma da fuoco con la proprietà *Ricarica* come Azione Bonus.
+La memoria muscolare del Pistolero è impeccabile.
+Il Pistolero può ricaricare un'arma da fuoco con la proprietà *Ricarica* come Azione Bonus.
 
 ## Violenza Controllata (11°)
 **Passiva**
 
-I colpi del Gunslinger sono progettati per mutilare o distruggere.
-Quando il Gunslinger ottiene un colpo critico o uccide un nemico, può effettuare un attacco aggiuntivo con un'arma da fuoco come parte della stessa azione.
+I colpi del Pistolero sono progettati per mutilare o distruggere.
+Quando il Pistolero ottiene un colpo critico o uccide un nemico, può effettuare un attacco aggiuntivo con un'arma da fuoco come parte della stessa azione.
 
 ## Ricarica Lampo (15°)
 **Reazione**
 
-Se un'arma si inceppa, il Gunslinger reagisce istantaneamente.
-Quando un'arma si inceppa, il Gunslinger può usare la sua reazione per ripararla istantaneamente e ripetere il tiro per colpire.
+Se un'arma si inceppa, il Pistolero reagisce istantaneamente.
+Quando un'arma si inceppa, il Pistolero può usare la sua reazione per ripararla istantaneamente e ripetere il tiro per colpire.
 
 ## Leggenda del West (20°)
 **Passiva**
 
-Il Gunslinger è diventato un'icona di morte e precisione.
-Se all'inizio del combattimento il Gunslinger ha 0 Punti Adrenalina, ne recupera immediatamente 4.
+Il Pistolero è diventato un'icona di morte e precisione.
+Se all'inizio del combattimento il Pistolero ha 0 Punti Adrenalina, ne recupera immediatamente 4.
 
 ---
 # Trick Shots
 
-Il Gunslinger sceglie i suoi colpi da questa lista.
-### Deadeye
-**1 Adrenalina**
-
-Il Gunslinger prende un respiro profondo e mira ai punti vitali.
-Effettua l'attacco con Vantaggio.
-
-### Colpo Disarmante
-**1 Adrenalina**
-
-Il Gunslinger mira all'arma o all'oggetto tenuto dal nemico.
-Se colpisce, infligge danno normale e il bersaglio deve superare un TS Forza (CD = 8 + Competenza + Mod DES).
-**Fallimento:** Il bersaglio lascia cadere l'oggetto che sta tenendo.
-
-### Colpo alle Gambe
-**1 Adrenalina**
-
-Il Gunslinger mira alle giunture per rallentare l'avanzata nemica.
-Se colpisce, infligge danno normale e il bersaglio deve superare un TS Forza.
-**Fallimento:** Il bersaglio cade *Prono*.
-
-### Colpo Minaccioso
-**1 Adrenalina**
-
-Il rumore dello sparo è calcolato per terrorizzare.
-Se colpisce, infligge danno normale e il bersaglio deve superare un TS Saggezza.
-**Fallimento:** Il bersaglio è *Spaventato* dal Gunslinger fino alla fine del prossimo turno.
-
-### Colpo Penetrante
-**1 Adrenalina**
-
-Il Gunslinger sovraccarica la polvere o mira attraverso protezioni deboli.
-L'attacco ottiene +1 al punteggio di Inceppamento ma ignora mezza copertura e tre quarti di copertura. Se ci sono più nemici in linea, si applicano le regole per colpirli entrambi (tiro per colpire separato).
+vedi [[Trick Shots]] nel capitolo *17. De Tabellorum*
 
 ---
 # SPECIALIZZAZIONI
@@ -158,7 +143,7 @@ Inoltre, può usare un'Azione Bonus per Nascondersi.
 
 Il Cecchino identifica il punto debole strutturale di ogni bersaglio.
 Se il Cecchino è nascosto al suo bersaglio quando attacca:
-- Aggiunge il proprio livello da Gunslinger ai danni del primo colpo andato a segno.
+- Aggiunge il proprio livello da Pistolero ai danni del primo colpo andato a segno.
 
 ### High Ground (13°)
 **Passiva**
@@ -168,7 +153,7 @@ Se il Cecchino si trova in una posizione più elevata rispetto al bersaglio (alm
 - I suoi attacchi ignorano la resistenza ai danni perforanti.
 - Il raggio critico delle sue armi diventa 19-20.
 
-### Fantasma nella Macchina (18°)
+### Telemetria Reattiva (18°)
 **Reazione**
 
 Quando viene colpito da un attacco a distanza, il Cecchino calcola la traiettoria inversa.
