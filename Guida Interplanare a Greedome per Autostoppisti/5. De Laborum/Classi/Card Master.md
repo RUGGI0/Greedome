@@ -8,7 +8,7 @@ Per i suoi pari, questa magia è poco ortodossa, quasi infantile. Ma il Card Mas
 d8.
 ## Competenze
 **Armature:** leggere
-**Armi:** armi semplici, armi da fianco (sidearms), armi da fuoco con proprietà *scatter*
+**Armi:** armi semplici, armi da fianco, armi da fuoco *scatter*
 **Strumenti:** set da gioco (carte)
 **Tiri Salvezza:** INT, CAR
 **Abilità:** 2 a scelta tra Acrobazia, Arcano, Inganno, Intuizione, Intimidire, Indagare, Rapidità di Mano
