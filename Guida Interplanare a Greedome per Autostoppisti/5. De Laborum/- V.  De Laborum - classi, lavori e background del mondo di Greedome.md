@@ -22,7 +22,7 @@
 | **[[_Detective]]**     | S    | Analista e risolutore di misteri.                      |
 | **[[_Medic]]**         | S    | Guaritore empatico e razionale.                        |
 | **[[_Archaeologist]]** | S    | Esploratore erudito e diplomatico culturale.           |
-| **[[-Bard]]**          | M/S  | Artista incantatore e manipolatore emotivo.            |
+| **[[Bardo]]**          | M/S  | Artista incantatore e manipolatore emotivo.            |
 
 | Tipo                | Classi                                                                 | Totale           |
 | ------------------- | ---------------------------------------------------------------------- | ---------------- |

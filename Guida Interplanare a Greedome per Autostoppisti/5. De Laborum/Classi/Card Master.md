@@ -40,8 +40,7 @@ d8.
 | 20  | +6    | Mazzo delle Leggende                         | 5          | 125         | 5°            |
 ## Magia delle Carte (Livello 1)
 **Passiva**
-
-Il Card Master usa un mazzo di carte incantate o tecnologiche per lanciare incantesimi.
+>Il Card Master usa un mazzo di carte incantate o tecnologiche per lanciare incantesimi.
 - **Caratteristica da Incantatore:** Carisma.
 - **Focus:** Il mazzo di carte funge da focus arcano.
 - **Il Mazzo:** Il Card Master costruisce un mazzo di 20 carte ogni giorno. Ogni carta rappresenta un incantesimo.
@@ -52,46 +51,39 @@ Il Card Master usa un mazzo di carte incantate o tecnologiche per lanciare incan
 
 ## Full House (1°)
 **1/Riposo Lungo**
+>Il Card Master è esperto nel recuperare risorse.
+>Una volta al giorno, dopo aver completato un riposo lungo, può scegliere 5 carte dalla sua pila degli scarti e rimescolarle nel mazzo.
 
-Il Card Master è esperto nel recuperare risorse.
-Una volta al giorno, dopo aver completato un riposo lungo, può scegliere 5 carte dalla sua pila degli scarti e rimescolarle nel mazzo.
-
-## Seguire l'Archetipo (2°)
+## Specializzazione (2°)
 **Passiva**
-
-Il Card Master sceglie una specializzazione: **Duellante**, **Cartomante**, **Scommettitore** o **Prestigiatore**.
+>Il Card Master sceglie una specializzazione: **Duellante**, **Cartomante**, **Scommettitore** o **Prestigiatore**.
 
 ## Riciclo (3°)
 **Azione Bonus**
-
-Il Card Master manipola il mazzo per trovare ciò che gli serve.
-Può scartare una "carta bianca" (una carta vuota usata per riempire il mazzo se mancano punti) dalla sua mano e pescarne immediatamente una nuova per sostituirla.
+>Il Card Master manipola il mazzo per trovare ciò che gli serve.
+>Può scartare una "carta bianca" (una carta vuota usata per riempire il mazzo se mancano punti) dalla sua mano e pescarne immediatamente una nuova per sostituirla.
 
 ## Mazzo Fortunato (6°)
 **Passiva**
-
-La maestria del Card Master nel manipolare l'energia arcana si affina.
-Il Card Master aggiunge il proprio Modificatore di Carisma ai danni inflitti da qualsiasi Trucchetto (Cantrip) lanciato tramite le carte.
+>La maestria del Card Master nel manipolare l'energia arcana si affina.
+>Il Card Master aggiunge il proprio Modificatore di Carisma ai danni inflitti da qualsiasi Trucchetto (Cantrip) lanciato tramite le carte.
 
 ## Botta de Culo (7°)
 **Passiva • 1/Riposo Breve o Lungo**
-
-La volontà del Card Master si manifesta nei suoi incantesimi.
-Quando il Card Master lancia un incantesimo di 4° livello o superiore che bersaglia un nemico, può forzarlo a fare un TS su Saggezza.
+>La volontà del Card Master si manifesta nei suoi incantesimi.
+>Quando il Card Master lancia un incantesimo di 4° livello o superiore che bersaglia un nemico, può forzarlo a fare un TS su Saggezza.
 - **Fallimento:** La creatura è *Stordita* fino alla fine del suo prossimo turno.
 
 ## Carta Leggendaria (11°)
 **Passiva**
-
-La magia del Card Master manifesta una carta unica e potente, separata dalla collezione normale.
+>La magia del Card Master manifesta una carta unica e potente, separata dalla collezione normale.
 - **Costo:** Aggiungerla al mazzo costa 25 Punti.
 - **Effetto:** Quando è nella mano, il Card Master ottiene +1 al Tiro per Colpire degli incantesimi e alla CD. Se scartata, torna nel mazzo invece che negli scarti.
 - **Incantesimi:** Contiene un incantesimo di 6° livello. Ai livelli successivi ne guadagna di 7°, 8° e 9° (vedi tabella). Ogni incantesimo leggendario può essere lanciato una volta per riposo lungo.
 
 ## Mazzo delle Leggende (20°)
 **Passiva**
-
-Il Card Master può inserire due copie della sua Carta Leggendaria nel mazzo (costo extra: 25 punti), permettendogli di lanciare i suoi incantesimi più potenti due volte al giorno.
+>Il Card Master può inserire due copie della sua Carta Leggendaria nel mazzo (costo extra: 25 punti), permettendogli di lanciare i suoi incantesimi più potenti due volte al giorno.
 
 ---
 # SPECIALIZZAZIONI
@@ -103,25 +95,21 @@ I Duellanti usano la magia per il combattimento diretto, sfoggiando abilità app
 
 ### Uno con le Carte (2°)
 **Azione**
-
-Il Card Master scarta una carta per animarla. La carta si muove e fluttua per 1 minuto.
+>Il Card Master scarta una carta per animarla. La carta si muove e fluttua per 1 minuto.
 - Il Card Master può vedere e sentire attraverso la carta.
 - **Azione Bonus:** Può teletrasportarsi nella posizione della carta, terminando l'effetto.
 
 ### Carta Jolly (6°)
 **Reazione • 1/Riposo Breve o Lungo**
-
-Quando un avversario entro 6 metri attacca o lancia un incantesimo, il Card Master può lanciare istantaneamente un incantesimo dalla sua mano (tempo di lancio: 1 azione o meno).
+>Quando un avversario entro 6 metri attacca o lancia un incantesimo, il Card Master può lanciare istantaneamente un incantesimo dalla sua mano (tempo di lancio: 1 azione o meno).
 
 ### Risonanza degli Incantesimi (10°)
 **Passiva**
-
-Quando lancia un incantesimo, se il Card Master ha in mano un'altra copia della stessa carta, può aumentare il livello dell'incantesimo di 1 (fino al suo massimo consentito).
+>Quando lancia un incantesimo, se il Card Master ha in mano un'altra copia della stessa carta, può aumentare il livello dell'incantesimo di 1 (fino al suo massimo consentito).
 
 ### Cuore del Duellante (14°)
 **Azione Bonus • 1/Riposo Breve o Lungo**
-
-Se la mano è vuota, invece di pescare 5 carte a caso, il Card Master può cercare nel mazzo una carta specifica a sua scelta e metterla in mano.
+>Se la mano è vuota, invece di pescare 5 carte a caso, il Card Master può cercare nel mazzo una carta specifica a sua scelta e metterla in mano.
 
 ---
 
@@ -131,28 +119,24 @@ I Cartomanti usano le carte per leggere il futuro, manipolare il destino e suppo
 
 ### Senso della Scrutazione (2°)
 **Passiva**
-
-Quando il Cartomante pesca la sua mano, può pescare 6 carte invece di 5, e poi rimetterne una a scelta nel mazzo.
+>Quando il Cartomante pesca la sua mano, può pescare 6 carte invece di 5, e poi rimetterne una a scelta nel mazzo.
 
 ### Lettura del Presagio (6°)
 **Rituale (10 min) • 1/Riposo Lungo**
-
-Il Cartomante legge il futuro di una creatura consenziente. Tira un d4:
+>Il Cartomante legge il futuro di una creatura consenziente. Tira un d4:
 1. **Catastrofe:** -5 ai tiri.
 2. **Sfortuna:** -2 ai tiri.
 3. **Benedizione:** +2 ai tiri.
 4. **Trionfo:** +5 ai tiri.
-Il DM decide quando applicare questi bonus/malus nelle prossime 24 ore.
+>Il DM decide quando applicare questi bonus/malus nelle prossime 24 ore.
 
 ### Forgiare il Destino (10°)
 **Passiva**
-
-Quando il Cartomante lancia un incantesimo che bersaglia gli alleati, lui e gli alleati ottengono Punti Ferita Temporanei pari al valore in punti della carta usata.
+>Quando il Cartomante lancia un incantesimo che bersaglia gli alleati, lui e gli alleati ottengono Punti Ferita Temporanei pari al valore in punti della carta usata.
 
 ### Sussurri dall'Oltre (14°)
 **Passiva**
-
-Finché ci sono più di 10 carte nella pila degli scarti, il Cartomante ha Vantaggio a tutte le prove di abilità.
+>Finché ci sono più di 10 carte nella pila degli scarti, il Cartomante ha Vantaggio a tutte le prove di abilità.
 
 ---
 
@@ -162,29 +146,25 @@ Gli Scommettitori amano il rischio e il caos, manipolando la fortuna a proprio v
 
 ### Asso nella Manica (2°)
 **Azione Gratuita • 1/Riposo Breve o Lungo**
-
-Dopo aver pescato, lo Scommettitore può tentare una prova di Rapidità di Mano (CD 12 + costo carta) per scambiare una carta della mano con una nuova dal mazzo.
-Se riesce, può lanciare quella carta ignorando le componenti verbali e somatiche.
+>Dopo aver pescato, lo Scommettitore può tentare una prova di Rapidità di Mano (CD 12 + costo carta) per scambiare una carta della mano con una nuova dal mazzo.
+>Se riesce, può lanciare quella carta ignorando le componenti verbali e somatiche.
 
 ### Sapere Quando Lasciare (6°)
 **Reazione**
-
-Quando lo Scommettitore è bersaglio di un attacco o deve fare un TS su Destrezza per dimezzare i danni, può scartare una carta:
+>Quando lo Scommettitore è bersaglio di un attacco o deve fare un TS su Destrezza per dimezzare i danni, può scartare una carta:
 - **Contro Attacco:** Subisce metà danni.
 - **Contro Effetto:** Subisce 0 danni se supera il TS, o metà se fallisce.
 
 ### Inclinare la Bilancia (10°)
 **Reazione**
-
-Dopo aver fatto un tiro (attacco, abilità, TS), lo Scommettitore può tirare un d10 extra.
+>Dopo aver fatto un tiro (attacco, abilità, TS), lo Scommettitore può tirare un d10 extra.
 - **Pari:** Aggiunge il risultato al totale.
 - **Dispari:** Sottrae il risultato al totale.
 
 ### All In (14°)
 **Passiva • 1/Riposo Lungo**
-
-Quando lo Scommettitore fa un tiro, può scegliere di non tirare il d20 e scegliere un numero da 1 a 20.
-Dopo aver risolto l'azione, subisce danni psichici pari al numero scelto. Questi danni non possono essere ridotti.
+>Quando lo Scommettitore fa un tiro, può scegliere di non tirare il d20 e scegliere un numero da 1 a 20.
+>Dopo aver risolto l'azione, subisce danni psichici pari al numero scelto. Questi danni non possono essere ridotti.
 
 ---
 
@@ -194,26 +174,22 @@ I Prestigiatori usano l'inganno e la furtività, nascondendo la loro magia dietr
 
 ### Mano Nascosta (2°)
 **Azione Bonus**
-
-Il Prestigiatore può rendere le carte che fluttuano attorno a lui invisibili a occhio nudo.
-**Carta Boomerang:** Quando usa il trucchetto *Lancio della Carta* e manca, può ritirare l'attacco contro un altro bersaglio entro 3 metri.
+>Il Prestigiatore può rendere le carte che fluttuano attorno a lui invisibili a occhio nudo.
+>**Carta Boomerang:** Quando usa il trucchetto *Lancio della Carta* e manca, può ritirare l'attacco contro un altro bersaglio entro 3 metri.
 
 ### Niente Fumo... (6°)
 **Reazione**
-
-Quando il Prestigiatore lancia un incantesimo, può scartare carte extra per:
+>Quando il Prestigiatore lancia un incantesimo, può scartare carte extra per:
 - Ignorare componenti verbali o somatiche.
 - Infliggere +1d6 danni da forza extra per ogni carta scartata.
 
 ### Carta Trucco (10°)
 **Azione**
-
-Il Prestigiatore piazza una carta come trappola invisibile su una superficie. Quando una creatura si avvicina:
+>Il Prestigiatore piazza una carta come trappola invisibile su una superficie. Quando una creatura si avvicina:
 - Se è un'illusione: si attiva.
 - Se è altro: esplode (TS su CD incantesimo) causando effetti come *Accecato, Assordato* o *Stordito*.
 
 ### ...Tutto Arrosto (14°)
 **Passiva**
-
-Il danno extra del privilegio "Niente Fumo..." aumenta a 1d8 per carta.
-Inoltre, il Prestigiatore può scartare carte per rendere l'incantesimo totalmente silenzioso o invisibile.
+>Il danno extra del privilegio "Niente Fumo..." aumenta a 1d8 per carta.
+>Inoltre, il Prestigiatore può scartare carte per rendere l'incantesimo totalmente silenzioso o invisibile.

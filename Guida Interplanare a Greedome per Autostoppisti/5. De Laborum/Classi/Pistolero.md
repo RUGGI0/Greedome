@@ -43,81 +43,70 @@ d10.
 ---
 ## Specialista Balistico (1°)
 **Passiva**
-
-Il Pistolero ha una conoscenza enciclopedica delle armi da fuoco.
+>Il Pistolero ha una conoscenza enciclopedica delle armi da fuoco.
 - Ottiene competenza nelle armi da fuoco.
 - Può usare la sua competenza negli strumenti da armaiolo per creare munizioni (costo dimezzato) o riparare armi danneggiate durante un riposo breve.
 
 ## Manutenzione Armi (1°)
 **Meccanica: Inceppamento**
-
-Le armi da fuoco sono potenti ma instabili. Ogni arma ha un punteggio di **Inceppamento**.
+>Le armi da fuoco sono potenti ma instabili. Ogni arma ha un punteggio di **Inceppamento**.
 - Se il Pistolero tira per colpire e il risultato del dado è uguale o inferiore al punteggio di Misfire dell'arma, il colpo fallisce e l'arma si inceppa.
 - Un'arma inceppata non può sparare finché il Pistolero non usa un'Azione per tentare una riparazione (CD = 8 + Punteggio Misfire). Se fallisce la riparazione, l'arma è rotta e serve un'ora per sistemarla.
 
 ## Adrenalina (2°)
 **Passiva • Recupero Variabile**
-
-Il Pistolero combatte al meglio quando è sotto pressione estrema.
-Ottiene un numero di Punti Adrenalina pari al suo Modificatore di Saggezza (minimo 1).
-Recupera 1 Punto Adrenalina quando:
+>Il Pistolero combatte al meglio quando è sotto pressione estrema.
+>Ottiene un numero di Punti Adrenalina pari al suo Modificatore di Saggezza (minimo 1).
+>Recupera 1 Punto Adrenalina quando:
 - Ottiene un Colpo Critico (20 naturale) con un'arma da fuoco.
 - Uccide un obbiettivo significativo (a discrezione del DM, min GS 1/4) con un'arma da fuoco.
-Recupera tutti i punti con un Riposo Breve o Lungo.
+>Recupera tutti i punti con un Riposo Breve o Lungo.
 
 ## Trick shot (2°)
 **Speciale**
-
-Il Pistolero impara manovre speciali chiamate Trick shot.
+>Il Pistolero impara manovre speciali chiamate Trick shot.
 Per usare un Trick shot, deve spendere 1 Punto Adrenalina prima di effettuare il tiro per colpire.
 Impara 2 Trick shot al livello 2, e ne apprende altri ai livelli 7, 10, 15 e 18.
+
+## Specializzazione (3°)
+**Passiva**
+>Il Pistolero sceglie una specializzazione: **Cecchino**, **Sicario** o **Fuciliere Arcano**.
 
 ## Tattiche di Fuoco (5°)
 **Passiva**
 
-Il Pistolero adotta una specializzazione nel tiro. Sceglie una delle seguenti opzioni:
-
+>Il Pistolero adotta una specializzazione nel tiro. Sceglie una delle seguenti opzioni:
 - **Akimbo:** Quando impugni due armi da fuoco *leggere*, puoi aggiungere il tuo modificatore di caratteristica ai danni del secondo attacco. Puoi ricaricare entrambe le armi da fuoco leggere contemporaneamente usando un'Azione Bonus.
-
 - **Incursore:** Quando effettui un attacco con un'arma da fuoco contro una creatura entro 4,5 metri (15 ft) e tiri un 1 o un 2 sul dado di danno, puoi ritirare il dado e devi usare il nuovo risultato, anche se è un 1 o un 2. L'arma da fuoco deve avere la proprietà *Scatter* (Dispersione) per ottenere questo beneficio.
-
 - **Duellante:** Quando impugni un'arma da fianco (*sidearm*) in una mano e nessun'altra arma, ottieni un bonus di +2 ai tiri per i danni con queste armi.
-
 - **Fucileria:** Quando impugni un'arma da fuoco a due mani che non ha la proprietà *Bulky* (Ingombrante) o *Scatter*, ottieni un bonus di +2 ai tiri per colpire con quell'arma.
-
 - **Tiratore Scelto:** Se effettui un attacco con un'arma da fuoco a due mani contro un bersaglio oltre i 9 metri (30 ft), ottieni un bonus di +2 ai tiri per i danni. L'arma da fuoco non deve avere la proprietà *Scatter* per ottenere questo beneficio.
-
 - **Tiratore con Scudo:** Ora puoi impugnare un'arma da fuoco a *due mani* insieme a uno scudo, ma per sparare devi prima appoggiarla allo scudo usando un'Azione Bonus
 
 ## Sangue Freddo (7°)
 **Passiva**
-
-Anche nel caos, la mano del Pistolero non trema.
-Il Pistolero aggiunge il proprio bonus di competenza ai tiri di Iniziativa. Inoltre, può rinfoderare un'arma ed estrarne un'altra come singola interazione gratuita.
+>Anche nel caos, la mano del Pistolero non trema.
+>Il Pistolero aggiunge il proprio bonus di competenza ai tiri di Iniziativa. Inoltre, può rinfoderare un'arma ed estrarne un'altra come singola interazione gratuita.
 
 ## Ricarica Rapida (10°)
 **Azione Bonus**
-
-La memoria muscolare del Pistolero è impeccabile.
-Il Pistolero può ricaricare un'arma da fuoco con la proprietà *Ricarica* come Azione Bonus.
+>La memoria muscolare del Pistolero è impeccabile.
+>Il Pistolero può ricaricare un'arma da fuoco con la proprietà *Ricarica* come Azione Bonus.
 
 ## Violenza Controllata (11°)
-**Passiva**
-
-I colpi del Pistolero sono progettati per mutilare o distruggere.
-Quando il Pistolero ottiene un colpo critico o uccide un nemico, può effettuare un attacco aggiuntivo con un'arma da fuoco come parte della stessa azione.
+**Passiva • 1(o 2)/turno**
+>I colpi del Pistolero sono progettati per mutilare o distruggere.
+>Quando il Pistolero ottiene un colpo critico o uccide un nemico, può effettuare un attacco aggiuntivo con un'arma da fuoco come parte della stessa azione. Può usare questa abilità max 1 volta per turno, 2 dal liv. 17.
 
 ## Ricarica Lampo (15°)
 **Reazione**
-
-Se un'arma si inceppa, il Pistolero reagisce istantaneamente.
-Quando un'arma si inceppa, il Pistolero può usare la sua reazione per ripararla istantaneamente e ripetere il tiro per colpire.
+>Se un'arma si inceppa, il Pistolero reagisce istantaneamente.
+>Quando un'arma si inceppa, il Pistolero può usare la sua reazione per ripararla istantaneamente e ripetere il tiro per colpire.
 
 ## Leggenda del West (20°)
 **Passiva**
-
-Il Pistolero è diventato un'icona di morte e precisione.
-Se all'inizio del combattimento il Pistolero ha 0 Punti Adrenalina, ne recupera immediatamente 4.
+>Il Pistolero è diventato un'icona di morte e precisione.
+>Se all'inizio del combattimento il Pistolero ha 0 Punti Adrenalina, ne recupera immediatamente 4.
 
 ---
 # Trick Shots
@@ -133,31 +122,27 @@ Il Cecchino predilige la distanza, la pazienza e il colpo unico e perfetto. È u
 
 ### Mimetizzazione Ottica (3°)
 **Azione Bonus • Passiva**
-
-Il Cecchino sa come fondersi con l'ambiente urbano o selvaggio.
-Ottiene competenza in Furtività (o maestria se la possiede già).
-Inoltre, può usare un'Azione Bonus per Nascondersi.
+>Il Cecchino sa come fondersi con l'ambiente urbano o selvaggio.
+>Ottiene competenza in Furtività (o maestria se la possiede già).
+>Inoltre, può usare un'Azione Bonus per Nascondersi.
 
 ### Tiro di Assassinio (6°)
 **Passiva**
-
-Il Cecchino identifica il punto debole strutturale di ogni bersaglio.
-Se il Cecchino è nascosto al suo bersaglio quando attacca:
+>Il Cecchino identifica il punto debole strutturale di ogni bersaglio.
+>Se il Cecchino è nascosto al suo bersaglio quando attacca:
 - Aggiunge il proprio livello da Pistolero ai danni del primo colpo andato a segno.
 
 ### High Ground (13°)
 **Passiva**
-
-Il Cecchino domina il campo visivo dall'alto.
-Se il Cecchino si trova in una posizione più elevata rispetto al bersaglio (almeno 3 metri):
+>Il Cecchino domina il campo visivo dall'alto.
+>Se il Cecchino si trova in una posizione più elevata rispetto al bersaglio (almeno 3 metri):
 - I suoi attacchi ignorano la resistenza ai danni perforanti.
 - Il raggio critico delle sue armi diventa 19-20.
 
 ### Telemetria Reattiva (18°)
 **Reazione**
-
-Quando viene colpito da un attacco a distanza, il Cecchino calcola la traiettoria inversa.
-Può usare la reazione per effettuare immediatamente un attacco contro chi lo ha colpito, se è nel raggio dell'arma. Se colpisce, il danno subito dal Cecchino viene dimezzato.
+>Quando viene colpito da un attacco a distanza, il Cecchino calcola la traiettoria inversa.
+>Può usare la reazione per effettuare immediatamente un attacco contro chi lo ha colpito, se è nel raggio dell'arma. Se colpisce, il danno subito dal Cecchino viene dimezzato.
 
 ---
 ## <u>Sicario</u>
@@ -166,29 +151,25 @@ Il Sicario è velocità pura. Combatte a distanza ravvicinata, spesso con due pi
 
 ### Gun Fu (3°)
 **Passiva**
-
-Il Sicario non teme la mischia, anzi, la cerca.
+>Il Sicario non teme la mischia, anzi, la cerca.
 - Non ha svantaggio quando attacca con armi da fuoco se un nemico è entro 1,5 metri.
 - Quando combatte con due armi leggere (pistole), può aggiungere il modificatore di caratteristica ai danni dell'attacco bonus.
 
 ### Fuoco di Copertura (6°)
 **Azione • 1 Adrenalina**
-
-Il Sicario scatena una raffica di colpi per proteggere gli alleati.
-Fino all'inizio del suo prossimo turno, ogni nemico entro 9 metri che tenta di attaccare un alleato del Sicario subisce un attacco di opportunità con la pistola.
+>Il Sicario scatena una raffica di colpi per proteggere gli alleati.
+>Fino all'inizio del suo prossimo turno, ogni nemico entro 9 metri che tenta di attaccare un alleato del Sicario subisce un attacco di opportunità con la pistola.
 
 ### Riflessi Fulminei (13°)
 **Passiva**
-
-Il sistema nervoso del Sicario reagisce prima del pensiero cosciente.
-Aggiunge il Modificatore di Saggezza alla CA (Classe Armatura) finché indossa armatura leggera e non impugna scudi.
-Inoltre, ottiene vantaggio ai TS su Destrezza contro effetti che può vedere.
+>Il sistema nervoso del Sicario reagisce prima del pensiero cosciente.
+>Aggiunge il Modificatore di Saggezza alla CA (Classe Armatura) finché indossa armatura leggera e non impugna scudi.
+>Inoltre, ottiene vantaggio ai TS su Destrezza contro effetti che può vedere.
 
 ### Tempesta di Piombo (18°)
 **Azione • Costo Variabile**
-
-Il Sicario svuota i caricatori in un istante.
-Può spendere X Punti Adrenalina per effettuare X attacchi aggiuntivi con le armi da fuoco in questo turno (oltre ai suoi attacchi normali). Dopo aver usato questa abilità, le armi usate devono essere ricaricate.
+>Il Sicario svuota i caricatori in un istante.
+>Può spendere X Punti Adrenalina per effettuare X attacchi aggiuntivi con le armi da fuoco in questo turno (oltre ai suoi attacchi normali). Dopo aver usato questa abilità, le armi usate devono essere ricaricate.
 
 ---
 ## <u>Fuciliere Arcano</u>
@@ -197,30 +178,26 @@ Il Fuciliere Arcano combina la tecnologia delle armi con la magia elementale, in
 
 ### Proiettili Incantati (3°)
 **Passiva**
-
-Le munizioni del Fuciliere sono infuse di energia latente.
+>Le munizioni del Fuciliere sono infuse di energia latente.
 - Le sue armi da fuoco sono considerate magiche ai fini delle resistenze.
 - Quando ricarica, può scegliere un tipo di danno (Fuoco, Freddo, Fulmine). I danni dell'arma diventano di quel tipo fino alla prossima ricarica.
 
 ### Colpo Arcano (6°)
 **Azione Bonus • 1 Adrenalina**
-
-Il Fuciliere infonde un incantesimo nel prossimo proiettile.
-Il prossimo attacco infligge 2d6 danni extra del tipo scelto.
-Il bersaglio deve superare un TS (CD basata su Saggezza) o subire un effetto:
+>Il Fuciliere infonde un incantesimo nel prossimo proiettile.
+>Il prossimo attacco infligge 2d6 danni extra del tipo scelto.
+>Il bersaglio deve superare un TS (CD basata su Saggezza) o subire un effetto:
 - **Fuoco:** Brucia (1d6 danni a inizio turno).
 - **Freddo:** Velocità dimezzata.
 - **Fulmine:** Non può usare reazioni.
 
 ### Teletrasporto Balistico (13°)
 **Azione Bonus • 1 Adrenalina**
-
-Il Fuciliere spara un proiettile e scambia la sua posizione con esso.
-Spara a un punto (o creatura) entro gittata. Se colpisce (o tocca il punto), il Fuciliere si teletrasporta istantaneamente in uno spazio adiacente all'impatto.
+>Il Fuciliere spara un proiettile e scambia la sua posizione con esso.
+>Spara a un punto (o creatura) entro gittata. Se colpisce (o tocca il punto), il Fuciliere si teletrasporta istantaneamente in uno spazio adiacente all'impatto.
 
 ### Disgregazione Molecolare (18°)
 **Passiva**
-
-I proiettili del Fuciliere destabilizzano la materia.
-I suoi colpi ignorano le Resistenze elementali.
-Se colpisce una creatura immune al tipo di danno scelto, la tratta come se avesse solo Resistenza.
+>I proiettili del Fuciliere destabilizzano la materia.
+>I suoi colpi ignorano le Resistenze elementali.
+>Se colpisce una creatura immune al tipo di danno scelto, la tratta come se avesse solo Resistenza.
