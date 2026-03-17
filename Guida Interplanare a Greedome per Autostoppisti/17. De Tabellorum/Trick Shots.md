@@ -1,33 +1,37 @@
-Il Gunslinger sceglie i suoi colpi da questa lista.
-### Deadeye
-**1 Adrenalina**
+---
+# Trick Shots
+---
+Il Pistolero sceglie i suoi colpi da questa lista. Salvo dove diversamente specificato, il Punto Adrenalina va speso *prima* di tirare il dado per colpire.
 
-Il Gunslinger prende un respiro profondo e mira ai punti vitali.
-Effettua l'attacco con Vantaggio.
+### Deadeye (Occhio Infallibile)
+**Speciale (Prima del Tiro per Colpire) • 1 Adrenalina**
+>Il Pistolero prende un respiro profondo e mira ai punti vitali.
+>Effettua il tiro per colpire con Vantaggio.
 
 ### Colpo Disarmante
-**1 Adrenalina**
-
-Il Gunslinger mira all'arma o all'oggetto tenuto dal nemico.
-Se colpisce, infligge danno normale e il bersaglio deve superare un TS Forza (CD = 8 + Competenza + Mod DES).
-**Fallimento:** Il bersaglio lascia cadere l'oggetto che sta tenendo.
+**Speciale (Prima del Tiro per Colpire) • 1 Adrenalina**
+>Il Pistolero mira all'arma o all'oggetto tenuto dal nemico.
+>Se l'attacco colpisce, infligge il danno normale e il bersaglio deve superare un TS su Forza (CD = 8 + Bonus di Competenza + Mod DES).
+>**Fallimento:** Il bersaglio lascia cadere l'oggetto che sta tenendo ai suoi piedi.
 
 ### Colpo alle Gambe
-**1 Adrenalina**
-
-Il Gunslinger mira alle giunture per rallentare l'avanzata nemica.
-Se colpisce, infligge danno normale e il bersaglio deve superare un TS Forza.
-**Fallimento:** Il bersaglio cade *Prono*.
+**Speciale (Prima del Tiro per Colpire) • 1 Adrenalina**
+>Il Pistolero mira alle giunture o al baricentro per arrestare l'avanzata nemica.
+>Se l'attacco colpisce, infligge il danno normale e il bersaglio deve superare un TS su Forza (CD = 8 + Bonus di Competenza + Mod DES).
+>**Fallimento:** Il bersaglio cade a terra *Prono*.
 
 ### Colpo Minaccioso
-**1 Adrenalina**
-
-Il rumore dello sparo è calcolato per terrorizzare.
-Se colpisce, infligge danno normale e il bersaglio deve superare un TS Saggezza.
-**Fallimento:** Il bersaglio è *Spaventato* dal Gunslinger fino alla fine del prossimo turno.
+**Speciale (Prima del Tiro per Colpire) • 1 Adrenalina**
+>Il rumore dello sparo e la violenza dell'impatto sono calcolati per terrorizzare.
+>Se l'attacco colpisce, infligge il danno normale e il bersaglio deve superare un TS su Saggezza (CD = 8 + Bonus di Competenza + Mod DES).
+>**Fallimento:** Il bersaglio è *Spaventato* dal Pistolero fino alla fine del suo prossimo turno.
 
 ### Colpo Penetrante
-**1 Adrenalina**
+**Speciale (Prima del Tiro per Colpire) • 1 Adrenalina**
+>Il Pistolero sovraccarica la polvere o mira attraverso protezioni deboli per far trapassare il proiettile.
+>L'arma subisce un +1 temporaneo al suo punteggio di Inceppamento per questo singolo attacco. L'attacco ignora la mezza copertura e i tre quarti di copertura. Se il colpo va a segno e c'è un altro nemico in linea retta dietro al bersaglio (entro la gittata dell'arma), il Pistolero può effettuare un secondo tiro per colpire contro di esso.
 
-Il Gunslinger sovraccarica la polvere o mira attraverso protezioni deboli.
-L'attacco ottiene +1 al punteggio di Inceppamento ma ignora mezza copertura e tre quarti di copertura. Se ci sono più nemici in linea, si applicano le regole per colpirli entrambi (tiro per colpire separato).
+### Fuoco di Soppressione (Overwatch)
+**Azione Bonus • 1 Adrenalina**
+>Il Pistolero si prepara a fare fuoco al minimo movimento sospetto.
+>Dichiara un'area a cono di 9 metri davanti a sé. Fino all'inizio del suo prossimo turno, se un nemico si muove all'interno di quell'area o lancia un incantesimo, il Pistolero può usare la sua **Reazione** per effettuare un singolo attacco con l'arma da fuoco contro di lui (questo attacco interrompe il movimento o l'incantesimo in caso di uccisione).

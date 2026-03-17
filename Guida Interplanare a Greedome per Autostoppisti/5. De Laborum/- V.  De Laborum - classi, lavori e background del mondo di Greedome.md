@@ -14,7 +14,7 @@
 | **[[_Bloodhunter]]**   | M    | Potere nel sangue e sacrificio.                        |
 | **[[_Pirate]]**        | F    | Combattente libero e carismatico dei mari.             |
 | **[[-Ranger]]**        | F    | Cacciatore ed esploratore.                             |
-| **[[-Rogue]]**         | F    | Maestro della furtività e precisione.                  |
+| **[[Ladro]]**         | F    | Maestro della furtività e precisione.                  |
 | **[[_Vanguard]]**      | F    | Difensore disciplinato e tattico.                      |
 | **[[_Samurai]]**       | F    | Guerriero dell’onore e della disciplina.               |
 | **[[_Luchador]]**      | F    | Combattente acrobatico e teatrale.                     |

@@ -5,7 +5,7 @@ Per i suoi pari, questa magia è poco ortodossa, quasi infantile. Ma il Card Mas
 # Privilegi di Classe Card Master
 
 ## Dado Vita
-d8.
+d8
 ## Competenze
 **Armature:** leggere
 **Armi:** armi semplici, armi da fianco, armi da fuoco *scatter*

@@ -6,7 +6,7 @@ Su Greedome, questa natura instabile è una condanna a morte. Considerati calami
 # Privilegi di Classe Glitch
 
 ## Dado Vita
-d8.
+d10
 ## Competenze
 **Armature:** nessuna
 **Armi:** armi semplici, pistole

@@ -1,146 +1,112 @@
+---
+# POTERI DEL GLITCH
+---
+A differenza della magia tradizionale, i Poteri del Glitch sono hackeraggi al codice della realtà. Richiedono il consumo di Byte per essere attivati.
 
 ---
 # Tier I Powers
 ---
 ### Scintilla Distorta
 **1 Byte • Azione • 18 m**
+>Una spaccatura della realtà, simile a un fulmine vettoriale, che colpisce il bersaglio con estrema precisione.
+- L'attacco infligge 1d8 + il Modificatore di Intelligenza danni da fulmine (o forza).
+- Il bersaglio subisce Svantaggio al suo prossimo tiro per colpire effettuato prima dell'inizio del prossimo turno del Glitch.
 
-Una spaccatura della realtà, simile ad un fulmine, che colpisce singoli bersagli con precisione.
-**Danno:** 1d8 + Mod INT.
-Il bersaglio ha svantaggio al suo prossimo tiro per colpire.
-
----
 ### Passo Laggante
 **2 Byte • Azione Bonus • Personale**
+>Il Glitch "scatta" visivamente, saltando dei frame spaziali per riposizionarsi.
+- Si teletrasporta fino a 3 metri in uno spazio vuoto che può vedere.
+- La distorsione visiva residua gli conferisce un bonus di +2 alla CA contro il prossimo attacco che subisce entro l'inizio del suo prossimo turno.
 
-Il Glitch si teletrasporta di 3 m, in uno spazio vuoto che può vedere.
-Ottiene +2 CA contro il prossimo attacco.
-
----
 ### Ripiegamento Cinetico
 **2 Byte • Reazione • Personale**
+>Il Glitch intercetta l'energia cinetica di un proiettile, assorbendola e reindirizzandola.
+- Quando viene colpito da un attacco a distanza con un'arma, il Glitch riduce i danni subiti di 1d10 + il suo livello da Glitch (arrotondato per difetto).
+- Se il danno viene ridotto a 0, il Glitch cattura il proiettile nell'anomalia e può rilanciarlo immediatamente come parte della stessa reazione. Effettua un attacco a distanza (gittata 6/18 m) che infligge 1d6 + il Modificatore di Forza + il Bonus di Competenza danni.
 
-Quando il Glitch viene bersagliato da un attacco a distanza, riduce il danno subito di 1d10 + lv. Glitch (arrotondato per difetto).
-Se il danno viene ridotto a 0, può rilanciare l’attacco come parte della reazione stessa:
-- Gittata 6/18 m, 1d6 + Mod STR + competenza.
-
----
 ### Bug Sistemico
-**2 Byte • Azione • 9 m • Fino a tre bersagli • TS WIS • 1 min**
+**2 Byte • Azione • 9 m**
+>Il Glitch corrompe i centri del linguaggio e della logica dei bersagli.
+- Sceglie fino a tre creature entro 9 metri. Devono superare un TS su Saggezza.
+- **Fallimento:** Per 1 minuto, i bersagli sono affetti da un "bug" cognitivo. Non possono comunicare in alcun modo (verbale o telepatico) e ogni loro tentativo si traduce in un rumore di statica incomprensibile, impedendo anche il lancio di incantesimi con componenti verbali.
+- I bersagli possono ripetere il TS alla fine di ogni loro turno per terminare l'effetto.
 
-Le creature che falliscono il TS vengono affette da un “bug” cognitivo, non possono comunicare in alcun modo; ogni tentativo appare come distorsione incomprensibile.
-I bersagli ripetono il TS WIS alla fine di ogni loro turno.
-
----
 ### Impulso Distorsivo
-**3 Byte • Azione • Cono 4,5 m • TS STR**
-
-Un’onda distorta che ha il Glitch come epicentro. I bersagli colpiti eseguono un TS STR:
-- **Fallimento:** 2d6 + Mod STR e spinta di 3 m.
-- **Successo:** metà danno.
+**3 Byte • Azione • Cono 4,5 m**
+>Un’onda d'urto distorta esplode dal corpo del Glitch.
+- Ogni creatura in un cono di 4,5 metri deve effettuare un TS su Forza.
+- **Fallimento:** Subisce 2d6 + il Modificatore di Forza danni da forza e viene spinta di 3 metri lontano dal Glitch.
+- **Successo:** Subisce la metà dei danni e non viene spinta.
 
 ---
 # Tier II Powers
 ---
 ### Sabotaggio Sinaptico
-**6 Byte • Azione • 18 m • 10 min (Concentrazione) • TS WIS**
+**6 Byte • Azione • 18 m • Concentrazione (fino a 10 min)**
+>Il Glitch inietta un frammento di codice corrotto nel sistema nervoso del nemico.
+- Una creatura a scelta deve effettuare un TS su Saggezza.
+- **Fallimento:** Per la durata dell'effetto, la creatura non può usare Reazioni, ha Svantaggio al suo primo attacco in ogni turno, la sua velocità è ridotta di 3 metri, e subisce 1d6 danni Psichici all'inizio di ogni suo turno.
+- Il bersaglio può ripetere il TS alla fine di ogni suo turno per terminare l'effetto.
 
-Una creatura bersaglio viene colpita da un misterioso malessere nervoso che le impedisce di muoversi e agire agevolmente. Ripete il TS a ogni fine turno.
-**Fallimento:**
-- Niente reazioni.
-- Svantaggio al prossimo attacco.
-- Velocità −3 m.
-- 1d6 psichici a inizio turno.
-
----
 ### Hackeraggio Cognitivo
-**5 Byte • Azione • 9 m • TS WIS**
+**5 Byte • Azione • 9 m**
+>Il Glitch ottiene l'accesso di sistema alla mente del bersaglio.
+- Il bersaglio deve superare un TS su Saggezza. Se fallisce, il Glitch sceglie un effetto:
+  1. **Lettura Memoria:** Sfoglia i ricordi coscienti del bersaglio delle ultime 12 ore.
+  2. **Riscrittura:** Rimuove fino a 2 minuti continui delle ultime 12 ore e li sostituisce con un ricordo falso credibile.
+- Se il bersaglio entra in contatto con prove inconfutabili che contraddicono il falso ricordo, ripete il TS su Saggezza: se ha successo, il ricordo reale viene ripristinato; se fallisce, la sua mente razionalizza l'errore e mantiene la bugia.
 
-Il Glitch ottiene l'accesso alla mente dei propri bersagli, rendendolo in grado di leggere e riscrivere la mente altrui.
-Il bersaglio compie un TS WIS; al fallimento:
-1. **Lettura Memoria (12 ore):** Legge i ricordi coscienti delle ultime 12h.
-2. **Riscrittura (2 minuti):** Rimuove 2 minuti continui delle ultime 12h e li sostituisce con un ricordo falso.
-
-Se il bersaglio viene in contatto con qualcosa che contraddice il ricordo, si ripete il TS WIS:
-- **Successo:** ricordo reale ripristinato.
-- **Fallimento:** mantiene il falso ricordo e lo razionalizza.
-
----
 ### Clone d’Eco Statico
-**5 Byte • Azione • Personale • 10 min (Concentrazione)**
-
-Il Glitch crea un clone di elettricità statica.
+**5 Byte • Azione • Personale • Concentrazione (fino a 10 min)**
+>Il Glitch si sdoppia, creando una replica di pura elettricità statica.
+- Il clone agisce al turno del Glitch e svanisce se si allontana a più di 18 m da lui.
 
 | Caratteristica     | Valore                                                |
 | ------------------ | ----------------------------------------------------- |
-| CA                 | CA Glitch -2                                          |
-| Punti Ferita (PF)  | 1/3 PF Glitch massimi                                 |
-| Movimento          | Velocità Glitch -3 m                                  |
-| Attacco            | 1d6 + Mod STR                                         |
-| Azioni disponibili | Azioni semplici possibili per un umanoide             |
-| Raggio operativo   | Oltre 18 m → svanisce                                 |
-| Effetto speciale   | Se colpisce → svantaggio al prossimo TS del bersaglio |
+| CA                 | CA del Glitch -2                                      |
+| Punti Ferita (PF)  | 1/3 dei PF massimi del Glitch                         |
+| Movimento          | Velocità del Glitch -3 m                              |
+| Attacco            | 1d6 + Mod. Forza danni (Mischia)                      |
+| Azioni disponibili | Muoversi e Azioni semplici possibili per un umanoide  |
+| Effetto speciale   | Se colpisce → Svantaggio al prossimo TS del bersaglio |
 
----
 ### Maelstrom Distorsivo
-**5 Byte • Azione • 12 m • 2 min (Concentrazione) • Area 3 m**
+**5 Byte • Azione • 12 m • Concentrazione (fino a 2 min)**
+>Il Glitch strappa un "buco" nella realtà del raggio di 3 metri.
+- Durante il suo turno, il Glitch può cambiare la modalità del Maelstrom usando un'Azione Bonus:
+  - **Assorbimento Cinetico:** Costa ai nemici 1,5 m di movimento extra per ogni 1 m percorso nell'area. Per ogni 1,5 m extra spesi, il Glitch guadagna 1,5 m di movimento nel suo turno successivo.
+  - **Mondo Distorto:** Gli attacchi in mischia contro il Glitch e i suoi alleati nell'area hanno Svantaggio. Immunità totale ai proiettili non magici per chiunque si trovi all'interno.
+  - **Collasso Logico:** I nemici nell'area hanno Svantaggio ai TS su Intelligenza e Saggezza. Se falliscono un TS di 5 o più, subiscono 1d8 danni Psichici.
 
-Una sorta di "buco" nella realtà; può alternare modalità come Azione Bonus.
-
-**Assorbimento Cinetico**
-- Nemici: +1,5 m costo per muoversi ogni 1 m.
-- Per ogni 1,5 m extra spesi dai nemici → il Glitch guadagna 1,5 m di movimento.
-
-**Mondo Distorto**
-- Svantaggio agli attacchi melee su Glitch e alleati nell’area.
-- Immunità totale ai proiettili non magici, alleati e/o nemici.
-
-**Collasso Logico**
-- I nemici ottengono svantaggio ai TS INT e WIS.
-- Se falliscono di 5+ → 1d8 psichici.
-
----
 ### Schianto Vettoriale
-**6 Byte • Azione • 12 m • Istantaneo • TS STR**
-
-Il Glitch accelera un bersaglio lungo un vettore matematico, schiantandolo. Fa danni addizionali con la collisione.
-**Fallimento:**
-- 2d6 + Mod STR.
-- Spinta 9 m.
-**Successo:** dimezza spinta e danni.
-
-**Collisione:** 3d10 + Mod STR.
-**Potenziare:** +1 Byte → +1d10 (max. 2).
+**6 Byte • Azione • 12 m • Istantaneo**
+>Il Glitch altera i vettori matematici di un bersaglio, accelerandolo violentemente.
+- Il bersaglio deve effettuare un TS su Forza.
+- **Fallimento:** Subisce 2d6 + il Mod. Forza danni da forza e viene scagliato in linea retta per 9 metri.
+- **Successo:** Dimezza i danni e la distanza della spinta.
+- **Collisione:** Se il bersaglio colpisce un ostacolo solido (o un'altra creatura) durante la spinta, subisce 3d10 + il Mod. Forza danni contundenti aggiuntivi.
+- **Potenziamento:** Il Glitch può spendere Byte aggiuntivi (max 2) per aumentare i danni da collisione di 1d10 per ogni Byte.
 
 ---
 # Tier III Powers
 ---
 ### Deflagrazione Paradossale
 **12 Byte • Azione • 18 m**
+>Un fulmine di energia impossibile che cancella la materia a livello concettuale.
+- Spara un raggio distruttivo contro una creatura, infliggendo 6d10 danni Psichici.
+- Questo attacco ignora tutte le resistenze. 
+- Se il bersaglio si trova alla metà o meno dei suoi Punti Ferita massimi, il paradosso si aggrava: i dadi di danno raddoppiano (12d10).
 
-Un fulmine di energia "paradossale" che spacca la realtà.
-- 6d10 psichici.
-- Ignora tutte le resistenze.
-- Se il bersaglio è a metà PF o meno → raddoppia i dadi.
-
----
 ### Bolla Temporale
-**10 Byte • Azione • 18 m • Sfera 6 m • 10 min (Concentrazione)**
+**10 Byte • Azione • 18 m • Concentrazione (fino a 10 min)**
+>Isola una sfera del raggio di 6 metri in cui il tempo ristagna.
+- Le creature all'interno della sfera (eccetto il Glitch) vedono la loro velocità ridotta a 0.
+- Le creature intrappolate hanno Svantaggio a tutti i Tiri Salvezza e Prove di Caratteristica, e tutti i tiri per colpire effettuati contro di loro godono di Vantaggio.
+- Un bersaglio può effettuare un TS su Costituzione alla fine di ogni suo turno; se ha successo, ignora gli effetti della bolla fino all'inizio del suo prossimo turno.
 
-Crea una bolla all'interno della quale il tempo scorre più lentamente. I bersagli all'interno fanno un TS CON a fine turno per terminarne l’effetto.
-I bersagli subiscono:
-- Velocità 0.
-- Svantaggio a: TS, prove, attacchi subiti.
-
----
 ### Overclock del Kernel
-**12 Byte • Azione • Personale • 1 min (Concentrazione)**
-
-Potenzia il corpo del Glitch oltre i limiti di un umanoide.
-Per la durata:
-- +6 m movimento, il movimento non crea attacchi di opportunità.
-- Gli attacchi melee infliggono +5d6 + Mod INT.
-- Svantaggio all'esser colpiti.
-
-**Fine Carica:**
-Il Glitch e chiunque entro 6m subiscono 5d6 + Mod INT.
+**12 Byte • Azione • Personale • Concentrazione (fino a 1 min)**
+>Il Glitch rimuove i propri limitatori fisici, trasformandosi in una sfocatura letale.
+- Per la durata: la velocità aumenta di 6 metri; il Glitch ignora gli Attacchi di Opportunità; i tiri per colpire contro di lui hanno Svantaggio.
+- I suoi attacchi in mischia infliggono 5d6 + il Mod. Intelligenza danni extra.
+- **Fine Carica (Crash):** Quando l'effetto termina (o la concentrazione viene spezzata), il sovraccarico esplode. Il Glitch e tutte le creature entro 6 metri da lui subiscono inevitabilmente 5d6 + il Mod. Intelligenza danni da forza.
