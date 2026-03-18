@@ -3,6 +3,7 @@
 ---
 I Quirk sono difetti minori della realtà che il Glitch ha imparato a stabilizzare e usare a proprio vantaggio. 
 
+---
 ### Arma Vivente
 **Passiva / Azione Bonus**
 >Il Glitch trasforma la propria materia corporea in armi letali, alterandone istantaneamente la densità o la forma.

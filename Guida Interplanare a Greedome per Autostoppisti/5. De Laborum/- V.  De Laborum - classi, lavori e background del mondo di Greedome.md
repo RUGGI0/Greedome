@@ -9,8 +9,8 @@
 | **[[-Magus]]**         | M/F  | Guerriero che fonde incanto e acciaio.                 |
 | **[[_Psionic]]**       | M    | Potere mentale, telepatia, telecinesi.                 |
 | **[[Warlock]]**       | M    | Intermediario tra spiriti e uomini.                    |
-| **[[-Witch]]**         | M    | Maledizioni e patti oscuri.                            |
-| **[[Card Master]]**    | M    | Fato e fortuna incantati nelle carte.                  |
+| **[[Strega]]**         | M    | Maledizioni e patti oscuri.                            |
+| **[[Croupier]]**    | M    | Fato e fortuna incantati nelle carte.                  |
 | **[[_Bloodhunter]]**   | M    | Potere nel sangue e sacrificio.                        |
 | **[[_Pirate]]**        | F    | Combattente libero e carismatico dei mari.             |
 | **[[-Ranger]]**        | F    | Cacciatore ed esploratore.                             |

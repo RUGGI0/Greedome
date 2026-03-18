@@ -8,7 +8,7 @@ La sua voce è un'arma, e ora, con un'arma da fuoco al fianco, il suo repertorio
 d8
 ## Competenze
 **Armature:** leggere
-**Armi:** armi semplici, balestre a mano, spade lunghe, stocchi, spade corte, armi da fianco (*sidearms*), moschetti, fucili e carabine
+**Armi:** armi semplici, balestre a mano, spade lunghe, stocchi, spade corte, armi da fianco, moschetti, fucili e carabine
 **Strumenti:** tre strumenti musicali a scelta
 **Tiri Salvezza:** DES, CAR
 **Abilità:** 3 a scelta tra qualsiasi abilità

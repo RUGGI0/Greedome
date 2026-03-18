@@ -9,7 +9,7 @@ d8
 ## Competenze
 **Armature:** leggere, medie
 **Armi:** armi semplici, armi da fuoco
-**Strumenti:** strumenti da armaiolo, strumenti da artigiano (tinker's tools)
+**Strumenti:** strumenti da armaiolo, strumenti da artigiano
 **Tiri Salvezza:** DES, STR
 **Abilità:** 2 a scelta tra Acrobazia, Atletica, Intimidire, Percezione, Furtività, Sopravvivenza
 

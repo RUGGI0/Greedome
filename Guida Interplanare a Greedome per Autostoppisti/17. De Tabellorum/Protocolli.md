@@ -3,6 +3,7 @@
 ---
 L'Inventore non lancia magie: esegue *Protocolli*. Usa i suoi slot incantesimo per alimentare gadget monouso, reazioni chimiche rapide o proiezioni olografiche.
 
+---
 ### Spray Bio-Saldante
 **Azione • 1 Slot • Tocco**
 >Un getto di schiuma medica o naniti che chiude le ferite istantaneamente.

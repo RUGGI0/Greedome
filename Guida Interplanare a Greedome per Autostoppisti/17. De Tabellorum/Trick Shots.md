@@ -3,7 +3,8 @@
 ---
 Il Pistolero sceglie i suoi colpi da questa lista. Salvo dove diversamente specificato, il Punto Adrenalina va speso *prima* di tirare il dado per colpire.
 
-### Deadeye (Occhio Infallibile)
+---
+### Deadeye
 **Speciale (Prima del Tiro per Colpire) • 1 Adrenalina**
 >Il Pistolero prende un respiro profondo e mira ai punti vitali.
 >Effettua il tiro per colpire con Vantaggio.
@@ -31,7 +32,7 @@ Il Pistolero sceglie i suoi colpi da questa lista. Salvo dove diversamente speci
 >Il Pistolero sovraccarica la polvere o mira attraverso protezioni deboli per far trapassare il proiettile.
 >L'arma subisce un +1 temporaneo al suo punteggio di Inceppamento per questo singolo attacco. L'attacco ignora la mezza copertura e i tre quarti di copertura. Se il colpo va a segno e c'è un altro nemico in linea retta dietro al bersaglio (entro la gittata dell'arma), il Pistolero può effettuare un secondo tiro per colpire contro di esso.
 
-### Fuoco di Soppressione (Overwatch)
+### Fuoco di Soppressione
 **Azione Bonus • 1 Adrenalina**
 >Il Pistolero si prepara a fare fuoco al minimo movimento sospetto.
 >Dichiara un'area a cono di 9 metri davanti a sé. Fino all'inizio del suo prossimo turno, se un nemico si muove all'interno di quell'area o lancia un incantesimo, il Pistolero può usare la sua **Reazione** per effettuare un singolo attacco con l'arma da fuoco contro di lui (questo attacco interrompe il movimento o l'incantesimo in caso di uccisione).
