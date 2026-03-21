@@ -1,5 +1,5 @@
-Il Croupier è un praticante di un'arte mistica che si affida alle carte come focus arcano. Invece di bacchette fragili o componenti disordinati, il Croupier incanala il potere nella sua collezione, rilasciando energia sotto forma di esplosioni infuocate, illusioni e fulmini.
-Per i suoi pari, questa magia è poco ortodossa, quasi infantile. Ma il Croupier sa che la vita è una partita a poker, e lui ha sempre un asso nella manica.
+*Il Croupier è un praticante di un'arte mistica che si affida alle carte come focus arcano. Invece di bacchette fragili o componenti disordinati, il Croupier incanala il potere nella sua collezione, rilasciando energia sotto forma di esplosioni infuocate, illusioni e fulmini.
+Per i suoi pari, questa magia è poco ortodossa, quasi infantile. Ma il Croupier sa che la vita è una partita a poker, e lui ha sempre un asso nella manica.*
 
 ---
 # Privilegi di Classe Croupier
@@ -91,7 +91,7 @@ d8
 
 ## <u>Duellante</u>
 
-I Duellanti usano la magia per il combattimento diretto, sfoggiando abilità appariscenti in tornei o scontri mortali.
+*I Duellanti usano la magia per il combattimento diretto, sfoggiando abilità appariscenti in tornei o scontri mortali.*
 
 ### Uno con le Carte (2°)
 **Azione**
@@ -115,7 +115,7 @@ I Duellanti usano la magia per il combattimento diretto, sfoggiando abilità app
 
 ## <u>Cartomante</u>
 
-I Cartomanti usano le carte per leggere il futuro, manipolare il destino e supportare gli alleati.
+*I Cartomanti usano le carte per leggere il futuro, manipolare il destino e supportare gli alleati.*
 
 ### Senso della Scrutazione (2°)
 **Passiva**
@@ -142,7 +142,7 @@ I Cartomanti usano le carte per leggere il futuro, manipolare il destino e suppo
 
 ## <u>Scommettitore</u>
 
-Gli Scommettitori amano il rischio e il caos, manipolando la fortuna a proprio vantaggio (o svantaggio).
+*Gli Scommettitori amano il rischio e il caos, manipolando la fortuna a proprio vantaggio (o svantaggio).*
 
 ### Asso nella Manica (2°)
 **Azione Gratuita • 1/Riposo Breve o Lungo**
@@ -170,7 +170,7 @@ Gli Scommettitori amano il rischio e il caos, manipolando la fortuna a proprio v
 
 ## <u>Prestigiatore</u>
 
-I Prestigiatori usano l'inganno e la furtività, nascondendo la loro magia dietro trucchi di scena e ombre.
+*I Prestigiatori usano l'inganno e la furtività, nascondendo la loro magia dietro trucchi di scena e ombre.*
 
 ### Mano Nascosta (2°)
 **Azione Bonus**

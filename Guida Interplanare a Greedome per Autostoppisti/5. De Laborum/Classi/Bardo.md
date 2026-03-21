@@ -1,5 +1,5 @@
-Il Bardo manipola le frequenze della realtà attraverso la musica, l'oratoria e il suono. In un mondo di ingranaggi, polvere da sparo e anomalie, il Bardo non è solo un intrattenitore: è un propagandista, un tessitore di illusioni e un leader carismatico capace di alterare il morale alleato o distruggere le menti nemiche con un accordo dissonante o una parola ben piazzata.
-La sua voce è un'arma, e ora, con un'arma da fuoco al fianco, il suo repertorio è completo.
+*Il Bardo manipola le frequenze della realtà attraverso la musica, l'oratoria e il suono. In un mondo di ingranaggi, polvere da sparo e anomalie, il Bardo non è solo un intrattenitore: è un propagandista, un tessitore di illusioni e un leader carismatico capace di alterare il morale alleato o distruggere le menti nemiche con un accordo dissonante o una parola ben piazzata.
+La sua voce è un'arma, e ora, con un'arma da fuoco al fianco, il suo repertorio è completo.*
 
 ---
 # Privilegi di Classe Bardo
@@ -116,7 +116,7 @@ d8
 ---
 ## <u>Collegio della Sapienza</u>
 
-Ricercatori di verità nascoste e antichi segreti. Usano la conoscenza per distruggere le certezze del nemico.
+*Ricercatori di verità nascoste e antichi segreti. Usano la conoscenza per distruggere le certezze del nemico.*
 
 ### Competenze Bonus (3°)
 **Passiva**
@@ -138,7 +138,7 @@ Ricercatori di verità nascoste e antichi segreti. Usano la conoscenza per distr
 ---
 ## <u>Collegio del Valore</u>
 
-Bardi guerrieri che cantano le gesta degli eroi in prima linea e ispirano il coraggio sotto il fuoco nemico.
+*Bardi guerrieri che cantano le gesta degli eroi in prima linea e ispirano il coraggio sotto il fuoco nemico.*
 
 ### Competenze Bonus (3°)
 **Passiva**
@@ -161,7 +161,7 @@ Bardi guerrieri che cantano le gesta degli eroi in prima linea e ispirano il cor
 ---
 ## <u>Collegio del Ferro</u>
 
-Artisti marziali e pistoleri acrobatici che usano le armi come strumenti di performance, trasformando il combattimento ravvicinato in una letale danza di lame e polvere da sparo.
+*Artisti marziali e pistoleri acrobatici che usano le armi come strumenti di performance, trasformando il combattimento ravvicinato in una letale danza di lame e polvere da sparo.*
 
 ### Competenze Bonus e Stile (3°)
 **Passiva**
@@ -188,7 +188,7 @@ Artisti marziali e pistoleri acrobatici che usano le armi come strumenti di perf
 ---
 ## <u>Collegio del Glamour</u>
 
-Bardi toccati dalla magia dei Folletti, capaci di manipolare le emozioni per piegare gli avversari o ispirare adorazione.
+*Bardi toccati dalla magia dei Folletti, capaci di manipolare le emozioni per piegare gli avversari o ispirare adorazione.*
 
 ### Manto di Ispirazione (3°)
 **Azione Bonus • 1 Ispirazione Bardica**
@@ -215,7 +215,7 @@ Bardi toccati dalla magia dei Folletti, capaci di manipolare le emozioni per pie
 ---
 ## <u>Collegio dei Sussuri</u>
 
-Spie, infiltrati e assassini che usano i segreti e il terrore psichico mascherato da amichevole oratoria.
+*Spie, infiltrati e assassini che usano i segreti e il terrore psichico mascherato da amichevole oratoria.*
 
 ### Lame Psichiche (3°)
 **Passiva (1/Turno) • 1 Ispirazione Bardica**
@@ -238,7 +238,7 @@ Spie, infiltrati e assassini che usano i segreti e il terrore psichico mascherat
 ---
 ## <u>Collegio della Creazione</u>
 
-Creatori in grado di manipolare la canzone primordiale della genesi per far apparire oggetti dal nulla o animare la materia.
+*Creatori in grado di manipolare la canzone primordiale della genesi per far apparire oggetti dal nulla o animare la materia.*
 
 ### Moto di Potenziale (3°)
 **Passiva**
@@ -262,7 +262,7 @@ Creatori in grado di manipolare la canzone primordiale della genesi per far appa
 ---
 ## <u>Collegio dell'Eloquenza</u>
 
-Maestri della dialettica e della logica, le cui parole non falliscono mai.
+*Maestri della dialettica e della logica, le cui parole non falliscono mai.*
 
 ### Lingua d'Argento (3°)
 **Passiva**
@@ -283,7 +283,7 @@ Maestri della dialettica e della logica, le cui parole non falliscono mai.
 ---
 ## <u>Collegio degli Spiriti</u>
 
-Medium e sensitivi che incanalano storie e spettri attraverso mazzi di tarocchi, teschi o sfere.
+*Medium e sensitivi che incanalano storie e spettri attraverso mazzi di tarocchi, teschi o sfere.*
 
 ### Guida Sussurrante (3°)
 **Passiva**
@@ -304,7 +304,7 @@ Medium e sensitivi che incanalano storie e spettri attraverso mazzi di tarocchi,
 ---
 ## <u>Collegio della Propaganda</u>
 
-Portavoce di corporazioni, demagoghi o agitatori politici. Per loro la verità non è un fatto, ma una risorsa da plasmare. Non ispirano con canzoni, ma con slogan martellanti, manipolando il morale alleato e distruggendo psicologicamente i dissidenti.
+*Portavoce di corporazioni, demagoghi o agitatori politici. Per loro la verità non è un fatto, ma una risorsa da plasmare. Non ispirano con canzoni, ma con slogan martellanti, manipolando il morale alleato e distruggendo psicologicamente i dissidenti.*
 
 ### Verità Alternativa (3°)
 **Passiva**
@@ -332,7 +332,7 @@ Portavoce di corporazioni, demagoghi o agitatori politici. Per loro la verità n
 ---
 ## <u>Collegio dell'Anarchia</u>
 
-Punk, demolitori e ribelli. I Bardi dell'Anarchia non vogliono accordare il mondo, vogliono vederlo bruciare a ritmo di distorsioni assordanti. Usano il suono come un'arma cinetica per rompere catene, regole e ossa.
+*Punk, demolitori e ribelli. I Bardi dell'Anarchia non vogliono accordare il mondo, vogliono vederlo bruciare a ritmo di distorsioni assordanti. Usano il suono come un'arma cinetica per rompere catene, regole e ossa.*
 
 ### Spirito Ribelle (3°)
 **Passiva**

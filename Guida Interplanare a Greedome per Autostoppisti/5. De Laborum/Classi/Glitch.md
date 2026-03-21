@@ -1,6 +1,6 @@
 
-Il Glitch è una dissonanza nel tessuto del reale, un’anomalia che l'universo non è riuscito a correggere. Non studia le leggi della fisica: le percepisce come suggerimenti facoltativi, sfruttando spazi liminali e 'bug' dell'esistenza, alimentandosi con frammenti di coerenza chiamati Byte.
-Su Greedome, questa natura instabile è una condanna a morte. Considerati calamità naturali viventi, i Glitch sono paria braccati e uccisi a vista da chiunque difenda l'ordine costituito (spesso anche dagli altri), costretti a vivere nell'ombra per sopravvivere alla loro stessa potenza.
+*Il Glitch è una dissonanza nel tessuto del reale, un’anomalia che l'universo non è riuscito a correggere. Non studia le leggi della fisica: le percepisce come suggerimenti facoltativi, sfruttando spazi liminali e 'bug' dell'esistenza, alimentandosi con frammenti di coerenza chiamati Byte.
+Su Greedome, questa natura instabile è una condanna a morte. Considerati calamità naturali viventi, i Glitch sono paria braccati e uccisi a vista da chiunque difenda l'ordine costituito (spesso anche dagli altri), costretti a vivere nell'ombra per sopravvivere alla loro stessa potenza.*
 
 ---
 # Privilegi di Classe Glitch
@@ -115,7 +115,7 @@ vedi [[Powers]] nel capitolo *17. De Tabellorum*
 ---
 ## <u>Codebreaker</u>
 
-Il Codebreaker è un hacker della realtà che si specializza nel mandare in crash le abilità nemiche. Interrompe incantesimi e processi mentali, trasformando i punti di forza avversari in errori fatali.
+*Il Codebreaker è un hacker della realtà che si specializza nel mandare in crash le abilità nemiche. Interrompe incantesimi e processi mentali, trasformando i punti di forza avversari in errori fatali.*
 
 ### Desincronizzatore Autonomo (3°)
 **3 Byte • Reazione • 9 m • TS INT**
@@ -161,7 +161,7 @@ Non richiede linea di vista.
 ---
 ## <u>Glitchblade</u>
 
-Il Glitchblade focalizza l'anomalia nel combattimento ravvicinato, colpendo con armi che sfarfallano fuori dall'esistenza. Si muove a scatti attraverso il campo di battaglia, impossibile da bloccare o prevedere.
+*Il Glitchblade focalizza l'anomalia nel combattimento ravvicinato, colpendo con armi che sfarfallano fuori dall'esistenza. Si muove a scatti attraverso il campo di battaglia, impossibile da bloccare o prevedere.*
 
 ### Lama Distorta (3°)
 **3 Byte • Azione Bonus • Mod STR/Riposo Lungo • 1 min**
