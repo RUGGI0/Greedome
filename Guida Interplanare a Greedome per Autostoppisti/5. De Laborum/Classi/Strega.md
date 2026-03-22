@@ -1,5 +1,5 @@
-Le Streghe sono le detentrici di una delle prime forme di magia apparse nel mondo, un'epoca in cui l'arcano e il naturale venivano studiati come una cosa sola. Praticanti di una magia pragmatica e versatile, traggono potere dai cicli lunari, dalla notte e dalla terra stessa per infondere la vita, creare pozioni o tessere maledizioni.
-A Greedome, questa antica arte è un segreto custodito e tramandato esclusivamente da donne, una sorellanza legata da patti antichi e oscuri rituali.
+*Le Streghe sono le detentrici di una delle prime forme di magia apparse nel mondo, un'epoca in cui l'arcano e il naturale venivano studiati come una cosa sola. A Greedome, questa antica arte è un segreto custodito e tramandato esclusivamente da donne. È una sorellanza spietata e pragmatica: alcune venerano i vecchi dei in giardini nascosti tra il cemento, altre non disdegnano la modernità, fondendo antichi patti di sangue con il cromo, l'acciaio e i motori.
+Quale che sia la loro Congrega o il loro stile, le Streghe dominano la magia, il destino e i vicoli della città.
 
 ---
 # Privilegi di Classe Strega
@@ -8,7 +8,7 @@ A Greedome, questa antica arte è un segreto custodito e tramandato esclusivamen
 d6
 ## Competenze
 **Armature:** nessuna
-**Armi:** cerbottane, pugnali, bastoni ferrati, falcetti
+**Armi:** cerbottane (o pistole a dardi tranquillanti), pugnali (o lame tattiche), bastoni ferrati (o aste stordenti), falcetti (o lame termiche a mezzaluna)
 **Strumenti:** strumenti da alchimista, borsa da erborista, borsa da avvelenatore
 **Tiri Salvezza:** INT, SAG
 **Abilità:** 2 a scelta tra Arcano, Furtività, Intuizione, Medicina, Natura, Percezione Animale, Religione, Sopravvivenza, Storia
@@ -50,7 +50,7 @@ d6
 
 ## Famiglio Occulto (1°)
 **Passiva**
->Lo spirito legato alla Strega è la manifestazione del suo potere e il suo compagno più fedele.
+>Lo spirito legato alla Strega è il suo compagno più fedele. La sua forma è spesso legata alla sua Congrega d'appartenenza, con eventuali innesti punk, cyber o bizzarrie alchemiche.
 >Apprende l'incantesimo *Trova Famiglio* (non conta tra gli incantesimi conosciuti) e può lanciarlo senza spendere slot o componenti materiali. Il famiglio ottiene questi potenziamenti:
 - Intelligenza e Carisma diventano 12 (se non erano già superiori).
 - Può parlare, leggere e comprendere tutte le lingue conosciute dalla Strega.
@@ -60,38 +60,38 @@ d6
 
 ## Malocchio (2°)
 **Azione Bonus • Costo Variabile**
->Le Streghe possono distorcere sottilmente la trama della magia per punire i nemici.
+>Le Streghe possono distorcere sottilmente la trama della magia per punire i nemici o sabotare il loro equipaggiamento.
 >Una volta per turno, se una creatura entro 36 metri fallisce un TS contro un incantesimo della Strega o viene colpita da un suo attacco, la Strega può usare un'Azione Bonus per infliggerle un *Malocchio*.
 - Gli effetti durano fino all'inizio del prossimo turno della Strega.
 - Può usare questo privilegio 1 volta per Riposo Breve o Lungo (2 volte al 5° livello, 3 volte al 15° livello).
 - Sceglie i Malocchi conosciuti dalla relativa lista (vedi fine della classe).
 
-## Congrega (2°)
+## Specializzazione (2°)
 **Passiva**
->La Strega si unisce a un'antica congrega magica. Sceglie tra: **Luna Nera, Luna Piena, Mezza Luna, Luna Crescente, Eclissi, Luna Gibba o Luna Perduta**.
+>La Strega si unisce a un'antica congrega magica, vere e proprie "società" nel tessuto di Greedome. Sceglie tra: **Luna Nera, Luna Piena, Mezza Luna, Luna Crescente, Eclissi, Luna Gibbosa o Luna Perduta**.
 
 ## Arte della Pozione (3°)
 **Passiva**
->Le Streghe sono maestre nell'estrarre il potenziale arcano da erbe e piante.
+>Le Streghe sono maestre nell'estrarre il potenziale arcano. Alcune seguono l'antica via pestando erbe in mortai di pietra, altre sintetizzano composti chimici nei laboratori dei bassifondi.
 >Quando fabbrica un Oggetto Magico nella categoria *Pozione*, la Strega impiega un quarto del tempo normale e spende la metà delle monete d'oro richieste.
 
 ## Infondere Pozione (3°)
 **Azione (Durante Riposo Breve o Lungo)**
->Le Streghe possono intrappolare fisicamente l'essenza di un incantesimo in un decotto.
->Avendo una fiala vuota, la Strega può infondere un incantesimo in una pozione durante un riposo.
+>La Strega può intrappolare fisicamente l'essenza di un incantesimo in un supporto consumabile (un infuso ribollente, un inalatore chimico o una siringa ipertecnologica colma di mana liquido).
+>Avendo un contenitore vuoto, la Strega può infondere un incantesimo in una pozione durante un riposo.
 - **Costo:** Spende le componenti materiali e 1 Slot Incantesimo del livello adeguato. Lo slot speso **non si ricarica** finché la pozione non viene consumata o distrutta.
 - **Scelta Incantesimo:** Può scegliere magie specifiche da una lista apposita (es. *Cura Ferite*, *Invisibilità*, *Volare*).
-- **Effetto:** Qualsiasi creatura può usare un'Azione per bere la pozione (o applicarla a un cibo). Diventa il bersaglio dell'incantesimo. Se l'incantesimo richiede Concentrazione, la mantiene chi l'ha bevuta. Se richiede un TS, usa la CD della Strega.
+- **Effetto:** Qualsiasi creatura può usare un'Azione per consumare la pozione. Diventa il bersaglio dell'incantesimo. Se l'incantesimo richiede Concentrazione, la mantiene chi l'ha consumata. Se richiede un TS, usa la CD della Strega.
 - **Limite:** Massimo numero di pozioni attive contemporaneamente pari al Livello da Strega diviso 3 (arrotondato per difetto).
 
 ## Incantare Scopa (7°)
 **Rituale (1 ora)**
->La classica cavalcatura occulta.
->Trasforma una scopa comune nella sua personale *Scopa Volante* (oggetto magico). Risponde solo alla sua parola di comando e non si muove se qualcun altro prova a cavalcarla senza il permesso della Strega.
+>La cavalcatura occulta è profondamente legata allo stile della Strega. Può essere una magnifica scopa intarsiata da maestri artigiani, un hoverboard metallico o una rombante moto arcana in pelle e cromo.
+>Trasforma l'oggetto scelto nella sua personale *Scopa Volante* (oggetto magico). Risponde solo alla sua parola di comando e non si muove o accende se qualcun altro prova a cavalcarla senza il permesso della Strega.
 
 ## Salute di Ferro (11°)
 **Passiva**
->Il corpo della Strega respinge le impurità mondane.
+>Il corpo della Strega respinge le impurità e l'inquinamento mondano.
 >Ottiene Resistenza ai danni da veleno e immunità alle Malattie e alla condizione *Avvelenato*. Invecchia di 1 anno per ogni 5 anni solari e non può morire di vecchiaia.
 
 ## Somma Strega (20°)
@@ -104,7 +104,6 @@ d6
 
 vedi [[Malocchi e Pozioni]] nel capitolo *17. De Tabellorum*
 
-*(Nota: Assicurati di aggiungere questa lista in appendice come per il Pistolero)*
 > Scegli i tuoi Malocchi da questa lista:
 > - **Ammaliante:** Tiri il bersaglio di 4,5 m verso di te in linea retta.
 > - **Azzoppante:** Le velocità del bersaglio sono ridotte di 6 m.
@@ -121,9 +120,11 @@ vedi [[Malocchi e Pozioni]] nel capitolo *17. De Tabellorum*
 # CONGREGHE DELLE STREGHE
 ---
 
-## <u>Congrega della Luna Nera</u>
+## <u>Congrega della Luna Nera (Streghe Nere)</u>
 
-*Note come Streghe Oscure, manipolano le ombre per seminare maledizioni e caos.*
+*Organizzazione segreta dedita allo spionaggio e all'assassinio, opera in tutto il mondo ed è riconosciuta come una delle più potenti società segrete di Greedome. La loro primaria occupazione è la vendita di informazioni e lavori su commissione. *
+
+**Famigli prediletti**: corvi, gatti, civette, animali notturni
 
 ### Magie della Luna Nera (2°)
 **Passiva**
@@ -155,15 +156,17 @@ vedi [[Malocchi e Pozioni]] nel capitolo *17. De Tabellorum*
 
 ### Creare Spaventapasseri (14°)
 **Rituale (1 ora)**
->La Strega costruisce un servitore intrecciando vimini e un'anima umanoide.
+>La Strega costruisce un servitore intrecciando vimini, cavi, scarti e un'anima umanoide.
 - Richiede una creatura viva o uccisa di fresco per il rituale, la cui anima anima uno *Spaventapasseri* (vedi Manuale dei Mostri) fedele alla Strega. 
 - Ne può avere attivi fino a 4 contemporaneamente.
 
 ---
 
-## <u>Congrega della Luna Piena</u>
+## <u>Congrega della Luna Piena (Streghe Bianche)</u>
 
-*Note come Streghe Bianche, portatrici di speranza, vita e cure magiche.*
+*Una delle poche organizzazioni assistenzialistiche di Greedome. Operano come infermiere/suore, prendendosi cura dei malati nei Santuari (che fungono da abbazie, sanatori e hub di ricerca medica). Fortemente concentrate nella Repubblica Unita, sono intrinsecamente benevole ma letali se minacciate. 
+
+**Famigli prediletti**: conigli, roditori, animali "carini".
 
 ### Magie della Luna Piena (2°)
 **Passiva**
@@ -199,9 +202,11 @@ vedi [[Malocchi e Pozioni]] nel capitolo *17. De Tabellorum*
 
 ---
 
-## <u>Congrega della Mezza Luna</u>
+## <u>Congrega della Mezza Luna (Streghe Blu)</u>
 
-*Streghe Grigie. Esperte illusioniste che piegano la realtà e le bugie tramite l'inganno.*
+*Un circolo di giornaliste d'inchiesta, informatrici e whistleblower votate alla verità scomoda. Sfruttano la stampa clandestina per smascherare i segreti corporativi. I loro poteri illusori permettono di trovarsi laddove ci sono le informazioni: si intrufolano senza farsi vedere o distraggono i nemici per estrarre dati sensibili in incognito. 
+
+**Famigli prediletti**: volpi di strada, ratti, corvi o animali mimetici come camaleonti.
 
 ### Magie della Mezza Luna (2°)
 **Passiva**
@@ -220,7 +225,7 @@ vedi [[Malocchi e Pozioni]] nel capitolo *17. De Tabellorum*
 
 ### Camuffare Famiglio (6°)
 **Azione**
->Il compagno della Strega diventa chiunque serva che sia.
+>Il compagno della Strega diventa chiunque serva che sia per intrufolarsi.
 - Il famiglio è sotto l'effetto permanente di *Camuffare Se Stesso* (CD incantesimi della Strega). 
 - Può assumere forme di umanoidi Medi o Piccoli, ma le sue meccaniche fisiche restano le stesse (non può manipolare oggetti complessi se originariamente non possedeva pollici opponibili).
 
@@ -239,9 +244,11 @@ vedi [[Malocchi e Pozioni]] nel capitolo *17. De Tabellorum*
 
 ---
 
-## <u>Congrega della Luna Crescente</u>
+## <u>Congrega della Luna Crescente (Streghe Verdi)</u>
 
-*Streghe Verdi. Protettrici del delicato confine tra magia bianca e magia proibita, addestrate nell'uso della lama.*
+*Selvagge e isolate. Abitano paludi impenetrabili, foreste e qualsiasi altro luogo estremo che nessun altro abiterebbe. Sono il gruppo più disomogeneo, ma anche le più vicine al mondo naturale, il che le porta ad essere estremamente tecnofobe. I loro rituali sono di tipo sciamanico. 
+
+**Famigli prediletti**: scimmie, coccodrilli, rapaci o fiere selvagge.
 
 ### Magie della Luna Crescente (2°)
 **Passiva**
@@ -279,9 +286,11 @@ vedi [[Malocchi e Pozioni]] nel capitolo *17. De Tabellorum*
 
 ---
 
-## <u>Congrega dell'Eclissi</u>
+## <u>Congrega dell'Eclissi (Streghe Rosse)</u>
 
-*Streghe Rosse. Indagano i reami immondi e stringono patti coi demoni per scoprire arcani segreti.*
+*Ai vertici della società dell'Impero Eldreicht, sono uno dei gruppi di streghe più noti in tutta Greedome. Infide e classiste, sono una delle associazioni più antiche (compaiono persino nelle storie di fondazione dell'Impero). Estremamente intelligenti, hanno intuito subito le implicazioni della tecnologia e sono state le prime ad opporvisi per preservare l'antica dominazione oscura.
+
+**Famigli prediletti**: grossi insetti come ragni, millepiedi e scorpioni.
 
 ### Magie dell'Eclissi (2°)
 **Passiva**
@@ -320,11 +329,13 @@ vedi [[Malocchi e Pozioni]] nel capitolo *17. De Tabellorum*
 
 ---
 
-## <u>Congrega della Luna Gibba</u>
+## <u>Congrega della Luna Gibbosa (Streghe Indaco)</u>
 
-*Streghe Indaco. Guide degli spiriti e lettrici del destino, operano dove vita e morte si incontrano.*
+*Isolate e solitarie, preferiscono la solitudine alla congrega. Per via della loro magia divinatoria, tendono naturalmente ad allontanarsi da qualsiasi altro divinatore per non subire pericolose interferenze nelle loro predizioni. 
 
-### Magie della Luna Gibba (2°)
+**Famigli prediletti**: lepidotteri e farfalle.
+
+### Magie della Luna Gibbosa (2°)
 **Passiva**
 >Incantesimi aggiuntivi sempre conosciuti.
 - **2° Liv:** *Dardo Guida*, *Dardo Caotico*
@@ -353,9 +364,11 @@ vedi [[Malocchi e Pozioni]] nel capitolo *17. De Tabellorum*
 
 ---
 
-## <u>Congrega della Luna Perduta</u>
+## <u>Congrega della Luna Perduta (Streghe Grigie)</u>
 
-*Streghe d'Argento. Viaggiatrici dei Piani, cercano la luna scomparsa esplorando i meandri del Multiverso.*
+*Rifugio per le reiette per scelta, o per le streghe che sono state severamente bandite dalla loro congrega originale. Vivono costantemente ai margini e in movimento. Sfruttando la loro magia spaziale, sgattaiolano tra i confini in cerca di sopravvivenza o contrabbando, odiate e disprezzate dal resto delle Streghe. 
+
+**Famigli prediletti**: creature abituate a sopravvivere ai margini come cani meticci randagi, procioni, piccioni o gatti di strada.
 
 ### Magie della Luna Perduta (2°)
 **Passiva**
