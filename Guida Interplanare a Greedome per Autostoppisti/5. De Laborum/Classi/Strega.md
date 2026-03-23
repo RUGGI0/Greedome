@@ -112,14 +112,14 @@ vedi [[Pozioni]] nel capitolo *17. De Tabellorum*
 # Pax Stregorium  
 
 Sebbene le Congreghe siano fazioni distinte e spesso in brutale competizione tra loro, condividono un'antica e inviolabile legge: i Santuari. 
-Per tacito accordo tra tutte le Streghe (e temuto rispetto da parte delle corporazioni, dei sindacati criminali e dell'Impero Eldreicht), i Santuari sono **Zone Neutrali Assolute**. È severamente vietato versare sangue, estrarre armi o lanciare incantesimi e Malocchi ostili al loro interno. 
+Per tacito accordo tra tutte le Streghe (e temuto rispetto da parte delle corporazioni, dei sindacati criminali e dell'Impero Eldreicht), i Santuari sono Zone Neutrali. È severamente vietato versare sangue, estrarre armi o lanciare incantesimi e Malocchi ostili al loro interno. 
 Qualsiasi avventuriero, civile o strega stessa che violi la Pax del Santuario perde immediatamente ogni protezione e viene marchiato come nemico dell'intera Sorellanza di Greedome.
 
 ---
 ## Marchio della Sorellanza
 
-Ogni Strega porta sempre con sè un talismano che ne riconosce l'appartenenza alla propria Congregazione. La forma di quest'ultimo dipende: alcune Congregazioni forniscono alle proprie consorelle medaglioni o spille d'ordinanza personalizzate con gusto dalle posseditrici (Streghe Nere, Rosse, Blu e Bianche), mentre altre costruiscono i propri Marchi artigianalmente come parte del proprio addestramento o della loro (Streghe Verdi ed Indaco). Il marchio può essere usato per comunicare tra membri della stessa Congregazione.
-In caso di tradimento dell propria Congregazione o della Pax Stregorium, il Marchio perde il colore originale, diventa grigio e spaccatura rovina il simbolo. Ogni Strega Grigia mantiene il Marchio della propria congregazione originale, per quanto rotto e grigio.  
+Ogni Strega porta sempre con sé un talismano che ne riconosce l'appartenenza alla propria Congregazione. La forma di quest'ultimo dipende: alcune Congregazioni forniscono alle proprie consorelle medaglioni o spille d'ordinanza personalizzate con gusto dalle posseditrici (Streghe Nere, Rosse, Blu e Bianche), mentre altre costruiscono i propri Marchi artigianalmente come parte del proprio addestramento o della loro personale filosofia (Streghe Verdi ed Indaco). Il marchio può essere usato per comunicare tra membri della stessa Congregazione.
+In caso di tradimento della propria Congregazione o della Pax Stregorium, il Marchio perde il colore originale, diventa grigio e spaccatura rovina il simbolo. Ogni Strega Grigia mantiene il Marchio della propria congregazione originale, per quanto rotto e grigio.  
 
 ---
 # SPECIALIZZAZIONI
