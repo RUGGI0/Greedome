@@ -13,7 +13,7 @@
 | **[[Croupier]]**    | M    | Fato e fortuna incantati nelle carte.                  |
 | **[[_Bloodhunter]]**   | M    | Potere nel sangue e sacrificio.                        |
 | **[[_Pirate]]**        | F    | Combattente libero e carismatico dei mari.             |
-| **[[-Ranger]]**        | F    | Cacciatore ed esploratore.                             |
+| **[[Ranger]]**        | F    | Cacciatore ed esploratore.                             |
 | **[[Ladro]]**         | F    | Maestro della furtività e precisione.                  |
 | **[[_Vanguard]]**      | F    | Difensore disciplinato e tattico.                      |
 | **[[_Samurai]]**       | F    | Guerriero dell’onore e della disciplina.               |
