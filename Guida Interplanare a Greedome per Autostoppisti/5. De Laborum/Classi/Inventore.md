@@ -1,5 +1,4 @@
-
-L'Inventore percepisce l'esistenza non come un mistero mistico, ma come un sistema complesso di equazioni e flussi energetici in attesa di essere ottimizzati. Attraverso lo studio rigoroso della tecnomanzia, unisce la precisione dell'ingegneria alla potenza dell'arcano, trasformando teorie astratte in meccanismi perfetti.
+*L'Inventore percepisce l'esistenza non come un mistero mistico, ma come un sistema complesso di equazioni e flussi energetici in attesa di essere ottimizzati. Attraverso lo studio rigoroso della tecnomanzia, unisce la precisione dell'ingegneria alla potenza dell'arcano, trasformando teorie astratte in meccanismi perfetti.
 Non piega il sistema. Lo progetta.
 
 ---

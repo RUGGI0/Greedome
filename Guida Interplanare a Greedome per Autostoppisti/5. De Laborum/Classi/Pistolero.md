@@ -1,4 +1,4 @@
-Il Pistolero è un maestro della balistica e della chimica esplosiva. In un mondo dove la magia è instabile e la tecnologia complessa, il Pistolero si affida a una certezza brutale: la polvere nera. Non prega divinità, calcola traiettorie, vento e velocità di rotazione.
+*Il Pistolero è un maestro della balistica e della chimica esplosiva. In un mondo dove la magia è instabile e la tecnologia complessa, il Pistolero si affida a una certezza brutale: la polvere nera. Non prega divinità, calcola traiettorie, vento e velocità di rotazione.
 Per il Pistolero, ogni proiettile è una sentenza, e la sua arma è l'unico giudice di cui ha bisogno.
 
 ---

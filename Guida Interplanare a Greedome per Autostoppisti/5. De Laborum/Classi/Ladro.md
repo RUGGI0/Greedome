@@ -1,4 +1,4 @@
-Il Ladro è un predatore urbano, un sabotatore e uno specialista dell'ombra. In una metropoli dominata da corporazioni, criminalità e tecnologia, non si sopravvive con l'onore, ma con il tempismo. Che sia un sicario armato di fucile di precisione, un hacker di sistemi di sicurezza o un contrabbandiere dai riflessi sovrumani, il Ladro colpisce dove fa più male e sparisce prima che il corpo tocchi terra.
+*Il Ladro è un predatore urbano, un sabotatore e uno specialista dell'ombra. In una metropoli dominata da corporazioni, criminalità e tecnologia, non si sopravvive con l'onore, ma con il tempismo. Che sia un sicario armato di fucile di precisione, un hacker di sistemi di sicurezza o un contrabbandiere dai riflessi sovrumani, il Ladro colpisce dove fa più male e sparisce prima che il corpo tocchi terra.
 
 ---
 # Privilegi di Classe Ladro
