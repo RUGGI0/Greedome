@@ -291,7 +291,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 
 *Ai vertici della società dell'Impero Eldreicht, sono uno dei gruppi di streghe più noti in tutta Greedome. Infide e classiste, sono una delle associazioni più antiche (compaiono persino nelle storie di fondazione dell'Impero). Estremamente intelligenti, hanno intuito subito le implicazioni della tecnologia e sono state le prime ad opporvisi per preservare l'antica dominazione oscura.*
 
-**Famigli prediletti**: grossi insetti come ragni, millepiedi e scorpioni.
+**Famigli prediletti**: grossi insetti come ragni, millepiedi e scorpioni giganti.
 
 ### Magie dell'Eclissi
 **Passiva**
