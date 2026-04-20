@@ -119,7 +119,7 @@ Qualsiasi avventuriero, civile o strega stessa che violi la Pax del Santuario pe
 ## Marchio della Sorellanza
 
 Ogni Strega porta sempre con sé un talismano che ne riconosce l'appartenenza alla propria Congregazione. La forma di quest'ultimo dipende: alcune Congregazioni forniscono alle proprie consorelle medaglioni o spille d'ordinanza personalizzate con gusto dalle posseditrici (Streghe Nere, Rosse, Blu e Bianche), mentre altre costruiscono i propri Marchi artigianalmente come parte del proprio addestramento o della loro personale filosofia (Streghe Verdi ed Indaco). Il marchio può essere usato per comunicare tra membri della stessa Congregazione.
-In caso di tradimento della propria Congregazione o della Pax Stregorium, il Marchio perde il colore originale, diventa grigio e spaccatura rovina il simbolo. Ogni Strega Grigia mantiene il Marchio della propria congregazione originale, per quanto rotto e grigio.  
+In caso di tradimento della propria Congregazione o della Pax Stregorium, il Marchio perde il colore originale, diventa grigio e una spaccatura rovina il simbolo. Ogni Strega Grigia mantiene il Marchio della propria congregazione originale, per quanto rotto e grigio.  
 
 ---
 # SPECIALIZZAZIONI
