@@ -60,18 +60,22 @@ d8
 >Ottiene un numero di Punti Adrenalina pari al suo Modificatore di Saggezza (minimo 1).
 >Recupera 1 Punto Adrenalina quando:
 - Ottiene un Colpo Critico (20 naturale) con un'arma da fuoco.
-- Uccide un obbiettivo significativo (a discrezione del DM, min GS 1/4) con un'arma da fuoco.
+- Uccide un obiettivo significativo (a discrezione del DM, min GS 1/4) con un'arma da fuoco.
 >Recupera tutti i punti con un Riposo Breve o Lungo.
 
-## Trick shot (2°)
+## Trick Shot (2°)
 **Speciale**
->Il Pistolero impara manovre speciali chiamate Trick shot.
->Per usare un Trick shot, deve spendere 1 Punto Adrenalina prima di effettuare il tiro per colpire.
->Impara 2 Trick shot al livello 2, e ne apprende altri ai livelli 7, 10, 15 e 18.
+>Il Pistolero impara manovre speciali chiamate Trick Shot.
+>Per usare un Trick Shot, deve spendere 1 Punto Adrenalina prima di effettuare il tiro per colpire.
+>Impara 2 Trick Shot al livello 2, e ne apprende altri ai livelli 7, 10, 15 e 18.
 
 ## Specializzazione (3°)
 **Passiva**
 >Il Pistolero sceglie una specializzazione: **Cecchino**, **Sicario** o **Fuciliere Arcano**.
+
+## Attacco Extra (5°)
+**Passiva**
+>Il Pistolero può usare fino a 2 azioni per turno.
 
 ## Tattiche di Fuoco (5°)
 **Passiva**
@@ -109,9 +113,9 @@ d8
 >Se all'inizio del combattimento il Pistolero ha 0 Punti Adrenalina, ne recupera immediatamente 4.
 
 ---
-# Trick Shots
+# Trick Shot
 
-vedi [[Trick Shots]] nel capitolo *17. De Tabellorum*
+vedi [[Trick Shot]] nel capitolo *17. De Tabellorum*
 
 ---
 # SPECIALIZZAZIONI
@@ -126,7 +130,7 @@ Il Cecchino predilige la distanza, la pazienza e il colpo unico e perfetto. È u
 >Ottiene competenza in Furtività (o maestria se la possiede già).
 >Inoltre, può usare un'Azione Bonus per Nascondersi.
 
-### Tiro di Assassinio (6°)
+### Colpo Mortale (6°)
 **Passiva**
 >Il Cecchino identifica il punto debole strutturale di ogni bersaglio.
 >Se il Cecchino è nascosto al suo bersaglio quando attacca:

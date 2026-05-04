@@ -16,28 +16,28 @@ d10
 ---
 # Tabella Ranger
 
-| Liv | Bonus | Caratteristiche                                  | Dado Gambit |
+| Liv | Bonus | Caratteristiche                               | Dado Gambit |
 | --- | ----- | ------------------------------------------------ | ----------- |
-| 1   | +2    | Addestramento Alpino, Bersaglio Tattico (1d4)    | —           |
-| 2   | +2    | Stile di Combattimento, Gambit Tattici           | 1d6         |
-| 3   | +2    | Specializzazione                                 | 1d6         |
-| 4   | +2    | Aumento di Caratteristica                        | 1d6         |
-| 5   | +3    | Attacco Extra                                    | 1d6         |
-| 6   | +3    | Passo dell'Ardito, Bersaglio Tattico (1d6)       | 1d6         |
-| 7   | +3    | Privilegio Specializzazione                      | 1d6         |
-| 8   | +3    | Aumento di Caratteristica                        | 1d6         |
-| 9   | +4    | Evoluzione Gambit (1d8)                          | 1d8         |
-| 10  | +4    | Mimetismo Tattico                                | 1d8         |
-| 11  | +4    | Privilegio Specializzazione                      | 1d8         |
-| 12  | +4    | Aumento di Caratteristica                        | 1d8         |
-| 13  | +5    | Evoluzione Gambit (1d10)                         | 1d10        |
-| 14  | +5    | Svanire, Bersaglio Tattico (1d8)                 | 1d10        |
-| 15  | +5    | Privilegio Specializzazione                      | 1d10        |
-| 16  | +5    | Aumento di Caratteristica                        | 1d10        |
-| 17  | +6    | Evoluzione Gambit (1d12)                         | 1d12        |
-| 18  | +6    | Sensi Affinati                                   | 1d12        |
-| 19  | +6    | Aumento di Caratteristica                        | 1d12        |
-| 20  | +6    | Predatore Implacabile                            | 1d12        |
+| 1   | +2    | Addestramento Alpino, Bersaglio Tattico (1d4) | —           |
+| 2   | +2    | Stile di Combattimento, Gambit                | 1d6         |
+| 3   | +2    | Specializzazione                              | 1d6         |
+| 4   | +2    | Aumento di Caratteristica                     | 1d6         |
+| 5   | +3    | Attacco Extra                                 | 1d6         |
+| 6   | +3    | Passo dell'Ardito, Bersaglio Tattico (1d6)    | 1d6         |
+| 7   | +3    | Privilegio Specializzazione                   | 1d6         |
+| 8   | +3    | Aumento di Caratteristica                     | 1d6         |
+| 9   | +4    | Evoluzione Gambit (1d8)                       | 1d8         |
+| 10  | +4    | Mimetismo Tattico                             | 1d8         |
+| 11  | +4    | Privilegio Specializzazione                   | 1d8         |
+| 12  | +4    | Aumento di Caratteristica                     | 1d8         |
+| 13  | +5    | Evoluzione Gambit (1d10)                      | 1d10        |
+| 14  | +5    | Svanire, Bersaglio Tattico (1d8)              | 1d10        |
+| 15  | +5    | Privilegio Specializzazione                   | 1d10        |
+| 16  | +5    | Aumento di Caratteristica                     | 1d10        |
+| 17  | +6    | Evoluzione Gambit (1d12)                      | 1d12        |
+| 18  | +6    | Sensi Affinati                                | 1d12        |
+| 19  | +6    | Aumento di Caratteristica                     | 1d12        |
+| 20  | +6    | Predatore Implacabile                         | 1d12        |
 
 ---
 ## Addestramento Alpino (1°)
@@ -60,16 +60,13 @@ d10
 >L'addestramento militare ti ha specializzato in un particolare stile di combattimento.
 - Scegli un'opzione tra: **Difesa** (+1 alla CA se indossi armature), **Duellante** (+2 ai danni con una singola arma a una mano), o **Combattere con Due Armi** (aggiungi il modificatore di caratteristica ai danni del secondo attacco).
 
-## Gambit Tattici (2°)
+## Gambit (2°)
 **Costo Variabile**
 >L'addestramento d'élite ti fornisce opzioni tattiche superiori in combattimento.
 - Hai un pool di Dadi Gambit, che sono dei d6. Hai un numero di dadi pari al tuo Bonus di Competenza + il tuo Modificatore di Saggezza (minimo 2).
 - Recuperi tutti i dadi spesi al termine di un Riposo Breve o Lungo.
 - Il tuo Dado Gambit cambia a un d8 al 9° livello, a un d10 al 13° livello e a un d12 al 17° livello.
-- Conosci le seguenti manovre di base:
-  - Primo Soccorso Rapido: Come Azione Bonus, puoi spendere un Dado Gambit per fasciare le ferite di una creatura vivente adiacente a te (o te stesso). La creatura recupera Punti Ferita pari al numero tirato sul dado + il tuo Modificatore di Saggezza.
-  - Tiro Sicuro: Se manchi un attacco con l'arma, puoi spendere un Dado Gambit per sommare il risultato al tuo tiro per colpire, potendo potenzialmente trasformare un fallimento in un successo.
-  - **Movimento Coperto:** Quando provochi un Attacco di Opportunità muovendoti, puoi usare la tua Reazione e spendere un Dado Gambit. Aggiungi il numero tirato alla tua Classe Armatura contro quell'attacco.
+- Conosci i seguenti Gambit di base: **Primo Soccorso**, **Tiro Preciso**, **Movimento in Copertura**
 
 ## Specializzazione (3°)
 **Passiva**
@@ -82,7 +79,7 @@ d10
 ## Passo dell'Ardito (6°)
 **Passiva**
 >L'abitudine agli equipaggiamenti pesanti e alle marce forzate potenzia il tuo fisico.
-- La tua velocità di passeggio aumenta di 1,5 metri.
+- La tua velocità di movimento aumenta di 1,5 metri.
 - Quando completi un Riposo Breve, riduci il tuo livello di Sfinimento (Exhaustion) di 1.
 
 ## Mimetismo Tattico (10°)
@@ -107,6 +104,11 @@ d10
 - Una volta per ciascuno dei tuoi turni, puoi sommare il tuo modificatore di Saggezza al tiro per colpire o al tiro per i danni di un attacco che effettui contro il tuo *Bersaglio Tattico*. Puoi compiere questa scelta prima o dopo aver effettuato il tiro.
 
 ---
+# Gambit
+
+vedi [[Gambit]] nel capitolo *17. De Tabellorum*
+
+---
 # SPECIALIZZAZIONI
 ---
 ## <u>Medico da Campo</u>
@@ -122,9 +124,7 @@ d10
 ### Gambit Medici (3°)
 **Costo Variabile**
 >Il tuo addestramento ti fornisce nuove procedure per salvare vite sotto il fuoco nemico.
-- Impara due manovre Gambit esclusive che si aggiungono a quelle base:
-- **Siringa di Adrenalina:** Come Azione Bonus, spende un Dado Gambit e inietta un potente stimolante a una creatura viva adiacente a lui. La creatura ottiene Punti Ferita Temporanei pari al risultato del dado + il Modificatore di Saggezza, e può usare la sua Reazione per muoversi istantaneamente fino a metà della sua velocità senza provocare Attacchi di Opportunità.
-- **Anestetico Tattico:** Quando una creatura entro 1,5 metri da lui subisce danni, può usare la sua Reazione e spendere un Dado Gambit. Riducono i danni subiti da quella creatura di un ammontare pari al risultato del dado + il Modificatore di Saggezza.
+>Impara due Gambit esclusivi che si aggiungono a quelli di base: **Siringa di Adrenalina** e **Anestetico Tattico**
 
 ### Triage da Trincea (7°)
 **Passiva / Azione (Durante Riposo Breve)**
@@ -158,9 +158,7 @@ d10
 ### Gambit Esplosivi (3°)
 **Costo Variabile**
 >Trasformi materiali di recupero in trappole letali e ordigni a frammentazione.
-- Impara due manovre Gambit esclusive che si aggiungono a quelle base:
-- **Granata Tattica:** Come Azione Bonus, spende un Dado Gambit e lancia un ordigno rudimentale in un punto entro 18 metri. Ogni creatura entro 1,5 metri da quel punto deve fare un TS su Destrezza (CD = 8 + Bonus Competenza + Modificatore Destrezza). Chi fallisce subisce danni perforanti pari al risultato del Dado Gambit + il Modificatore di Destrezza. Chi supera il TS subisce la metà dei danni.
-- **Trappola a Scatto:** Come Azione Bonus, spende un Dado Gambit per piazzare silenziosamente una trappola nel suo spazio o in uno spazio adiacente. La prima creatura nemica che entra in quello spazio subisce danni taglienti pari al risultato del Dado Gambit, e il suo movimento si azzera fino alla fine del turno.
+>Impara due Gambit esclusivi che si aggiungono a quelli di base: **Granata Tattica** e **Trappola a Scatto**.
 
 ### Breccia (7°)
 **Passiva**
@@ -194,10 +192,7 @@ d10
 
 ### Gambit Bestiali (3°)
 **Costo Variabile**
->Comandi il tuo cane con fischi tattici e gesti rapidi per manovre combinate.
-- Impara due manovre Gambit esclusive che si aggiungono a quelle base:
-- **Zanne alla Gola:** Quando impartisce l'ordine di Attaccare al compagno, può spendere un Dado Gambit. Se l'attacco della bestia colpisce, aggiunge il Dado Gambit ai danni, e il bersaglio deve superare un TS su Forza (CD = 8 + Bonus Competenza + Modificatore Saggezza) o finire Prono.
-- **Fiuto Tattico:** Come Azione Bonus, spende un Dado Gambit. Il cane punta un bersaglio invisibile o nascosto entro 9 metri, annullandone temporaneamente i vantaggi: il prossimo attacco che il Ranger o un suo alleato effettuano contro quel bersaglio ha Vantaggio e infligge danni extra pari al risultato del Dado Gambit.
+>Comandi il tuo cane con fischi e gesti rapidi per manovre combinate. Impara due Gambit esclusivi che si aggiungono a quelli di base: **Zanne alla Gola** e **Fiuto Tattico**
 
 ### Sincronia del Branco (7°)
 **Passiva**
@@ -226,12 +221,10 @@ d10
 >Sei un fantasma letale e incredibilmente veloce.
 - Ottiene competenza nell'abilità Furtività o Acrobazia. La sua velocità di movimento base aumenta di 3 metri finché non indossa armature pesanti.
 
-### Gambit d'Incursione (3°)
+### Gambit Evasivi (3°)
 **Costo Variabile**
 >Sfrutti la copertura e la sorpresa per sferrare colpi fatali a distanza ravvicinata.
-- Impara due manovre Gambit esclusive che si aggiungono a quelle base:
-- **Esecuzione Silenziosa:** Quando colpisce una creatura con un attacco con l'arma e aveva Vantaggio al tiro (o era Nascosto), può spendere un Dado Gambit. Aggiunge al danno finale **il doppio** del risultato del Dado Gambit. Se questo attacco uccide il bersaglio, esso non emette alcun rumore cadendo.
-- **Scatto in Copertura:** Come Azione Bonus, spende un Dado Gambit. Ottiene istantaneamente i benefici delle Azioni Scatto e Disimpegno combinate. Aggiunge il risultato del dado moltiplicato per 1,5 ai metri totali di movimento extra che può compiere in questo turno.
+>Impara due Gambit esclusivi che si aggiungono a quelli di base: **Esecuzione Silenziosa** e **Scatto in Copertura**.
 
 ### Tattiche di Guerriglia (7°)
 **Passiva**
@@ -260,13 +253,10 @@ d10
 - Ottiene competenza nell'abilità Percezione o Indagare e raddoppia il suo Bonus di Competenza per l'abilità scelta. 
 - Ottiene Scurovisione fino a 18 metri (o aumenta la sua Scurovisione di 18 metri se la possiede già).
 
-### Gambit di Avvistamento (3°)
+### Gambit Vedetta (3°)
 **Costo Variabile**
 >Condividi le coordinate del nemico con il resto del plotone.
-- Impara due manovre Gambit esclusive che si aggiungono a quelle base:
-- **Rivelare il Punto Cieco:** Come Azione Bonus, spende un Dado Gambit e indica a gran voce una creatura che può vedere. Fino all'inizio del suo prossimo turno, sottrae il risultato del dado alla Classe Armatura del nemico bersagliato contro un qualsiasi attacco effettuato da un suo alleato.
-- **Guida Tattica:** Quando un suo alleato che può vedere e sentire è costretto a effettuare un Tiro Salvezza su Destrezza (es. per schivare una trappola o una granata), può usare la sua Reazione e spendere un Dado Gambit per gridargli dove buttarsi. L'alleato somma il risultato del dado al suo Tiro Salvezza.
-
+>Impara due Gambit esclusivi che si aggiungono a quelli di base: **Cheapshot** e **Guida Tattica**.
 ### Occhio del Falco (7°)
 **Passiva**
 >Il tuo raggio d'azione si estende oltre i normali limiti visivi.

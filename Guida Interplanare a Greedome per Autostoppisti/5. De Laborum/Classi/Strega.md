@@ -217,7 +217,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 - **3° Liv. da Strega:** *Forza Fantasmatica*, *Immagine Speculare*
 - **5° Liv. da Strega:** *Immagine Maggiore*, *Trama Ipnotica*
 - **7° Liv. da Strega:** *Invisibilità Superiore*, *Terreno Illusorio*
-- **9° Liv. da Strega:** *Fuurviare*, *Sembrare*
+- **9° Liv. da Strega:** *Fuorviare*, *Sembrare*
 
 ### Illusionista del Chiaro di Luna (2°)
 **Passiva**
@@ -322,7 +322,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 
 ### Forma di Megera (14°)
 **Azione Bonus • 1/Riposo Lungo**
->Si trasforma fisicamente in una Megera della Notte per 1 minuto o finché non scende a 0 PF. 
+>Si trasforma fisicamente in una Megera della Notte per 2 minuti o finché non scende a 0 PF. 
 - Il suo Tipo di Creatura diventa *Immondo*. Ottiene Scurovisione 36 m.
 - Resistenza ai danni Contundenti, Perforanti e Taglienti non magici (a meno che non siano d'argento).
 - Può lanciare *Forma Eterea* su se stessa (come Azione, senza usare slot, ma l'effetto termina istantaneamente se finisce la trasformazione in Megera).

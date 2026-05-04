@@ -49,7 +49,7 @@ d8
 ## Gergo Criminale (1°)
 **Passiva**
 >Il Ladro conosce il gergo dei bassifondi, codici cifrati e segnali nascosti.
->Può comunicare messaggi segreti in conversazioni normali o riconoscere simboli urbani che indicano rifugi, mercati neri, pericoli o nascondigli. Sà il Cant.
+>Può comunicare messaggi segreti in conversazioni normali o riconoscere simboli urbani che indicano rifugi, mercati neri, pericoli o nascondigli. Conosce il Cant.
 
 ## Maestria (1°)
 **Passiva**
@@ -228,7 +228,7 @@ Veloce, arrogante e letale nel corpo a corpo o a distanza ravvicinata con un'arm
 ### Maestro Duellante (17°)
 **Passiva • 1/Riposo Breve o Lungo**
 >Se il Ladro fallisce un attacco con un'arma, può decidere di ritirare il dado con Vantaggio. Una volta usato questo privilegio, non può usarlo di nuovo finché non completa un riposo breve o lungo.
->
+
 ---
 ## <u>Detective</u>
 

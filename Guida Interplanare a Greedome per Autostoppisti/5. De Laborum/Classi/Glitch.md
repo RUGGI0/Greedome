@@ -64,8 +64,8 @@ d10
 >Il Glitch sceglie una specializzazione: **Codebreaker**, **Glitchblade** o **Nanomancer**.
 
 ## Attacco Extra (5°)
-**Azione Extra**
->Il Glitch può attaccare due volte quando usa l'azione di Attacco.
+**Passiva**
+>Il Glitch può usare fino a 2 azioni per turno.
 
 ## Accelerazione Innaturale (9°)
 **Passiva/Reazione • Mod STR/riposo lungo**
@@ -171,7 +171,7 @@ Non richiede linea di vista.
 
 ### Passo Distorto Asincrono (6°)
 **Passiva**
->Il protocollo di teletrasporto viene ottimizzato, riducendo i tempi di ricarica per un uso tattico aggressivo. *Passo Vacuo*:
+>Il protocollo di teletrasporto viene ottimizzato, riducendo i tempi di ricarica per un uso tattico aggressivo. *Passo Distorto*:
 - utilizzabile 2/riposo breve.
 - Spostamento esteso da 1,5 m a 3 m.
 >All'uso: Il prossimo attacco del Glitchblade nel turno ha vantaggio.
@@ -195,7 +195,7 @@ Non richiede linea di vista.
 - Movimento raddoppiato.
 - Attacchi senz’armi = +1d8 + Mod STR.
 - Vantaggio ai TS DEX.
-- Può usare Passo Vacuo ogni turno senza spendere Byte.
+- Può usare Passo Distorto ogni turno senza spendere Byte.
 
 ---
 ## <u>Nanomancer</u>

@@ -132,7 +132,7 @@ d8
 >Il Bardo apprende 2 incantesimi extra da qualsiasi classe.
 
 ### Abilità Impareggiabile (13°)
-**Azione Libera • 1 Ispirazione Bardica**
+**Passiva • 1 Ispirazione Bardica**
 >Quando il Bardo effettua una prova di caratteristica, può tirare un dado di Ispirazione e aggiungerlo al risultato, anche dopo aver tirato il d20.
 
 ---

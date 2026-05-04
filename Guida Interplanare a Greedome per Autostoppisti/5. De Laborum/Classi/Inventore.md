@@ -5,7 +5,7 @@ Non piega il sistema. Lo progetta.
 # Privilegi di Classe Inventore
 
 ## Dado Vita
-d8.
+d8
 ## Competenze
 **Armature:** leggere, medie, scudi
 **Armi:** armi semplici, armi da fuoco
@@ -50,7 +50,7 @@ d8.
 ## Micro-Matrice Analogica (1°)
 **Azione • Tocco**
 >L'Inventore manipola il codice della realtà di un oggetto per produrre effetti minori, senza sprecare risorse primarie. 
->L'Inventore infonde un trucchetto in un piccolo oggetto.
+>L'Inventore infonde un trucchetto in un piccolo oggetto. L'oggetto funge da caster per quello specifico trucchetto. Può essere utilizzato un numero di volte pari al Mod INT dell'Inventore.
 
 ## Patch Hardware (2°)
 **Riposo Lungo • Tocco**

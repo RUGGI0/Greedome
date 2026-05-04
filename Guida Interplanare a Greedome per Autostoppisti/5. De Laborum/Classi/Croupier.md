@@ -38,7 +38,9 @@ d8
 | 18  | +6    | —                                            | 5          | 100         | 5°            |
 | 19  | +6    | Aumento di Caratteristica                    | 5          | 100         | 5°            |
 | 20  | +6    | Mazzo delle Leggende                         | 5          | 125         | 5°            |
-## Magia delle Carte (Livello 1)
+
+---
+## Magia delle Carte (1°)
 **Passiva**
 >Il Croupier usa un mazzo di carte incantate o tecnologiche per lanciare incantesimi.
 - **Caratteristica da Incantatore:** Carisma.
@@ -145,7 +147,7 @@ d8
 *Gli Scommettitori amano il rischio e il caos, manipolando la fortuna a proprio vantaggio (o svantaggio).*
 
 ### Asso nella Manica (2°)
-**Azione Gratuita • 1/Riposo Breve o Lungo**
+**Azione Bonus • 1/Riposo Breve o Lungo**
 >Dopo aver pescato, lo Scommettitore può tentare una prova di Rapidità di Mano (CD 12 + costo carta) per scambiare una carta della mano con una nuova dal mazzo.
 >Se riesce, può lanciare quella carta ignorando le componenti verbali e somatiche.
 
