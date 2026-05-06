@@ -4,7 +4,6 @@ A differenza degli incantesimi tradizionali, i Malocchi sono micro-maledizioni i
 # Malocchi
 *(Nessun prerequisito)*
 
----
 ### Ammaliante
 **Azione Bonus • 36 m**
 >Un filo invisibile di forza telecinetica costringe bruscamente il bersaglio ad avvicinarsi.
@@ -42,7 +41,6 @@ A differenza degli incantesimi tradizionali, i Malocchi sono micro-maledizioni i
 # Malocchi Avanzati
 *(Prerequisito: Strega lv.7)*
 
----
 ### Drenante
 **Azione Bonus • 36 m**
 >Una necrosi temporanea impedisce qualsiasi tipo di guarigione, naturale o artificiale.
