@@ -1,5 +1,5 @@
 *Le Streghe sono le detentrici di una delle prime forme di magia apparse nel mondo, risalenti a un'epoca in cui l'arcano e il naturale venivano studiati come una cosa sola. A Greedome, questa antica arte è un segreto custodito e tramandato esclusivamente da donne. È una sorellanza spietata e pragmatica: alcune venerano i vecchi dei in giardini nascosti tra il cemento, altre non disdegnano la modernità, fondendo antichi patti di sangue con il cromo, l'acciaio e i motori. 
-Quale che sia la loro Congrega o il loro stile, le Streghe dominano la magia, il destino e i vicoli della città.*
+Quale che sia la loro Congrega o il loro stile, le Streghe dominano la magia, il destino e i le ombre notturne.*
 
 ---
 # Privilegi di Classe Strega
@@ -10,7 +10,7 @@ d6
 **Armature:** nessuna
 **Armi:** cerbottane (o pistole a dardi tranquillanti), pugnali (o lame tattiche), bastoni ferrati (o aste stordenti), falcetti (o lame termiche a mezzaluna)
 **Strumenti:** strumenti da alchimista, borsa da erborista, borsa da avvelenatore
-**Tiri Salvezza:** INT, WIS
+**Tiri Salvezza:** INT, SAG
 **Abilità:** 2 a scelta tra Arcano, Furtività, Intuizione, Medicina, Natura, Percezione Animale, Religione, Sopravvivenza, Storia
 
 ---
@@ -52,17 +52,18 @@ d6
 **Passiva**
 >Lo spirito legato alla Strega è la manifestazione del suo potere e il suo compagno più fedele. La sua forma è spesso legata alla sua Congrega d'appartenenza, con eventuali innesti punk, cyber o bizzarrie alchemiche.
 >Apprende l'incantesimo *Trova Famiglio* (non conta tra gli incantesimi conosciuti) e può lanciarlo senza spendere slot o componenti materiali. Il famiglio ottiene questi potenziamenti:
-- INT e CHA diventano 12 (se non erano già superiori).
+- INT e CAR diventano 12 (se non erano già superiori).
 - Può parlare, leggere e comprendere tutte le lingue conosciute dalla Strega.
 - Il suo movimento non provoca Attacchi di Opportunità.
 - Aggiunge il Livello da Strega ai suoi Punti Ferita massimi.
 - Se supera un TS che dimezzerebbe i danni, non subisce alcun danno.
+
 ## Malocchio (2°)
 **Azione Bonus • Costo Variabile**
 >Le Streghe possono distorcere sottilmente la trama della magia per punire i nemici o sabotare il loro equipaggiamento.
 >Una volta per turno, se una creatura entro 36 metri fallisce un TS contro un incantesimo della Strega o viene colpita da un suo attacco, la Strega può usare un'Azione Bonus per infliggerle un *Malocchio*.
 - Gli effetti durano fino all'inizio del prossimo turno della Strega.
-- Può usare questo privilegio un numero di volte pari al proprio Modificatore di Intelligenza (minimo 1 volta). Recupera tutti gli usi spesi al termine di un Riposo Breve o Lungo.
+- Può usare questo privilegio un numero di volte pari al proprio Mod INT (minimo 1 volta). Recupera tutti gli usi spesi al termine di un Riposo Breve o Lungo.
 - Sceglie i Malocchi conosciuti dalla relativa lista (vedi fine della classe).
 
 ## Specializzazione (2°)
@@ -80,7 +81,7 @@ d6
 >Avendo un contenitore vuoto, la Strega può infondere un incantesimo in una pozione durante un riposo.
 - **Costo:** Spende le componenti materiali e 1 Slot Incantesimo del livello adeguato. Lo slot speso non si ricarica finché la pozione non viene consumata o distrutta.
 - **Scelta Incantesimo:** Può scegliere magie specifiche da una lista apposita (es. *Cura Ferite*, *Invisibilità*, *Volare*).
-- **Effetto:** Qualsiasi creatura può usare un'Azione per consumare la pozione. Diventa il bersaglio dell'incantesimo. Se l'incantesimo richiede Concentrazione, la mantiene chi l'ha consumata. Se la creatura che concentra subisce danni, è lei a dover effettuare il TS su Costituzione per mantenere l'effetto. Se l'incantesimo richiede un TS ai nemici, usa la CD della Strega.
+- **Effetto:** Qualsiasi creatura può usare un'Azione per consumare la pozione. Diventa il bersaglio dell'incantesimo. Se l'incantesimo richiede Concentrazione, la mantiene chi l'ha consumata. Se la creatura che concentra subisce danni, è lei a dover effettuare il TS COS per mantenere l'effetto. Se l'incantesimo richiede un TS ai nemici, usa la CD della Strega.
 - **Limite:** Massimo numero di pozioni attive contemporaneamente pari al Livello da Strega diviso 3 (arrotondato per difetto).
 
 ## Incantare Scopa (7°)
@@ -109,11 +110,14 @@ vedi [[Malocchi]] nel capitolo *17. De Tabellorum*
 vedi [[Pozioni]] nel capitolo *17. De Tabellorum*
 
 ---
-# Pax Stregorium  
+# Codice della Sorellanza
+---
+## Pax Stregorium  
 
 Sebbene le Congreghe siano fazioni distinte e spesso in brutale competizione tra loro, condividono un'antica e inviolabile legge: i Santuari. 
 Per tacito accordo tra tutte le Streghe (e temuto rispetto da parte delle corporazioni, dei sindacati criminali e dell'Impero Eldreicht), i Santuari sono Zone Neutrali. È severamente vietato versare sangue, estrarre armi o lanciare incantesimi e Malocchi ostili al loro interno. 
 Qualsiasi avventuriero, civile o strega stessa che violi la Pax del Santuario perde immediatamente ogni protezione e viene marchiato come nemico dell'intera Sorellanza di Greedome.
+E' inoltre assolutamente vietato per una Strega versare il sangue di una consorella Strega, anche se di fazioni avversarie. Questa regola è presa molto letteralmente dalla Sorellanza, che semplicemente disdegna la violenza fisica tra consorelle. Questo si traduce molto spesso in Streghe che assumono intermediari e mercenari al fine di regolari i conti tra loro.
 
 ---
 ## Marchio della Sorellanza
@@ -149,13 +153,13 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 **Reazione • Mod INT / Riposo Lungo**
 >La morte è solo l'inizio del servizio.
 - Se un umanoide (Medio o Piccolo) muore entro 3 m da lei o dal famiglio, la Strega può usare la Reazione per rianimarlo come Zombi o Scheletro con 1 PF massimo. Dura 1 ora e poi diventa cenere.
-- Ogni non morto evocato con incantesimi aumenta i propri PF massimi di un ammontare pari a metà livello della Strega, e aggiunge metà del Bonus di Competenza ai danni.
+- Ogni non morto evocato con incantesimi aumenta i propri PF massimi di un ammontare pari a metà livello della Strega, e aggiunge metà del BC ai danni.
 
 ### Globo della Notte (10°)
 **Azione • 1/Riposo Breve o Lungo**
 >Una sfera di pura oscurità entropica che consuma i nemici.
 - Crea una sfera di oscurità magica (raggio 1,5 m) entro 18 m. Dura 1 minuto. 
-- Chi inizia il turno adiacente o dentro la sfera subisce 3d10 danni necrotici (5d10 al 14° liv) e deve superare un TS WIS o essere *Accecato*. 
+- Chi inizia il turno adiacente o dentro la sfera subisce 3d10 danni necrotici (5d10 al 14° liv) e deve superare un TS SAG o essere *Accecato*. 
 - Con un'Azione Bonus la Strega può spostare la sfera di 4,5 m.
 
 ### Creare Spaventapasseri (14°)
@@ -240,7 +244,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 ### Creare Fantasmi (14°)
 **Azione • Tocco • 1/Riposo Lungo**
 >La Strega imprime una maledizione illusoria direttamente nella mente della vittima.
-- Il bersaglio effettua un TS CHA. Se fallisce, subisce un effetto a scelta della Strega, che dura finché non viene rimosso, o finché la Strega non completa un Riposo Lungo:
+- Il bersaglio effettua un TS CAR. Se fallisce, subisce un effetto a scelta della Strega, che dura finché non viene rimosso, o finché la Strega non completa un Riposo Lungo:
 - **Falso Volto:** Il bersaglio appare agli occhi di tutti cambiato (altezza, stazza, voce). È necessaria un'Azione e una prova di Indagare contro la CD Magia per capire l'illusione.
 - **Visione Distorta:** Una singola sfaccettatura del mondo appare sbagliata agli occhi del bersaglio (es. "Tutti gli umani sembrano Orchi"). Può fare prove di Indagare con Svantaggio per capirlo.
 
@@ -264,7 +268,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 **Passiva**
 >Armata di falcetto e concentrazione d'acciaio.
 - Ottiene competenza in scimitarre, spade corte e stocchi. Il falcetto per lei ottiene la proprietà *Accurata* e infligge 1d6 danni base.
-- Quando attacca con un'arma da mischia in cui è competente, può usare il suo Modificatore INT, invece di FOR o DES, per i tiri per colpire e per i danni.
+- Quando attacca con un'arma da mischia in cui è competente, può usare il suo Mod INT, invece di FOR o DES, per i tiri per colpire e per i danni.
 - Somma il Mod INT ai Tiri per l'Iniziativa e ai TS CON per mantenere la Concentrazione. 
 - Ottiene un bonus alla Classe Armatura pari a metà del Mod INT (arrotondato per eccesso) finché non indossa armature.
 
@@ -272,7 +276,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 **Passiva**
 >Famiglio e padrona attaccano in perfetta sincronia.
 - Una volta nel turno della Strega, quando colpisce con un'arma da mischia, il Famiglio può usare la sua Reazione per effettuare un attacco in mischia contro un nemico adiacente al famiglio stesso. 
-- Usa il Bonus di Competenza della Strega e il Modificatore INT della Strega per il tiro per colpire: infligge 1d6 danni magici (2d6 al 6°, 3d6 al 10°, 4d6 al 14°, 5d6 al 18°).
+- Usa il BC della Strega e il Mod INT della Strega per il tiro per colpire: infligge 1d6 danni magici (2d6 al 6°, 3d6 al 10°, 4d6 al 14°, 5d6 al 18°).
 
 ### Attacco Extra (6°)
 **Passiva**
@@ -318,7 +322,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 **Azione • 1/Riposo Lungo**
 >Invia un demone invisibile nella mente di un umanoide a vista. Dura 24 ore.
 - La Strega riceve un collegamento telepatico costante con la creatura. 
-- Come Azione, la Strega può dettare un comando mentale. Il bersaglio fa un TS WIS: se fallisce, obbedisce al meglio delle sue capacità (il comando deve sembrare "ragionevole" per lui). Se ha successo, il demone viene espulso.
+- Come Azione, la Strega può dettare un comando mentale. Il bersaglio fa un TS SAG: se fallisce, obbedisce al meglio delle sue capacità (il comando deve sembrare "ragionevole" per lui). Se ha successo, il demone viene espulso.
 
 ### Forma di Megera (14°)
 **Azione Bonus • 1/Riposo Lungo**
@@ -354,7 +358,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 **Passiva**
 >Il famiglio è uno spirito guida tra i due mondi.
 - Il famiglio assume una forma spettrale. Ottiene una velocità di Volare 9 m (Fluttuare). 
-- Come Azione può diventare Invisibile per un turno. Oltrepassa materia solida (ma se termina il turno in un muro subisce 2d10 danni Forza). Ha Resistenza a tutti i danni tranne psichici, radiosi, o contundenti, perforanti e taglienti da attacchi magici.
+- Come Azione può diventare Invisibile per un turno. Oltrepassa materia solida (ma se termina il turno in un muro subisce 2d10 danni da forza). Ha Resistenza a tutti i danni tranne psichici, radiosi, o contundenti, perforanti e taglienti da attacchi magici.
 - Se si trova nello spazio di una creatura alleata, il famiglio può usare una Reazione per concederle un beneficio spettrale per 1 turno (1 volta per Riposo Breve).
 
 ### Lettura del Destino (10°)
@@ -381,7 +385,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 ### Cercatrice di Stelle (2°)
 **Passiva / Rituale (10 min) • 1/Riposo Breve o Lungo**
 >Esploratrice instancabile dei segreti dell'universo.
-- Ottiene Competenza in Indagare e ne raddoppia il Bonus di Competenza.
+- Ottiene Competenza in Indagare e ne raddoppia il BC.
 - Può lanciare come rituale di 10 minuti: *Trovare Trappole*, *Localizzare Animali o Piante* o *Localizzare Oggetto* (*Localizzare Creatura* dal 5° livello) senza spendere slot. 
 
 ### Nexus del Famiglio (6°)

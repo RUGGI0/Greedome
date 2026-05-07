@@ -53,7 +53,7 @@ d8
 
 ## Maestria (1°)
 **Passiva**
->Il Ladro sceglie 2 competenze in abilità possedute o negli strumenti da scasso. Il bonus di competenza per queste è raddoppiato.
+>Il Ladro sceglie 2 competenze in abilità possedute o negli strumenti da scasso. Il BC per queste è raddoppiato.
 
 ## Azione Scaltra (2°)
 **Azione Bonus**
@@ -75,17 +75,17 @@ d8
 
 ## Maestria II (6°)
 **Passiva**
->Il Ladro sceglie altre 2 competenze in abilità possedute o strumenti. Il bonus di competenza per quelle scelte è raddoppiato.
+>Il Ladro sceglie altre 2 competenze in abilità possedute o strumenti. Il BC per quelle scelte è raddoppiato.
 
 ## Elusione (7°)
 **Passiva**
 >Il Ladro evita istintivamente le esplosioni ad area, come granate o scariche anomale.
->Quando è soggetto a un effetto che permette un TS su Destrezza per dimezzare i danni, non subisce alcun danno se supera il TS, e solo la metà se lo fallisce.
+>Quando è soggetto a un effetto che permette un TS su DES per dimezzare i danni, non subisce alcun danno se supera il TS, e solo la metà se lo fallisce.
 
 ## Dote Affidabile (11°)
 **Passiva**
 >Il Ladro non commette più errori da principiante.
->Quando effettua una prova di caratteristica in cui può aggiungere il bonus di competenza, tratta qualsiasi tiro del d20 pari o inferiore a 9 come se fosse un 10.
+>Quando effettua una prova di caratteristica in cui può aggiungere il BC, tratta qualsiasi tiro del d20 pari o inferiore a 9 come se fosse un 10.
 
 ## Senso Cieco (14°)
 **Passiva**
@@ -95,7 +95,7 @@ d8
 ## Mente Sfuggente (15°)
 **Passiva**
 >La psiche del Ladro diventa un labirinto impenetrabile agli interrogatori e alla magia. 
->Ottiene competenza nei Tiri Salvezza su Saggezza.
+>Ottiene competenza nei TS SAG.
 
 ## Elusivo (18°)
 **Passiva**
@@ -137,7 +137,7 @@ L'esecutore perfetto. Maestro dei veleni, dei fucili di precisione e delle coper
 ### Colpo Letale (17°)
 **Passiva**
 >L'attacco a sorpresa del Ladro è in grado di spezzare la vita in un istante.
->Quando colpisce una creatura *Sorpresa*, questa deve superare un TS su Costituzione (CD 8 + Mod DES + Mod Competenza). Se fallisce, i danni di quell'attacco sono raddoppiati.
+>Quando colpisce una creatura *Sorpresa*, questa deve superare un TS COS (CD 8 + Mod DES + Mod Competenza). Se fallisce, i danni di quell'attacco sono raddoppiati.
 
 ---
 ## <u>Scassinatore</u>
@@ -152,7 +152,7 @@ Il professionista dell'infiltrazione rapida. Specializzato nell'uso rapido di og
 **Passiva**
 >Il Ladro si muove nel tessuto urbano con un'agilità disumana.
 - Arrampicarsi non costa più movimento extra.
-- Quando salta con rincorsa, la distanza coperta aumenta di un numero di metri pari al Modificatore di Destrezza.
+- Quando salta con rincorsa, la distanza coperta aumenta di un numero di metri pari al Mod DES.
 
 ### Furtività Suprema (9°)
 **Passiva**
@@ -178,7 +178,7 @@ Mescola la furtività con anomalie magiche. Usa illusioni e telecinesi per bypas
 **Passiva**
 >Il Ladro ottiene la capacità di lanciare incantesimi estrapolandoli da difetti della realtà (scuola di Illusione e Ammaliamento).
 - **Trucchetti:** Apprende 3 trucchetti (di cui uno deve essere *Mano Magica*). Al 10° livello ne apprende un altro.
-- **Slot e Incantesimi:** Segue la progressione degli slot di 1/3 di incantatore, usando l'Intelligenza come Caratteristica da Incantatore.
+- **Slot e Incantesimi:** Segue la progressione degli slot di 1/3 di incantatore, usando l'INT come Caratteristica da Incantatore.
 
 ### Prestidigitazione Magica (3°)
 **Azione Bonus**
@@ -212,7 +212,7 @@ Veloce, arrogante e letale nel corpo a corpo o a distanza ravvicinata con un'arm
 ### Audacia (3°)
 **Passiva**
 >La sfrontatezza in combattimento fornisce aperture fatali.
-- Il Ladro aggiunge il Modificatore di Carisma al suo tiro per l'Iniziativa.
+- Il Ladro aggiunge il Mod CAR al suo tiro per l'Iniziativa.
 - Non ha bisogno di Vantaggio per l'Attacco Furtivo se si trova entro 1,5 m dal bersaglio, nessun'altra creatura è entro 1,5 m dal Ladro e non ha Svantaggio al tiro per colpire.
 
 ### Panache (9°)
@@ -237,7 +237,7 @@ L'investigatore hardboiled. Legge i minimi dettagli ambientali, scova le bugie p
 ### Orecchio per l'Inganno (3°)
 **Passiva**
 >Il Ladro sa riconoscere quando qualcuno sta mentendo.
->Quando effettua una prova di Intuizione (Saggezza) per capire se una creatura sta mentendo, considera qualsiasi tiro del d20 pari o inferiore a 8 come se fosse un 8.
+>Quando effettua una prova di Intuizione (SAG) per capire se una creatura sta mentendo, considera qualsiasi tiro del d20 pari o inferiore a 8 come se fosse un 8.
 
 ### Occhio per i Dettagli (3°)
 **Azione Bonus**
@@ -257,7 +257,7 @@ L'investigatore hardboiled. Legge i minimi dettagli ambientali, scova le bugie p
 ### Occhio Infallibile (13°)
 **Azione**
 >I sensi del Ladro squarciano i veli della magia e della tecnologia olografica.
->Percepisce automaticamente la presenza di illusioni, mutaforma e alterazioni visive entro 9 metri da lui (pur non vedendone la vera forma). Può usarlo un numero di volte pari al suo Modificatore di Saggezza (minimo 1) per Riposo Lungo.
+>Percepisce automaticamente la presenza di illusioni, mutaforma e alterazioni visive entro 9 metri da lui (pur non vedendone la vera forma). Può usarlo un numero di volte pari al suo Mod SAG (minimo 1) per Riposo Lungo.
 
 ### Occhio per la Debolezza (17°)
 **Passiva**
@@ -282,7 +282,7 @@ Il burattinaio del sindacato criminale. Dirige il combattimento dalle retrovie, 
 ### Manipolatore Intuitivo (9°)
 **Passiva (Fuori Combattimento)**
 >Il Ladro squadra una persona per capirne il valore.
->Se trascorre almeno 1 minuto a osservare o interagire con una creatura fuori dal combattimento, scopre se essa è superiore, inferiore o uguale a lui in due di queste categorie: Intelligenza, Saggezza, Carisma o Livello di Classe.
+>Se trascorre almeno 1 minuto a osservare o interagire con una creatura fuori dal combattimento, scopre se essa è superiore, inferiore o uguale a lui in due di queste categorie: INT, SAG, CAR o Livello di Classe.
 
 ### Depistaggio (13°)
 **Reazione**
@@ -302,7 +302,7 @@ L'esperto di guerriglia urbana, sabotaggio tattico e sopravvivenza nei bassifond
 ### Sopravvivenza Urbana (3°)
 **Passiva**
 >Il Ladro conosce ogni vicolo, tunnel e tetto della città.
->Ottiene competenza nelle abilità Natura e Sopravvivenza. Il suo bonus di competenza è raddoppiato per qualsiasi prova effettuata usando queste abilità (Maestria).
+>Ottiene competenza nelle abilità Natura e Sopravvivenza. Il suo BC è raddoppiato per qualsiasi prova effettuata usando queste abilità (Maestria).
 
 ### Schermagliatore (3°)
 **Reazione**
@@ -337,20 +337,20 @@ Un sicario letale connesso con l'aldilà o con l'energia necromantica stagnante 
 ### Lamenti dalla Tomba (3°)
 **Passiva (Spende Cariche)**
 >L'attacco del Ladro incanala la disperazione dei defunti.
->Quando colpisce una creatura con un Attacco Furtivo, può infliggere danni necrotici pari a metà dei suoi dadi di Furtivo a una *seconda* creatura entro 9 m dal primo bersaglio. Può farlo un numero di volte pari al suo bonus di competenza, recuperando gli usi con un Riposo Lungo.
+>Quando colpisce una creatura con un Attacco Furtivo, può infliggere danni necrotici pari a metà dei suoi dadi di Furtivo a una *seconda* creatura entro 9 m dal primo bersaglio. Può farlo un numero di volte pari al suo BC, recuperando gli usi con un Riposo Lungo.
 
 ### Simboli dei Defunti (9°)
 **Reazione**
 >Il Ladro solidifica l'essenza di chi muore vicino a lui.
 >Quando una creatura muore entro 9 m, il Ladro cattura la sua anima in un Simbolo dell'Anima (come una moneta arrugginita, una cartuccia vuota o una piccola runa). Può averne al massimo un numero pari al suo mod. di Competenza. Un Simbolo fornisce:
->- **Passiva:** Finché ne possiede almeno uno, ha Vantaggio ai TS su Costituzione e contro la Morte.
+>- **Passiva:** Finché ne possiede almeno uno, ha Vantaggio ai TS COS e contro la Morte.
 >- **Consumabile:** Può distruggere un Simbolo per usare *Lamenti dalla Tomba* senza spendere cariche.
 >- **Interrogatorio (10 min):** Distrugge un Simbolo per fare una singola domanda all'anima imprigionata, ottenendo una risposta veritiera.
 
 ### Camminata Fantasma (13°)
 **Azione Bonus • 1/Riposo Lungo o Spende Simbolo**
 >Il Ladro sfasa parzialmente la sua materia corporea.
->Per 10 minuti ha una velocità di volare di 3 m, può attraversare le creature e gli oggetti solidi (ma subisce 1d10 danni di forza se vi termina il turno) e i tiri per colpire contro di lui subiscono Svantaggio. 
+>Per 10 minuti ha una velocità di volare di 3 m, può attraversare le creature e gli oggetti solidi (ma subisce 1d10 danni da forza se vi termina il turno) e i tiri per colpire contro di lui subiscono Svantaggio. 
 
 ### Amico della Morte (17°)
 **Passiva**
@@ -364,7 +364,7 @@ Un infiltrato che genera armi cinetiche o mentali puramente con la volontà. Nes
 
 ### Potere Psionico (3°)
 **Passiva (Dadi Psionici)**
->Il Ladro possiede una riserva di Dadi Psionici (d6 che crescono a d8 al 5°, d10 all'11°, d12 al 17°). Il numero di dadi è pari al doppio del Bonus di Competenza (recuperati con un Riposo Lungo, 1 con un Breve).
+>Il Ladro possiede una riserva di Dadi Psionici (d6 che crescono a d8 al 5°, d10 all'11°, d12 al 17°). Il numero di dadi è pari al doppio del BC (recuperati con un Riposo Lungo, 1 con un Breve).
 >Li può usare per:
 >- **Abilità Bisbigliata:** Dopo aver tirato una prova con cui è competente, aggiunge il dado. Se la prova fallisce comunque, il dado *non viene speso*.
 >- **Sussurri Mentali:** Connette telepaticamente un numero di creature alleate (pari al mod. di competenza) per un numero di ore pari a un tiro del Dado Psionico (il dado viene speso).
@@ -388,4 +388,4 @@ Un infiltrato che genera armi cinetiche o mentali puramente con la volontà. Nes
 ### Squarcia Mente (17°)
 **Passiva (Spende 3 Dadi Psionici)**
 >Un colpo mentale devastante in grado di resettare il cervello del nemico.
->Quando infligge un Attacco Furtivo con una Lama Psichica, il bersaglio deve superare un TS su Saggezza (CD 8 + Mod DES + Bonus Competenza). Se fallisce, il bersaglio è *Stordito* per 1 minuto (ripete il tiro alla fine di ogni suo turno per terminare l'effetto).
+>Quando infligge un Attacco Furtivo con una Lama Psichica, il bersaglio deve superare un TS SAG (CD 8 + Mod DES + BC). Se fallisce, il bersaglio è *Stordito* per 1 minuto (ripete il tiro alla fine di ogni suo turno per terminare l'effetto).

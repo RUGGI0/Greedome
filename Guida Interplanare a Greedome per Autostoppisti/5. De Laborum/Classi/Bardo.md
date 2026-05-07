@@ -44,7 +44,7 @@ d8
 ## Incantesimi (1°)
 **Passiva**
 >Il Bardo manipola la magia attraverso la musica e l'oratoria.
-- **Caratteristica da Incantatore:** Carisma.
+- **Caratteristica da Incantatore:** CAR.
 - **Focus:** Strumento musicale.
 - **Rituali:** Può lanciare come rituale qualsiasi incantesimo da Bardo conosciuto che abbia il descrittore rituale.
 
@@ -61,7 +61,7 @@ d8
 |   15°   |       1d12       |
 ## Factotum (2°)
 **Passiva**
->Il Bardo aggiunge metà del suo bonus di competenza (arrotondato per difetto) a qualsiasi prova di caratteristica che non includa già il suo bonus di competenza (inclusa l'Iniziativa).
+>Il Bardo aggiunge metà del suo BC (arrotondato per difetto) a qualsiasi prova di caratteristica che non includa già il suo BC (inclusa l'Iniziativa).
 
 ## Canto di Riposo (2°)
 **Passiva**
@@ -81,7 +81,7 @@ d8
 
 ## Maestria (3°)
 **Passiva**
->Il Bardo sceglie 2 competenze in abilità possedute. Il bonus di competenza per quelle abilità è raddoppiato.
+>Il Bardo sceglie 2 competenze in abilità possedute. Il BC per quelle abilità è raddoppiato.
 
 ## Versatilità Bardica (4°)
 **Passiva**
@@ -100,7 +100,7 @@ d8
 
 ## Maestria II (9°)
 **Passiva**
->Il Bardo sceglie 2 competenze in abilità possedute. Il bonus di competenza per quelle abilità è raddoppiato.
+>Il Bardo sceglie 2 competenze in abilità possedute. Il BC per quelle abilità è raddoppiato.
 
 ## Segreti Magici (10°, 14°, 18°)
 **Passiva**
@@ -198,13 +198,13 @@ d8
 
 ### Esibizione Estasiante (3°)
 **Azione (1 min) • 1/Riposo Breve o Lungo**
->Il Bardo si esibisce. Fino a un numero di nemici (pari a mod CAR) entro 18 m fanno un TS su Saggezza.
+>Il Bardo si esibisce. Fino a un numero di nemici (pari a mod CAR) entro 18 m fanno un TS SAG.
 >Se falliscono, sono Affascinati per 1 ora e idolatrano il Bardo, proteggendolo (senza combattere).
 
 ### Maestà Inviolabile (6°)
 **Azione Bonus • 1/Riposo Breve o Lungo**
 >Il Bardo assume un aspetto ultraterreno per 1 minuto.
-- Chi lo attacca deve prima superare un TS Carisma.
+- Chi lo attacca deve prima superare un TS CAR.
 - Se fallisce, il nemico deve scegliere un altro bersaglio o sprecare l'attacco.
 - Se colpisce, il Bardo ha Vantaggio a tutti i TS contro gli incantesimi di quel nemico nel suo prossimo turno.
 
@@ -223,7 +223,7 @@ d8
 
 ### Parole di Terrore (3°)
 **Azione (1 min) • 1/Riposo Breve o Lungo**
->Il Bardo parla privatamente con un bersaglio. Se fallisce un TS Saggezza, il bersaglio è Spaventato dal Bardo o da un bersaglio a scelta del Bardo per 1 ora.
+>Il Bardo parla privatamente con un bersaglio. Se fallisce un TS SAG, il bersaglio è Spaventato dal Bardo o da un bersaglio a scelta del Bardo per 1 ora.
 
 ### Manto dei Sussurri (6°)
 **Reazione • 1/Riposo Breve o Lungo**
@@ -232,7 +232,7 @@ d8
 
 ### Sapere Oscuro (13°)
 **Azione • 1 Ispirazione Bardica**
->Il Bardo sussurra la più grande paura di una creatura (scoperta magicamente in quel momento). Il bersaglio fa un TS Saggezza.
+>Il Bardo sussurra la più grande paura di una creatura (scoperta magicamente in quel momento). Il bersaglio fa un TS SAG.
 >Se fallisce, è Affascinato e terrorizzato all'idea che il Bardo riveli i suoi segreti, obbedendo ai suoi ordini per 8 ore.
 
 ---
@@ -249,7 +249,7 @@ d8
 
 ### Performance della Creazione (3°)
 **Azione • 1/Riposo Lungo (o 1 Slot)**
->Il Bardo crea un oggetto non magico (Max valore: 20 mo × Liv Bardo) in uno spazio vuoto entro 3 m. Dura ore pari al bonus di competenza.
+>Il Bardo crea un oggetto non magico (Max valore: 20 mo × Liv Bardo) in uno spazio vuoto entro 3 m. Dura ore pari al BC.
 
 ### Animare Creazione (6°)
 **Azione • 1/Riposo Lungo (o Slot di 3°)**
@@ -310,7 +310,7 @@ d8
 **Passiva**
 >Il Bardo è un maestro nel rigirare le frittate.
 - Ottiene competenza in Inganno e Persuasione.
-- Se fallisce una prova di Carisma, può spendere 1 uso di Ispirazione Bardica, tirare il dado e aggiungerlo al totale, alterando retroattivamente il contesto della conversazione. Può farlo anche dopo aver saputo di aver fallito.
+- Se fallisce una prova di CAR, può spendere 1 uso di Ispirazione Bardica, tirare il dado e aggiungerlo al totale, alterando retroattivamente il contesto della conversazione. Può farlo anche dopo aver saputo di aver fallito.
 
 ### Bersaglio del Regime (3°)
 **Azione Bonus • 1 Ispirazione Bardica**
@@ -321,12 +321,12 @@ d8
 **Reazione •  1 Ispirazione Bardica • Mod CAR/Riposo Lungo**
 >Il Bardo sa come zittire le voci scomode.
 - Quando una creatura entro 18 m lancia un incantesimo con componente verbale o usa un'abilità sonora (es. un ruggito o un comando), il Bardo emette una frequenza di disturbo o un ordine perentorio. 
-- Il bersaglio deve superare un TS su Carisma: in caso di fallimento l'azione fallisce, il suono viene soppresso e la risorsa (slot o azione) è sprecata.
+- Il bersaglio deve superare un TS CAR: in caso di fallimento l'azione fallisce, il suono viene soppresso e la risorsa (slot o azione) è sprecata.
 
 ### Controllo delle Masse (13°)
 **Azione • 1/Riposo Lungo**
 >Il Bardo trasmette un discorso ipnotico e terrificante che piega le volontà.
-- Sceglie un numero qualsiasi di creature entro 18 m che possano sentirlo. Devono effettuare un TS su Saggezza.
+- Sceglie un numero qualsiasi di creature entro 18 m che possano sentirlo. Devono effettuare un TS SAG.
 - **Fallimento:** Sono *Affascinate* dal Bardo per 1 minuto. Finché sono affascinate, obbediscono a un singolo comando generale impartito dal Bardo al momento del lancio (es. "Arrendetevi", "Attaccate i vostri alleati", "Proteggetemi"). Ripetono il TS se subiscono danni.
 
 ---
@@ -338,7 +338,7 @@ d8
 **Passiva**
 >Il Bardo rifiuta ogni costrizione, fisica o mentale.
 - Ottiene competenza negli Strumenti da Scasso e in Intimidire.
-- Ha Vantaggio ai Tiri Salvezza contro le condizioni *Affascinato* e *Trattenuto*.
+- Ha Vantaggio ai TS contro le condizioni *Affascinato* e *Trattenuto*.
 
 ### Accordo di Potere (3°)
 **Speciale (quando doni Ispirazione)**

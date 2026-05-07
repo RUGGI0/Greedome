@@ -11,7 +11,7 @@ d10
 **Armature:** nessuna
 **Armi:** armi semplici, pistole
 **Strumenti:** nessuno
-**Tiri Salvezza:** INT, STR
+**Tiri Salvezza:** INT, FOR
 **Abilità:** Acrobatica, Atletica, e 2 a scelta tra Arcana, Furtività, Indagare, Percezione, Rapidità di Mano
 
 ---
@@ -53,22 +53,33 @@ d10
 - **Tier II** (livelli 7–13)
 - **Tier III** (livelli 14–20)
 
+## Anomalia Perseguitata
+**Passiva**
+>Il Glitch non è una classe socialmente accettata. La sua potenza grezza è compensata dal fatto che la sua esistenza è illegale, terrificante o inaccettabile per quasi tutte le autorità di Greedome.
+>Un Glitch che manifesta apertamente i propri poteri può attirare conseguenze immediate e potenzialmente letali (a discrezione del DM):
+- ostilità delle autorità locali;
+- taglie, cacce o denunce;
+- rifiuto di servizi, rifugi o protezione;
+- panico civile;
+- interesse di corporazioni, culti, inquisitori o ricercatori;
+- rischio di essere identificato come minaccia soprannaturale.
+
 ## Passo Distorto (2°)
-**Azione Bonus • Mod STR/riposo breve**
+**Azione Bonus • Mod FOR/riposo breve**
 >Il Glitch sfrutta un lag della realtà per saltare i frame intermedi del movimento.
 - Il Glitch si teletrasporta di 3 m.
 - Non provoca attacchi di opportunità.
 
 ## Specializzazione (3°)
 **Passiva**
->Il Glitch sceglie una specializzazione: **Codebreaker**, **Glitchblade** o **Nanomancer**.
+>Il Glitch sceglie una specializzazione: **Codebreaker**, **Glitchblade** o **Nanomante**.
 
 ## Attacco Extra (5°)
 **Passiva**
->Il Glitch può usare fino a 2 azioni per turno.
+>Il Glitch può attaccare due volte, anziché una, ogniqualvolta utilizza l'Azione di Attacco nel suo turno.
 
 ## Accelerazione Innaturale (9°)
-**Passiva/Reazione • Mod STR/riposo lungo**
+**Passiva/Reazione • Mod FOR/riposo lungo**
 >Il corpo del Glitch smette, per qualche attimo, di rispettare le leggi della fisica newtoniana.
 - +1,5 m velocità.
 - Vantaggio ai TS per le riduzioni di movimento.
@@ -129,7 +140,7 @@ vedi [[Powers]] nel capitolo *17. De Tabellorum*
 
 ### Upload Corrotto (6°)
 **4 Byte • Azione Bonus • 9 m**
->Il Codebreaker inietta un errore permanente nel flusso mentale di un bersaglio. Compie TS WIS a fine turno per terminare l’effetto.
+>Il Codebreaker inietta un errore permanente nel flusso mentale di un bersaglio. Compie TS SAG a fine turno per terminare l’effetto.
 >Per 1 minuto il bersaglio:
 - Ha svantaggio ai TS.
 - Subisce +1d6 psichici la prima volta che colpisce il Codebreaker ogni turno.
@@ -142,13 +153,13 @@ vedi [[Powers]] nel capitolo *17. De Tabellorum*
 Non richiede linea di vista.
 
 ### Collasso Sistemico (14°)
-**7 Byte • Azione • 9 m • 1 min • TS WIS**
+**7 Byte • Azione • 9 m • 1 min • TS SAG**
 >Il Codebreaker instilla un crash di processo nel bersaglio.
 >**Fallimento:**
 - Niente reazioni.
 - Perde l’azione Bonus.
 - Il primo attacco che fallisce → subisce 2d10 psichici.
->Dura 1 minuto. TS WIS a fine turno per terminare l'effetto.
+>Dura 1 minuto. TS SAG a fine turno per terminare l'effetto.
 
 ### BSOD (18°)
 **13 Byte • Azione • 12 m • 1 min (Concentrazione)**
@@ -164,7 +175,7 @@ Non richiede linea di vista.
 *Il Glitchblade focalizza l'anomalia nel combattimento ravvicinato, colpendo con armi che sfarfallano fuori dall'esistenza. Si muove a scatti attraverso il campo di battaglia, impossibile da bloccare o prevedere.*
 
 ### Lama Distorta (3°)
-**3 Byte • Azione Bonus • Mod STR/Riposo Lungo • 1 min**
+**3 Byte • Azione Bonus • Mod FOR/Riposo Lungo • 1 min**
 >Le mani del Glitchblade vibrano violentemente, solidificando errori grafici in armi letali capaci di tagliare la realtà. Per 1 minuto:
 - Gli attacchi senz’armi del Glitchblade diventano attacchi di distorsione: ignorano resistenze e immunità non-magiche.
 - Se colpisce due volte lo stesso bersaglio in un turno: applica *Scintilla Distorta* gratis.
@@ -193,19 +204,19 @@ Non richiede linea di vista.
 >Diventa pura velocità. Massimo 1 volta per riposo lungo.
 >Durante la durata:
 - Movimento raddoppiato.
-- Attacchi senz’armi = +1d8 + Mod STR.
-- Vantaggio ai TS DEX.
+- Attacchi senz’armi = +1d8 + Mod FOR.
+- Vantaggio ai TS DES.
 - Può usare Passo Distorto ogni turno senza spendere Byte.
 
 ---
-## <u>Nanomancer</u>
+## <u>Nanomante</u>
 
-Il Nanomancer riscrive la propria biologia trasformandosi in uno sciame senziente di nano-macchine microscopiche. Diventa un'entità fluida e adattabile, capace di assorbire danni e alterare la propria forma per ogni necessità.
+Il Nanomante riscrive la propria biologia trasformandosi in uno sciame senziente di nano-macchine microscopiche. Diventa un'entità fluida e adattabile, capace di assorbire danni e alterare la propria forma per ogni necessità.
 
 ### Forma di Sciame Nanitico (3°)
 **2 Byte • Azione**
->Il Nanomancer si trasforma in uno sciame di naniti per 1 turno:
-- Vantaggio ai TS DEX.
+>Il Nanomante si trasforma in uno sciame di naniti per 1 turno:
+- Vantaggio ai TS DES.
 - Immunità a afferrare, trattenere, restrizione, proiettili fisici.
 - Può occupare spazi di creature nemiche, non provoca attacchi di opportunità.
 - Attacco speciale: 1d6 perforanti + Mod INT.
@@ -221,7 +232,7 @@ Il Nanomancer riscrive la propria biologia trasformandosi in uno sciame senzient
 
 ### Clone Nanitico (10°)
 **5 Byte • Azione**
->Il Nanomancer crea una copia di naniti (non un clone perfetto).
+>Il Nanomante crea una copia di naniti (non un clone perfetto).
 >Dura 10 minuti.
 
 | Caratteristica     | Valore                                                |
@@ -229,14 +240,14 @@ Il Nanomancer riscrive la propria biologia trasformandosi in uno sciame senzient
 | CA                 | CA Glitch -1                                          |
 | Punti Ferita (PF)  | 1/2 PF Glitch massimi                                 |
 | Movimento          | Velocità Glitch -3 m                                  |
-| Attacco            | 1d8 + Mod STR                                         |
+| Attacco            | 1d8 + Mod FOR                                         |
 | Azioni disponibili | Azioni semplici possibili per un umanoide             |
 | Effetto speciale   | Se colpisce → svantaggio al prossimo TS del bersaglio |
-| Esplosione         | A 0 PF → Esplode per 2d6 + Mod STR (3 m^2)            |
+| Esplosione         | A 0 PF → Esplode per 2d6 + Mod FOR (3 m^2)            |
 
 ### Costituzione Adattiva (14°)
 **7 Byte • Reazione**
->Lo sciame risponde al trauma indurendosi istantaneamente nel punto d'impatto o disperdendo l'energia cinetica. Quando il Nanomancer subisce danni:
+>Lo sciame risponde al trauma indurendosi istantaneamente nel punto d'impatto o disperdendo l'energia cinetica. Quando il Nanomante subisce danni:
 - Riduce i danni di 1d12 + Mod INT.
 - Recupera 1 Byte.
 - Ottiene resistenza al tipo di danno subito finché non usa di nuovo questa abilità, o fino al prossimo riposo.
@@ -246,7 +257,7 @@ Il Nanomancer riscrive la propria biologia trasformandosi in uno sciame senzient
 >Diventa un’entità biomeccanica superiore.
 >Per la durata:
 - Movimento di volo = movimento base.
-- Attacchi senz’armi: 3d6 + Mod STR.
+- Attacchi senz’armi: 3d6 + Mod FOR.
 - Immunità a perforante e tagliente non-magico.
 - Può attraversare creature/oggetti come se fossero liquidi.
 - Quando colpisce una creatura → essa perde 1 Byte / 1 uso / 1 slot.

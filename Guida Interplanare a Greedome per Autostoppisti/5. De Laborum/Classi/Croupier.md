@@ -1,4 +1,4 @@
-*Il Croupier è un praticante di un'arte mistica che si affida alle carte come focus arcano. Invece di bacchette fragili o componenti disordinati, il Croupier incanala il potere nella sua collezione, rilasciando energia sotto forma di esplosioni infuocate, illusioni e fulmini.
+*Il Croupier è un praticante di un'arte mistica che si affida alle carte come focus arcano. Invece di bacchette fragili o componenti disordinati, il Croupier incanala il potere nella sua collezione, rilasciando energia sotto forma di esplosionCARcate, illusioni e fulmini.
 Per i suoi pari, questa magia è poco ortodossa, quasi infantile. Ma il Croupier sa che la vita è una partita a poker, e lui ha sempre un asso nella manica.*
 
 ---
@@ -40,10 +40,23 @@ d8
 | 20  | +6    | Mazzo delle Leggende                         | 5          | 125         | 5°            |
 
 ---
+# Tabella Punti Mazzo
+
+| Livello Incantesimo | Costo in Punti Mazzo |
+| ------------------- | -------------------- |
+| Trucchetto          | 0                    |
+| 1°                  | 2                    |
+| 2°                  | 3                    |
+| 3°                  | 5                    |
+| 4°                  | 6                    |
+| 5°                  | 7                    |
+| Carta Leggendaria   | 25                   |
+
+---
 ## Magia delle Carte (1°)
 **Passiva**
 >Il Croupier usa un mazzo di carte incantate o tecnologiche per lanciare incantesimi.
-- **Caratteristica da Incantatore:** Carisma.
+- **Caratteristica da Incantatore:** CAR.
 - **Focus:** Il mazzo di carte funge da focus arcano.
 - **Il Mazzo:** Il Croupier costruisce un mazzo di 20 carte ogni giorno. Ogni carta rappresenta un incantesimo.
 - **Punti Mazzo:** Inserire carte nel mazzo costa punti in base al livello dell'incantesimo (es. Liv 1 = 2 punti). Il totale non può superare i *Punti Mazzo* della tabella.
@@ -68,12 +81,12 @@ d8
 ## Mazzo Fortunato (6°)
 **Passiva**
 >La maestria del Croupier nel manipolare l'energia arcana si affina.
->Il Croupier aggiunge il proprio Modificatore di Carisma ai danni inflitti da qualsiasi Trucchetto (Cantrip) lanciato tramite le carte.
+>Il Croupier aggiunge il proprio Mod CAR ai danni inflitti da qualsiasi Trucchetto (Cantrip) lanciato tramite le carte.
 
 ## Botta de Culo (7°)
 **Passiva • 1/Riposo Breve o Lungo**
 >La volontà del Croupier si manifesta nei suoi incantesimi.
->Quando il Croupier lancia un incantesimo di 4° livello o superiore che bersaglia un nemico, può forzarlo a fare un TS su Saggezza.
+>Quando il Croupier lancia un incantesimo di 4° livello o superiore che bersaglia un nemico, può forzarlo a fare un TS SAG.
 - **Fallimento:** La creatura è *Stordita* fino alla fine del suo prossimo turno.
 
 ## Carta Leggendaria (11°)
@@ -153,7 +166,7 @@ d8
 
 ### Sapere Quando Lasciare (6°)
 **Reazione**
->Quando lo Scommettitore è bersaglio di un attacco o deve fare un TS su Destrezza per dimezzare i danni, può scartare una carta:
+>Quando lo Scommettitore è bersaglio di un attacco o deve fare un TS su DES per dimezzare i danni, può scartare una carta:
 - **Contro Attacco:** Subisce metà danni.
 - **Contro Effetto:** Subisce 0 danni se supera il TS, o metà se fallisce.
 
@@ -183,7 +196,7 @@ d8
 **Reazione**
 >Quando il Prestigiatore lancia un incantesimo, può scartare carte extra per:
 - Ignorare componenti verbali o somatiche.
-- Infliggere +1d6 danni da forza extra per ogni carta scartata.
+- Infliggere +1d6 danni extra per ogni carta scartata.
 
 ### Carta Trucco (10°)
 **Azione**

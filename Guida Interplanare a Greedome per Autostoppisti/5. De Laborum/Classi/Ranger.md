@@ -10,7 +10,7 @@ d10
 **Armature:** armature leggere, armature medie, scudi
 **Armi:** armi semplici, armi marziali
 **Strumenti:** kit da guaritore
-**Tiri Salvezza:** STR, DEX
+**Tiri Salvezza:** FOR, DEX
 **Abilità:** 3 a scelta tra Addestrare Animali, Atletica, Furtività, Indagare, Intuizione, Natura, Percezione, Sopravvivenza
 
 ---
@@ -43,9 +43,9 @@ d10
 ## Addestramento Alpino (1°)
 **Passiva**
 >Il Ranger è temprato dalle intemperie e dai terreni più impervi.
-- Scegli una tra le tue abilità in cui sei competente. Il tuo Bonus di Competenza viene raddoppiato per qualsiasi prova di caratteristica tu faccia che usi l'abilità scelta.
+- Scegli una tra le tue abilità in cui sei competente. Il suo BC viene raddoppiato per qualsiasi prova di caratteristica tu faccia che usi l'abilità scelta.
 - I terreni difficili non magici (come neve alta, fango, macerie o fogliame fitto) non costano movimento extra.
-- Ottieni una velocità di scalata e una velocità di nuoto pari alla tua normale velocità di movimento.
+- Ottiene una velocità di scalata e una velocità di nuoto pari alla tua normale velocità di movimento.
 
 ## Bersaglio Tattico (1°)
 **Azione Bonus • Costo Variabile**
@@ -53,17 +53,17 @@ d10
 - Come Azione Bonus, puoi designare una creatura che puoi vedere entro 27 metri come tuo Bersaglio Tattico.
 - La prima volta in ogni tuo turno in cui colpisci il bersaglio con un attacco con l'arma, infliggi 1d4 danni extra dello stesso tipo dell'arma. Il danno extra diventa 1d6 al 6° livello e 1d8 al 14° livello.
 - Il marchio dura 1 minuto. Termina anticipatamente se designi una creatura diversa, se vieni accecato o se scendi a 0 Punti Ferita.
-- Puoi usare questo privilegio un numero di volte pari al tuo Bonus di Competenza. Recuperi tutti gli usi spesi quando completi un Riposo Lungo.
+- Puoi usare questo privilegio un numero di volte pari al tuo BC. Recuperi tutti gli usi spesi quando completi un Riposo Lungo.
 
 ## Stile di Combattimento (2°)
 **Passiva**
 >L'addestramento militare ti ha specializzato in un particolare stile di combattimento.
-- Scegli un'opzione tra: **Difesa** (+1 alla CA se indossi armature), **Duellante** (+2 ai danni con una singola arma a una mano), o **Combattere con Due Armi** (aggiungi il modificatore di caratteristica ai danni del secondo attacco).
+- Scegli un'opzione tra: **Difesa** (+1 alla CA se indossi armature), **Duellante** (+2 ai danni con una singola arma a una mano), o **Combattere con Due Armi** (aggiungi il Mod di caratteristica ai danni del secondo attacco).
 
 ## Gambit (2°)
 **Costo Variabile**
 >L'addestramento d'élite ti fornisce opzioni tattiche superiori in combattimento.
-- Hai un pool di Dadi Gambit, che sono dei d6. Hai un numero di dadi pari al tuo Bonus di Competenza + il tuo Modificatore di Saggezza (minimo 2).
+- Hai un pool di Dadi Gambit, che sono dei d6. Hai un numero di dadi pari al tuo BC + il tuo Mod SAG (minimo 2).
 - Recuperi tutti i dadi spesi al termine di un Riposo Breve o Lungo.
 - Il tuo Dado Gambit cambia a un d8 al 9° livello, a un d10 al 13° livello e a un d12 al 17° livello.
 - Conosci i seguenti Gambit di base: **Primo Soccorso**, **Tiro Preciso**, **Movimento in Copertura**
@@ -74,7 +74,7 @@ d10
 
 ## Attacco Extra (5°)
 **Passiva**
->Puoi attaccare due volte, anziché una, ogniqualvolta intraprendi l'azione di Attacco nel tuo turno.
+>Il Ranger può attaccare due volte, anziché una, ogniqualvolta utilizza l'Azione di Attacco nel suo turno.
 
 ## Passo dell'Ardito (6°)
 **Passiva**
@@ -86,7 +86,7 @@ d10
 **Azione Bonus • Costo Variabile**
 >Sfrutti coperture ambientali, teli mimetici o fumogeni tattici per sparire dalla vista.
 - Come Azione Bonus, diventi Invisibile fino all'inizio del tuo prossimo turno (o finché non effettui un attacco o costringi qualcuno a fare un TS).
-- Puoi usare questo privilegio un numero di volte pari al tuo Bonus di Competenza, dopodiché devi completare un Riposo Lungo. In alternativa, puoi spendere un Dado Gambit per usarlo nuovamente senza consumare l'Azione Bonus.
+- Puoi usare questo privilegio un numero di volte pari al tuo BC, dopodiché devi completare un Riposo Lungo. In alternativa, puoi spendere un Dado Gambit per usarlo nuovamente senza consumare l'Azione Bonus.
 
 ## Svanire (14°)
 **Azione Bonus**
@@ -101,7 +101,7 @@ d10
 ## Predatore Implacabile (20°)
 **Passiva**
 >Sei la letale perfezione della tua unità.
-- Una volta per ciascuno dei tuoi turni, puoi sommare il tuo modificatore di Saggezza al tiro per colpire o al tiro per i danni di un attacco che effettui contro il tuo *Bersaglio Tattico*. Puoi compiere questa scelta prima o dopo aver effettuato il tiro.
+- Una volta per ciascuno dei tuoi turni, puoi sommare il tuo Mod SAG al tiro per colpire o al tiro per i danni di un attacco che effettui contro il tuo *Bersaglio Tattico*. Puoi compiere questa scelta prima o dopo aver effettuato il tiro.
 
 ---
 # Gambit
@@ -118,7 +118,7 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 ### Medico di Plotone (3°)
 **Passiva**
 >La tua squadra affida la propria vita alle tue mani.
-- Ottiene competenza nell'abilità Medicina. Se è già competente, raddoppia il suo Bonus di Competenza per qualsiasi prova che usi questa abilità. 
+- Ottiene competenza nell'abilità Medicina. Se è già competente, raddoppia il suo BC per qualsiasi prova che usi questa abilità. 
 - Ottiene competenza nella Borsa da Erborista e non ha bisogno di avere il Kit da Guaritore in mano per usarlo, gli basta averlo equipaggiato.
 
 ### Gambit Medici (3°)
@@ -136,7 +136,7 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 **Passiva**
 >Sai come coprire l'estrazione di un ferito quando il cielo piomba sulla terra.
 - Quando usa la manovra *Primo Soccorso Rapido* o *Siringa di Adrenalina* su un alleato, può lanciare un piccolo fumogeno tattico ai suoi piedi come parte della stessa Azione Bonus.
-- Lo spazio occupato dall'alleato e tutte le caselle adiacenti si riempiono di fumo spesso per 1 minuto (o finché un forte vento non lo disperde). L'area è considerata di Oscurità Leggera, e qualsiasi creatura al suo interno beneficia di Mezza Copertura (+2 alla CA e ai TS Destrezza) contro gli attacchi a distanza provenienti dall'esterno.
+- Lo spazio occupato dall'alleato e tutte le caselle adiacenti si riempiono di fumo spesso per 1 minuto (o finché un forte vento non lo disperde). L'area è considerata di Oscurità Leggera, e qualsiasi creatura al suo interno beneficia di Mezza Copertura (+2 alla CA e ai TS DES) contro gli attacchi a distanza provenienti dall'esterno.
 
 ### Defibrillazione d'Emergenza (15°)
 **Azione • 2 Dadi Gambit**
@@ -153,7 +153,7 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 ### Ingegnere di Trincea (3°)
 **Passiva**
 >Conosci a menadito gli inneschi, le micce e l'arte di far esplodere le cose.
-- Ottiene competenza negli Strumenti da Scasso e negli Strumenti da Inventore. Se è già competente, raddoppia il suo Bonus di Competenza per qualsiasi prova che usi questi strumenti.
+- Ottiene competenza negli Strumenti da Scasso e negli Strumenti da Inventore. Se è già competente, raddoppia il suo BC per qualsiasi prova che usi questi strumenti.
 
 ### Gambit Esplosivi (3°)
 **Costo Variabile**
@@ -175,8 +175,8 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 ### Detonazione Controllata (15°)
 **Passiva**
 >Sei saltato in aria così tante volte che sai perfettamente come evitare il peggio.
-- Ottiene Vantaggio a tutti i Tiri Salvezza per resistere agli effetti ad area (esplosioni, soffi di drago, granate).
-- Quando è soggetto a un effetto ad area che permette un TS su Destrezza per dimezzare i danni, non subisce alcun danno se supera il TS, e subisce solo la metà dei danni se lo fallisce.
+- Ottiene Vantaggio a tutti i TS per resistere agli effetti ad area (esplosioni, soffi di drago, granate).
+- Quando è soggetto a un effetto ad area che permette un TS su DES per dimezzare i danni, non subisce alcun danno se supera il TS, e subisce solo la metà dei danni se lo fallisce.
 
 ---
 ## <u>Unità K-9</u>
@@ -186,7 +186,7 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 ### Compagno d'Armi (3°)
 **Passiva**
 >Al tuo fianco combatte un formidabile mastino da trincea, legato a te in modo indissolubile.
-- Ottiene un compagno animale (usa le statistiche del Lupo o del Mastino del Manuale dei Mostri). Aggiunge il suo Bonus di Competenza alla CA, ai Tiri per Colpire e ai danni della bestia, nonché a tutti i TS e abilità in cui è competente. 
+- Ottiene un compagno animale (usa le statistiche del Lupo o del Mastino del Manuale dei Mostri). Aggiunge il suo BC alla CA, ai Tiri per Colpire e ai danni della bestia, nonché a tutti i TS e abilità in cui è competente. 
 - I Punti Ferita massimi della bestia sono pari al suo massimale base o a quattro volte il livello da Ranger (quale dei due sia più alto). 
 - In combattimento, la bestia agisce nel suo stesso turno. Può muoversi e usare la sua reazione autonomamente, ma se il Ranger non usa l'Azione Bonus per impartirle un comando (Attaccare, Scattare, Disimpegnarsi o Aiutare), la bestia prenderà l'Azione Schivata.
 
@@ -250,7 +250,7 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 ### Avanguardia (3°)
 **Passiva**
 >Nulla sfugge al tuo occhio esperto.
-- Ottiene competenza nell'abilità Percezione o Indagare e raddoppia il suo Bonus di Competenza per l'abilità scelta. 
+- Ottiene competenza nell'abilità Percezione o Indagare e raddoppia il suo BC per l'abilità scelta. 
 - Ottiene Scurovisione fino a 18 metri (o aumenta la sua Scurovisione di 18 metri se la possiede già).
 
 ### Gambit Vedetta (3°)

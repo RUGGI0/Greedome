@@ -10,7 +10,7 @@ d8
 **Armature:** leggere, medie
 **Armi:** armi semplici, armi da fuoco
 **Strumenti:** strumenti da armaiolo, strumenti da artigiano
-**Tiri Salvezza:** DES, STR
+**Tiri Salvezza:** DES, FOR
 **Abilità:** 2 a scelta tra Acrobazia, Atletica, Intimidire, Percezione, Furtività, Sopravvivenza
 
 ---
@@ -45,7 +45,7 @@ d8
 >Il Pistolero ha una conoscenza enciclopedica delle armi da fuoco.
 - Ottiene competenza nelle armi da fuoco.
 - Può usare la sua competenza negli strumenti da armaiolo per creare munizioni (costo dimezzato) o riparare armi danneggiate durante un riposo breve.
-- **Munizioni Sperimentali:** Durante un Riposo Lungo, usando gli Strumenti da Artigiano, può creare un numero di proiettili speciali pari al suo Modificatore di Saggezza (minimo 1). Può scegliere tra *Traccianti* (il bersaglio colpito non può nascondersi o diventare invisibile per 1 minuto) o *Perforanti* (l'attacco ignora la copertura parziale e tre quarti).
+- **Munizioni Sperimentali:** Durante un Riposo Lungo, usando gli Strumenti da Artigiano, può creare un numero di proiettili speciali pari al suo Mod SAG (minimo 1). Può scegliere tra *Traccianti* (il bersaglio colpito non può nascondersi o diventare invisibile per 1 minuto) o *Perforanti* (l'attacco ignora la copertura parziale e tre quarti).
 
 ## Manutenzione Armi (1°)
 **Meccanica: Inceppamento**
@@ -57,17 +57,16 @@ d8
 ## Adrenalina (2°)
 **Passiva • Recupero Variabile**
 >Il Pistolero combatte al meglio quando è sotto pressione estrema.
->Ottiene un numero di Punti Adrenalina pari al suo Modificatore di Saggezza (minimo 1).
+>Recupera tutti i punti con un Riposo Breve o Lungo.
 >Recupera 1 Punto Adrenalina quando:
 - Ottiene un Colpo Critico (20 naturale) con un'arma da fuoco.
 - Uccide un obiettivo significativo (a discrezione del DM, min GS 1/4) con un'arma da fuoco.
->Recupera tutti i punti con un Riposo Breve o Lungo.
 
 ## Trick Shot (2°)
-**Speciale**
->Il Pistolero impara manovre speciali chiamate Trick Shot.
->Per usare un Trick Shot, deve spendere 1 Punto Adrenalina prima di effettuare il tiro per colpire.
->Impara 2 Trick Shot al livello 2, e ne apprende altri ai livelli 7, 10, 15 e 18.
+**Speciale • 1 Punto Adrenalina**
+>Il Pistolero impara colpi speciali chiamati Trick Shot.
+>Quando effettui un Tiro per Colpire con un'arma da fuoco, puoi spendere 1 Punto Adrenalina per applicare un Trick Shot che conosci. 
+>Salvo diversa indicazione, devi dichiarare il Trick Shot prima di sapere se l'attacco colpisce o manca.
 
 ## Specializzazione (3°)
 **Passiva**
@@ -75,12 +74,12 @@ d8
 
 ## Attacco Extra (5°)
 **Passiva**
->Il Pistolero può usare fino a 2 azioni per turno.
+>Il Pistolero può attaccare due volte, anziché una, ogniqualvolta utilizza l'Azione di Attacco nel suo turno.
 
 ## Tattiche di Fuoco (5°)
 **Passiva**
 >Il Pistolero adotta una specializzazione nel tiro. Sceglie una delle seguenti opzioni:
-- **Akimbo:** Quando impugni due armi da fuoco *leggere*, puoi aggiungere il tuo modificatore di caratteristica ai danni del secondo attacco. Puoi ricaricare entrambe le armi da fuoco leggere contemporaneamente usando un'Azione Bonus.
+- **Akimbo:** Quando impugni due armi da fuoco *leggere*, puoi aggiungere il tuo Mod di caratteristica ai danni del secondo attacco. Puoi ricaricare entrambe le armi da fuoco leggere contemporaneamente usando un'Azione Bonus.
 - **Incursore:** Quando effettui un attacco con un'arma da fuoco contro una creatura entro 4,5 metri (15 ft) e tiri un 1 o un 2 sul dado di danno, puoi ritirare il dado e devi usare il nuovo risultato, anche se è un 1 o un 2. L'arma da fuoco deve avere la proprietà *Scatter* (Dispersione) per ottenere questo beneficio.
 - **Duellante:** Quando impugni un'arma da fianco (*sidearm*) in una mano e nessun'altra arma, ottieni un bonus di +2 ai tiri per i danni con queste armi.
 - **Fucileria:** Quando impugni un'arma da fuoco a due mani che non ha la proprietà *Bulky* (Ingombrante) o *Scatter*, ottieni un bonus di +2 ai tiri per colpire con quell'arma.
@@ -90,7 +89,7 @@ d8
 ## Sangue Freddo (7°)
 **Passiva**
 >Anche nel caos, la mano del Pistolero non trema.
->Il Pistolero aggiunge il proprio bonus di competenza ai tiri di Iniziativa. Inoltre, può rinfoderare un'arma ed estrarne un'altra come singola interazione gratuita.
+>Il Pistolero aggiunge il proprio BC ai tiri di Iniziativa. Inoltre, può rinfoderare un'arma ed estrarne un'altra come singola interazione gratuita.
 
 ## Ricarica Rapida (10°)
 **Azione Bonus**
@@ -98,14 +97,15 @@ d8
 >Il Pistolero può ricaricare un'arma da fuoco con la proprietà *Ricarica* come Azione Bonus.
 
 ## Violenza Controllata (11°)
-**Passiva • 1 (o 2) / Turno**
->I colpi del Pistolero sono progettati per mutilare o distruggere.
->Quando il Pistolero ottiene un colpo critico o uccide un nemico, può effettuare un attacco aggiuntivo con un'arma da fuoco come parte della stessa azione. Può usare questa abilità max 1 volta per turno, 2 dal liv. 17.
+**Passiva • 1/Turno**
+>I colpi del Pistolero sono progettati per mutilare, spezzare o concludere lo scontro.
+>Una volta per turno, quando ottieni un Colpo Critico con un'arma da fuoco o riduci una creatura a 0 Punti Ferita con un'arma da fuoco, puoi effettuare un attacco aggiuntivo con un'arma da fuoco come parte della stessa Azione.
+>Dal 17° livello, puoi usare questo privilegio fino a due volte per turno.
 
 ## Ricarica Lampo (15°)
 **Reazione**
 >Se un'arma si inceppa, il Pistolero reagisce istantaneamente.
->Quando un'arma si inceppa, il Pistolero può usare la sua reazione per ripararla istantaneamente e ripetere il tiro per colpire.
+>Quando un'arma da fuoco che impugni si inceppa durante un Tiro per Colpire, puoi usare la tua Reazione per sbloccarla immediatamente. L'arma non diventa inceppata e puoi ripetere lo stesso Tiro per Colpire.
 
 ## Leggenda del West (20°)
 **Passiva**
@@ -157,7 +157,7 @@ Il Sicario è velocità pura. Combatte a distanza ravvicinata, spesso con due pi
 **Passiva**
 >Il Sicario non teme la mischia, anzi, la cerca.
 - Non ha svantaggio quando attacca con armi da fuoco se un nemico è entro 1,5 metri.
-- Quando combatte con due armi leggere (pistole), può aggiungere il modificatore di caratteristica ai danni dell'attacco bonus.
+- Quando combatte con due armi leggere (pistole), può aggiungere il Mod di caratteristica ai danni dell'attacco bonus.
 
 ### Fuoco di Copertura (6°)
 **Azione • 1 Adrenalina**
@@ -167,8 +167,8 @@ Il Sicario è velocità pura. Combatte a distanza ravvicinata, spesso con due pi
 ### Riflessi Fulminei (13°)
 **Passiva**
 >Il sistema nervoso del Sicario reagisce prima del pensiero cosciente.
->Aggiunge il Modificatore di Saggezza alla CA (Classe Armatura) finché indossa armatura leggera e non impugna scudi.
->Inoltre, ottiene vantaggio ai TS su Destrezza contro effetti che può vedere.
+>Aggiunge il Mod SAG alla CA (Classe Armatura) finché indossa armatura leggera e non impugna scudi.
+>Inoltre, ottiene vantaggio ai TS su DES contro effetti che può vedere.
 
 ### Tempesta di Piombo (18°)
 **Azione • Costo Variabile**
@@ -190,7 +190,7 @@ Il Fuciliere Arcano combina la tecnologia delle armi con la magia elementale, in
 **Azione Bonus • 1 Adrenalina**
 >Il Fuciliere sovraccarica l'incantesimo nel prossimo proiettile.
 >Il prossimo attacco infligge 2d6 danni extra del tipo scelto.
->Il bersaglio deve superare un TS (CD basata su Saggezza) o subire un effetto:
+>Il bersaglio deve superare un TS (CD basata su SAG) o subire un effetto:
 - **Fuoco:** Brucia (1d6 danni a inizio turno).
 - **Freddo:** Velocità dimezzata.
 - **Fulmine:** Non può usare reazioni.

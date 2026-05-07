@@ -10,7 +10,7 @@ d8
 **Armature:** leggere, medie, scudi
 **Armi:** armi semplici, armi da fuoco
 **Strumenti:** strumenti da artigiano, arnesi da scasso
-**Tiri Salvezza:** CON, INT
+**Tiri Salvezza:** COS, INT
 **Abilità:** 2 a scelta tra Arcana, Indagare, Percezione, Medicina, Storia, Rapidità di Mano
 
 ---
@@ -69,7 +69,7 @@ d8
 
 ## Tech Savvy (6°)
 **Passiva**
->Il bonus di competenza dell'Inventore è raddoppiato per qualsiasi prova di abilità effettuata usando strumenti in cui possiede competenza.
+>Il BC dell'Inventore è raddoppiato per qualsiasi prova di abilità effettuata usando strumenti in cui possiede competenza.
 
 ## Elaborazione Tattica Rapida (7°)
 **Reazione • 9 m • Mod INT/Riposo Lungo**
@@ -124,7 +124,7 @@ Il Meccatronomo scende in campo accompagnato da un costrutto d'acciaio, combinan
 **Passiva**
 >Il Meccatronomo ottiene:
 - Competenza in armi da guerra.
-- Quando l'Inventore attacca con un'arma magica (o con Patch): usa il Mod INT invece di STR/DEX, sia per il Tiro per colpire, sia per i danni.
+- Quando l'Inventore attacca con un'arma magica (o con Patch): usa il Mod INT invece di FOR/DES, sia per il Tiro per colpire, sia per i danni.
 
 ### Drone d'Assalto (3°)
 **Azione Bonus (Comando)**
@@ -132,12 +132,12 @@ Il Meccatronomo scende in campo accompagnato da un costrutto d'acciaio, combinan
 
 | Caratteristica | Valore                                             |
 | :------------- | :------------------------------------------------- |
-| **CA**         | 15 (o 10 + PB + DEX)                               |
+| **CA**         | 15 (o 10 + PB + DES)                               |
 | **PF**         | 2 + Mod INT + (5 × Liv Inventore)                  |
 | **Movimento**  | 12 m                                               |
 | **Reazione**   | Svantaggio ad un attacco contro un alleato (1,5 m) |
 | **Azione**     | Schivata (se non comandato)                        |
-| **Comando**    | **Render:** 1d8 + PB Forza.                        |
+| **Comando**    | **Render:** 1d8 + PB FOR.                        |
 
 >Se il Drone muore, l'Inventore può rianimarlo con uno Slot di 1° livello o riposo lungo.
 
@@ -149,7 +149,7 @@ Il Meccatronomo scende in campo accompagnato da un costrutto d'acciaio, combinan
 **Colpo/Drone • Mod INT/Riposo Lungo**
 >Quando il Meccatronomo o il drone colpiscono un bersaglio, incanala energia extra.
 >Sceglie un effetto:
-- **Danno:** 2d6 danni da forza extra al bersaglio.
+- **Danno:** 2d6 danni extra al bersaglio.
 - **Cura:** 2d6 PF rigenerati a un alleato entro 9 m.
 
 ### Difensore Ottimizzato (15°)
@@ -157,7 +157,7 @@ Il Meccatronomo scende in campo accompagnato da un costrutto d'acciaio, combinan
 >Il Meccatronomo ottimizza la sua integrazione con i suoi giocattoli: 
 - Scarica Cinetica sale a **4d6**.
 - Il Drone ottiene +2 CA.
-- Quando il Drone usa la sua reazione, infligge 1d4 + Mod INT danni da forza all'attaccante.
+- Quando il Drone usa la sua reazione, infligge 1d4 + Mod INT danni all'attaccante.
 
 ### Protocollo Titano (18°)
 **Passiva • Sincronizzazione Totale**
@@ -178,7 +178,7 @@ Specialista dell'artiglieria, il Geniere Balistico domina il campo di battaglia 
 
 | Modulo           | Effetto                                              |
 | :--------------- | :--------------------------------------------------- |
-| **Lanciafiamme** | Cono 4,5 m • TS DEX • 2d8 Fuoco (dimezza se salvo)   |
+| **Lanciafiamme** | Cono 4,5 m • TS DES • 2d8 Fuoco (dimezza se salvo)   |
 | **Balista**      | Raggio 36 m • TxC Magico • 2d8 Forza + spinta 1,5 m  |
 | **Protettore**   | Raggio 3 m • Alleati ottengono 1d8 + Mod INT PF Temp |
 
@@ -191,18 +191,18 @@ Specialista dell'artiglieria, il Geniere Balistico domina il campo di battaglia 
 **Azione • Distanza 18 m**
 >Il Geniere fa un upgrade alle proprie torrette:
 - Danni delle torrette aumentano a **3d8**.
-- L'Inventore può far esplodere la torretta: Raggio 6 m, TS DEX, **3d8 forza**.
+- L'Inventore può far esplodere la torretta: Raggio 6 m, TS DES, **3d8 forza**.
 
 ### Posizione Fortificata (15°)
 **Passiva**
 >Il Geniere si costruisce il proprio "Iron Nest":
 - Il Geniere può avere **due torrette** attive.
-- Il Geniere e i suoi alleati hanno **Mezza Copertura** (+2 CA/TS DEX) se entro 3 m da una torretta.
+- Il Geniere e i suoi alleati hanno **Mezza Copertura** (+2 CA/TS DES) se entro 3 m da una torretta.
 
 ### Bombardamento a Tappeto (18°)
 **Azione • 1/Riposo Lungo**
 >Ordina alle sue torrette di rilasciare tutta la loro energia in un singolo istante devastante.
->Tutte le torrette attive emettono un impulso. Ogni creatura entro 9 m da una torretta deve fare un TS DEX.
+>Tutte le torrette attive emettono un impulso. Ogni creatura entro 9 m da una torretta deve fare un TS DES.
 - **Danni:** 10d8 danni da forza (o fuoco, in base alla torretta).
 - Dimezza se supera il TS.
 
@@ -213,7 +213,7 @@ Il Juggernaut trasforma il proprio corpo in una macchina da guerra, fondendosi c
 ### Esoscheletro Arcano-Tecnico (3°)
 **Azione • Personale**
 >Il Juggernaut trasforma l'armatura che indossa.
-- Nessun requisito di Forza.
+- Nessun requisito di FOR.
 - Diventa Focus Arcano.
 - Sostituisce arti mancanti.
 
