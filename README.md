@@ -188,9 +188,3 @@ Prima di considerare una sezione come definitiva, controllare:
 5. eventuali rimandi Obsidian rotti o duplicati.
 
 ---
-
-## Proprietà intellettuale
-
-Greedome è un progetto homebrew privato. Tutti i contenuti originali dell'ambientazione, salvo materiale espressamente derivato da D&D o da fonti di riferimento, appartengono all'autore del progetto.
-
-Dungeons & Dragons è proprietà dei rispettivi titolari. Questo progetto è materiale fan-made/homebrew e non è un prodotto ufficiale.
