@@ -20,7 +20,7 @@ d8
 | --- | ----- | -------------------------------------------- | ---------- | ----------- | ------------- |
 | 1   | +2    | Magia delle Carte, Full House                | 3          | 4           | 1°            |
 | 2   | +2    | Specializzazione                             | 3          | 6           | 1°            |
-| 3   | +2    | Cycling (Riciclo)                            | 3          | 14          | 2°            |
+| 3   | +2    | Riciclo                                      | 3          | 14          | 2°            |
 | 4   | +2    | Aumento di Caratteristica                    | 4          | 17          | 2°            |
 | 5   | +3    | —                                            | 4          | 27          | 3°            |
 | 6   | +3    | Privilegio Specializzazione, Mazzo Fortunato | 4          | 32          | 3°            |
