@@ -1,4 +1,4 @@
-*Il Croupier è un praticante di un'arte mistica che si affida alle carte come focus arcano. Invece di bacchette fragili o componenti disordinati, il Croupier incanala il potere nella sua collezione, rilasciando energia sotto forma di esplosionCARcate, illusioni e fulmini.
+*Il Croupier è un praticante di un'arte mistica che si affida alle carte come focus arcano. Invece di bacchette fragili o componenti disordinati, il Croupier incanala il potere nella sua collezione, rilasciando energia sotto forma di esplosioni infuocate, illusioni e fulmini.
 Per i suoi pari, questa magia è poco ortodossa, quasi infantile. Ma il Croupier sa che la vita è una partita a poker, e lui ha sempre un asso nella manica.*
 
 ---
@@ -56,27 +56,44 @@ d8
 ## Magia delle Carte (1°)
 **Passiva**
 >Il Croupier usa un mazzo di carte incantate o tecnologiche per lanciare incantesimi.
-- **Caratteristica da Incantatore:** CAR.
+- **Caratteristica da Incantatore:** Carisma.
 - **Focus:** Il mazzo di carte funge da focus arcano.
-- **Il Mazzo:** Il Croupier costruisce un mazzo di 20 carte ogni giorno. Ogni carta rappresenta un incantesimo.
-- **Punti Mazzo:** Inserire carte nel mazzo costa punti in base al livello dell'incantesimo (es. Liv 1 = 2 punti). Il totale non può superare i *Punti Mazzo* della tabella.
-- **La Mano:** Come azione (o gratuitamente non appena tira l'Iniziativa), il Croupier pesca una "Mano" di 5 carte che fluttuano magicamente attorno a lui.
-- **Consumo:** Lanciare un incantesimo di 1° livello o superiore consuma la carta. I Trucchetti non consumano la carta, che torna nel mazzo dopo l'uso.
-- **Mulligan:** Se la mano non è soddisfacente, il Croupier può usare un'azione per rimescolarla nel mazzo e pescarne una nuova (con una carta in meno).
+- **Il Mazzo:** Dopo ogni Riposo Lungo, il Croupier costruisce un mazzo composto da almeno 15 carte e da un massimo di 20 carte. Ogni carta può rappresentare un Trucchetto, un incantesimo dal 1° al 5° livello, una Carta Utility o una Carta Leggendaria. Se il Croupier non raggiunge la dimensione minima del mazzo con Trucchetti, incantesimi e Carte Leggendarie, riempie gli spazi rimanenti con Carte Utility.
+- **Punti Mazzo:** Inserire carte nel mazzo costa punti in base al livello dell’incantesimo, come indicato nella Tabella Punti Mazzo. Il totale non può superare i Punti Mazzo indicati nella tabella di classe. I Trucchetti e le Carte Utility non costano Punti Mazzo, ma occupano comunque uno spazio nel mazzo.
+- **Duplicati:** Il Croupier può inserire più copie dello stesso incantesimo nel mazzo, pagando separatamente il costo di ciascuna copia. I Trucchetti non possono essere duplicati. Le Carte Utility possono essere ripetute per completare la dimensione minima del mazzo, ma il Croupier non può inserire più di 3 copie della stessa Carta Utility.
+- **La Mano:** Il Croupier può avere massimo 5 carte in mano. Quando tira l’Iniziativa, pesca gratuitamente fino a 5 carte dal mazzo. Fuori dal combattimento può pescare fino a 5 carte usando un’Azione.
+- **Lanciare Carte:** Il Croupier può lanciare solo incantesimi rappresentati da carte nella sua mano. Lanciare un incantesimo di 1° livello o superiore consuma la carta: dopo la risoluzione dell’incantesimo, la carta viene posta nella pila degli scarti. Lanciare un Trucchetto non consuma la carta: dopo la risoluzione dell’incantesimo, la carta resta nella mano del Croupier.
+- **Pescare:** Alla fine del proprio turno, se il Croupier ha meno di 5 carte in mano, pesca carte dal mazzo fino ad avere 5 carte in mano o finché il mazzo non è vuoto.
+- **Mazzo Esaurito:** Se il mazzo è vuoto, il Croupier non può pescare nuove carte. Può comunque lanciare le carte ancora presenti nella propria mano. Non può usare Riciclo se non ci sono carte nel mazzo da pescare.
+- **Mulligan:** Una volta per combattimento, il Croupier può usare un’Azione Bonus per rimescolare tutta la propria mano nel mazzo e pescare una nuova mano di 4 carte.
+
+## Carte Utility
+**Speciale**
+>Le Carte Utility sono Arcani Minori del mazzo: piccoli trucchi, strumenti e manipolazioni pratiche che permettono al Croupier di dare corpo alla propria collezione senza consumare Punti Mazzo.
+>Non sono incantesimi, non contano come Trucchetti e non beneficiano di effetti che potenziano Trucchetti o incantesimi. Quando una Carta Utility viene usata, viene posta nella pila degli scarti, salvo diversa indicazione.
+
+| Carta Utility    | Uso          | Effetto                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **L’Eremita**    | Azione Bonus | Guarda le prime 2 carte del mazzo. Puoi rimetterle in cima al mazzo nello stesso ordine, oppure rimescolarle nel mazzo. Poi scarta questa carta.                                                                                                                                                                                                                             |
+| **Il Diavolo**   | Azione Bonus | Scarta questa carta. La prossima prova di Rapidità di Mano, Inganno o Intrattenere che effettui entro 1 minuto ottiene +1d4.                                                                                                                                                                                                                                                 |
+| **Il Matto**     | Reazione     | Quando una creatura che puoi vedere ti bersaglia con un attacco, puoi scartare questa carta per ottenere +2 alla CA contro quell’attacco.                                                                                                                                                                                                                                    |
+| **La Spada**     | Azione       | Scarta questa carta ed effettua un attacco a distanza con incantesimo contro una creatura o un oggetto entro 9 metri. Se colpisce, infligge 1d4 danni taglienti. In alternativa, può tagliare automaticamente corde, lacci, tessuti, carta, sigilli o materiali non metallici entro portata.                                                                                 |
+| **La Giustizia** | Azione Bonus | Scarta questa carta per creare una nube di fumo in uno spazio entro 9 metri. La nube occupa un cubo di 1,5 metri, fornisce Oscurità Leggera e dura fino all’inizio del tuo prossimo turno. Un vento forte disperde immediatamente la nube.                                                                                                                                   |
+| **Il Mondo**     | Azione       | Metti questa carta da parte, fuori dalla mano, dal mazzo e dalla pila degli scarti, e sigilla al suo interno un oggetto Minuscolo non magico che stai impugnando o toccando e che pesa massimo 0,5 kg. L’oggetto resta conservato nella carta fino al prossimo Riposo Lungo. Puoi recuperarlo usando un’Azione; quando lo fai, Il Mondo viene posto nella pila degli scarti. |
 
 ## Full House (1°)
-**1/Riposo Lungo**
->Il Croupier è esperto nel recuperare risorse.
->Una volta al giorno, dopo aver completato un riposo lungo, può scegliere 5 carte dalla sua pila degli scarti e rimescolarle nel mazzo.
+**Azione • 1/Riposo Lungo**
+>Il Croupier recupera parte della propria collezione consumata.
+>Sceglie fino a 5 carte dalla propria pila degli scarti e le rimescola nel mazzo. Poi pesca 1 carta.
 
 ## Specializzazione (2°)
 **Passiva**
 >Il Croupier sceglie una specializzazione: **Duellante**, **Cartomante**, **Scommettitore** o **Prestigiatore**.
 
 ## Riciclo (3°)
-**Azione Bonus**
->Il Croupier manipola il mazzo per trovare ciò che gli serve.
->Può scartare una "carta bianca" (una carta vuota usata per riempire il mazzo se mancano punti) dalla sua mano e pescarne immediatamente una nuova per sostituirla.
+**Azione Bonus • 1/Turno**
+>Il Croupier manipola il flusso del mazzo per cercare una giocata migliore.
+>Una volta per turno, può scartare 1 carta dalla propria mano e pescare 1 carta dal mazzo. Se scarta un Trucchetto, la carta viene rimescolata nel mazzo invece di andare nella pila degli scarti.
 
 ## Mazzo Fortunato (6°)
 **Passiva**
@@ -91,14 +108,11 @@ d8
 
 ## Carta Leggendaria (11°)
 **Passiva**
->La magia del Croupier manifesta una carta unica e potente, separata dalla collezione normale.
-- **Costo:** Aggiungerla al mazzo costa 25 Punti.
-- **Effetto:** Quando è nella mano, il Croupier ottiene +1 al Tiro per Colpire degli incantesimi e alla CD. Se scartata, torna nel mazzo invece che negli scarti.
-- **Incantesimi:** Contiene un incantesimo di 6° livello. Ai livelli successivi ne guadagna di 7°, 8° e 9° (vedi tabella). Ogni incantesimo leggendario può essere lanciato una volta per riposo lungo.
+La Carta Leggendaria occupa uno spazio nel mazzo e costa 25 Punti Mazzo. Finché è nella mano del Croupier, conferisce +1 alla CD degli incantesimi e ai tiri per colpire degli incantesimi. L’incantesimo contenuto nella Carta Leggendaria può essere lanciato una sola volta per Riposo Lungo. Dopo essere stata lanciata o scartata, la Carta Leggendaria viene rimescolata nel mazzo (se il suo incantesimo è già stato lanciato, conserva solo il bonus passivo).
 
 ## Mazzo delle Leggende (20°)
 **Passiva**
->Il Croupier può inserire due copie della sua Carta Leggendaria nel mazzo (costo extra: 25 punti), permettendogli di lanciare i suoi incantesimi più potenti due volte al giorno.
+>Il Croupier può inserire una seconda copia della propria Carta Leggendaria nel mazzo, pagando altri 25 Punti Mazzo. Finché entrambe le copie sono nel mazzo, può lanciare due volte per Riposo Lungo l’incantesimo contenuto nella Carta Leggendaria.
 
 ---
 # SPECIALIZZAZIONI
@@ -124,7 +138,7 @@ d8
 
 ### Cuore del Duellante (14°)
 **Azione Bonus • 1/Riposo Breve o Lungo**
->Se la mano è vuota, invece di pescare 5 carte a caso, il Croupier può cercare nel mazzo una carta specifica a sua scelta e metterla in mano.
+>Se il Croupier dovrebbe pescare una o più carte dal mazzo e la sua mano è vuota, può invece cercare nel mazzo una carta specifica e aggiungerla alla propria mano. Poi rimescola il mazzo.
 
 ---
 
@@ -134,7 +148,7 @@ d8
 
 ### Senso della Scrutazione (2°)
 **Passiva**
->Quando il Cartomante pesca la sua mano, può pescare 6 carte invece di 5, e poi rimetterne una a scelta nel mazzo.
+>Quando il Cartomante pesca la propria mano, può pescare fino a 6 carte invece di 5, poi rimettere una carta dalla propria mano nel mazzo.
 
 ### Lettura del Presagio (6°)
 **Rituale (10 min) • 1/Riposo Lungo**
@@ -161,8 +175,7 @@ d8
 
 ### Asso nella Manica (2°)
 **Azione Bonus • 1/Riposo Breve o Lungo**
->Dopo aver pescato, lo Scommettitore può tentare una prova di Rapidità di Mano (CD 12 + costo carta) per scambiare una carta della mano con una nuova dal mazzo.
->Se riesce, può lanciare quella carta ignorando le componenti verbali e somatiche.
+>Dopo aver pescato una o più carte, lo Scommettitore può tentare una prova di Rapidità di Mano (CD 12 + costo della carta scelta). Se riesce, rimette una carta dalla propria mano nel mazzo, rimescola, poi pesca 1 carta.
 
 ### Sapere Quando Lasciare (6°)
 **Reazione**
