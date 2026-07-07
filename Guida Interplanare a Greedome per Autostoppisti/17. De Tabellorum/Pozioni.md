@@ -15,10 +15,10 @@ A Greedome, l'Arte della Pozione non si limita ai vecchi calderoni ribollenti. L
 ### Infondere Pozione
 **Riposo Breve o Lungo • Personale**
 > Quando le Streghe non possono dedicare molto tempo all'alchimia tradizionale, infondono direttamente un contenitore con il loro potere arcano, creando un preparato rapido e potente.
-- Avendo un contenitore vuoto, puoi infondere un incantesimo scelto dall'apposita lista durante un riposo, a patto di conoscerlo e avere lo slot disponibile.
+- Avendo un contenitore vuoto, puoi infondere un incantesimo scelto dall'apposita lista durante un Riposo, a patto di conoscerlo e avere lo slot disponibile.
 - **Costo:** Spendi le componenti materiali e 1 Slot Incantesimo del livello adeguato. Lo slot speso **non si ricarica** finché la pozione non viene consumata o distrutta.
 - **Utilizzo:** Qualsiasi creatura può usare un'Azione per consumare la pozione (berla, iniettarla o inalarla) o somministrarla. Diventa automaticamente il bersaglio dell'incantesimo infuso.
-- **Concentrazione e TS:** Se l'incantesimo richiede Concentrazione, la mantiene la creatura che ha consumato la pozione. Eventuali Tiri Salvezza utilizzano la tua CD degli incantesimi.
+- **Concentrazione e TS:** Se l'incantesimo richiede Concentrazione, la mantiene la creatura che ha consumato la pozione. Eventuali TS utilizzano la tua CD degli incantesimi.
 - **Limite:** Puoi mantenere attive un numero massimo di pozioni pari al tuo livello da Strega diviso 3 (arrotondato per difetto). Puoi far svanire la magia da una qualsiasi tua pozione usando un'Azione Bonus, a prescindere dalla distanza.
 
 ### Lista degli Incantesimi Infondibili
@@ -48,10 +48,10 @@ Le sorellanze di Greedome custodiscono gelosamente antiche formule magiche, talv
 ### Maledizione della Bramosia
 **Ammaliamento di 6° livello • 1 Azione • 18 m • Concentrazione (fino a 1 min)**
 > Insinui un virus mistico nella mente del bersaglio, scatenando in lui un'ossessione viscerale e autodistruttiva per la ricchezza o la tecnologia.
-- Il bersaglio (entro 18 m) deve superare un Tiro Salvezza su Saggezza (WIS). Se fallisce, diventa ossessionato dagli oggetti di valore (o dai dispositivi hi-tech) che vede per la durata dell'incantesimo. 
+- Il bersaglio (entro 18 m) deve superare un TS SAG. Se fallisce, diventa ossessionato dagli oggetti di valore (o dai dispositivi hi-tech) che vede per la durata dell'incantesimo. 
 - Nel suo turno, il bersaglio deve usare tutto il suo movimento per avvicinarsi all'oggetto di valore più vicino che percepisce, e usare la sua Azione per cercare di afferrarlo, proteggerlo o rubarlo. 
 - Se non ci sono oggetti di valore visibili nell'area, attaccherà disperatamente la creatura più vicina credendo che quest'ultima gli stia nascondendo qualcosa di prezioso.
-- Alla fine di ogni suo turno, il bersaglio può ripetere il Tiro Salvezza, terminando l'effetto in caso di successo. Se il bersaglio subisce danni, ha Vantaggio a questo Tiro Salvezza.
+- Alla fine di ogni suo turno, il bersaglio può ripetere il TS, terminando l'effetto in caso di successo. Se il bersaglio subisce danni, ha Vantaggio a questo TS.
 
 ### Totem da Guardia
 **Divinazione (Trucchetto) • 1 Azione • 1,5 m • 24 ore**

@@ -10,34 +10,34 @@ d6
 **Armature:** nessuna
 **Armi:** cerbottane (o pistole a dardi tranquillanti), pugnali (o lame tattiche), bastoni ferrati (o aste stordenti), falcetti (o lame termiche a mezzaluna)
 **Strumenti:** strumenti da alchimista, borsa da erborista, borsa da avvelenatore
-**Tiri Salvezza:** INT, SAG
+**TS:** INT, SAG
 **Abilità:** 2 a scelta tra Arcano, Furtività, Intuizione, Medicina, Natura, Percezione Animale, Religione, Sopravvivenza, Storia
 
 ---
 # Tabella Strega
 
-| Liv | Bonus | Caratteristiche                       | Trucchetti | Inc. Conosciuti | Max Liv. Inc. |
+| Liv | Bonus | Caratteristiche | Trucchetti | Inc. Conosciuti | Max Liv. Inc. |
 | --- | ----- | ------------------------------------- | ---------- | --------------- | ------------- |
-| 1   | +2    | Magia della Strega, Famiglio Occulto  | 3          | 3               | 1°            |
-| 2   | +2    | Malocchio, Specializzazione           | 3          | 4               | 1°            |
-| 3   | +2    | Arte della Pozione, Infondere Pozione | 3          | 5               | 2°            |
-| 4   | +2    | Aumento di Caratteristica             | 4          | 6               | 2°            |
-| 5   | +3    | —                                     | 4          | 7               | 3°            |
-| 6   | +3    | Privilegio Specializzazione           | 4          | 8               | 3°            |
-| 7   | +3    | Incantare Scopa                       | 4          | 9               | 4°            |
-| 8   | +3    | Aumento di Caratteristica             | 4          | 10              | 4°            |
-| 9   | +4    | —                                     | 4          | 11              | 5°            |
-| 10  | +4    | Privilegio Specializzazione           | 5          | 12              | 5°            |
-| 11  | +4    | Salute di Ferro                       | 5          | 13              | 6°            |
-| 12  | +4    | Aumento di Caratteristica             | 5          | 14              | 6°            |
-| 13  | +5    | —                                     | 5          | 15              | 7°            |
-| 14  | +5    | Privilegio Specializzazione           | 5          | 16              | 7°            |
-| 15  | +5    | —                                     | 5          | 17              | 8°            |
-| 16  | +5    | Aumento di Caratteristica             | 5          | 18              | 8°            |
-| 17  | +6    | —                                     | 5          | 19              | 9°            |
-| 18  | +6    | —                                     | 5          | 20              | 9°            |
-| 19  | +6    | Aumento di Caratteristica             | 5          | 21              | 9°            |
-| 20  | +6    | Somma Strega                          | 5          | 22              | 9°            |
+| 1 | +2 | Magia della Strega, Famiglio Occulto | 3 | 3 | 1° |
+| 2 | +2 | Malocchio, Specializzazione | 3 | 4 | 1° |
+| 3 | +2 | Arte della Pozione, Infondere Pozione | 3 | 5 | 2° |
+| 4 | +2 | Aumento di Caratteristica | 4 | 6 | 2° |
+| 5 | +3 | — | 4 | 7 | 3° |
+| 6 | +3 | Privilegio Specializzazione | 4 | 8 | 3° |
+| 7 | +3 | Incantare Scopa | 4 | 9 | 4° |
+| 8 | +3 | Aumento di Caratteristica | 4 | 10 | 4° |
+| 9 | +4 | — | 4 | 11 | 5° |
+| 10 | +4 | Privilegio Specializzazione | 5 | 12 | 5° |
+| 11 | +4 | Salute di Ferro | 5 | 13 | 6° |
+| 12 | +4 | Aumento di Caratteristica | 5 | 14 | 6° |
+| 13 | +5 | — | 5 | 15 | 7° |
+| 14 | +5 | Privilegio Specializzazione | 5 | 16 | 7° |
+| 15 | +5 | — | 5 | 17 | 8° |
+| 16 | +5 | Aumento di Caratteristica | 5 | 18 | 8° |
+| 17 | +6 | — | 5 | 19 | 9° |
+| 18 | +6 | — | 5 | 20 | 9° |
+| 19 | +6 | Aumento di Caratteristica | 5 | 21 | 9° |
+| 20 | +6 | Somma Strega | 5 | 22 | 9° |
 
 ---
 ## Magia della Strega (1°)
@@ -78,7 +78,7 @@ d6
 ## Infondere Pozione (3°)
 **Azione (Durante Riposo Breve o Lungo)**
 >La Strega può intrappolare fisicamente l'essenza di un incantesimo in un supporto consumabile (un infuso ribollente, un inalatore chimico o una siringa ipertecnologica colma di mana liquido).
->Avendo un contenitore vuoto, la Strega può infondere un incantesimo in una pozione durante un riposo.
+>Avendo un contenitore vuoto, la Strega può infondere un incantesimo in una pozione durante un Riposo.
 - **Costo:** Spende le componenti materiali e 1 Slot Incantesimo del livello adeguato. Lo slot speso non si ricarica finché la pozione non viene consumata o distrutta.
 - **Scelta Incantesimo:** Può scegliere magie specifiche da una lista apposita (es. *Cura Ferite*, *Invisibilità*, *Volare*).
 - **Effetto:** Qualsiasi creatura può usare un'Azione per consumare la pozione. Diventa il bersaglio dell'incantesimo. Se l'incantesimo richiede Concentrazione, la mantiene chi l'ha consumata. Se la creatura che concentra subisce danni, è lei a dover effettuare il TS COS per mantenere l'effetto. Se l'incantesimo richiede un TS ai nemici, usa la CD della Strega.
@@ -269,7 +269,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 >Armata di falcetto e concentrazione d'acciaio.
 - Ottiene competenza in scimitarre, spade corte e stocchi. Il falcetto per lei ottiene la proprietà *Accurata* e infligge 1d6 danni base.
 - Quando attacca con un'arma da mischia in cui è competente, può usare il suo Mod INT, invece di FOR o DES, per i tiri per colpire e per i danni.
-- Somma il Mod INT ai Tiri per l'Iniziativa e ai TS CON per mantenere la Concentrazione. 
+- Somma il Mod INT ai Tiri per l'Iniziativa e ai TS COS per mantenere la Concentrazione. 
 - Ottiene un bonus alla Classe Armatura pari a metà del Mod INT (arrotondato per eccesso) finché non indossa armature.
 
 ### Colpo Crescente (2°)
@@ -352,7 +352,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 **Reazione • 1/Riposo Breve o Lungo (2 al 14° Liv)**
 >Quando una creatura corporea (che non sia non-morto o costrutto) muore entro 3 metri, la Strega ne legge il fato dal cadavere. 
 - Tira 2d10 (3d10 al 14° liv.) sulla tabella delle Viscere, sceglie uno dei risultati e conferisce la benedizione corrispondente a un alleato entro 9 m.
-- La benedizione dura fino al completamento del prossimo Riposo.
+- La benedizione dura fino al completamento del prossimo Riposo Breve o Lungo.
 
 ### Psicopompo (6°)
 **Passiva**

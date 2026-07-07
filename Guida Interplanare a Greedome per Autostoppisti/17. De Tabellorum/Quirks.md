@@ -7,7 +7,7 @@ I Quirk sono difetti minori della realtà che il Glitch ha imparato a stabilizza
 ### Arma Vivente
 **Passiva / Azione Bonus**
 >Il Glitch trasforma la propria materia corporea in armi letali, alterandone istantaneamente la densità o la forma.
-- I suoi attacchi senz’armi infliggono 1d6 + il Modificatore di Forza danni. Il danno base aumenta a 2d6 al 5° livello, 3d6 al 10° livello e 4d6 al 15° livello.
+- I suoi attacchi senz’armi infliggono 1d6 + il Mod FOR danni. Il danno base aumenta a 2d6 al 5° livello, 3d6 al 10° livello e 4d6 al 15° livello.
 - **Sovraccarico (Azione Bonus):** Il Glitch può spendere Byte per aggiungere +1d6 danni extra al suo prossimo attacco senz'armi andato a segno nel turno corrente. Può spendere un massimo di 3 Byte per utilizzo.
 
 ### Anomalia Minore
@@ -18,12 +18,12 @@ I Quirk sono difetti minori della realtà che il Glitch ha imparato a stabilizza
 ### Passo Vacuo
 **Azione Bonus • 1/Riposo Breve o Lungo**
 >Il Glitch salta letteralmente un "frame" della realtà, scomparendo e riapparendo a brevissima distanza.
->Si teletrasporta di 1,5 metri in uno spazio non occupato, senza provocare Attacchi di Opportunità. Se usa questa abilità nello stesso turno in cui ha colpito un bersaglio, il suo riposizionamento anomalo gli conferisce Vantaggio al prossimo Tiro Salvezza su Destrezza che effettua entro la fine del turno successivo.
+>Si teletrasporta di 1,5 metri in uno spazio non occupato, senza provocare Attacchi di Opportunità. Se usa questa abilità nello stesso turno in cui ha colpito un bersaglio, il suo riposizionamento anomalo gli conferisce Vantaggio al prossimo TS DES che effettua entro la fine del turno successivo.
 
 ### Micro-Overclock
 **Reazione • Mod INT/Riposo Lungo**
 >Il Glitch forza il proprio sistema nervoso a resettare un feedback di dolore.
->Quando fallisce un Tiro Salvezza su Costituzione per mantenere la Concentrazione, può usare la sua reazione per ritirare il dado e deve usare il nuovo risultato.
+>Quando fallisce un TS COS per mantenere la Concentrazione, può usare la sua reazione per ritirare il dado e deve usare il nuovo risultato.
 
 ### Distorsione Cinetico-Vettoriale
 **Reazione**

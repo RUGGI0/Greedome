@@ -7,7 +7,7 @@ L'Inventore non lancia magie: esegue *Protocolli*. Usa i suoi slot incantesimo p
 ### Spray Bio-Saldante
 **Azione • 1 Slot • Tocco**
 >Un getto di schiuma medica o naniti che chiude le ferite istantaneamente.
-- La creatura toccata recupera un numero di Punti Ferita pari a 1d8 + il Modificatore di Intelligenza dell'Inventore.
+- La creatura toccata recupera un numero di Punti Ferita pari a 1d8 + il Mod INT dell'Inventore.
 
 ### Scanner AR
 **Azione • 1 Slot • Personale (Raggio 9 m)**
@@ -29,6 +29,6 @@ L'Inventore non lancia magie: esegue *Protocolli*. Usa i suoi slot incantesimo p
 ### Impulso Sonico
 **Azione • 1 Slot • Cubo 4,5 m**
 >Una cassa di risonanza o un guanto sismico rilascia un'onda d'urto devastante in grado di spazzare via i nemici.
-- Ogni creatura in un cubo di 4,5 metri originato dall'Inventore deve effettuare un Tiro Salvezza su Costituzione.
+- Ogni creatura in un cubo di 4,5 metri originato dall'Inventore deve effettuare un TS COS.
 - **Fallimento:** La creatura subisce 2d8 danni da Tuono e viene spinta di 3 metri lontano dall'Inventore.
 - **Successo:** La creatura subisce la metà dei danni e non viene spinta.

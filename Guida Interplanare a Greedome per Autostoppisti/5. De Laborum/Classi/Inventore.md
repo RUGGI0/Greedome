@@ -10,34 +10,34 @@ d8
 **Armature:** leggere, medie, scudi
 **Armi:** armi semplici, armi da fuoco
 **Strumenti:** strumenti da artigiano, arnesi da scasso
-**Tiri Salvezza:** COS, INT
+**TS:** COS, INT
 **Abilità:** 2 a scelta tra Arcana, Indagare, Percezione, Medicina, Storia, Rapidità di Mano
 
 ---
 # Tabella Inventore
 
-| Liv | Bonus | Protocolli | Patch | Caratteristiche                     |
+| Liv | Bonus | Protocolli | Patch | Caratteristiche |
 | --- | ----- | ---------- | ----- | ----------------------------------- |
-| 1   | +2    | 1°         | —     | Protocolli, Micro-Matrice Analogica |
-| 2   | +2    | 1°         | 2     | Patch Hardware                      |
-| 3   | +2    | 2°         | 2     | Specializzazione, Cacciavite Sonico |
-| 4   | +2    | 2°         | 2     | Aumento di Caratteristica           |
-| 5   | +3    | 2°         | 2     | Privilegio Specializzazione         |
-| 6   | +3    | 3°         | 3     | Tech Savvy                          |
-| 7   | +3    | 3°         | 3     | Elaborazione Tattica Rapida         |
-| 8   | +3    | 3°         | 3     | Aumento di Caratteristica           |
-| 9   | +4    | 4°         | 3     | Privilegio Specializzazione         |
-| 10  | +4    | 4°         | 4     | Patch Migliorate                    |
-| 11  | +4    | 4°         | 4     | Matrice TechnoMagica                |
-| 12  | +4    | 4°         | 4     | Aumento di Caratteristica           |
-| 13  | +5    | 5°         | 4     | —                                   |
-| 14  | +5    | 5°         | 5     | Sincronizzazione Avanzata           |
-| 15  | +5    | 5°         | 5     | Privilegio Specializzazione         |
-| 16  | +5    | 5°         | 5     | Aumento di Caratteristica           |
-| 17  | +6    | 5°         | 5     | Maestro Technomante                 |
-| 18  | +6    | 5°         | 6     | Privilegio Specializzazione         |
-| 19  | +6    | 5°         | 6     | Aumento di Caratteristica           |
-| 20  | +6    | 5°         | 6     | IT-guy Definitivo                   |
+| 1 | +2 | 1° | — | Protocolli, Micro-Matrice Analogica |
+| 2 | +2 | 1° | 2 | Patch Hardware |
+| 3 | +2 | 2° | 2 | Specializzazione, Cacciavite Sonico |
+| 4 | +2 | 2° | 2 | Aumento di Caratteristica |
+| 5 | +3 | 2° | 2 | Privilegio Specializzazione |
+| 6 | +3 | 3° | 3 | Tech Savvy |
+| 7 | +3 | 3° | 3 | Elaborazione Tattica Rapida |
+| 8 | +3 | 3° | 3 | Aumento di Caratteristica |
+| 9 | +4 | 4° | 3 | Privilegio Specializzazione |
+| 10 | +4 | 4° | 4 | Patch Migliorate |
+| 11 | +4 | 4° | 4 | Matrice TechnoMagica |
+| 12 | +4 | 4° | 4 | Aumento di Caratteristica |
+| 13 | +5 | 5° | 4 | — |
+| 14 | +5 | 5° | 5 | Sincronizzazione Avanzata |
+| 15 | +5 | 5° | 5 | Privilegio Specializzazione |
+| 16 | +5 | 5° | 5 | Aumento di Caratteristica |
+| 17 | +6 | 5° | 5 | Maestro Technomante |
+| 18 | +6 | 5° | 6 | Privilegio Specializzazione |
+| 19 | +6 | 5° | 6 | Aumento di Caratteristica |
+| 20 | +6 | 5° | 6 | IT-guy Definitivo |
 
 ---
 ## Protocolli (1°)
@@ -55,7 +55,7 @@ d8
 ## Patch Hardware (2°)
 **Riposo Lungo • Tocco**
 >L'Inventore riscrive temporaneamente la matrice di un oggetto non magico ("Infusione").
-- **Durata:** fino al prossimo riposo lungo.
+- **Durata:** fino al prossimo Riposo Breve o Lungo Lungo.
 - **Limite:** vedi colonna "Patch" nella tabella.
 - **Effetto:** Applica bonus numerici o proprietà speciali (es. +1 attacco/danni, +1 CA, creazione oggetti specifici).
 
@@ -74,7 +74,7 @@ d8
 ## Elaborazione Tattica Rapida (7°)
 **Reazione • 9 m • Mod INT/Riposo Lungo**
 >Un algoritmo predittivo mentale permette all'Inventore di anticipare l'esito di un evento e suggerire la correzione ottimale in tempo reale.
->Quando l'Inventore o una creatura entro 9 m effettuano un Tiro Salvezza o una prova di caratteristica aggiunge il Mod INT dell'Inventore.
+>Quando l'Inventore o una creatura entro 9 m effettuano un TS o una prova di caratteristica aggiunge il Mod INT dell'Inventore.
 
 ## Patch Migliorate (10°)
 **Passiva**
@@ -130,19 +130,19 @@ Il Meccatronomo scende in campo accompagnato da un costrutto d'acciaio, combinan
 **Azione Bonus (Comando)**
 >Il Meccatronomo crea un costrutto fedele che agisce subito dopo di lui.
 
-| Caratteristica | Valore                                             |
+| Caratteristica | Valore |
 | :------------- | :------------------------------------------------- |
-| **CA**         | 15 (o 10 + PB + DES)                               |
-| **PF**         | 2 + Mod INT + (5 × Liv Inventore)                  |
-| **Movimento**  | 12 m                                               |
-| **Reazione**   | Svantaggio ad un attacco contro un alleato (1,5 m) |
-| **Azione**     | Schivata (se non comandato)                        |
-| **Comando**    | **Render:** 1d8 + PB FOR.                        |
+| **CA** | 15 (o 10 + BC + Mod DES) |
+| **PF** | 2 + Mod INT + (5 × Liv Inventore) |
+| **Movimento** | 12 m |
+| **Reazione** | Svantaggio ad un attacco contro un alleato (1,5 m) |
+| **Azione** | Schivata (se non comandato) |
+| **Comando** | **Render:** 1d8 + BC danni da forza. |
 
->Se il Drone muore, l'Inventore può rianimarlo con uno Slot di 1° livello o riposo lungo.
+>Se il Drone muore, l'Inventore può rianimarlo con uno Slot di 1° livello o Riposo Lungo.
 
 ### Attacco Extra (5°)
-**Azione Extra**
+**Passiva**
 >Il Meccatronomo può attaccare due volte quando usa l'azione di Attacco.
 
 ### Scarica Cinetica (9°)
@@ -171,16 +171,16 @@ Il Meccatronomo scende in campo accompagnato da un costrutto d'acciaio, combinan
 
 Specialista dell'artiglieria, il Geniere Balistico domina il campo di battaglia con torrette autonome capaci di scatenare l'inferno o proteggere gli alleati.
 ### Torretta Modulare (3°)
-**Azione Bonus • 1 uso Gratis, poi Slot/riposo lungo • 1 ora**
+**Azione Bonus • 1 uso Gratis, poi Slot/Riposo Lungo • 1 ora**
 >Il Geniere schiera una torretta magica (Piccola o Minuscola).
 >Attivazione successiva: **Azione Bonus**.
->Può crearla gratuitamente una volta per riposo lungo, poi spendendo uno slot.
+>Può crearla gratuitamente una volta per Riposo Lungo, poi spendendo uno slot.
 
-| Modulo           | Effetto                                              |
+| Modulo | Effetto |
 | :--------------- | :--------------------------------------------------- |
-| **Lanciafiamme** | Cono 4,5 m • TS DES • 2d8 Fuoco (dimezza se salvo)   |
-| **Balista**      | Raggio 36 m • TxC Magico • 2d8 Forza + spinta 1,5 m  |
-| **Protettore**   | Raggio 3 m • Alleati ottengono 1d8 + Mod INT PF Temp |
+| **Lanciafiamme** | Cono 4,5 m • TS DES • 2d8 Fuoco (dimezza se salvo) |
+| **Balista** | Raggio 36 m • Tiro per Colpire magico • 2d8 Forza + spinta 1,5 m |
+| **Protettore** | Raggio 3 m • Alleati ottengono 1d8 + Mod INT PF Temp |
 
 ### Arma da Fuoco Arcano-Tecnica (5°)
 **Passiva**
@@ -228,7 +228,7 @@ Il Juggernaut trasforma il proprio corpo in una macchina da guerra, fondendosi c
 - **Stealth:** +1,5 m movimento, Vantaggio a Furtività.
 
 ### Attacco Extra (5°)
-**Azione Extra**
+**Passiva**
 >Il Juggernaut può attaccare due volte quando usa l'azione di Attacco.
 
 ### Modifiche Modulari (9°)
@@ -256,14 +256,14 @@ Il Juggernaut trasforma il proprio corpo in una macchina da guerra, fondendosi c
 >Il Bio-Alchemista crea elisir sperimentali in fiale vuote.
 >Si consumano come **Azione**.
 
-| d6  | Effetto                                        |
+| d6 | Effetto |
 | :-- | :--------------------------------------------- |
-| 1   | **Healing:** 2d4 + Mod INT                     |
-| 2   | **Swiftness:** +3 m velocità (1 ora)           |
-| 3   | **Resilience:** +1 CA (10 min)                 |
-| 4   | **Boldness:** +1d4 a TxC e TS (1 min)          |
-| 5   | **Flight:** Volare 3 m (10 min)                |
-| 6   | **Alteration:** Trasformazione fisica (10 min) |
+| 1 | **Healing:** 2d4 + Mod INT |
+| 2 | **Swiftness:** +3 m velocità (1 ora) |
+| 3 | **Resilience:** +1 CA (10 min) |
+| 4 | **Boldness:** +1d4 a Tiro per Colpire e TS (1 min) |
+| 5 | **Flight:** Volare 3 m (10 min) |
+| 6 | **Alteration:** Trasformazione fisica (10 min) |
 
 >Può crearne extra spendendo uno Slot di 1° livello.
 
@@ -283,7 +283,7 @@ Il Juggernaut trasforma il proprio corpo in una macchina da guerra, fondendosi c
 >Maestro di veleni, il corpo del Bio-Alchemista è temprato a sopportare quasi qualsiasi veleno:
 - Immunità alla condizione avvelenato.
 - Resistenza danni acido e veleno.
-- Il Bio-Alchemista può lanciare *Guarigione* (Heal) e *Ristorare Superiore* una volta gratis per riposo lungo.
+- Il Bio-Alchemista può lanciare *Guarigione* (Heal) e *Ristorare Superiore* una volta gratis per Riposo Lungo.
 
 ### Panacea Universale (18°)
 **Azione • 1/Riposo Lungo**

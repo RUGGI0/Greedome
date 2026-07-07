@@ -35,7 +35,7 @@ Le Patch Hardware sono modifiche al codice della realtà, applicate temporaneame
 ### Stivali a Induzione Magnetica
 **Oggetto infuso:** Un paio di stivali o l'armatura delle gambe
 >Elettromagneti a polarità variabile e micro-giroscopi installati nelle suole permettono di ignorare parzialmente la gravità e mantenere un equilibrio assoluto.
-- Chi indossa l'oggetto ha Vantaggio ai Tiri Salvezza e alle prove di caratteristica per evitare di essere buttato a terra *Prono*.
+- Chi indossa l'oggetto ha Vantaggio ai TS e alle prove di caratteristica per evitare di essere buttato a terra *Prono*.
 - L'Inventore può usare un'Azione Bonus per attivare l'ancoraggio magnetico: per 10 minuti, ottiene i benefici dell'incantesimo *Movimenti del Ragno* (può muoversi su superfici verticali o capovolte lasciando le mani libere), purché la superficie sia metallica o di pietra solida.
 
 ### Matrice Vocale Sintetica
@@ -62,13 +62,13 @@ Le Patch Hardware sono modifiche al codice della realtà, applicate temporaneame
 >Una rete di micro-purificatori e scambiatori di ossigeno sintetico che si sovrappone alle vie respiratorie.
 - Chi indossa l'oggetto non ha più bisogno di respirare aria normale (può sopravvivere sott'acqua o nel vuoto).
 - È immune agli effetti dei gas tossici non magici (come fumo denso o gas lacrimogeni).
-- Ottiene Vantaggio ai Tiri Salvezza contro incantesimi o abilità che si basano sull'inalazione (come *Nube Mortale* o le spore velenose).
+- Ottiene Vantaggio ai TS contro incantesimi o abilità che si basano sull'inalazione (come *Nube Mortale* o le spore velenose).
 
 ### Iniettore di Sangue Sintetico
 **Oggetto infuso:** Un'armatura (busto) o una tuta protettiva
 >La tuta è foderata di aghi ipodermici che monitorano i parametri vitali, iniettando costantemente coagulanti arcani e anticorpi artificiali.
 - Chi indossa l'oggetto ottiene Resistenza ai danni da Veleno.
-- Ottiene Vantaggio ai Tiri Salvezza per evitare o terminare la condizione *Avvelenato* su se stesso.
+- Ottiene Vantaggio ai TS per evitare o terminare la condizione *Avvelenato* su se stesso.
 
 ### Vano da Contrabbando Extradimensionale
 **Oggetto infuso:** Uno stivale, un braccio meccanico o un'arma a due mani

@@ -12,19 +12,19 @@ Il Pistolero sceglie i suoi colpi da questa lista. Salvo dove diversamente speci
 ### Colpo Disarmante
 **Speciale (Prima del Tiro per Colpire) • 1 Adrenalina**
 >Il Pistolero mira all'arma o all'oggetto tenuto dal nemico.
->Se l'attacco colpisce, infligge il danno normale e il bersaglio deve superare un TS su Forza (CD = 8 + Bonus di Competenza + Mod DES).
+>Se l'attacco colpisce, infligge il danno normale e il bersaglio deve superare un TS FOR (CD = 8 + Mod DES + BC).
 >**Fallimento:** Il bersaglio lascia cadere l'oggetto che sta tenendo ai suoi piedi.
 
 ### Colpo alle Gambe
 **Speciale (Prima del Tiro per Colpire) • 1 Adrenalina**
 >Il Pistolero mira alle giunture o al baricentro per arrestare l'avanzata nemica.
->Se l'attacco colpisce, infligge il danno normale e il bersaglio deve superare un TS su Forza (CD = 8 + Bonus di Competenza + Mod DES).
+>Se l'attacco colpisce, infligge il danno normale e il bersaglio deve superare un TS FOR (CD = 8 + Mod DES + BC).
 >**Fallimento:** Il bersaglio cade a terra *Prono*.
 
 ### Colpo Minaccioso
 **Speciale (Prima del Tiro per Colpire) • 1 Adrenalina**
 >Il rumore dello sparo e la violenza dell'impatto sono calcolati per terrorizzare.
->Se l'attacco colpisce, infligge il danno normale e il bersaglio deve superare un TS su Saggezza (CD = 8 + Bonus di Competenza + Mod DES).
+>Se l'attacco colpisce, infligge il danno normale e il bersaglio deve superare un TS SAG (CD = 8 + Mod DES + BC).
 >**Fallimento:** Il bersaglio è *Spaventato* dal Pistolero fino alla fine del suo prossimo turno.
 
 ### Colpo Penetrante

@@ -60,5 +60,5 @@ A differenza degli incantesimi tradizionali, i Malocchi sono micro-maledizioni i
 ### Sottomissione
 **Azione Bonus • 36 m**
 >Una pressione schiacciante costringe il bersaglio a inginocchiarsi davanti al potere della Strega.
-- Il bersaglio deve effettuare un Tiro Salvezza su FOR contro la tua CD degli incantesimi. 
+- Il bersaglio deve effettuare un TS FOR contro la tua CD degli incantesimi. 
 - Se fallisce, viene scagliato a terra *Prono*.

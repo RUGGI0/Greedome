@@ -10,34 +10,34 @@ d10
 **Armature:** armature leggere, armature medie, scudi
 **Armi:** armi semplici, armi marziali
 **Strumenti:** kit da guaritore
-**Tiri Salvezza:** FOR, DEX
+**TS:** FOR, DES
 **Abilità:** 3 a scelta tra Addestrare Animali, Atletica, Furtività, Indagare, Intuizione, Natura, Percezione, Sopravvivenza
 
 ---
 # Tabella Ranger
 
-| Liv | Bonus | Caratteristiche                               | Dado Gambit |
+| Liv | Bonus | Caratteristiche | Dado Gambit |
 | --- | ----- | ------------------------------------------------ | ----------- |
-| 1   | +2    | Addestramento Alpino, Bersaglio Tattico (1d4) | —           |
-| 2   | +2    | Stile di Combattimento, Gambit                | 1d6         |
-| 3   | +2    | Specializzazione                              | 1d6         |
-| 4   | +2    | Aumento di Caratteristica                     | 1d6         |
-| 5   | +3    | Attacco Extra                                 | 1d6         |
-| 6   | +3    | Passo dell'Ardito, Bersaglio Tattico (1d6)    | 1d6         |
-| 7   | +3    | Privilegio Specializzazione                   | 1d6         |
-| 8   | +3    | Aumento di Caratteristica                     | 1d6         |
-| 9   | +4    | Evoluzione Gambit (1d8)                       | 1d8         |
-| 10  | +4    | Mimetismo Tattico                             | 1d8         |
-| 11  | +4    | Privilegio Specializzazione                   | 1d8         |
-| 12  | +4    | Aumento di Caratteristica                     | 1d8         |
-| 13  | +5    | Evoluzione Gambit (1d10)                      | 1d10        |
-| 14  | +5    | Svanire, Bersaglio Tattico (1d8)              | 1d10        |
-| 15  | +5    | Privilegio Specializzazione                   | 1d10        |
-| 16  | +5    | Aumento di Caratteristica                     | 1d10        |
-| 17  | +6    | Evoluzione Gambit (1d12)                      | 1d12        |
-| 18  | +6    | Sensi Affinati                                | 1d12        |
-| 19  | +6    | Aumento di Caratteristica                     | 1d12        |
-| 20  | +6    | Predatore Implacabile                         | 1d12        |
+| 1 | +2 | Addestramento Alpino, Bersaglio Tattico (1d4) | — |
+| 2 | +2 | Stile di Combattimento, Gambit | 1d6 |
+| 3 | +2 | Specializzazione | 1d6 |
+| 4 | +2 | Aumento di Caratteristica | 1d6 |
+| 5 | +3 | Attacco Extra | 1d6 |
+| 6 | +3 | Passo dell'Ardito, Bersaglio Tattico (1d6) | 1d6 |
+| 7 | +3 | Privilegio Specializzazione | 1d6 |
+| 8 | +3 | Aumento di Caratteristica | 1d6 |
+| 9 | +4 | Evoluzione Gambit (1d8) | 1d8 |
+| 10 | +4 | Mimetismo Tattico | 1d8 |
+| 11 | +4 | Privilegio Specializzazione | 1d8 |
+| 12 | +4 | Aumento di Caratteristica | 1d8 |
+| 13 | +5 | Evoluzione Gambit (1d10) | 1d10 |
+| 14 | +5 | Svanire, Bersaglio Tattico (1d8) | 1d10 |
+| 15 | +5 | Privilegio Specializzazione | 1d10 |
+| 16 | +5 | Aumento di Caratteristica | 1d10 |
+| 17 | +6 | Evoluzione Gambit (1d12) | 1d12 |
+| 18 | +6 | Sensi Affinati | 1d12 |
+| 19 | +6 | Aumento di Caratteristica | 1d12 |
+| 20 | +6 | Predatore Implacabile | 1d12 |
 
 ---
 ## Addestramento Alpino (1°)
@@ -164,7 +164,7 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 **Passiva**
 >Sai esattamente dove piazzare la carica per massimizzare la distruzione.
 - I suoi attacchi con le armi e le manovre Gambit infliggono il doppio dei danni agli oggetti e alle strutture. 
-- Quando usa la manovra *Granata Tattica*, i bersagli non beneficiano di mezza copertura o copertura a tre quarti per il Tiro Salvezza.
+- Quando usa la manovra *Granata Tattica*, i bersagli non beneficiano di mezza copertura o copertura a tre quarti per il TS.
 
 ### Campo Minato (11°)
 **Costo Variabile**
@@ -176,7 +176,7 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 **Passiva**
 >Sei saltato in aria così tante volte che sai perfettamente come evitare il peggio.
 - Ottiene Vantaggio a tutti i TS per resistere agli effetti ad area (esplosioni, soffi di drago, granate).
-- Quando è soggetto a un effetto ad area che permette un TS su DES per dimezzare i danni, non subisce alcun danno se supera il TS, e subisce solo la metà dei danni se lo fallisce.
+- Quando è soggetto a un effetto ad area che permette un TS DES per dimezzare i danni, non subisce alcun danno se supera il TS, e subisce solo la metà dei danni se lo fallisce.
 
 ---
 ## <u>Unità K-9</u>

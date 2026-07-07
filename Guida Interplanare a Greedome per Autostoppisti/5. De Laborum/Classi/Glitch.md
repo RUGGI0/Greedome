@@ -11,41 +11,41 @@ d10
 **Armature:** nessuna
 **Armi:** armi semplici, pistole
 **Strumenti:** nessuno
-**Tiri Salvezza:** INT, FOR
+**TS:** INT, FOR
 **Abilità:** Acrobatica, Atletica, e 2 a scelta tra Arcana, Furtività, Indagare, Percezione, Rapidità di Mano
 
 ---
 # Tabella Glitch
 
-| Liv | Bonus | Quirk | Poteri        | Byte | Caratteristiche             |
+| Liv | Bonus | Quirk | Poteri | Byte | Caratteristiche |
 | --- | ----- | ----- | ------------- | ---- | --------------------------- |
-| 1   | +2    | 5     | Tier I        | 3    | Quirk, Tier I Powers        |
-| 2   | +2    | 5     | Tier I        | 3    | Passo Distorto              |
-| 3   | +2    | 5     | Tier I        | 6    | Specializzazione            |
-| 4   | +2    | 5     | Tier I        | 6    | Aumento di Caratteristica   |
-| 5   | +3    | 5     | Tier I        | 9    | Attacco Extra               |
-| 6   | +3    | 5     | Tier I        | 9    | Privilegio Specializzazione |
-| 7   | +3    | 5     | Tier I/II     | 12   | Tier Powers II              |
-| 8   | +3    | 5     | Tier I/II     | 12   | Aumento di Caratteristica   |
-| 9   | +4    | 5     | Tier I/II     | 15   | Accelerazione Innaturale    |
-| 10  | +4    | 5     | Tier I/II     | 15   | Privilegio Specializzazione |
-| 11  | +4    | 5     | Tier I/II     | 15   | Cheat-a-Byte                |
-| 12  | +4    | 5     | Tier I/II     | 15   | Aumento di Caratteristica   |
-| 13  | +5    | 5     | Tier I/II/III | 15   | Tier III Powers             |
-| 14  | +5    | 5     | Tier I/II/III | 21   | Privilegio Specializzazione |
-| 15  | +5    | 5     | Tier I/II/III | 24   | Balzo Interdimensionale     |
-| 16  | +5    | 5     | Tier I/II/III | 24   | Aumento di Caratteristica   |
-| 17  | +6    | 5     | Tier I/II/III | 27   | Distorsione Permanente      |
-| 18  | +6    | 5     | Tier I/II/III | 27   | Privilegio Specializzazione |
-| 19  | +6    | 5     | Tier I/II/III | 30   | Aumento di Caratteristica   |
-| 20  | +6    | 5     | Tier I/II/III | 30   | Riscrittura della Realtà    |
+| 1 | +2 | 5 | Tier I | 3 | Quirk, Tier I Powers |
+| 2 | +2 | 5 | Tier I | 3 | Passo Distorto |
+| 3 | +2 | 5 | Tier I | 6 | Specializzazione |
+| 4 | +2 | 5 | Tier I | 6 | Aumento di Caratteristica |
+| 5 | +3 | 5 | Tier I | 9 | Attacco Extra |
+| 6 | +3 | 5 | Tier I | 9 | Privilegio Specializzazione |
+| 7 | +3 | 5 | Tier I/II | 12 | Tier Powers II |
+| 8 | +3 | 5 | Tier I/II | 12 | Aumento di Caratteristica |
+| 9 | +4 | 5 | Tier I/II | 15 | Accelerazione Innaturale |
+| 10 | +4 | 5 | Tier I/II | 15 | Privilegio Specializzazione |
+| 11 | +4 | 5 | Tier I/II | 15 | Cheat-a-Byte |
+| 12 | +4 | 5 | Tier I/II | 15 | Aumento di Caratteristica |
+| 13 | +5 | 5 | Tier I/II/III | 15 | Tier III Powers |
+| 14 | +5 | 5 | Tier I/II/III | 21 | Privilegio Specializzazione |
+| 15 | +5 | 5 | Tier I/II/III | 24 | Balzo Interdimensionale |
+| 16 | +5 | 5 | Tier I/II/III | 24 | Aumento di Caratteristica |
+| 17 | +6 | 5 | Tier I/II/III | 27 | Distorsione Permanente |
+| 18 | +6 | 5 | Tier I/II/III | 27 | Privilegio Specializzazione |
+| 19 | +6 | 5 | Tier I/II/III | 30 | Aumento di Caratteristica |
+| 20 | +6 | 5 | Tier I/II/III | 30 | Riscrittura della Realtà |
 
 ---
 ## Byte, Quirk e Poteri (1°)
 **Passiva**
 >Il Glitch usa una risorsa chiamata Byte per alimentare i suoi poteri.
-- I Byte si ricaricano completamente con un riposo lungo.
-- Con un riposo breve, il Glitch recupera 1/2 (min 1, per difetto) dei Byte rimanenti.
+- I Byte si ricaricano completamente con un Riposo Lungo.
+- Con un Riposo Breve, il Glitch recupera 1/2 (min 1, per difetto) dei Byte rimanenti.
 - Il massimo dei Byte è determinato dal livello.
 >Il Glitch, al livello 1, ottiene le sue tecniche base, i Quirk.
 >Sblocca poteri in tre tier:
@@ -65,7 +65,7 @@ d10
 - rischio di essere identificato come minaccia soprannaturale.
 
 ## Passo Distorto (2°)
-**Azione Bonus • Mod FOR/riposo breve**
+**Azione Bonus • Mod FOR/Riposo Breve**
 >Il Glitch sfrutta un lag della realtà per saltare i frame intermedi del movimento.
 - Il Glitch si teletrasporta di 3 m.
 - Non provoca attacchi di opportunità.
@@ -79,14 +79,14 @@ d10
 >Il Glitch può attaccare due volte, anziché una, ogniqualvolta utilizza l'Azione di Attacco nel suo turno.
 
 ## Accelerazione Innaturale (9°)
-**Passiva/Reazione • Mod FOR/riposo lungo**
+**Passiva/Reazione • Mod FOR/Riposo Lungo**
 >Il corpo del Glitch smette, per qualche attimo, di rispettare le leggi della fisica newtoniana.
 - +1,5 m velocità.
 - Vantaggio ai TS per le riduzioni di movimento.
 - Quando il Glitch viene colpito da un attacco in mischia: può spendere 1 Byte come reazione per ottenere +2 CA contro quell’attacco.
 
 ## Cheat-a-Byte (11°)
-**Azione Bonus • 1/riposo lungo**
+**Azione Bonus • 1/Riposo Lungo**
 >Forzando un _buffer overflow_ nel proprio corpo, il Glitch estrae dai residui statici dell'ambiente.
  - Il Glitch acquisisce 4 Byte extra.
 
@@ -183,7 +183,7 @@ Non richiede linea di vista.
 ### Passo Distorto Asincrono (6°)
 **Passiva**
 >Il protocollo di teletrasporto viene ottimizzato, riducendo i tempi di ricarica per un uso tattico aggressivo. *Passo Distorto*:
-- utilizzabile 2/riposo breve.
+- utilizzabile 2/Riposo Breve.
 - Spostamento esteso da 1,5 m a 3 m.
 >All'uso: Il prossimo attacco del Glitchblade nel turno ha vantaggio.
 
@@ -201,7 +201,7 @@ Non richiede linea di vista.
 
 ### Velocità Terminale (18°)
 **11 Byte • Azione • Durata 1 minuto**
->Diventa pura velocità. Massimo 1 volta per riposo lungo.
+>Diventa pura velocità. Massimo 1 volta per Riposo Lungo.
 >Durante la durata:
 - Movimento raddoppiato.
 - Attacchi senz’armi = +1d8 + Mod FOR.
@@ -220,7 +220,7 @@ Il Nanomante riscrive la propria biologia trasformandosi in uno sciame senziente
 - Immunità a afferrare, trattenere, restrizione, proiettili fisici.
 - Può occupare spazi di creature nemiche, non provoca attacchi di opportunità.
 - Attacco speciale: 1d6 perforanti + Mod INT.
->Usabile Mod INT volte per riposo lungo.
+>Usabile Mod INT volte per Riposo Lungo.
 
 ### Arti Morfici (6°)
 **2 Byte • Azione Bonus**
@@ -235,25 +235,25 @@ Il Nanomante riscrive la propria biologia trasformandosi in uno sciame senziente
 >Il Nanomante crea una copia di naniti (non un clone perfetto).
 >Dura 10 minuti.
 
-| Caratteristica     | Valore                                                |
+| Caratteristica | Valore |
 | ------------------ | ----------------------------------------------------- |
-| CA                 | CA Glitch -1                                          |
-| Punti Ferita (PF)  | 1/2 PF Glitch massimi                                 |
-| Movimento          | Velocità Glitch -3 m                                  |
-| Attacco            | 1d8 + Mod FOR                                         |
-| Azioni disponibili | Azioni semplici possibili per un umanoide             |
-| Effetto speciale   | Se colpisce → svantaggio al prossimo TS del bersaglio |
-| Esplosione         | A 0 PF → Esplode per 2d6 + Mod FOR (3 m^2)            |
+| CA | CA Glitch -1 |
+| Punti Ferita (PF) | 1/2 PF Glitch massimi |
+| Movimento | Velocità Glitch -3 m |
+| Attacco | 1d8 + Mod FOR |
+| Azioni disponibili | Azioni semplici possibili per un umanoide |
+| Effetto speciale | Se colpisce → svantaggio al prossimo TS del bersaglio |
+| Esplosione | A 0 PF → Esplode per 2d6 + Mod FOR (3 m^2) |
 
 ### Costituzione Adattiva (14°)
 **7 Byte • Reazione**
 >Lo sciame risponde al trauma indurendosi istantaneamente nel punto d'impatto o disperdendo l'energia cinetica. Quando il Nanomante subisce danni:
 - Riduce i danni di 1d12 + Mod INT.
 - Recupera 1 Byte.
-- Ottiene resistenza al tipo di danno subito finché non usa di nuovo questa abilità, o fino al prossimo riposo.
+- Ottiene resistenza al tipo di danno subito finché non usa di nuovo questa abilità, o fino al prossimo Riposo Breve o Lungo Breve o Lungo.
 
 ### Ascensione Nanitica (18°)
-**12 Byte • Azione • 1 minuto • 1/riposo lungo**
+**12 Byte • Azione • 1 minuto • 1/Riposo Lungo**
 >Diventa un’entità biomeccanica superiore.
 >Per la durata:
 - Movimento di volo = movimento base.

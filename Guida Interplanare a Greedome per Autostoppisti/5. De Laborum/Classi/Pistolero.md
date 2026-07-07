@@ -10,41 +10,41 @@ d8
 **Armature:** leggere, medie
 **Armi:** armi semplici, armi da fuoco
 **Strumenti:** strumenti da armaiolo, strumenti da artigiano
-**Tiri Salvezza:** DES, FOR
+**TS:** DES, FOR
 **Abilità:** 2 a scelta tra Acrobazia, Atletica, Intimidire, Percezione, Furtività, Sopravvivenza
 
 ---
 # Tabella Pistolero
 
-| Liv | Bonus | Punti Adrenalina | Colpi Tattici | Caratteristiche                                |
+| Liv | Bonus | Punti Adrenalina | Colpi Tattici | Caratteristiche |
 | --- | ----- | ---------------- | ------------- | ---------------------------------------------- |
-| 1   | +2    | —                | —             | Specialista Balistico, Manutenzione Armi       |
-| 2   | +2    | 2                | 2             | Adrenalina, Trick Shots                        |
-| 3   | +2    | 2                | 2             | Specializzazione                               |
-| 4   | +2    | 2                | 2             | Aumento di Caratteristica                      |
-| 5   | +3    | 3                | 2             | Attacco Extra, Tattiche di Fuoco               |
-| 6   | +3    | 3                | 2             | Aumento di Caratteristica                      |
-| 7   | +3    | 3                | 3             | Sangue Freddo                                  |
-| 8   | +3    | 3                | 3             | Aumento di Caratteristica                      |
-| 9   | +4    | 4                | 3             | Privilegio Specializzazione                    |
-| 10  | +4    | 4                | 4             | Ricarica Rapida                                |
-| 11  | +4    | 4                | 4             | Violenza Controllata                           |
-| 12  | +4    | 5                | 4             | Aumento di Caratteristica                      |
-| 13  | +5    | 5                | 5             | Privilegio Specializzazione                    |
-| 14  | +5    | 5                | 5             | Aumento di Caratteristica                      |
-| 15  | +5    | 6                | 5             | Ricarica Lampo                                 |
-| 16  | +5    | 6                | 5             | Aumento di Caratteristica                      |
-| 17  | +6    | 6                | 6             | —                                              |
-| 18  | +6    | 6                | 6             | Privilegio Specializzazione                    |
-| 19  | +6    | 7                | 6             | Aumento di Caratteristica                      |
-| 20  | +6    | 7                | 6             | Leggenda del West                              |
+| 1 | +2 | — | — | Specialista Balistico, Manutenzione Armi |
+| 2 | +2 | 2 | 2 | Adrenalina, Trick Shots |
+| 3 | +2 | 2 | 2 | Specializzazione |
+| 4 | +2 | 2 | 2 | Aumento di Caratteristica |
+| 5 | +3 | 3 | 2 | Attacco Extra, Tattiche di Fuoco |
+| 6 | +3 | 3 | 2 | Aumento di Caratteristica |
+| 7 | +3 | 3 | 3 | Sangue Freddo |
+| 8 | +3 | 3 | 3 | Aumento di Caratteristica |
+| 9 | +4 | 4 | 3 | Privilegio Specializzazione |
+| 10 | +4 | 4 | 4 | Ricarica Rapida |
+| 11 | +4 | 4 | 4 | Violenza Controllata |
+| 12 | +4 | 5 | 4 | Aumento di Caratteristica |
+| 13 | +5 | 5 | 5 | Privilegio Specializzazione |
+| 14 | +5 | 5 | 5 | Aumento di Caratteristica |
+| 15 | +5 | 6 | 5 | Ricarica Lampo |
+| 16 | +5 | 6 | 5 | Aumento di Caratteristica |
+| 17 | +6 | 6 | 6 | — |
+| 18 | +6 | 6 | 6 | Privilegio Specializzazione |
+| 19 | +6 | 7 | 6 | Aumento di Caratteristica |
+| 20 | +6 | 7 | 6 | Leggenda del West |
 
 ---
 ## Specialista Balistico (1°)
 **Passiva**
 >Il Pistolero ha una conoscenza enciclopedica delle armi da fuoco.
 - Ottiene competenza nelle armi da fuoco.
-- Può usare la sua competenza negli strumenti da armaiolo per creare munizioni (costo dimezzato) o riparare armi danneggiate durante un riposo breve.
+- Può usare la sua competenza negli strumenti da armaiolo per creare munizioni (costo dimezzato) o riparare armi danneggiate durante un Riposo Breve.
 - **Munizioni Sperimentali:** Durante un Riposo Lungo, usando gli Strumenti da Artigiano, può creare un numero di proiettili speciali pari al suo Mod SAG (minimo 1). Può scegliere tra *Traccianti* (il bersaglio colpito non può nascondersi o diventare invisibile per 1 minuto) o *Perforanti* (l'attacco ignora la copertura parziale e tre quarti).
 
 ## Manutenzione Armi (1°)
@@ -168,7 +168,7 @@ Il Sicario è velocità pura. Combatte a distanza ravvicinata, spesso con due pi
 **Passiva**
 >Il sistema nervoso del Sicario reagisce prima del pensiero cosciente.
 >Aggiunge il Mod SAG alla CA (Classe Armatura) finché indossa armatura leggera e non impugna scudi.
->Inoltre, ottiene vantaggio ai TS su DES contro effetti che può vedere.
+>Inoltre, ottiene vantaggio ai TS DES contro effetti che può vedere.
 
 ### Tempesta di Piombo (18°)
 **Azione • Costo Variabile**
@@ -184,7 +184,7 @@ Il Fuciliere Arcano combina la tecnologia delle armi con la magia elementale, in
 **Passiva**
 >Il Fuciliere incide fisicamente l'energia ambientale nei propri bossoli.
 - Le sue armi da fuoco sono considerate magiche ai fini delle resistenze.
-- Al termine di un Riposo Breve o Lungo, prepara un caricatore di bossoli runici scegliendo un tipo di danno (Fuoco, Freddo, Fulmine). I danni dell'arma diventano di quel tipo finché non prepara nuovi bossoli al riposo successivo.
+- Al termine di un Riposo Breve o Lungo, prepara un caricatore di bossoli runici scegliendo un tipo di danno (Fuoco, Freddo, Fulmine). I danni dell'arma diventano di quel tipo finché non prepara nuovi bossoli al Riposo successivo.
 
 ### Colpo Arcano (6°)
 **Azione Bonus • 1 Adrenalina**

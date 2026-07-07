@@ -10,47 +10,47 @@ d8
 **Armature:** leggere
 **Armi:** armi semplici, armi da fianco, armi da fuoco *scatter*
 **Strumenti:** set da gioco (carte)
-**Tiri Salvezza:** INT, CAR
+**TS:** INT, CAR
 **Abilità:** 2 a scelta tra Acrobazia, Arcano, Inganno, Intuizione, Intimidire, Indagare, Rapidità di Mano
 
 ---
 # Tabella Croupier
 
-| Liv | Bonus | Caratteristiche                              | Trucchetti | Punti Mazzo | Max Liv. Inc. |
+| Liv | Bonus | Caratteristiche | Trucchetti | Punti Mazzo | Max Liv. Inc. |
 | --- | ----- | -------------------------------------------- | ---------- | ----------- | ------------- |
-| 1   | +2    | Magia delle Carte, Full House                | 3          | 4           | 1°            |
-| 2   | +2    | Specializzazione                             | 3          | 6           | 1°            |
-| 3   | +2    | Riciclo                                      | 3          | 14          | 2°            |
-| 4   | +2    | Aumento di Caratteristica                    | 4          | 17          | 2°            |
-| 5   | +3    | —                                            | 4          | 27          | 3°            |
-| 6   | +3    | Privilegio Specializzazione, Mazzo Fortunato | 4          | 32          | 3°            |
-| 7   | +3    | Botta de Culo                                | 4          | 38          | 4°            |
-| 8   | +3    | Aumento di Caratteristica                    | 4          | 44          | 4°            |
-| 9   | +4    | —                                            | 4          | 57          | 5°            |
-| 10  | +4    | Privilegio Specializzazione                  | 5          | 64          | 5°            |
-| 11  | +4    | Carta Leggendaria (6° liv)                   | 5          | 75          | 5°            |
-| 12  | +4    | Aumento di Caratteristica                    | 5          | 75          | 5°            |
-| 13  | +5    | Carta Leggendaria (7° liv)                   | 5          | 85          | 5°            |
-| 14  | +5    | Privilegio Specializzazione                  | 5          | 85          | 5°            |
-| 15  | +5    | Carta Leggendaria (8° liv)                   | 5          | 95          | 5°            |
-| 16  | +5    | Aumento di Caratteristica                    | 5          | 95          | 5°            |
-| 17  | +6    | Carta Leggendaria (9° liv)                   | 5          | 100         | 5°            |
-| 18  | +6    | —                                            | 5          | 100         | 5°            |
-| 19  | +6    | Aumento di Caratteristica                    | 5          | 100         | 5°            |
-| 20  | +6    | Mazzo delle Leggende                         | 5          | 125         | 5°            |
+| 1 | +2 | Magia delle Carte, Full House | 3 | 4 | 1° |
+| 2 | +2 | Specializzazione | 3 | 6 | 1° |
+| 3 | +2 | Riciclo | 3 | 14 | 2° |
+| 4 | +2 | Aumento di Caratteristica | 4 | 17 | 2° |
+| 5 | +3 | — | 4 | 27 | 3° |
+| 6 | +3 | Privilegio Specializzazione, Mazzo Fortunato | 4 | 32 | 3° |
+| 7 | +3 | Botta de Culo | 4 | 38 | 4° |
+| 8 | +3 | Aumento di Caratteristica | 4 | 44 | 4° |
+| 9 | +4 | — | 4 | 57 | 5° |
+| 10 | +4 | Privilegio Specializzazione | 5 | 64 | 5° |
+| 11 | +4 | Carta Leggendaria (6° liv) | 5 | 75 | 5° |
+| 12 | +4 | Aumento di Caratteristica | 5 | 75 | 5° |
+| 13 | +5 | Carta Leggendaria (7° liv) | 5 | 85 | 5° |
+| 14 | +5 | Privilegio Specializzazione | 5 | 85 | 5° |
+| 15 | +5 | Carta Leggendaria (8° liv) | 5 | 95 | 5° |
+| 16 | +5 | Aumento di Caratteristica | 5 | 95 | 5° |
+| 17 | +6 | Carta Leggendaria (9° liv) | 5 | 100 | 5° |
+| 18 | +6 | — | 5 | 100 | 5° |
+| 19 | +6 | Aumento di Caratteristica | 5 | 100 | 5° |
+| 20 | +6 | Mazzo delle Leggende | 5 | 125 | 5° |
 
 ---
 # Tabella Punti Mazzo
 
 | Livello Incantesimo | Costo in Punti Mazzo |
 | ------------------- | -------------------- |
-| Trucchetto          | 0                    |
-| 1°                  | 2                    |
-| 2°                  | 3                    |
-| 3°                  | 5                    |
-| 4°                  | 6                    |
-| 5°                  | 7                    |
-| Carta Leggendaria   | 25                   |
+| Trucchetto | 0 |
+| 1° | 2 |
+| 2° | 3 |
+| 3° | 5 |
+| 4° | 6 |
+| 5° | 7 |
+| Carta Leggendaria | 25 |
 
 ---
 ## Magia delle Carte (1°)
@@ -72,14 +72,14 @@ d8
 >Le Carte Utility sono Arcani Minori del mazzo: piccoli trucchi, strumenti e manipolazioni pratiche che permettono al Croupier di dare corpo alla propria collezione senza consumare Punti Mazzo.
 >Non sono incantesimi, non contano come Trucchetti e non beneficiano di effetti che potenziano Trucchetti o incantesimi. Quando una Carta Utility viene usata, viene posta nella pila degli scarti, salvo diversa indicazione.
 
-| Carta Utility    | Uso          | Effetto                                                                                                                                                                                                                                                                                                                                                                      |
+| Carta Utility | Uso | Effetto |
 | ---------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **L’Eremita**    | Azione Bonus | Guarda le prime 2 carte del mazzo. Puoi rimetterle in cima al mazzo nello stesso ordine, oppure rimescolarle nel mazzo. Poi scarta questa carta.                                                                                                                                                                                                                             |
-| **Il Diavolo**   | Azione Bonus | Scarta questa carta. La prossima prova di Rapidità di Mano, Inganno o Intrattenere che effettui entro 1 minuto ottiene +1d4.                                                                                                                                                                                                                                                 |
-| **Il Matto**     | Reazione     | Quando una creatura che puoi vedere ti bersaglia con un attacco, puoi scartare questa carta per ottenere +2 alla CA contro quell’attacco.                                                                                                                                                                                                                                    |
-| **La Spada**     | Azione       | Scarta questa carta ed effettua un attacco a distanza con incantesimo contro una creatura o un oggetto entro 9 metri. Se colpisce, infligge 1d4 danni taglienti. In alternativa, può tagliare automaticamente corde, lacci, tessuti, carta, sigilli o materiali non metallici entro portata.                                                                                 |
-| **La Giustizia** | Azione Bonus | Scarta questa carta per creare una nube di fumo in uno spazio entro 9 metri. La nube occupa un cubo di 1,5 metri, fornisce Oscurità Leggera e dura fino all’inizio del tuo prossimo turno. Un vento forte disperde immediatamente la nube.                                                                                                                                   |
-| **Il Mondo**     | Azione       | Metti questa carta da parte, fuori dalla mano, dal mazzo e dalla pila degli scarti, e sigilla al suo interno un oggetto Minuscolo non magico che stai impugnando o toccando e che pesa massimo 0,5 kg. L’oggetto resta conservato nella carta fino al prossimo Riposo Lungo. Puoi recuperarlo usando un’Azione; quando lo fai, Il Mondo viene posto nella pila degli scarti. |
+| **L’Eremita** | Azione Bonus | Guarda le prime 2 carte del mazzo. Puoi rimetterle in cima al mazzo nello stesso ordine, oppure rimescolarle nel mazzo. Poi scarta questa carta. |
+| **Il Diavolo** | Azione Bonus | Scarta questa carta. La prossima prova di Rapidità di Mano, Inganno o Intrattenere che effettui entro 1 minuto ottiene +1d4. |
+| **Il Matto** | Reazione | Quando una creatura che puoi vedere ti bersaglia con un attacco, puoi scartare questa carta per ottenere +2 alla CA contro quell’attacco. |
+| **La Spada** | Azione | Scarta questa carta ed effettua un attacco a distanza con incantesimo contro una creatura o un oggetto entro 9 metri. Se colpisce, infligge 1d4 danni taglienti. In alternativa, può tagliare automaticamente corde, lacci, tessuti, carta, sigilli o materiali non metallici entro portata. |
+| **La Giustizia** | Azione Bonus | Scarta questa carta per creare una nube di fumo in uno spazio entro 9 metri. La nube occupa un cubo di 1,5 metri, fornisce Oscurità Leggera e dura fino all’inizio del tuo prossimo turno. Un vento forte disperde immediatamente la nube. |
+| **Il Mondo** | Azione | Metti questa carta da parte, fuori dalla mano, dal mazzo e dalla pila degli scarti, e sigilla al suo interno un oggetto Minuscolo non magico che stai impugnando o toccando e che pesa massimo 0,5 kg. L’oggetto resta conservato nella carta fino al prossimo Riposo Breve o Lungo Lungo. Puoi recuperarlo usando un’Azione; quando lo fai, Il Mondo viene posto nella pila degli scarti. |
 
 ## Full House (1°)
 **Azione • 1/Riposo Lungo**
@@ -98,7 +98,7 @@ d8
 ## Mazzo Fortunato (6°)
 **Passiva**
 >La maestria del Croupier nel manipolare l'energia arcana si affina.
->Il Croupier aggiunge il proprio Mod CAR ai danni inflitti da qualsiasi Trucchetto (Cantrip) lanciato tramite le carte.
+>Il Croupier aggiunge il proprio Mod CAR ai danni inflitti da qualsiasi Trucchetto lanciato tramite le carte.
 
 ## Botta de Culo (7°)
 **Passiva • 1/Riposo Breve o Lungo**
@@ -179,7 +179,7 @@ La Carta Leggendaria occupa uno spazio nel mazzo e costa 25 Punti Mazzo. Finché
 
 ### Sapere Quando Lasciare (6°)
 **Reazione**
->Quando lo Scommettitore è bersaglio di un attacco o deve fare un TS su DES per dimezzare i danni, può scartare una carta:
+>Quando lo Scommettitore è bersaglio di un attacco o deve fare un TS DES per dimezzare i danni, può scartare una carta:
 - **Contro Attacco:** Subisce metà danni.
 - **Contro Effetto:** Subisce 0 danni se supera il TS, o metà se fallisce.
 
@@ -215,7 +215,7 @@ La Carta Leggendaria occupa uno spazio nel mazzo e costa 25 Punti Mazzo. Finché
 **Azione**
 >Il Prestigiatore piazza una carta come trappola invisibile su una superficie. Quando una creatura si avvicina:
 - Se è un'illusione: si attiva.
-- Se è altro: esplode (TS su CD incantesimo) causando effetti come *Accecato, Assordato* o *Stordito*.
+- Se è altro: esplode (TS contro la CD dell'incantesimo) causando effetti come *Accecato, Assordato* o *Stordito*.
 
 ### ...Tutto Arrosto (14°)
 **Passiva**

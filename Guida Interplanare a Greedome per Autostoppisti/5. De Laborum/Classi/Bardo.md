@@ -10,34 +10,34 @@ d8
 **Armature:** leggere
 **Armi:** armi semplici, balestre a mano, spade lunghe, stocchi, spade corte, armi da fianco, moschetti, fucili e carabine
 **Strumenti:** tre strumenti musicali a scelta
-**Tiri Salvezza:** DES, CAR
+**TS:** DES, CAR
 **Abilità:** 3 a scelta tra qualsiasi abilità
 
 ---
 # Tabella Bardo
 
-| Liv | Bonus | Caratteristiche                                | Trucchetti | Inc. Conosciuti | Max Liv. Inc. |
+| Liv | Bonus | Caratteristiche | Trucchetti | Inc. Conosciuti | Max Liv. Inc. |
 | --- | ----- | ---------------------------------------------- | ---------- | --------------- | ------------- |
-| 1   | +2    | Incantesimi, Ispirazione Bardica               | 2          | 4               | 1°            |
-| 2   | +2    | Factotum, Canto di Riposo                      | 2          | 5               | 1°            |
-| 3   | +2    | Specializzazione, Maestria                     | 2          | 6               | 2°            |
-| 4   | +2    | Aumento di Caratteristica, Versatilità Bardica | 3          | 7               | 2°            |
-| 5   | +3    | Fonte di Ispirazione                           | 3          | 8               | 3°            |
-| 6   | +3    | Privilegio Specializzazione                    | 3          | 9               | 3°            |
-| 7   | +3    | Controfascinazione                             | 3          | 10              | 4°            |
-| 8   | +3    | Aumento di Caratteristica                      | 3          | 11              | 4°            |
-| 9   | +4    | Maestria II                                    | 3          | 12              | 5°            |
-| 10  | +4    | Segreti Magici                                 | 4          | 14              | 5°            |
-| 11  | +4    | —                                              | 4          | 15              | 6°            |
-| 12  | +4    | Aumento di Caratteristica                      | 4          | 15              | 6°            |
-| 13  | +5    | Privilegio Specializzazione                    | 4          | 16              | 7°            |
-| 14  | +5    | Segreti Magici                                 | 4          | 18              | 7°            |
-| 15  | +5    | —                                              | 4          | 19              | 8°            |
-| 16  | +5    | Aumento di Caratteristica                      | 4          | 19              | 8°            |
-| 17  | +6    | —                                              | 4          | 20              | 9°            |
-| 18  | +6    | Segreti Magici                                 | 4          | 22              | 9°            |
-| 19  | +6    | Aumento di Caratteristica                      | 4          | 22              | 9°            |
-| 20  | +6    | Ispirazione Superiore                          | 4          | 22              | 9°            |
+| 1 | +2 | Incantesimi, Ispirazione Bardica | 2 | 4 | 1° |
+| 2 | +2 | Factotum, Canto di Riposo | 2 | 5 | 1° |
+| 3 | +2 | Specializzazione, Maestria | 2 | 6 | 2° |
+| 4 | +2 | Aumento di Caratteristica, Versatilità Bardica | 3 | 7 | 2° |
+| 5 | +3 | Fonte di Ispirazione | 3 | 8 | 3° |
+| 6 | +3 | Privilegio Specializzazione | 3 | 9 | 3° |
+| 7 | +3 | Controfascinazione | 3 | 10 | 4° |
+| 8 | +3 | Aumento di Caratteristica | 3 | 11 | 4° |
+| 9 | +4 | Maestria II | 3 | 12 | 5° |
+| 10 | +4 | Segreti Magici | 4 | 14 | 5° |
+| 11 | +4 | — | 4 | 15 | 6° |
+| 12 | +4 | Aumento di Caratteristica | 4 | 15 | 6° |
+| 13 | +5 | Privilegio Specializzazione | 4 | 16 | 7° |
+| 14 | +5 | Segreti Magici | 4 | 18 | 7° |
+| 15 | +5 | — | 4 | 19 | 8° |
+| 16 | +5 | Aumento di Caratteristica | 4 | 19 | 8° |
+| 17 | +6 | — | 4 | 20 | 9° |
+| 18 | +6 | Segreti Magici | 4 | 22 | 9° |
+| 19 | +6 | Aumento di Caratteristica | 4 | 22 | 9° |
+| 20 | +6 | Ispirazione Superiore | 4 | 22 | 9° |
 
 ---
 
@@ -51,14 +51,14 @@ d8
 ## Ispirazione Bardica (1°)
 **Azione Bonus • Mod CAR/Riposo Lungo**
 >Il Bardo ispira un alleato entro 18 m che può sentirlo.
->Nei successivi 10 minuti, la creatura può tirare il dado e aggiungerlo a un Tiro per Colpire, Tiro Salvezza o Prova di Caratteristica, anche dopo aver visto il risultato del d20 ma prima che il DM dichiari l'esito.
+>Nei successivi 10 minuti, la creatura può tirare il dado e aggiungerlo a un Tiro per Colpire, TS o Prova di Caratteristica, anche dopo aver visto il risultato del d20 ma prima che il DM dichiari l'esito.
 
 | Livello | Dado Ispirazione |
 | :-----: | :--------------: |
-|   1°    |       1d6        |
-|   5°    |       1d8        |
-|   10°   |       1d10       |
-|   15°   |       1d12       |
+|   1° |       1d6 |
+|   5° |       1d8 |
+|   10° |       1d10 |
+|   15° |       1d12 |
 ## Factotum (2°)
 **Passiva**
 >Il Bardo aggiunge metà del suo BC (arrotondato per difetto) a qualsiasi prova di caratteristica che non includa già il suo BC (inclusa l'Iniziativa).
@@ -66,14 +66,14 @@ d8
 ## Canto di Riposo (2°)
 **Passiva**
 >La musica e le parole del Bardo leniscono le ferite.
->Se il Bardo o gli alleati spendono Dadi Vita durante un riposo breve, recuperano Punti Ferita aggiuntivi in base al livello del Bardo:
+>Se il Bardo o gli alleati spendono Dadi Vita durante un Riposo Breve, recuperano Punti Ferita aggiuntivi in base al livello del Bardo:
 
 | Livello | Punti Ferita Extra |
 |:-------:|:------------------:|
-| 2°      | 1d6                |
-| 9°      | 1d8                |
-| 13°     | 1d10               |
-| 17°     | 1d12               |
+| 2° | 1d6 |
+| 9° | 1d8 |
+| 13° | 1d10 |
+| 17° | 1d12 |
 
 ## Specializzazione (3°)
 **Passiva**
@@ -151,7 +151,7 @@ d8
 - **Difesa:** Usare la reazione per aggiungere il dado alla propria CA contro un attacco specifico.
 
 ### Attacco Extra (6°)
-**Azione Extra**
+**Passiva**
 >Il Bardo può attaccare due volte quando usa l'Azione di Attacco.
 
 ### Magia da Battaglia (13°)
@@ -178,7 +178,7 @@ d8
 - **Spingente:** Danni extra pari al dado. L'impatto spinge il bersaglio di 1,5 m + un numero di metri pari al risultato. Il Bardo può usare la sua reazione per muoversi verso di lui (se in mischia) o riposizionarsi in copertura.
 
 ### Attacco Extra (6°)
-**Azione Extra**
+**Passiva**
 >Il Bardo può attaccare due volte quando usa l'Azione di Attacco.
 
 ### Fiori all'Occhiello del Maestro (13°)
@@ -245,7 +245,7 @@ d8
 >Quando dona Ispirazione, un piccolo frammento fluttuante ("Moto") segue l'alleato. Quando il dado viene usato, ha un effetto extra:
 - **Attacco:** Il Moto esplode infliggendo danni da tuono (pari al tiro) a chi circonda il nemico.
 - **Prova:** L'alleato può tirare due dadi di Ispirazione e scegliere il più alto.
-- **Tiro Salvezza:** Il Moto dona PF temporanei (pari al tiro + mod CAR) all'alleato.
+- **TS:** Il Moto dona PF temporanei (pari al tiro + mod CAR) all'alleato.
 
 ### Performance della Creazione (3°)
 **Azione • 1/Riposo Lungo (o 1 Slot)**
@@ -270,7 +270,7 @@ d8
 
 ### Parole Inquietanti (3°)
 **Azione Bonus • 1 Ispirazione Bardica**
->Il Bardo mina le difese di una creatura entro 18 m. Tira il dado e lo sottrae dal prossimo Tiro Salvezza che la creatura farà prima del prossimo turno del Bardo.
+>Il Bardo mina le difese di una creatura entro 18 m. Tira il dado e lo sottrae dal prossimo TS che la creatura farà prima del prossimo turno del Bardo.
 
 ### Ispirazione Infallibile (6°)
 **Passiva**

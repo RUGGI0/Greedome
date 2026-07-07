@@ -9,34 +9,34 @@ d8
 **Armature:** leggere
 **Armi:** armi semplici, balestre a mano, spade lunghe, stocchi, spade corte, armi da fianco, moschetti, fucili a ruota, carabine e fucili
 **Strumenti:** strumenti da scasso (inclusi kit di bypass elettronico o grimaldelli)
-**Tiri Salvezza:** DES, INT
+**TS:** DES, INT
 **Abilità:** 4 a scelta tra Acrobazia, Atletica, Furtività, Indagare, Inganno, Intimidire, Intrattenere, Intuizione, Percezione, Persuasione, Rapidità di Mano
 
 ---
 # Tabella Ladro
 
-| Liv | Bonus | Caratteristiche                            | Attacco Furtivo |
+| Liv | Bonus | Caratteristiche | Attacco Furtivo |
 | --- | ----- | ------------------------------------------ | --------------- |
-| 1   | +2    | Attacco Furtivo, Gergo Criminale, Maestria | 1d6             |
-| 2   | +2    | Azione Scaltra                             | 1d6             |
-| 3   | +2    | Specializzazione, Mira Stabile             | 2d6             |
-| 4   | +2    | Aumento di Caratteristica                  | 2d6             |
-| 5   | +3    | Schivata Prodigiosa                        | 3d6             |
-| 6   | +3    | Maestria II                                | 3d6             |
-| 7   | +3    | Elusione                                   | 4d6             |
-| 8   | +3    | Aumento di Caratteristica                  | 4d6             |
-| 9   | +4    | Privilegio Specializzazione                | 5d6             |
-| 10  | +4    | Aumento di Caratteristica                  | 5d6             |
-| 11  | +4    | Dote Affidabile                            | 6d6             |
-| 12  | +4    | Aumento di Caratteristica                  | 6d6             |
-| 13  | +5    | Privilegio Specializzazione                | 7d6             |
-| 14  | +5    | Senso Cieco                                | 7d6             |
-| 15  | +5    | Mente Sfuggente                            | 8d6             |
-| 16  | +5    | Aumento di Caratteristica                  | 8d6             |
-| 17  | +6    | Privilegio Specializzazione                | 9d6             |
-| 18  | +6    | Elusivo                                    | 9d6             |
-| 19  | +6    | Aumento di Caratteristica                  | 10d6            |
-| 20  | +6    | Colpo di Fortuna                           | 10d6            |
+| 1 | +2 | Attacco Furtivo, Gergo Criminale, Maestria | 1d6 |
+| 2 | +2 | Azione Scaltra | 1d6 |
+| 3 | +2 | Specializzazione, Mira Stabile | 2d6 |
+| 4 | +2 | Aumento di Caratteristica | 2d6 |
+| 5 | +3 | Schivata Prodigiosa | 3d6 |
+| 6 | +3 | Maestria II | 3d6 |
+| 7 | +3 | Elusione | 4d6 |
+| 8 | +3 | Aumento di Caratteristica | 4d6 |
+| 9 | +4 | Privilegio Specializzazione | 5d6 |
+| 10 | +4 | Aumento di Caratteristica | 5d6 |
+| 11 | +4 | Dote Affidabile | 6d6 |
+| 12 | +4 | Aumento di Caratteristica | 6d6 |
+| 13 | +5 | Privilegio Specializzazione | 7d6 |
+| 14 | +5 | Senso Cieco | 7d6 |
+| 15 | +5 | Mente Sfuggente | 8d6 |
+| 16 | +5 | Aumento di Caratteristica | 8d6 |
+| 17 | +6 | Privilegio Specializzazione | 9d6 |
+| 18 | +6 | Elusivo | 9d6 |
+| 19 | +6 | Aumento di Caratteristica | 10d6 |
+| 20 | +6 | Colpo di Fortuna | 10d6 |
 
 ---
 
@@ -80,7 +80,7 @@ d8
 ## Elusione (7°)
 **Passiva**
 >Il Ladro evita istintivamente le esplosioni ad area, come granate o scariche anomale.
->Quando è soggetto a un effetto che permette un TS su DES per dimezzare i danni, non subisce alcun danno se supera il TS, e solo la metà se lo fallisce.
+>Quando è soggetto a un effetto che permette un TS DES per dimezzare i danni, non subisce alcun danno se supera il TS, e solo la metà se lo fallisce.
 
 ## Dote Affidabile (11°)
 **Passiva**
@@ -227,7 +227,7 @@ Veloce, arrogante e letale nel corpo a corpo o a distanza ravvicinata con un'arm
 
 ### Maestro Duellante (17°)
 **Passiva • 1/Riposo Breve o Lungo**
->Se il Ladro fallisce un attacco con un'arma, può decidere di ritirare il dado con Vantaggio. Una volta usato questo privilegio, non può usarlo di nuovo finché non completa un riposo breve o lungo.
+>Se il Ladro fallisce un attacco con un'arma, può decidere di ritirare il dado con Vantaggio. Una volta usato questo privilegio, non può usarlo di nuovo finché non completa un Riposo Breve o Lungo.
 
 ---
 ## <u>Detective</u>
@@ -332,7 +332,7 @@ Un sicario letale connesso con l'aldilà o con l'energia necromantica stagnante 
 ### Sussurri dei Morti (3°)
 **Passiva • 1/Riposo Breve o Lungo**
 >Gli spiriti suggeriscono competenze perdute alla mente del Ladro.
->Alla fine di un riposo breve o lungo, il Ladro sceglie un'abilità o uno strumento: ottiene competenza in esso finché non usa di nuovo questo privilegio.
+>Alla fine di un Riposo Breve o Lungo, il Ladro sceglie un'abilità o uno strumento: ottiene competenza in esso finché non usa di nuovo questo privilegio.
 
 ### Lamenti dalla Tomba (3°)
 **Passiva (Spende Cariche)**
@@ -342,7 +342,7 @@ Un sicario letale connesso con l'aldilà o con l'energia necromantica stagnante 
 ### Simboli dei Defunti (9°)
 **Reazione**
 >Il Ladro solidifica l'essenza di chi muore vicino a lui.
->Quando una creatura muore entro 9 m, il Ladro cattura la sua anima in un Simbolo dell'Anima (come una moneta arrugginita, una cartuccia vuota o una piccola runa). Può averne al massimo un numero pari al suo mod. di Competenza. Un Simbolo fornisce:
+>Quando una creatura muore entro 9 m, il Ladro cattura la sua anima in un Simbolo dell'Anima (come una moneta arrugginita, una cartuccia vuota o una piccola runa). Può averne al massimo un numero pari al suo BC. Un Simbolo fornisce:
 >- **Passiva:** Finché ne possiede almeno uno, ha Vantaggio ai TS COS e contro la Morte.
 >- **Consumabile:** Può distruggere un Simbolo per usare *Lamenti dalla Tomba* senza spendere cariche.
 >- **Interrogatorio (10 min):** Distrugge un Simbolo per fare una singola domanda all'anima imprigionata, ottenendo una risposta veritiera.
@@ -355,7 +355,7 @@ Un sicario letale connesso con l'aldilà o con l'energia necromantica stagnante 
 ### Amico della Morte (17°)
 **Passiva**
 >Il Ladro è tutt'uno con le energie necrotiche.
->Quando usa *Lamenti dalla Tomba*, applica i danni necrotici extra sia al primo bersaglio colpito (quello principale) sia al secondo. Inoltre, all'inizio di ogni riposo lungo, se non ha Simboli dei Defunti, ne genera 1 dal nulla.
+>Quando usa *Lamenti dalla Tomba*, applica i danni necrotici extra sia al primo bersaglio colpito (quello principale) sia al secondo. Inoltre, all'inizio di ogni Riposo Lungo, se non ha Simboli dei Defunti, ne genera 1 dal nulla.
 
 ---
 ## <u>Agente Psionico</u>
@@ -367,7 +367,7 @@ Un infiltrato che genera armi cinetiche o mentali puramente con la volontà. Nes
 >Il Ladro possiede una riserva di Dadi Psionici (d6 che crescono a d8 al 5°, d10 all'11°, d12 al 17°). Il numero di dadi è pari al doppio del BC (recuperati con un Riposo Lungo, 1 con un Breve).
 >Li può usare per:
 >- **Abilità Bisbigliata:** Dopo aver tirato una prova con cui è competente, aggiunge il dado. Se la prova fallisce comunque, il dado *non viene speso*.
->- **Sussurri Mentali:** Connette telepaticamente un numero di creature alleate (pari al mod. di competenza) per un numero di ore pari a un tiro del Dado Psionico (il dado viene speso).
+>- **Sussurri Mentali:** Connette telepaticamente un numero di creature alleate (pari al BC) per un numero di ore pari a un tiro del Dado Psionico (il dado viene speso).
 
 ### Lame Psichiche (3°)
 **Azione / Azione Bonus**
