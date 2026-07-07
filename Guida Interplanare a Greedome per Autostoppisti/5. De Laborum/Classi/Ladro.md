@@ -121,7 +121,7 @@ L'esecutore perfetto. Maestro dei veleni, dei fucili di precisione e delle coper
 ### Assassinare (3°)
 **Passiva**
 >Il Ladro è letale contro chi non è preparato al suo attacco.
-- Ha Vantaggio ai tiri per colpire contro qualsiasi creatura che non abbia ancora agito nel combattimento.
+- Ha Vantaggio ai Tiri per Colpire contro qualsiasi creatura che non abbia ancora agito nel combattimento.
 - Qualsiasi colpo a segno contro una creatura *Sorpresa* è automaticamente un Colpo Critico.
 
 ### Infiltrazione Infallibile (9°)
@@ -192,7 +192,7 @@ Mescola la furtività con anomalie magiche. Usa illusioni e telecinesi per bypas
 ### Distrazione Magica (13°)
 **Azione Bonus**
 >Il Ladro usa le anomalie per confondere l'avversario in mischia.
->Può designare una creatura entro 1,5 m dalla sua *Mano Magica*. Fino alla fine del turno, il Ladro ha Vantaggio ai tiri per colpire contro quel bersaglio.
+>Può designare una creatura entro 1,5 m dalla sua *Mano Magica*. Fino alla fine del turno, il Ladro ha Vantaggio ai Tiri per Colpire contro quel bersaglio.
 
 ### Ladro di Magie (17°)
 **Reazione**
@@ -350,7 +350,7 @@ Un sicario letale connesso con l'aldilà o con l'energia necromantica stagnante 
 ### Camminata Fantasma (13°)
 **Azione Bonus • 1/Riposo Lungo o Spende Simbolo**
 >Il Ladro sfasa parzialmente la sua materia corporea.
->Per 10 minuti ha una velocità di volare di 3 m, può attraversare le creature e gli oggetti solidi (ma subisce 1d10 danni da forza se vi termina il turno) e i tiri per colpire contro di lui subiscono Svantaggio. 
+>Per 10 minuti ha una velocità di volare di 3 m, può attraversare le creature e gli oggetti solidi (ma subisce 1d10 danni da forza se vi termina il turno) e i Tiri per Colpire contro di lui subiscono Svantaggio. 
 
 ### Amico della Morte (17°)
 **Passiva**

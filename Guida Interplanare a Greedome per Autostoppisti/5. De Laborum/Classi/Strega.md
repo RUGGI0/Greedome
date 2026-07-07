@@ -268,7 +268,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 **Passiva**
 >Armata di falcetto e concentrazione d'acciaio.
 - Ottiene competenza in scimitarre, spade corte e stocchi. Il falcetto per lei ottiene la proprietà *Accurata* e infligge 1d6 danni base.
-- Quando attacca con un'arma da mischia in cui è competente, può usare il suo Mod INT, invece di FOR o DES, per i tiri per colpire e per i danni.
+- Quando attacca con un'arma da mischia in cui è competente, può usare il suo Mod INT, invece di FOR o DES, per i Tiri per Colpire e per i danni.
 - Somma il Mod INT ai Tiri per l'Iniziativa e ai TS COS per mantenere la Concentrazione. 
 - Ottiene un bonus alla Classe Armatura pari a metà del Mod INT (arrotondato per eccesso) finché non indossa armature.
 

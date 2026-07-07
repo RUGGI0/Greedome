@@ -10,13 +10,13 @@ Le Patch Hardware sono modifiche al codice della realtà, applicate temporaneame
 **Oggetto infuso:** Un'arma semplice o da guerra
 >Il telaio dell'arma viene alterato molecolarmente: vibra leggermente quando impugnata, guidando in modo semi-autonomo il colpo verso il bersaglio.
 - L'arma diventa a tutti gli effetti un oggetto magico.
-- Ottiene un bonus di +1 ai tiri per colpire e ai tiri per i danni.
+- Ottiene un bonus di +1 ai Tiri per Colpire e ai tiri per i danni.
 
 ### Caricatore a Sintesi Infinita
 **Oggetto infuso:** Un'arma a distanza con la proprietà *Munizioni*
 >L'arma genera autonomamente le proprie munizioni prelevando energia dall'ambiente, sparando proiettili di luce solida che svaniscono subito dopo l'impatto.
 - L'arma ignora la proprietà *Ricarica*, permettendo di sparare senza dover usare azioni o interazioni per inserire nuovi proiettili.
-- Ottiene un bonus di +1 ai tiri per colpire.
+- Ottiene un bonus di +1 ai Tiri per Colpire.
 - I danni inflitti dall'arma sono considerati magici ai fini di superare le resistenze.
 
 ### Zaino a Compressione Spaziale

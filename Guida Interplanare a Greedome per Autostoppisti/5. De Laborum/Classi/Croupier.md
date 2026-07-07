@@ -108,7 +108,7 @@ d8
 
 ## Carta Leggendaria (11°)
 **Passiva**
-La Carta Leggendaria occupa uno spazio nel mazzo e costa 25 Punti Mazzo. Finché è nella mano del Croupier, conferisce +1 alla CD degli incantesimi e ai tiri per colpire degli incantesimi. L’incantesimo contenuto nella Carta Leggendaria può essere lanciato una sola volta per Riposo Lungo. Dopo essere stata lanciata o scartata, la Carta Leggendaria viene rimescolata nel mazzo (se il suo incantesimo è già stato lanciato, conserva solo il bonus passivo).
+La Carta Leggendaria occupa uno spazio nel mazzo e costa 25 Punti Mazzo. Finché è nella mano del Croupier, conferisce +1 alla CD degli incantesimi e ai Tiri per Colpire degli incantesimi. L’incantesimo contenuto nella Carta Leggendaria può essere lanciato una sola volta per Riposo Lungo. Dopo essere stata lanciata o scartata, la Carta Leggendaria viene rimescolata nel mazzo (se il suo incantesimo è già stato lanciato, conserva solo il bonus passivo).
 
 ## Mazzo delle Leggende (20°)
 **Passiva**

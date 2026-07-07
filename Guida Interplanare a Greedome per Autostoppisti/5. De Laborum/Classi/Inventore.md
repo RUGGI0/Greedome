@@ -124,7 +124,7 @@ Il Meccatronomo scende in campo accompagnato da un costrutto d'acciaio, combinan
 **Passiva**
 >Il Meccatronomo ottiene:
 - Competenza in armi da guerra.
-- Quando l'Inventore attacca con un'arma magica (o con Patch): usa il Mod INT invece di FOR/DES, sia per il Tiro per colpire, sia per i danni.
+- Quando l'Inventore attacca con un'arma magica (o con Patch): usa il Mod INT invece di FOR/DES, sia per il Tiro per Colpire, sia per i danni.
 
 ### Drone d'Assalto (3°)
 **Azione Bonus (Comando)**

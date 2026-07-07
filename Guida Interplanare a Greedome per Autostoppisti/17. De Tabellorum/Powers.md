@@ -101,12 +101,12 @@ A differenza della magia tradizionale, i Poteri del Glitch sono hackeraggi al co
 **10 Byte • Azione • 18 m • Concentrazione (fino a 10 min)**
 >Isola una sfera del raggio di 6 metri in cui il tempo ristagna.
 - Le creature all'interno della sfera (eccetto il Glitch) vedono la loro velocità ridotta a 0.
-- Le creature intrappolate hanno Svantaggio a tutti i TS e Prove di Caratteristica, e tutti i tiri per colpire effettuati contro di loro godono di Vantaggio.
+- Le creature intrappolate hanno Svantaggio a tutti i TS e Prove di Caratteristica, e tutti i Tiri per Colpire effettuati contro di loro godono di Vantaggio.
 - Un bersaglio può effettuare un TS COS alla fine di ogni suo turno; se ha successo, ignora gli effetti della bolla fino all'inizio del suo prossimo turno.
 
 ### Overclock del Kernel
 **12 Byte • Azione • Personale • Concentrazione (fino a 1 min)**
 >Il Glitch rimuove i propri limitatori fisici, trasformandosi in una sfocatura letale.
-- Per la durata: la velocità aumenta di 6 metri; il Glitch ignora gli Attacchi di Opportunità; i tiri per colpire contro di lui hanno Svantaggio.
+- Per la durata: la velocità aumenta di 6 metri; il Glitch ignora gli Attacchi di Opportunità; i Tiri per Colpire contro di lui hanno Svantaggio.
 - I suoi attacchi in mischia infliggono 5d6 + il Mod. Intelligenza danni extra.
 - **Fine Carica (Crash):** Quando l'effetto termina (o la concentrazione viene spezzata), il sovraccarico esplode. Il Glitch e tutte le creature entro 6 metri da lui subiscono inevitabilmente 5d6 + il Mod. Intelligenza danni da forza.

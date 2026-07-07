@@ -82,7 +82,7 @@ d8
 - **Akimbo:** Quando impugni due armi da fuoco *leggere*, puoi aggiungere il tuo Mod di caratteristica ai danni del secondo attacco. Puoi ricaricare entrambe le armi da fuoco leggere contemporaneamente usando un'Azione Bonus.
 - **Incursore:** Quando effettui un attacco con un'arma da fuoco contro una creatura entro 4,5 metri (15 ft) e tiri un 1 o un 2 sul dado di danno, puoi ritirare il dado e devi usare il nuovo risultato, anche se è un 1 o un 2. L'arma da fuoco deve avere la proprietà *Scatter* (Dispersione) per ottenere questo beneficio.
 - **Duellante:** Quando impugni un'arma da fianco (*sidearm*) in una mano e nessun'altra arma, ottieni un bonus di +2 ai tiri per i danni con queste armi.
-- **Fucileria:** Quando impugni un'arma da fuoco a due mani che non ha la proprietà *Bulky* (Ingombrante) o *Scatter*, ottieni un bonus di +2 ai tiri per colpire con quell'arma.
+- **Fucileria:** Quando impugni un'arma da fuoco a due mani che non ha la proprietà *Bulky* (Ingombrante) o *Scatter*, ottieni un bonus di +2 ai Tiri per Colpire con quell'arma.
 - **Tiratore Scelto:** Se effettui un attacco con un'arma da fuoco a due mani contro un bersaglio oltre i 9 metri (30 ft), ottieni un bonus di +2 ai tiri per i danni. L'arma da fuoco non deve avere la proprietà *Scatter* per ottenere questo beneficio.
 - **Tiratore con Scudo:** Ora puoi impugnare un'arma da fuoco a *due mani* insieme a uno scudo, ma per sparare devi prima appoggiarla allo scudo usando un'Azione Bonus.
 

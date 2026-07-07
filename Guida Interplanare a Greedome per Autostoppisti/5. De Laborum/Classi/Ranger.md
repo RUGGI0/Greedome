@@ -197,7 +197,7 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 ### Sincronia del Branco (7°)
 **Passiva**
 >Avete imparato a cacciare lo stesso bersaglio senza ostacolarvi a vicenda.
-- Finché è entro 1,5 metri dalla sua bestia, hanno entrambi Vantaggio ai tiri per colpire in mischia contro un nemico adiacente a entrambi.
+- Finché è entro 1,5 metri dalla sua bestia, hanno entrambi Vantaggio ai Tiri per Colpire in mischia contro un nemico adiacente a entrambi.
 - Gli attacchi della bestia beneficiano del privilegio *Bersaglio Tattico*: se il cane colpisce per primo nel turno il nemico marcato, è lui ad aggiungere i danni extra del dado del Bersaglio Tattico.
 
 ### Furia del Mastino (11°)
