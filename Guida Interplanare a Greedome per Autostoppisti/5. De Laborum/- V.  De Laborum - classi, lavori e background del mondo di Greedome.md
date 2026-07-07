@@ -6,22 +6,22 @@
 | **[[Inventor]]**      | T    | Costruttore di macchine e automi.                      |
 | **[[Technomancer]]**  | T    | Controlla energia e tecnologia magica.                 |
 | **[[Glitch]]**        | T    | Essere corrotto o digitale, manipola errori di realtà. |
-| **[[-Magus]]**         | M/F  | Guerriero che fonde incanto e acciaio.                 |
-| **[[_Psionic]]**       | M    | Potere mentale, telepatia, telecinesi.                 |
+| **[[_Thaumaturgo]]**         | M/F  | Guerriero che fonde incanto e acciaio.                 |
+| **[[_Psionico]]**       | M    | Potere mentale, telepatia, telecinesi.                 |
 | **[[Warlock]]**       | M    | Intermediario tra spiriti e uomini.                    |
 | **[[Strega]]**         | M    | Maledizioni e patti oscuri.                            |
 | **[[Croupier]]**    | M    | Fato e fortuna incantati nelle carte.                  |
-| **[[_Bloodhunter]]**   | M    | Potere nel sangue e sacrificio.                        |
-| **[[_Pirate]]**        | F    | Combattente libero e carismatico dei mari.             |
+| **[[_Sangromante]]**   | M    | Potere nel sangue e sacrificio.                        |
+| **[[_Pirata]]**        | F    | Combattente libero e carismatico dei mari.             |
 | **[[Ranger]]**        | F    | Cacciatore ed esploratore.                             |
 | **[[Ladro]]**         | F    | Maestro della furtività e precisione.                  |
-| **[[_Vanguard]]**      | F    | Difensore disciplinato e tattico.                      |
-| **[[_Samurai]]**       | F    | Guerriero dell’onore e della disciplina.               |
+| **[[_Katafrakto]]**      | F    | Difensore disciplinato e tattico.                      |
+| **[[_Samurai (DLC)]]**       | F    | Guerriero dell’onore e della disciplina.               |
 | **[[_Luchador]]**      | F    | Combattente acrobatico e teatrale.                     |
-| **[[_Merchant]]**      | S    | Maestro del commercio e della manipolazione economica. |
+| **[[_Mercante]]**      | S    | Maestro del commercio e della manipolazione economica. |
 | **[[_Detective]]**     | S    | Analista e risolutore di misteri.                      |
-| **[[_Medic]]**         | S    | Guaritore empatico e razionale.                        |
-| **[[_Archaeologist]]** | S    | Esploratore erudito e diplomatico culturale.           |
+| **[[_Medico]]**         | S    | Guaritore empatico e razionale.                        |
+| **[[_Archeologo]]** | S    | Esploratore erudito e diplomatico culturale.           |
 | **[[Bardo]]**          | M/S  | Artista incantatore e manipolatore emotivo.            |
 
 | Tipo                | Classi                                                                 | Totale           |
