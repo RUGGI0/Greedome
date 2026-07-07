@@ -143,7 +143,7 @@ Il Meccatronomo scende in campo accompagnato da un costrutto d'acciaio, combinan
 
 ### Attacco Extra (5°)
 **Passiva**
->Il Meccatronomo può attaccare due volte quando usa l'azione di Attacco.
+>Il Meccatronomo può attaccare due volte quando usa l'Azione di Attacco.
 
 ### Scarica Cinetica (9°)
 **Colpo/Drone • Mod INT/Riposo Lungo**
@@ -229,7 +229,7 @@ Il Juggernaut trasforma il proprio corpo in una macchina da guerra, fondendosi c
 
 ### Attacco Extra (5°)
 **Passiva**
->Il Juggernaut può attaccare due volte quando usa l'azione di Attacco.
+>Il Juggernaut può attaccare due volte quando usa l'Azione di Attacco.
 
 ### Modifiche Modulari (9°)
 **Passiva**

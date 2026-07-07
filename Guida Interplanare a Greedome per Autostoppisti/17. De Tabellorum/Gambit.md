@@ -6,7 +6,7 @@ I **Gambit** sono manovre tattiche avanzate apprese dai [[Ranger]], nate dall’
   
 - **Primo Soccorso:** Come Azione Bonus, puoi spendere un Dado Gambit per fasciare le ferite di una creatura vivente adiacente a te, o di te stesso. La creatura recupera Punti Ferita pari al risultato del Dado Gambit + il tuo Mod SAG.
 
-- **Tiro Preciso:** Se manchi un attacco con un'arma, puoi spendere un Dado Gambit per sommare il risultato al tiro per colpire, potendo trasformare il fallimento in un successo.
+- **Tiro Preciso:** Se manchi un attacco con un'arma, puoi spendere un Dado Gambit per sommare il risultato al Tiro per Colpire, potendo trasformare il fallimento in un successo.
 
 - **Movimento in Copertura:** Quando provochi un Attacco di Opportunità muovendoti, puoi usare la tua Reazione e spendere un Dado Gambit. Aggiungi il risultato del Dado Gambit alla tua Classe Armatura contro quell'attacco.
 
@@ -27,7 +27,7 @@ I **Gambit** sono manovre tattiche avanzate apprese dai [[Ranger]], nate dall’
 ---
 ## Gambit Bestiali
 
-- **Zanne alla Gola:** Quando impartisci l'ordine di Attaccare al tuo compagno animale, puoi spendere un Dado Gambit. Se l'attacco della bestia colpisce, aggiunge il risultato del Dado Gambit ai danni, e il bersaglio deve superare un TS FOR (CD = 8 + Mod SAG + BC) o finire Prono.
+- **Zanne alla Gola:** Quando impartisci l'ordine di Attaccare al tuo compagno animale, puoi spendere un Dado Gambit. Se l'attacco della bestia colpisce, aggiunge il risultato del Dado Gambit ai danni, e il bersaglio deve superare un TS FOR (CD = 8 + Mod SAG + BC) o finire *Prono*.
 
 - **Fiuto Tattico:** Come Azione Bonus, puoi spendere un Dado Gambit. Il cane punta un bersaglio invisibile o nascosto entro 9 metri, annullandone temporaneamente i vantaggi: il prossimo attacco che tu o un tuo alleato effettuate contro quel bersaglio ha Vantaggio e infligge danni extra pari al risultato del Dado Gambit.
 

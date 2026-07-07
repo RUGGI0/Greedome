@@ -19,7 +19,7 @@ A differenza degli incantesimi tradizionali, i Malocchi sono micro-maledizioni i
 **Azione Bonus • 36 m**
 >Fiamme fredde ed eteree avvolgono il nemico, rendendolo un bersaglio illuminato e vulnerabile.
 - Il bersaglio emette luce fioca in un raggio di 3 metri fino all'inizio del tuo prossimo turno.
-- Il prossimo tiro per colpire effettuato contro la creatura prima dell'inizio del tuo prossimo turno ha Vantaggio.
+- Il prossimo Tiro per Colpire effettuato contro la creatura prima dell'inizio del tuo prossimo turno ha Vantaggio.
 
 ### Repellente
 **Azione Bonus • 36 m**
@@ -35,7 +35,7 @@ A differenza degli incantesimi tradizionali, i Malocchi sono micro-maledizioni i
 ### Sfortuna
 **Azione Bonus • 36 m**
 >Pieghi le probabilità cosmiche a sfavore del nemico, garantendo il suo fallimento.
-- Il prossimo tiro per colpire che la creatura effettua prima dell'inizio del tuo prossimo turno subisce Svantaggio.
+- Il prossimo Tiro per Colpire che la creatura effettua prima dell'inizio del tuo prossimo turno subisce Svantaggio.
 
 ---
 # Malocchi Avanzati

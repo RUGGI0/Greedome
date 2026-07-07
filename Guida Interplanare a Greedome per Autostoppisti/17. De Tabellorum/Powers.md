@@ -10,7 +10,7 @@ A differenza della magia tradizionale, i Poteri del Glitch sono hackeraggi al co
 **1 Byte • Azione • 18 m**
 >Una spaccatura della realtà, simile a un fulmine vettoriale, che colpisce il bersaglio con estrema precisione.
 - L'attacco infligge 1d8 + il Mod INT danni da fulmine (o forza).
-- Il bersaglio subisce Svantaggio al suo prossimo tiro per colpire effettuato prima dell'inizio del prossimo turno del Glitch.
+- Il bersaglio subisce Svantaggio al suo prossimo Tiro per Colpire effettuato prima dell'inizio del prossimo turno del Glitch.
 
 ### Passo Laggante
 **2 Byte • Azione Bonus • Personale**
@@ -76,7 +76,7 @@ A differenza della magia tradizionale, i Poteri del Glitch sono hackeraggi al co
 - Durante il suo turno, il Glitch può cambiare la modalità del Maelstrom usando un'Azione Bonus:
   - **Assorbimento Cinetico:** Costa ai nemici 1,5 m di movimento extra per ogni 1 m percorso nell'area. Per ogni 1,5 m extra spesi, il Glitch guadagna 1,5 m di movimento nel suo turno successivo.
   - **Mondo Distorto:** Gli attacchi in mischia contro il Glitch e i suoi alleati nell'area hanno Svantaggio. Immunità totale ai proiettili non magici per chiunque si trovi all'interno.
-  - **Collasso Logico:** I nemici nell'area hanno Svantaggio ai TS INT e Saggezza. Se falliscono un TS di 5 o più, subiscono 1d8 danni Psichici.
+  - **Collasso Logico:** I nemici nell'area hanno Svantaggio ai TS INT e TS SAG. Se falliscono un TS di 5 o più, subiscono 1d8 danni Psichici.
 
 ### Schianto Vettoriale
 **6 Byte • Azione • 12 m • Istantaneo**

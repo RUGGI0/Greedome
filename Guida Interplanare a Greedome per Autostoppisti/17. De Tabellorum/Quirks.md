@@ -28,5 +28,5 @@ I Quirk sono difetti minori della realtà che il Glitch ha imparato a stabilizza
 ### Distorsione Cinetico-Vettoriale
 **Reazione**
 >Il Glitch piega le leggi della fisica alterando l'attrito e la gravità attorno ai proiettili fisici entro 9 metri da lui (questa abilità non ha effetto contro attacchi puramente energetici o magici).
-- **Uso Offensivo:** Quando il Glitch o un alleato entro 9 m effettua un attacco a distanza, il Glitch può usare la reazione per conferire Vantaggio a quell’attacco. Se il tiro aveva già Vantaggio per altri motivi, aggiunge invece +1d4 al tiro per colpire.
+- **Uso Offensivo:** Quando il Glitch o un alleato entro 9 m effettua un attacco a distanza, il Glitch può usare la reazione per conferire Vantaggio a quell’attacco. Se il tiro aveva già Vantaggio per altri motivi, aggiunge invece +1d4 al Tiro per Colpire.
 - **Uso Difensivo:** Quando un proiettile sparato da entro 9 m sta per colpire il Glitch, questi può usare la reazione per dimezzare l'energia cinetica del colpo, dimezzando i danni ricevuti da quell'attacco.

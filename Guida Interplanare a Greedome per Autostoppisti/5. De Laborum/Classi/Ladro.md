@@ -44,7 +44,7 @@ d8
 **Passiva (1/Turno)**
 >Il Ladro sa come colpire i punti deboli con letale precisione.
 >Infligge danni extra (vedi colonna "Attacco Furtivo" nella tabella) a una creatura colpita con un attacco, purché usi un'arma accurata (*finesse*) o a distanza.
->Per applicare il danno, il Ladro deve avere Vantaggio al tiro per colpire, **OPPURE** un nemico del bersaglio deve essere entro 1,5 m da esso e non incapacitato (e il Ladro non deve avere Svantaggio al tiro).
+>Per applicare il danno, il Ladro deve avere Vantaggio al Tiro per Colpire, **OPPURE** un nemico del bersaglio deve essere entro 1,5 m da esso e non incapacitato (e il Ladro non deve avere Svantaggio al tiro).
 
 ## Gergo Criminale (1°)
 **Passiva**
@@ -67,7 +67,7 @@ d8
 ## Mira Stabile (3°)
 **Azione Bonus**
 >Il Ladro si ferma per allineare il tiro nel mirino o studiare l'angolo di attacco perfetto.
->Ottiene Vantaggio al suo prossimo tiro per colpire nel turno. Può usare questa abilità solo se non si è mosso nel turno attuale, e dopo averla usata la sua velocità scende a 0 fino alla fine del turno.
+>Ottiene Vantaggio al suo prossimo Tiro per Colpire nel turno. Può usare questa abilità solo se non si è mosso nel turno attuale, e dopo averla usata la sua velocità scende a 0 fino alla fine del turno.
 
 ## Schivata Prodigiosa (5°)
 **Reazione**
@@ -100,7 +100,7 @@ d8
 ## Elusivo (18°)
 **Passiva**
 >Il Ladro è impossibile da inquadrare o accerchiare.
->Nessun tiro per colpire ha Vantaggio contro di lui, purché il Ladro non sia incapacitato.
+>Nessun Tiro per Colpire ha Vantaggio contro di lui, purché il Ladro non sia incapacitato.
 
 ## Colpo di Fortuna (20°)
 **Passiva • 1/Riposo Breve o Lungo**
@@ -137,7 +137,7 @@ L'esecutore perfetto. Maestro dei veleni, dei fucili di precisione e delle coper
 ### Colpo Letale (17°)
 **Passiva**
 >L'attacco a sorpresa del Ladro è in grado di spezzare la vita in un istante.
->Quando colpisce una creatura *Sorpresa*, questa deve superare un TS COS (CD 8 + Mod DES + Mod Competenza). Se fallisce, i danni di quell'attacco sono raddoppiati.
+>Quando colpisce una creatura *Sorpresa*, questa deve superare un TS COS (CD = 8 + Mod DES + BC). Se fallisce, i danni di quell'attacco sono raddoppiati.
 
 ---
 ## <u>Scassinatore</u>
@@ -213,7 +213,7 @@ Veloce, arrogante e letale nel corpo a corpo o a distanza ravvicinata con un'arm
 **Passiva**
 >La sfrontatezza in combattimento fornisce aperture fatali.
 - Il Ladro aggiunge il Mod CAR al suo tiro per l'Iniziativa.
-- Non ha bisogno di Vantaggio per l'Attacco Furtivo se si trova entro 1,5 m dal bersaglio, nessun'altra creatura è entro 1,5 m dal Ladro e non ha Svantaggio al tiro per colpire.
+- Non ha bisogno di Vantaggio per l'Attacco Furtivo se si trova entro 1,5 m dal bersaglio, nessun'altra creatura è entro 1,5 m dal Ladro e non ha Svantaggio al Tiro per Colpire.
 
 ### Panache (9°)
 **Azione**
@@ -322,7 +322,7 @@ L'esperto di guerriglia urbana, sabotaggio tattico e sopravvivenza nei bassifond
 ### Colpo Improvviso (17°)
 **Azione Bonus**
 >Il Ladro scatena un rapido fuoco di copertura o una seconda raffica di colpi.
->Se il Ladro usa l'azione di Attacco, può effettuare un attacco aggiuntivo come Azione Bonus. Questo colpo può beneficiare dell'Attacco Furtivo anche se il Ladro lo ha già usato in questo turno, a patto che il bersaglio sia diverso.
+>Se il Ladro usa l'Azione di Attacco, può effettuare un attacco aggiuntivo come Azione Bonus. Questo colpo può beneficiare dell'Attacco Furtivo anche se il Ladro lo ha già usato in questo turno, a patto che il bersaglio sia diverso.
 
 ---
 ## <u>Lama Trapassata</u>
@@ -372,12 +372,12 @@ Un infiltrato che genera armi cinetiche o mentali puramente con la volontà. Nes
 ### Lame Psichiche (3°)
 **Azione / Azione Bonus**
 >Il Ladro manifesta lame fiammeggianti di energia mentale.
->Ogni volta che fa un attacco, può manifestare la lama (accurata, da lancio fino a 18 m). Infligge 1d6 danni Psichici. Se usa l'azione di Attacco con questa lama, può manifestarne una seconda come Azione Bonus e attaccare, infliggendo 1d4 danni Psichici. Le lame scompaiono immediatamente dopo aver colpito o mancato, non lasciando segni visibili.
+>Ogni volta che fa un attacco, può manifestare la lama (accurata, da lancio fino a 18 m). Infligge 1d6 danni Psichici. Se usa l'Azione di Attacco con questa lama, può manifestarne una seconda come Azione Bonus e attaccare, infliggendo 1d4 danni Psichici. Le lame scompaiono immediatamente dopo aver colpito o mancato, non lasciando segni visibili.
 
 ### Lame dell'Anima (9°)
 **Speciale**
 >Le Lame Psichiche sbloccano nuovi utilizzi tattici usando i Dadi Psionici:
->- **Colpo Infallibile:** Se manca un attacco con la lama, spende 1 dado e aggiunge il risultato al tiro per colpire (se manca comunque, il dado non è perso).
+>- **Colpo Infallibile:** Se manca un attacco con la lama, spende 1 dado e aggiunge il risultato al Tiro per Colpire (se manca comunque, il dado non è perso).
 >- **Traslazione:** Lancia una lama e spende 1 dado. Il Ladro si teletrasporta nello spazio in cui la lama sta per atterrare (fino a distanza pari a un numero di metri: 3 x il tiro del dado).
 
 ### Velo Psichico (13°)
@@ -388,4 +388,4 @@ Un infiltrato che genera armi cinetiche o mentali puramente con la volontà. Nes
 ### Squarcia Mente (17°)
 **Passiva (Spende 3 Dadi Psionici)**
 >Un colpo mentale devastante in grado di resettare il cervello del nemico.
->Quando infligge un Attacco Furtivo con una Lama Psichica, il bersaglio deve superare un TS SAG (CD 8 + Mod DES + BC). Se fallisce, il bersaglio è *Stordito* per 1 minuto (ripete il tiro alla fine di ogni suo turno per terminare l'effetto).
+>Quando infligge un Attacco Furtivo con una Lama Psichica, il bersaglio deve superare un TS SAG (CD = 8 + Mod DES + BC). Se fallisce, il bersaglio è *Stordito* per 1 minuto (ripete il tiro alla fine di ogni suo turno per terminare l'effetto).

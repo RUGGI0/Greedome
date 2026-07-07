@@ -85,7 +85,7 @@ d10
 ## Mimetismo Tattico (10°)
 **Azione Bonus • Costo Variabile**
 >Sfrutti coperture ambientali, teli mimetici o fumogeni tattici per sparire dalla vista.
-- Come Azione Bonus, diventi Invisibile fino all'inizio del tuo prossimo turno (o finché non effettui un attacco o costringi qualcuno a fare un TS).
+- Come Azione Bonus, diventi *Invisibile* fino all'inizio del tuo prossimo turno (o finché non effettui un attacco o costringi qualcuno a fare un TS).
 - Puoi usare questo privilegio un numero di volte pari al tuo BC, dopodiché devi completare un Riposo Lungo. In alternativa, puoi spendere un Dado Gambit per usarlo nuovamente senza consumare l'Azione Bonus.
 
 ## Svanire (14°)
@@ -95,13 +95,13 @@ d10
 ## Sensi Affinati (18°)
 **Passiva**
 >Il tuo addestramento ti permette di combattere affidandoti all'udito e all'istinto.
-- Quando attacchi una creatura che non puoi vedere, non subisci Svantaggio al tiro per colpire a causa della cecità.
+- Quando attacchi una creatura che non puoi vedere, non subisci Svantaggio al Tiro per Colpire a causa della cecità.
 - Sei consapevole dell'esatta posizione di qualsiasi creatura invisibile entro 9 metri da te, purché tu non sia sordo e la creatura non si sia nascosta con successo.
 
 ## Predatore Implacabile (20°)
 **Passiva**
 >Sei la letale perfezione della tua unità.
-- Una volta per ciascuno dei tuoi turni, puoi sommare il tuo Mod SAG al tiro per colpire o al tiro per i danni di un attacco che effettui contro il tuo *Bersaglio Tattico*. Puoi compiere questa scelta prima o dopo aver effettuato il tiro.
+- Una volta per ciascuno dei tuoi turni, puoi sommare il tuo Mod SAG al Tiro per Colpire o al tiro per i danni di un attacco che effettui contro il tuo *Bersaglio Tattico*. Puoi compiere questa scelta prima o dopo aver effettuato il tiro.
 
 ---
 # Gambit
@@ -204,7 +204,7 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 **Passiva**
 >Il tuo compagno diventa una belva inarrestabile, addestrata a dilaniare le corazze.
 - I morsi della bestia sono considerati attacchi magici ai fini di superare le resistenze.
-- Quando ordina alla bestia di prendere l'azione di Attacco, essa può effettuare due attacchi anziché uno.
+- Quando ordina alla bestia di prendere l'Azione di Attacco, essa può effettuare due attacchi anziché uno.
 
 ### Sacrificio Leale (15°)
 **Reazione**
@@ -235,7 +235,7 @@ vedi [[Gambit]] nel capitolo *17. De Tabellorum*
 ### Riflessi da Trincea (11°)
 **Passiva**
 >Nessuno ti sfugge in combattimento ravvicinato.
-- Quando effettua un Attacco di Opportunità contro una creatura, ha Vantaggio al tiro per colpire. Se colpisce, la velocità della creatura si riduce a 0 fino alla fine del suo turno.
+- Quando effettua un Attacco di Opportunità contro una creatura, ha Vantaggio al Tiro per Colpire. Se colpisce, la velocità della creatura si riduce a 0 fino alla fine del suo turno.
 
 ### Carneficina a Corto Raggio (15°)
 **Passiva**

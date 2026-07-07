@@ -276,7 +276,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 **Passiva**
 >Famiglio e padrona attaccano in perfetta sincronia.
 - Una volta nel turno della Strega, quando colpisce con un'arma da mischia, il Famiglio può usare la sua Reazione per effettuare un attacco in mischia contro un nemico adiacente al famiglio stesso. 
-- Usa il BC della Strega e il Mod INT della Strega per il tiro per colpire: infligge 1d6 danni magici (2d6 al 6°, 3d6 al 10°, 4d6 al 14°, 5d6 al 18°).
+- Usa il BC della Strega e il Mod INT della Strega per il Tiro per Colpire: infligge 1d6 danni magici (2d6 al 6°, 3d6 al 10°, 4d6 al 14°, 5d6 al 18°).
 
 ### Attacco Extra (6°)
 **Passiva**
@@ -358,7 +358,7 @@ In caso di tradimento della propria Congregazione o della Pax Stregorium, il Mar
 **Passiva**
 >Il famiglio è uno spirito guida tra i due mondi.
 - Il famiglio assume una forma spettrale. Ottiene una velocità di Volare 9 m (Fluttuare). 
-- Come Azione può diventare Invisibile per un turno. Oltrepassa materia solida (ma se termina il turno in un muro subisce 2d10 danni da forza). Ha Resistenza a tutti i danni tranne psichici, radiosi, o contundenti, perforanti e taglienti da attacchi magici.
+- Come Azione può diventare *Invisibile* per un turno. Oltrepassa materia solida (ma se termina il turno in un muro subisce 2d10 danni da forza). Ha Resistenza a tutti i danni tranne psichici, radiosi, o contundenti, perforanti e taglienti da attacchi magici.
 - Se si trova nello spazio di una creatura alleata, il famiglio può usare una Reazione per concederle un beneficio spettrale per 1 turno (1 volta per Riposo Breve).
 
 ### Lettura del Destino (10°)

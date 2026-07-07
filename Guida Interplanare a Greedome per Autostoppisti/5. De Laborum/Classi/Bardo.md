@@ -223,7 +223,7 @@ d8
 
 ### Parole di Terrore (3°)
 **Azione (1 min) • 1/Riposo Breve o Lungo**
->Il Bardo parla privatamente con un bersaglio. Se fallisce un TS SAG, il bersaglio è Spaventato dal Bardo o da un bersaglio a scelta del Bardo per 1 ora.
+>Il Bardo parla privatamente con un bersaglio. Se fallisce un TS SAG, il bersaglio è *Spaventato* dal Bardo o da un bersaglio a scelta del Bardo per 1 ora.
 
 ### Manto dei Sussurri (6°)
 **Reazione • 1/Riposo Breve o Lungo**
@@ -233,7 +233,7 @@ d8
 ### Sapere Oscuro (13°)
 **Azione • 1 Ispirazione Bardica**
 >Il Bardo sussurra la più grande paura di una creatura (scoperta magicamente in quel momento). Il bersaglio fa un TS SAG.
->Se fallisce, è Affascinato e terrorizzato all'idea che il Bardo riveli i suoi segreti, obbedendo ai suoi ordini per 8 ore.
+>Se fallisce, è *Affascinato* e terrorizzato all'idea che il Bardo riveli i suoi segreti, obbedendo ai suoi ordini per 8 ore.
 
 ---
 ## <u>Collegio della Creazione</u>

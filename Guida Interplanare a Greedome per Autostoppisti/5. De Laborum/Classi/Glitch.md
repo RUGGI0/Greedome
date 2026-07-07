@@ -136,7 +136,7 @@ vedi [[Powers]] nel capitolo *17. De Tabellorum*
 - Attiva un oggetto tecnologico.
 >Il bersaglio compie un TS INT:
 - **Fallimento:** l’azione fallisce e il bersaglio perde la capacità di quell'azione fino al suo prossimo turno.
-- **Successo:** svantaggio al prossimo tiro per colpire o TS.
+- **Successo:** svantaggio al prossimo Tiro per Colpire o TS.
 
 ### Upload Corrotto (6°)
 **4 Byte • Azione Bonus • 9 m**
