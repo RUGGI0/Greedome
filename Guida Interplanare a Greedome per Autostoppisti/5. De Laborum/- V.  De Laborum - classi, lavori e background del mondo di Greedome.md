@@ -11,7 +11,7 @@
 | **[[Warlock]]**       | M    | Intermediario tra spiriti e uomini.                    |
 | **[[Strega]]**         | M    | Maledizioni e patti oscuri.                            |
 | **[[Croupier]]**    | M    | Fato e fortuna incantati nelle carte.                  |
-| **[[_Sangromante]]**   | M    | Potere nel sangue e sacrificio.                        |
+| **[[Sangromante]]**   | M    | Potere nel sangue e sacrificio.                        |
 | **[[_Pirata]]**        | F    | Combattente libero e carismatico dei mari.             |
 | **[[Ranger]]**        | F    | Cacciatore ed esploratore.                             |
 | **[[Ladro]]**         | F    | Maestro della furtività e precisione.                  |
