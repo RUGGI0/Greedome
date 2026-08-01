@@ -3,6 +3,7 @@
 *A Greedome, i Sangromanti sono tollerati solo finché restano nascosti o utili. Le corporazioni biotecniche li studiano come risorse da brevettare, i culti ematici li venerano come profeti della carne, mentre autorità civili e ordini religiosi li trattano come torturatori, mostri o armi viventi. La loro arte non fa paura perché uccide: fa paura perché dimostra che un corpo può smettere di appartenere a chi lo abita.*
 
 *Per il Sangromante, ogni ferita è un accesso, ogni battito è un segnale e ogni vena è un filo teso. Quando alza una mano, il nemico non viene convinto, maledetto o ipnotizzato: viene mosso dall'interno.*
+
 ---
 # Privilegi di Classe Sangromante
 
