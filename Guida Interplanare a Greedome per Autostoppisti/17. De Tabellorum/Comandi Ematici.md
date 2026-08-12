@@ -2,11 +2,15 @@ I **Comandi Ematici** sono capacità specifiche del [[Sangromante]]. Non sono in
 
 In termini pratici, i Comandi Ematici rispondono alla domanda: **cosa fai al corpo del bersaglio in questo turno?** Bloccare una gamba, piegare un braccio, chiudere la gola, deviare un riflesso o forzare un movimento sono Comandi Ematici.
 
+Salvo diversa indicazione, quando un Comando Ematico richiede un TS, il bersaglio lo effettua contro la **CD Sangromantica** del Sangromante.
+
 Quando un Comando Ematico usa la **Potenza Ematica**, usa il valore definito dal privilegio **Sangue Catalitico** del Sangromante.
 
-Salvo diversa indicazione, se un Comando Ematico richiede un TS, il bersaglio lo effettua contro la **CD Sangromantica** del Sangromante.
+Puoi usare **Catalisi Vitale** per potenziare un Comando Ematico che usa la tua Potenza Ematica, rispettando il limite di 1/Turno.
 
-Se un Comando Ematico richiede un TS e il bersaglio lo fallisce, il Sangromante può usare **Catalisi Vitale** per aumentare la Potenza Ematica di quel Comando, rispettando il limite di 1/Turno.
+Se il Comando richiede un TS, puoi dichiarare Catalisi Vitale dopo aver visto che il bersaglio ha fallito il TS, salvo diversa indicazione.
+
+Se il Comando non richiede un TS, devi dichiarare Catalisi Vitale prima di applicarne gli effetti.
 
 ---
 # Comandi Ematici Base
@@ -15,9 +19,9 @@ Se un Comando Ematico richiede un TS e il bersaglio lo fallisce, il Sangromante 
 **Reazione**
 >Le dita del bersaglio si chiudono troppo presto. Il polso cede. La mira si spezza.
 
-Quando il bersaglio sotto Dominio Ematico effettua un Tiro per Colpire, puoi usare la Reazione per sottrarre la tua Potenza Ematica dal tiro.
+Quando il bersaglio sotto Dominio Ematico effettua un Tiro per Colpire, puoi usare la Reazione dopo aver visto il tiro, ma prima che il DM dichiari l'esito, per sottrarre la tua Potenza Ematica dal tiro.
 
-Se l'attacco manca, il bersaglio subisce danni necrotici pari al tuo Mod INT e non può effettuare Attacchi di Opportunità fino all'inizio del suo prossimo turno.
+Se l'attacco manca, il bersaglio subisce danni necrotici pari al tuo Mod INT.
 
 ---
 ## Strattonare il Sangue
@@ -30,8 +34,7 @@ Muovi il bersaglio sotto Dominio Ematico in una direzione scelta da te. La dista
 | --------------- | --------- |
 | 1-3             | 1,5 m     |
 | 4-6             | 3 m       |
-| 7-11            | 4,5 m     |
-| 12+             | 6 m       |
+| 7+              | 4,5 m     |
 
 Questo movimento non provoca Attacchi di Opportunità.
 
@@ -52,22 +55,19 @@ Il bersaglio sotto Dominio Ematico deve superare un TS COS contro la tua CD Sang
 **Azione Bonus**
 >Stringi lingua, corde vocali e vasi della gola. La bocca si apre, ma non esce alcun comando.
 
-Il bersaglio sotto Dominio Ematico deve effettuare un TS COS contro la tua CD Sangromantica.
+Il bersaglio sotto Dominio Ematico deve superare un TS COS contro la tua CD Sangromantica.
 
 - **Fallimento:** fino all'inizio del tuo prossimo turno, il bersaglio non può parlare chiaramente, gridare, impartire ordini vocali, usare componenti verbali o attivare capacità che richiedano una voce comprensibile.
-- **Successo:** fino all'inizio del tuo prossimo turno, il bersaglio non può gridare o impartire ordini vocali complessi, ma può ancora usare componenti verbali.
+- **Successo:** la voce del bersaglio si spezza per un istante, ma non subisce altri effetti.
 
 ---
 ## Tremore Oculare
 **Azione Bonus**
 >I capillari dell'occhio si gonfiano e i nervi ottici tremano come fili scoperti.
 
-Il bersaglio sotto Dominio Ematico deve effettuare un TS COS contro la tua CD Sangromantica.
+Il bersaglio sotto Dominio Ematico ha Svantaggio al prossimo Tiro per Colpire o alla prossima prova di Percezione basata sulla vista effettuata prima dell'inizio del tuo prossimo turno.
 
-- **Fallimento:** fino all'inizio del tuo prossimo turno, il bersaglio ha Svantaggio ai Tiri per Colpire e alle prove di Percezione, e non può effettuare Attacchi di Opportunità.
-- **Successo:** il bersaglio ha Svantaggio al prossimo Tiro per Colpire o alla prossima prova di Percezione effettuata prima dell'inizio del tuo prossimo turno.
-
-Se la tua Potenza Ematica è pari o superiore a 10 e il bersaglio fallisce il TS, il bersaglio è anche *Accecato* fino all'inizio del tuo prossimo turno.
+Se la tua Potenza Ematica è pari o superiore a 6, il bersaglio non può effettuare Attacchi di Opportunità fino all'inizio del tuo prossimo turno.
 
 ---
 ## Nodo Nervoso
@@ -76,7 +76,7 @@ Se la tua Potenza Ematica è pari o superiore a 10 e il bersaglio fallisce il TS
 
 Il bersaglio sotto Dominio Ematico deve superare un TS COS contro la tua CD Sangromantica.
 
-- **Fallimento:** lascia cadere un oggetto che sta impugnando a tua scelta e non può effettuare Interazioni Gratuite con oggetti fino alla fine del suo prossimo turno.
+- **Fallimento:** lascia cadere un oggetto che sta impugnando a tua scelta.
 - **Fallimento di 5 o più:** non può impugnare nuovamente quell'oggetto fino alla fine del suo prossimo turno.
 
 ---
@@ -86,32 +86,29 @@ Il bersaglio sotto Dominio Ematico deve superare un TS COS contro la tua CD Sang
 
 Il bersaglio sotto Dominio Ematico deve effettuare un TS COS contro la tua CD Sangromantica.
 
-- **Fallimento:** subisce 1d8 + Potenza Ematica danni necrotici.
-- **Successo:** subisce metà dei danni.
-
-Se il bersaglio è sotto la metà dei suoi PF massimi, aggiungi il tuo BC ai danni prima di dimezzarli.
+- **Fallimento:** subisce 1d8 + la tua Potenza Ematica danni necrotici.
+- **Successo:** subisce metà dei danni, arrotondati per difetto.
 
 ---
 ## Crampo Diaframmatico
 **Azione Bonus**
 >Il respiro si spezza in gola. Ogni movimento costa aria.
 
-Il bersaglio sotto Dominio Ematico deve effettuare un TS COS contro la tua CD Sangromantica.
+Il bersaglio sotto Dominio Ematico deve superare un TS COS contro la tua CD Sangromantica.
 
-- **Fallimento:** fino all'inizio del tuo prossimo turno, il bersaglio non può effettuare le Azioni Scatto o Disimpegno, ha Svantaggio ai TS COS per mantenere Concentrazione e subisce danni necrotici pari al tuo Mod INT se si muove volontariamente di più di 1,5 metri.
-- **Successo:** fino all'inizio del tuo prossimo turno, il bersaglio non può effettuare l'Azione Scatto.
+- **Fallimento:** fino all'inizio del tuo prossimo turno, la sua velocità è dimezzata, non può effettuare l'Azione Scatto e ha Svantaggio ai TS COS per mantenere Concentrazione.
+- **Successo:** fino all'inizio del tuo prossimo turno, non può effettuare l'Azione Scatto.
 
 ---
 ## Riflesso Traditore
 **Reazione**
 >Il corpo del bersaglio prova a salvarsi. Tu decidi da cosa.
 
-Quando il bersaglio sotto Dominio Ematico effettua un TS DES, puoi usare la Reazione per sottrarre la tua Potenza Ematica dal tiro.
+Quando il bersaglio sotto Dominio Ematico effettua un TS DES, puoi usare la Reazione dopo aver visto il tiro, ma prima che il DM dichiari l'esito, per sottrarre la tua Potenza Ematica dal tiro.
 
-Se il TS fallisce, il bersaglio cade *Prono* dopo la risoluzione dell'effetto e subisce danni necrotici pari al tuo Mod INT.
+Se il bersaglio fallisce il TS dopo questa sottrazione, cade *Prono* o non può usare Reazioni fino all'inizio del suo prossimo turno, a tua scelta.
 
-Dopo aver subito questo effetto, il bersaglio ha Vantaggio al prossimo TS effettuato per terminare il Dominio Ematico.
-
+---
 ---
 # Comandi Maggiori
 
@@ -123,13 +120,11 @@ Il bersaglio sotto Dominio Ematico deve effettuare un TS COS contro la tua CD Sa
 
 - **Fallimento:** scegli una delle seguenti opzioni:
   - il bersaglio si muove fino a metà della sua velocità in una direzione scelta da te;
-  - il bersaglio effettua un singolo attacco con arma contro una creatura entro la sua portata;
+  - il bersaglio effettua un singolo attacco con arma contro una creatura entro la sua portata o gittata normale;
   - il bersaglio cade *Prono* e lascia cadere un oggetto che sta impugnando a tua scelta;
-  - il bersaglio usa la sua Reazione per arretrare di 4,5 metri senza provocare Attacchi di Opportunità.
-- **Fallimento di 5 o più:** scegli due opzioni invece di una.
+  - il prossimo Tiro per Colpire effettuato contro il bersaglio prima dell'inizio del tuo prossimo turno ha Vantaggio.
+- **Fallimento di 5 o più:** puoi scegliere due opzioni diverse invece di una.
 - **Successo:** il bersaglio non obbedisce, ma non può usare Reazioni fino all'inizio del suo prossimo turno.
-
-Dopo aver subito Burattino Rosso, il bersaglio ha Vantaggio al prossimo TS effettuato per terminare il Dominio Ematico.
 
 ---
 ## Collasso Muscolare
@@ -144,25 +139,25 @@ Il bersaglio sotto Dominio Ematico deve effettuare un TS COS contro la tua CD Sa
 Che superi o fallisca il TS, una creatura non può essere bersagliata di nuovo da Collasso Muscolare finché il Dominio Ematico attuale non termina.
 
 ---
-## Marcia Forzata
-**Azione Bonus • Richiede 11° livello**
->Il bersaglio vorrebbe fermarsi. Il sangue, però, riceve un ordine diverso.
+## Obbedienza Riflessa
+**Reazione • Richiede 11° livello**
+>Il bersaglio fa un passo. Tu decidi dove finisce.
 
-Il bersaglio sotto Dominio Ematico deve effettuare un TS COS contro la tua CD Sangromantica.
+Quando il bersaglio sotto Dominio Ematico si muove volontariamente, puoi usare la Reazione per costringerlo a effettuare un TS FOR contro la tua CD Sangromantica.
 
-- **Fallimento:** il bersaglio si muove fino a metà della sua velocità in una direzione scelta da te. Questo movimento non provoca Attacchi di Opportunità e non può condurlo direttamente in uno spazio palesemente letale.
-- **Successo:** puoi muoverlo di 1,5 metri in una direzione scelta da te.
+- **Fallimento:** il movimento si interrompe e puoi muovere il bersaglio di 3 metri in una direzione scelta da te.
+- **Successo:** il movimento avviene normalmente.
 
-Se la tua Potenza Ematica è pari o superiore a 12 e il bersaglio fallisce il TS, puoi anche farlo cadere *Prono* alla fine del movimento.
+Questo movimento non provoca Attacchi di Opportunità e non può condurre direttamente il bersaglio in uno spazio palesemente letale.
 
 ---
 ## Rigetto Vitale
 **Reazione • Richiede 11° livello • BC/Riposo Lungo**
 >Costringi il corpo del bersaglio a respingere ogni riparazione. Le ferite si chiudono male, poi si riaprono.
 
-Quando una creatura sotto Dominio Ematico dovrebbe recuperare PF tramite un effetto magico, tecnologico, alchemico o soprannaturale, puoi usare la Reazione per invertire la risposta del suo corpo.
+Quando un bersaglio sotto Dominio Ematico dovrebbe recuperare PF tramite un effetto magico, tecnologico, alchemico o soprannaturale, puoi usare la Reazione per annullare quel recupero.
 
-Il bersaglio non recupera PF e subisce danni necrotici pari a metà dei PF che avrebbe recuperato + il tuo Mod INT.
+Il bersaglio subisce invece danni necrotici pari a metà dei PF che avrebbe recuperato, arrotondati per difetto. Se questo valore è inferiore al tuo Mod INT, subisce danni necrotici pari al tuo Mod INT.
 
 ---
 ## Spezza Battito
@@ -171,9 +166,7 @@ Il bersaglio non recupera PF e subisce danni necrotici pari a metà dei PF che a
 
 Il bersaglio sotto Dominio Ematico deve effettuare un TS COS contro la tua CD Sangromantica.
 
-- **Fallimento:** subisce 3d8 + Potenza Ematica danni necrotici ed è *Stordito* fino all'inizio del tuo prossimo turno.
+- **Fallimento:** subisce 3d8 + la tua Potenza Ematica danni necrotici ed è *Stordito* fino all'inizio del tuo prossimo turno.
 - **Successo:** subisce metà dei danni e non è *Stordito*.
 
-Se il bersaglio è sotto la metà dei suoi PF massimi, effettua il TS con Svantaggio.
-
-Puoi usare Spezza Battito su una stessa creatura solo una volta per Riposo Breve o Lungo.
+Che superi o fallisca il TS, una creatura non può essere bersagliata di nuovo da Spezza Battito finché il Dominio Ematico attuale non termina.

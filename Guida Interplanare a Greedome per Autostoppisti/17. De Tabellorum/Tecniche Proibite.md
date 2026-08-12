@@ -1,134 +1,110 @@
-Le **Tecniche Proibite** sono capacità specifiche del [[Sangromante]]. Non sono incantesimi, non appartengono a una sottoclasse e non rappresentano la lista principale di azioni offensive della classe.
+Le **Tecniche Proibite** sono rituali sangromantici specifici del [[Sangromante]]. Non sono incantesimi, non appartengono a una sottoclasse e non rappresentano la lista principale di azioni offensive della classe.
 
-Quando una Tecnica Proibita richiede un livello, devi possedere almeno quel livello da Sangromante per sceglierla. Quando ottieni un livello da Sangromante, puoi sostituire una Tecnica Proibita che conosci con un'altra Tecnica Proibita per cui soddisfi i requisiti.
+Una Tecnica Proibita è una procedura giornaliera di alterazione corporea: salassi controllati, innesti rituali, contaminazioni volontarie, formule anatomiche e traumi autoindotti che rendono il sangue del Sangromante adatto a un certo tipo di Dominio.
+
+Quando il privilegio **Tecnica Proibita** ti fa apprendere una Tecnica Proibita, scegli uno dei Rituali Proibiti descritti in questo documento. Quando ottieni un livello da Sangromante, puoi sostituire un Rituale Proibito che conosci con un altro.
+
+Al termine di un Riposo Lungo, puoi completare uno dei Rituali Proibiti che conosci. Il rituale richiede 10 minuti, l'uso del tuo sangue e strumenti da alchimista, strumenti da chirurgo o una borsa da avvelenatore. I benefici del rituale durano 24 ore.
+
+Non puoi beneficiare di più di un Rituale Proibito alla volta e non puoi sottoporti a più di un Rituale Proibito nella stessa giornata. Se completi un nuovo Rituale Proibito, i benefici del rituale precedente terminano immediatamente.
 
 ---
-## Sangue Freddo
-**Passiva**
->La tua mente resta lucida anche quando il corpo chiede pietà.
+# Rito del Vincolo Sommerso
+
+**Rituale Proibito**
+
+>Il Dominio affonda sotto la pelle e smette di sembrare un gesto. Il corpo del bersaglio obbedisce prima ancora che qualcuno capisca chi ha tirato il filo.
+
+Questo rituale perfeziona il **Dominio Ematico**: lo rende più stabile, più discreto e più difficile da spezzare.
 
 Quando effettui un TS COS per mantenere la Tensione del tuo Dominio Ematico, puoi aggiungere il tuo Mod INT al tiro.
 
-Inoltre, 1/Riposo Breve o Lungo, quando fallisci un TS COS per mantenere la Tensione del tuo Dominio Ematico, puoi ritirare il d20. Devi usare il nuovo risultato.
-
----
-## Filo Rosso
-**Passiva**
->Il sangue tirato nel modo giusto non ha bisogno di molta distanza. Solo di una direzione.
+Quando tenti Dominio Ematico, puoi nascondere l'origine della manipolazione. Le creature che osservano la scena devono superare una prova di Percezione contro la tua CD Sangromantica per capire che sei tu l'origine del Dominio, purché tu non stia compiendo gesti plateali.
 
 La gittata del tuo Dominio Ematico aumenta da 18 metri a 27 metri.
 
-Inoltre, quando imponi Dominio Ematico su una creatura di cui possiedi un campione fresco, il bersaglio non ottiene benefici da mezza copertura o copertura a tre quarti contro il Dominio.
+Quando una creatura supera il TS alla fine del suo turno per terminare il tuo Dominio Ematico, puoi usare la Reazione e subire danni necrotici pari al tuo BC per costringerla a ripetere il TS. Deve usare il nuovo risultato. Puoi usare questa Reazione un numero di volte pari al tuo BC per Riposo Lungo.
 
 ---
-## Epistassi Indotta
-**Azione Bonus • 18 m • 1/Riposo Breve o Lungo**
->Non aspetti che il sangue appaia. Lo chiami fuori.
+# Rito della Marionetta Autonoma
 
-Scegli una creatura dotata di sangue o fluido vitale equivalente che puoi vedere entro 18 metri. Il bersaglio deve effettuare un TS COS contro la tua CD Sangromantica.
+**Rituale Proibito**
 
-- **Fallimento:** subisce danni necrotici pari al tuo Mod INT, diventa sotto Ferita Aperta per te fino alla fine del tuo prossimo turno e lascia un campione fresco recuperabile nello spazio che occupa.
-- **Successo:** non subisce danni, ma diventa sotto Ferita Aperta per te fino alla fine del turno attuale.
+>Non sei libero dal dolore. Hai solo imparato a tirare i tuoi stessi fili prima che il corpo cada, tremi o si arrenda.
 
----
-## Dominio Silenzioso
-**Passiva**
->Non servono parole. Basta un gesto minimo, un respiro trattenuto, una vena che pulsa.
+Questo rituale altera il corpo del Sangromante, trasformandolo in una marionetta autoindotta: il sangue non serve a guarire, ma a imporre movimento, presa e postura anche quando muscoli e nervi dovrebbero cedere.
 
-Quando tenti Dominio Ematico senza parlare, senza impugnare apertamente un focus e senza compiere gesti plateali, le creature che osservano la scena devono superare una prova di Percezione contro la tua CD Sangromantica per capire che sei tu l'origine del Dominio.
+Ottieni Vantaggio ai TS contro effetti che ti renderebbero *Prono*, ti costringerebbero a lasciare cadere ciò che impugni o ti muoverebbero contro la tua volontà.
 
-Se falliscono, percepiscono soltanto il corpo del bersaglio che cede, trema o si ribella.
+Quando subisci danni necrotici da Catalisi Vitale o da Oltre il Limite, fino all'inizio del tuo prossimo turno non puoi essere costretto a lasciare cadere ciò che impugni contro la tua volontà e la tua velocità non può essere ridotta sotto 3 metri, salvo che tu sia *Incapacitato*.
 
----
-## Anatomia del Terrore
-**Passiva**
->Conosci abbastanza del corpo da descrivere esattamente come potresti romperlo.
+Quando fallisci un TS FOR, DES o COS, puoi usare la Reazione, spendere un Dado Vita da Sangromante e tirarlo. Subisci danni necrotici pari al risultato del dado, che non possono essere ridotti in alcun modo, e aggiungi lo stesso risultato al TS fallito, potenzialmente trasformandolo in un successo.
 
-Ottieni Vantaggio alle prove di Intimidire contro creature dotate di sangue o fluido vitale equivalente.
+Se questo TS riguarda un effetto che ti renderebbe *Prono*, *Trattenuto*, *Paralizzato*, ti muoverebbe contro la tua volontà o ti costringerebbe a lasciare cadere ciò che impugni, aggiungi anche il tuo Mod INT al tiro. Puoi usare questa Reazione un numero di volte pari al tuo BC per Riposo Lungo.
 
-Inoltre, quando una creatura sotto il tuo Dominio Ematico fallisce un TS contro un tuo Comando Ematico, puoi scegliere di farle perdere la capacità di effettuare Attacchi di Opportunità fino all'inizio del tuo prossimo turno. Puoi usare questo beneficio una volta per turno.
+1/Riposo Lungo, quando dovresti essere ridotto a 0 PF, puoi scendere invece a 1 PF e ottenere 1 livello di Sfinimento. Fino alla fine del tuo prossimo turno, non puoi essere reso *Prono*, la tua velocità non può essere ridotta sotto 3 metri e non puoi essere costretto a lasciare cadere ciò che impugni.
 
 ---
-## Corpo Esangue
-**Passiva • Richiede 7° livello**
->Hai lasciato nel tuo corpo abbastanza vuoto da renderlo difficile da avvelenare, soffocare o prosciugare.
+# Rito della Trazione Arteriosa
 
-Ottieni Vantaggio ai TS contro veleni e contro effetti che riducono i tuoi PF massimi.
+**Rituale Proibito**
 
-Inoltre, ottieni Resistenza ai danni da veleno e puoi trattenere il respiro per un numero di minuti pari a 10 + il tuo Mod COS.
+>Il sangue diventa pressione, rinculo e impatto. Non spingi il bersaglio: lo scagli attraverso il suo stesso sistema circolatorio.
 
----
-## Sangue di Ritorno
-**Passiva • Richiede 7° livello • 1/Riposo Breve o Lungo**
->Una parte del sangue sacrificato torna indietro sporca, calda e non del tutto tua.
+Questo rituale trasforma il movimento forzato in un'arma. È la via dei Sangromanti che usano i corpi come leve, ostacoli e proiettili viventi.
 
-Quando una creatura sotto il tuo Dominio Ematico fallisce un TS contro un tuo Comando Ematico potenziato con Catalisi Vitale, recuperi PF pari al risultato del Dado Vita speso tramite quella Catalisi Vitale + il tuo Mod INT.
+Quando usi **Strattonare il Sangue**, puoi muovere il bersaglio di 1,5 metri aggiuntivi. Se la tua Potenza Ematica per quel Comando è pari o superiore a 7, puoi invece muoverlo di 3 metri aggiuntivi.
 
-Questa capacità non può farti recuperare più PF dei danni necrotici che hai subito tramite quella Catalisi Vitale + il tuo Mod INT.
+Se il movimento imposto da Strattonare il Sangue termina perché il bersaglio urta una superficie solida, un oggetto pesante o una creatura, il bersaglio subisce danni contundenti pari al tuo Mod INT. Se la tua Potenza Ematica per quel Comando è pari o superiore a 7, i danni contundenti sono invece pari a 1d8 + il tuo Mod INT.
+
+Se il bersaglio urta una creatura, la creatura urtata deve superare un TS DES contro la tua CD Sangromantica o subire gli stessi danni contundenti.
 
 ---
-## Lettura Vivente
-**Passiva • Richiede 11° livello**
->Finché il bersaglio respira, il corpo gli tradisce informazioni.
+# Rito dell'Immersione Ematica
 
-Quando una creatura sotto Dominio Ematico fallisce un TS contro un tuo Comando Ematico, puoi apprendere una delle seguenti informazioni:
+**Rituale Proibito**
 
-- una resistenza o immunità ai danni, oppure l'assenza di resistenze e immunità rilevanti;
-- una immunità alle condizioni o una capacità passiva difensiva evidente nel corpo;
-- il suo stato fisico o mentale dominante: ferito gravemente, spaventato, furioso, sotto controllo esterno, avvelenato, concentrato, esausto o alterato da magia, droga o tecnologia.
+>Il sangue non contiene pensieri leggibili, ma conserva forma, ritmo, odore, voce e presenza. Il Sangromante non copia una creatura: entra nella sua traccia biologica e la indossa dall'interno.
 
-Puoi apprendere una sola informazione per turno.
+Questo rituale trasforma il sangue altrui in una maschera o, nei casi più estremi, in un secondo corpo. È la via dei Sangromanti che usano il Dominio per infiltrarsi, sostituirsi a qualcuno o muovere una vittima dall'interno senza accedere alla sua mente.
 
----
-## Dominio Profondo
-**Passiva • Richiede 11° livello**
->Il tuo Dominio affonda oltre il sangue, fino al ritmo degli organi.
+Mentre questo rituale è attivo, puoi usare la procedura **Volto nel Sangue**. Dal 12° livello da Sangromante, puoi usare anche **Immersione Totale**.
 
-Quando una creatura supera il TS alla fine del suo turno per terminare il tuo Dominio Ematico, puoi usare la Reazione e subire danni necrotici pari al tuo BC per costringerla a ripetere il TS. Deve usare il nuovo risultato.
+## Volto nel Sangue
 
-Se la creatura è sotto la metà dei suoi PF massimi, effettua questo nuovo TS con Svantaggio.
+**Azione • Campione fresco • 1/Riposo Lungo**
 
----
-## Dolore Riflesso
-**Reazione • Richiede 11° livello**
->Chi colpisce il filo sente il filo tirare indietro.
+Bevi un campione fresco di sangue, carne o fluido vitale di una creatura corporea dotata di sangue o fluido vitale equivalente.
 
-Quando una creatura sotto il tuo Dominio Ematico colpisce te o un tuo alleato entro 9 metri con un attacco, puoi usare la Reazione per infliggerle danni necrotici pari alla tua Potenza Ematica.
+Per 1 ora, assumi le sembianze fisiche della creatura: volto, voce, odore, impronte, cicatrici, colore degli occhi, corporatura apparente e altri tratti esteriori riconoscibili.
 
-Se l'attacco ha colpito te, riduci i danni subiti di un ammontare pari al tuo Mod INT.
+Questa trasformazione non modifica i tuoi punteggi di caratteristica, i tuoi PF, le tue competenze, le tue capacità di classe, la tua taglia oltre una categoria di differenza, né il tuo equipaggiamento. Non ottieni ricordi, pensieri, linguaggi, abitudini, conoscenze, password o informazioni personali della creatura.
 
----
-## Sangue Magnetico
-**Passiva • Richiede 15° livello**
->Il sangue tira il sangue. La distanza diventa una questione di pressione.
+Una creatura che interagisce con te e ha motivo di sospettare l'inganno può effettuare una prova di Intuizione contro la tua CD Sangromantica. In caso di successo, percepisce che qualcosa nel corpo imitato è innaturale.
 
-Quando usi Strattonare il Sangue o Marcia Forzata, la distanza del movimento aumenta di 3 metri.
+## Immersione Totale
 
-Se il bersaglio viene mosso contro un ostacolo solido, una creatura o una superficie pericolosa ma non immediatamente letale, deve superare un TS FOR contro la tua CD Sangromantica o cadere *Prono* e subire danni necrotici pari alla tua Potenza Ematica.
+**Procedura, 1 minuto • Tocco • Richiede 12° livello • 1/Riposo Lungo**
 
----
-## Comando Subdermico
-**Passiva • Richiede 15° livello • 1/Riposo Breve o Lungo**
->Ormai il tuo Dominio non ha bisogno di grandi movimenti. Può vivere sotto la pelle.
+Puoi usare questa procedura solo su una creatura corporea dotata di sangue o fluido vitale equivalente che sia sotto il tuo Dominio Ematico. Durante la procedura, il tuo sangue e quello del bersaglio devono mischiarsi fisicamente attraverso una ferita aperta, una lama contaminata, una trasfusione forzata, un morso rituale o un altro contatto cruento approvato dal DM.
 
-Quando una creatura fallisce il TS iniziale contro il tuo Dominio Ematico, puoi usare immediatamente un Comando Ematico che conosci contro quella creatura senza spendere l'Azione, l'Azione Bonus o la Reazione richiesta dal Comando.
+La procedura richiede che tu resti entro 1,5 metri dal bersaglio per tutta la durata. Se la procedura viene interrotta, se il bersaglio non è più sotto il tuo Dominio Ematico o se tu diventi *Incapacitato*, l'Immersione Totale fallisce.
 
-Non puoi scegliere un Comando con **Catalisi Obbligatoria** in questo modo.
+Al termine della procedura, il bersaglio deve effettuare un TS COS contro la tua CD Sangromantica.
 
----
-## Vena Sovrana
-**Passiva • Richiede 18° livello • 1/Riposo Lungo**
->Una volta chiuso il pugno, il sangue non trova più la via del ritorno.
+- **Fallimento:** ti immergi completamente nel corpo del bersaglio per 1 ora.
+- **Successo:** l'Immersione Totale fallisce e il tuo Dominio Ematico sul bersaglio termina.
 
-Quando una creatura fallisce il TS iniziale contro il tuo Dominio Ematico, puoi rendere quel Dominio particolarmente profondo. Per 1 minuto, il bersaglio effettua con Svantaggio i TS alla fine del suo turno per terminare quel Dominio Ematico.
+Per la durata, controlli il corpo del bersaglio. Decidi il suo movimento, le sue azioni fisiche, la sua voce e i suoi gesti. Puoi parlare attraverso di lui usando la sua voce, ma solo con parole, lingue e informazioni che conosci tu.
 
-Quando attivi questa Tecnica, puoi usare Catalisi Vitale anche se Dominio Ematico non applica normalmente la tua Potenza Ematica. Se lo fai, il bersaglio non può effettuare il primo TS alla fine del suo turno per terminare quel Dominio.
+Non puoi leggere la mente del bersaglio. Non ottieni i suoi ricordi, i suoi pensieri, le sue competenze, i suoi incantesimi, le sue capacità di classe, i suoi segreti o le sue conoscenze personali.
 
----
-## Cuore in Prestito
-**Passiva • Richiede 18° livello • 1/Riposo Breve o Lungo**
->Il tuo corpo non si limita più a sopravvivere. Prende in prestito il ritmo degli altri.
+Mentre controlli il bersaglio, il tuo corpo originale è *Incapacitato*, ha velocità 0 e non può effettuare Azioni, Azioni Bonus o Reazioni. Percepisci attraverso il corpo controllato, ma resti vagamente consapevole del tuo corpo originale.
 
-Quando una creatura sotto il tuo Dominio Ematico viene ridotta a 0 PF, puoi recuperare 1 Dado Vita da Sangromante speso e recuperare PF pari alla tua Potenza Ematica + Mod INT.
+Il corpo controllato conserva le proprie statistiche fisiche, la propria CA, i propri PF, la propria velocità, i propri sensi e le capacità puramente anatomiche. Può compiere azioni fisiche comuni, usare oggetti, muoversi, parlare e compiere attacchi semplici con armi impugnate o parti naturali del corpo. Non può usare incantesimi, capacità di classe, poteri psichici, rituali, tecniche addestrative complesse o capacità che richiedano la volontà, i ricordi o la conoscenza del bersaglio, salvo diversa decisione del DM.
 
-Prima della fine del tuo prossimo turno, puoi usare Catalisi Vitale una volta senza spendere un Dado Vita. Subisci comunque i danni necrotici della Catalisi come se avessi tirato il massimo del Dado Vita.
+Durante l'Immersione Totale, il Dominio Ematico sul bersaglio non richiede Tensione e il bersaglio non ripete il TS alla fine dei propri turni per terminarlo.
+
+L'effetto termina dopo 1 ora. Termina prima solo se il corpo controllato scende a 0 PF, se il tuo corpo originale scende a 0 PF, se il tuo corpo originale e il corpo controllato si trovano a più di 1,5 chilometri di distanza o se un effetto interrompe esplicitamente possessioni, controllo corporeo o rituali soprannaturali.
+
+Quando l'Immersione Totale termina, il tuo Dominio Ematico sul bersaglio termina immediatamente e tu ottieni 1 livello di Sfinimento. Se il corpo controllato è morto durante l'Immersione Totale, ottieni invece 2 livelli di Sfinimento.

@@ -15,7 +15,7 @@
 | **[[_Pirata]]**        | F    | Combattente libero e carismatico dei mari.             |
 | **[[Ranger]]**        | F    | Cacciatore ed esploratore.                             |
 | **[[Ladro]]**         | F    | Maestro della furtività e precisione.                  |
-| **[[_Katafrakto]]**      | F    | Difensore disciplinato e tattico.                      |
+| **[[_Katafraktor]]**      | F    | Difensore disciplinato e tattico.                      |
 | **[[_Samurai (DLC)]]**       | F    | Guerriero dell’onore e della disciplina.               |
 | **[[_Luchador]]**      | F    | Combattente acrobatico e teatrale.                     |
 | **[[_Mercante]]**      | S    | Maestro del commercio e della manipolazione economica. |
