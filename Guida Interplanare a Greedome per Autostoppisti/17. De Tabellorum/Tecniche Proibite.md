@@ -38,7 +38,7 @@ Ottieni Vantaggio ai TS contro effetti che ti renderebbero *Prono*, ti costringe
 
 Quando subisci danni necrotici da Catalisi Vitale o da Oltre il Limite, fino all'inizio del tuo prossimo turno non puoi essere costretto a lasciare cadere ciò che impugni contro la tua volontà e la tua velocità non può essere ridotta sotto 3 metri, salvo che tu sia *Incapacitato*.
 
-Quando fallisci un TS FOR, DES o COS, puoi usare la Reazione, spendere un Dado Vita da Sangromante e tirarlo. Subisci danni necrotici pari al risultato del dado, che non possono essere ridotti in alcun modo, e aggiungi lo stesso risultato al TS fallito, potenzialmente trasformandolo in un successo.
+Quando fallisci un TS FOR, DES o COS, puoi usare la Reazione, spendere un Dado Vita da Sangromante e tirarlo. Subisci danni necrotici pari al risultato del dado, che non possono essere ridotti in alcun modo, e aggiungi lo stesso risultato al TS fallito.
 
 Se questo TS riguarda un effetto che ti renderebbe *Prono*, *Trattenuto*, *Paralizzato*, ti muoverebbe contro la tua volontà o ti costringerebbe a lasciare cadere ciò che impugni, aggiungi anche il tuo Mod INT al tiro. Puoi usare questa Reazione un numero di volte pari al tuo BC per Riposo Lungo.
 
