@@ -16,7 +16,7 @@
 | **[[Ranger]]**        | F    | Cacciatore ed esploratore.                             |
 | **[[Ladro]]**         | F    | Maestro della furtività e precisione.                  |
 | **[[_Katafraktor]]**      | F    | Difensore disciplinato e tattico.                      |
-| **[[_Samurai (DLC)]]**       | F    | Guerriero dell’onore e della disciplina.               |
+| **[[_Samurai]]**       | F    | Guerriero dell’onore e della disciplina.               |
 | **[[_Luchador]]**      | F    | Combattente acrobatico e teatrale.                     |
 | **[[_Mercante]]**      | S    | Maestro del commercio e della manipolazione economica. |
 | **[[_Detective]]**     | S    | Analista e risolutore di misteri.                      |

@@ -36,13 +36,15 @@ Questo rituale altera il corpo del Sangromante, trasformandolo in una marionetta
 
 Ottieni Vantaggio ai TS contro effetti che ti renderebbero *Prono*, ti costringerebbero a lasciare cadere ciò che impugni o ti muoverebbero contro la tua volontà.
 
-Quando subisci danni necrotici da Catalisi Vitale o da Oltre il Limite, fino all'inizio del tuo prossimo turno non puoi essere costretto a lasciare cadere ciò che impugni contro la tua volontà e la tua velocità non può essere ridotta sotto 3 metri, salvo che tu sia *Incapacitato*.
-
-Quando fallisci un TS FOR, DES o COS, puoi usare la Reazione, spendere un Dado Vita da Sangromante e tirarlo. Subisci danni necrotici pari al risultato del dado, che non possono essere ridotti in alcun modo, e aggiungi lo stesso risultato al TS fallito.
+Quando fallisci un TS FOR, DES o COS, puoi usare la Reazione, spendere un Dado Vita da Sangromante e tirarlo. Subisci danni necrotici pari al risultato del dado, che non possono essere ridotti in alcun modo, e aggiungi lo stesso risultato al TS fallito, potenzialmente trasformandolo in un successo.
 
 Se questo TS riguarda un effetto che ti renderebbe *Prono*, *Trattenuto*, *Paralizzato*, ti muoverebbe contro la tua volontà o ti costringerebbe a lasciare cadere ciò che impugni, aggiungi anche il tuo Mod INT al tiro. Puoi usare questa Reazione un numero di volte pari al tuo BC per Riposo Lungo.
 
-1/Riposo Lungo, quando dovresti essere ridotto a 0 PF, puoi scendere invece a 1 PF e ottenere 1 livello di Sfinimento. Fino alla fine del tuo prossimo turno, non puoi essere reso *Prono*, la tua velocità non può essere ridotta sotto 3 metri e non puoi essere costretto a lasciare cadere ciò che impugni.
+1/Riposo Lungo, quando dovresti essere ridotto a 0 PF, puoi scendere invece a 1 PF, ottenere 1 livello di Sfinimento ed entrare in **Marionetta Autonoma** per i tuoi prossimi 3 turni.
+
+Durante la Marionetta Autonoma, se subisci danni che ti ridurrebbero a 0 PF, resti invece a 1 PF. Inoltre, non puoi essere reso *Prono*, la tua velocità non può essere ridotta sotto 3 metri e non puoi essere costretto a lasciare cadere ciò che impugni.
+
+Alla fine del tuo terzo turno in Marionetta Autonoma, scendi a 0 PF e diventi *Incosciente* e stabile, indipendentemente dai tuoi PF attuali.
 
 ---
 # Rito della Trazione Arteriosa

@@ -138,7 +138,7 @@ Il Tetrarcato di [[Mekkania]], guidata dai tetrarchi, è diventata il , dove son
 
 L’Impero della Magia Arcana di [[Eldreicht]], costituito perlopiù da ex-zithiani e [[Argoniani]] è diventato uno stato assolutista, magicratico e tecnofobo. Altamente gerarchizzato, è anche completamente autarchico e quasi del tutto chiuso agli scambi. L'intera popolazione regola le proprie iterazioni sociali sulla quantità/qualità di magia che possiedono (le creature, benchè possano allenarsi per migliorare, nascono con una predisposizione personale alla magia, misurabile e qualificabile) facendo del classismo lo sport preferito degli eldreichtiani.
 
-L’Arcipelago [[Woodoo Woodoo]], intoccato da cataclismi e migrazioni, è un impero feudale di soli [[Kenku (DLC)]]-spadaccini, abili sia in artigianato che in strane pratiche magiche, ma estremamente chiusi agli estranei e diffidenti.
+L’Arcipelago [[Woodoo Woodoo]], intoccato da cataclismi e migrazioni, è un impero feudale di soli [[Kenku]]-spadaccini, abili sia in artigianato che in strane pratiche magiche, ma estremamente chiusi agli estranei e diffidenti.
 
 La neo-nata [[Repubblica Unita]] è uno stato confederale che ha visto negli ultimi anni un incredibile sviluppo grazie a tecnologia ed [[Ender Tech]], in un molto breve lasso di tempo. L’avanzamento ha portato con intrighi politici, sfruttamento e miseria, coperti dal candido velo della democrazia.
 

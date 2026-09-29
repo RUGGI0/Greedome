@@ -20,7 +20,7 @@ Per aiutare a distinguere il gruppo etnico dalla razza, la maggior parte dei Gio
 
 Segue la lista delle razze giocabili di Greedome, in ordine alfabetico:
 
-[[Aetherdar]] | [[Argoniani]] | [[Droidi]] | [[Gnomi]] | [[Goblinoidi]] | [[Kenku (DLC)]] | [[Kithkin]] | [[Panzerbjörn]] | [[Quar]] | [[Skaven]] | [[Tortle]] | [[Tramutanti]] | [[Umani]] | [[Undead]] | [[Vampiri (DLC)]]
+[[Aetherdar]] | [[Argoniani]] | [[Droidi]] | [[Gnomi]] | [[Goblinoidi]] | [[Kenku]] | [[Kithkin]] | [[Panzerbjörn]] | [[Quar]] | [[Skaven]] | [[Tortle]] | [[Tramutanti]] | [[Umani]] | [[Undead]] | [[Vampiri]]
 
 
 End N.d.R.

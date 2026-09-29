@@ -33,7 +33,7 @@ Esclusivi dell'[[Arcipelago Woodoo Woodoo]].
 
 **_Bushido Kenku_**: competenza con naginata, kama, shuriken e archi lunghi. Possono anche improvvisare armi usando piume, ossa cave o mobilio, che infliggono 1d4 danni contundenti, perforanti o taglienti a scelta.
 
-**_Ossa Cave_**: corpo leggero che concede vantaggio sia nella corsa, acquisendo una velocità di ben 12m (incoronando i Kenku come la razza più veloce di tutta Greedome. Con gran dispiacere della popolazione Kenku femminile.), sia alle prove di Destrezza (Acrobatics) legate a salto ed equilibrio. Data la loro fragilità, ottengono però +2 danni addizionali da ogni attacco contundente subito.
+**_Ossa Cave_**: corpo leggero che concede vantaggio sia nella corsa, acquisendo una velocità di ben 12m (incoronando i Kenku come la razza più veloce di tutta Greedome. Con gran dispiacere della popolazione Kenku femminile), sia alle prove di Destrezza (Acrobatics) legate a salto ed equilibrio. Data la loro fragilità, ottengono però +2 danni addizionali da ogni attacco contundente subito.
 
 **_Majìk Corvino_**: una volta per riposo breve possono lanciare _Thaumaturgy_, _Minor Illusion_ o _Guidance_. Al contrario della normale magia, le componenti somatico-verbali del Majìk sono caratterizzate da gesti con le dita (tipo ninjutsu) e da sermoni (simil-shintoisti) corvini, spesso inquietanti e/o ridicoli.
 

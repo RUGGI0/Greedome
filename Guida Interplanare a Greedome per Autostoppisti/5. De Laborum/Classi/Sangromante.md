@@ -1,5 +1,4 @@
 *Il Sangromante non lancia incantesimi: costringe la vita a obbedire.*
-
 *Ogni battito è una leva. Ogni vena è un filo. Ogni ferita è una porta.*
 
 *A Greedome, la sangromanzia è una pratica oscena persino per molti occultisti. Non perché sia sempre necromantica, demoniaca o immonda, ma perché viola qualcosa di più intimo: il diritto di un corpo ad appartenere a se stesso. Dove un medico vede circolazione, tessuti e nervi, il Sangromante vede cavi caldi, valvole, pressioni, strozzature e comandi.*
@@ -11,6 +10,7 @@
 
 ## Dado Vita
 d8
+
 ## Competenze
 **Armature:** leggere  
 **Armi:** armi semplici, pugnali, lame leggere, armi da fianco (*sidearm*)  
@@ -55,7 +55,7 @@ La tua **Potenza Ematica** rappresenta la pressione, la precisione e la forza bi
 
 Quando una capacità da Sangromante usa la tua Potenza Ematica, usa questo valore, salvo che venga modificato da **Catalisi Vitale**, da un Rituale Proibito o da un altro privilegio da Sangromante.
 
-**Catalisi Vitale** è un uso speciale del tuo sangue. Salvo diversa indicazione, puoi usarla 1/Turno quando una capacità da Sangromante la richiede o quando una capacità da Sangromante usa la tua Potenza Ematica.
+**Catalisi Vitale** è un uso speciale del tuo sangue. Salvo diversa indicazione, puoi usarla 1/round quando una capacità da Sangromante la richiede o quando una capacità da Sangromante usa la tua Potenza Ematica.
 
 Quando usi Catalisi Vitale, spendi un tuo Dado Vita da Sangromante e tiralo. Subisci danni necrotici pari al risultato del dado. Questi danni non possono essere ridotti in alcun modo. Per quella capacità, aggiungi il risultato del dado alla tua Potenza Ematica.
 
@@ -104,6 +104,8 @@ Scegli una creatura con **Ferita Aperta** che puoi vedere entro 18 metri. Spendi
 
 - **Fallimento:** il bersaglio è sotto il tuo **Dominio Ematico** per 1 minuto.
 - **Successo:** il Dominio fallisce, ma il bersaglio subisce una contrazione interna: la sua velocità è ridotta di 3 metri fino all'inizio del tuo prossimo turno.
+
+Se il bersaglio supera il TS contro il tuo Dominio Ematico, recuperi il Dado Vita speso tramite questa Catalisi Vitale, ma subisci comunque i danni necrotici della Catalisi.
 
 Mantenere il Dominio richiede **Tensione**. La Tensione funziona come la Concentrazione, ma non è un incantesimo. Se subisci danni, devi superare un TS COS con CD pari a 10 o metà dei danni subiti, quale dei due valori sia più alto. Se fallisci, il Dominio termina.
 
