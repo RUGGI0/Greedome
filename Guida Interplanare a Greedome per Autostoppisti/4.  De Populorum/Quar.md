@@ -20,7 +20,7 @@ Se non sono al servizio di qualcuno o in cerca di avventura, la maggior parte de
 
 I Quar sono una specie prudente e difficilmente escono dal loro territorio non organizzati, e si dimostrano essere affidabili e incrollabilmente leali, anche se tendono ad essere considerati burberi per colpa del loro naturale atteggiamento "*no-nonsense*" (che mal contrasta il loro aspetto buffo e goffo).
 
-I Quar imparano in fretta (e male) le lingue dei loro alleati e nemici, anche se però di base non parlano quasi mai in [[Basic]], ma preferendo il [[Quargon]], tecnicamente una sorta di dialetto del [[Basic]] con grammatica e suoni estremante buffi e nasali, in pratica una sorta di pronuncia distorta adattabile a qualsiasi altra lingua (spesso si parla di lingue "quargonizzate" come il Qu-Arc o il Qu-Oghm, e con il grande dolore della popolazione Aetherdari, anche il Qu-Aetherven). 
+I Quar imparano in fretta (e male) le lingue dei loro alleati e nemici, anche se però di base non parlano quasi mai in [[Basic]], ma preferiscono il [[Quargon]], tecnicamente una sorta di dialetto del [[Basic]] con grammatica e suoni estremante buffi e nasali, in pratica una sorta di pronuncia distorta adattabile a qualsiasi altra lingua (spesso si parla di lingue "quargonizzate" come il Qu-Arc o il Qu-Oghm, e con il grande dolore della popolazione Aetherdari, anche il Qu-Aetherven). 
 Contro qualsiasi pronostico, a seguito di un test della [[Suprema Accademia delle Scienze della Repubblica Unita]], si è scoperto che i [[Panzerbjörn]] di [[Bolvangar]], considerano il [[Quargon]] un mero difetto di pronuncia piuttosto che una mala-grammatica del [[Basic]], non risultando quindi nella furia Grammar-Nazi tipica della loro specie.
 SONO NATURALMENTE INCAPACI DI UTILIZZARE LA MAGIA.
 
