@@ -81,7 +81,6 @@ Ogni volta che dovresti spendere un Dado Vita da Sangromante tramite Catalisi Vi
 - ottieni 1 livello di Sfinimento;
 - aggiungi 8 alla Potenza Ematica di quella capacità al posto del risultato del Dado Vita.
 
----
 ## Ferita Aperta (1°)
 **Passiva**
 >La sangromanzia richiede un accesso. Una vena scoperta, una lama bagnata, un campione raccolto in una fiala. Il corpo deve avere una porta.
@@ -95,7 +94,6 @@ Una creatura è considerata sotto **Ferita Aperta** per te se almeno una delle s
 
 Le creature prive di sangue o fluido vitale equivalente, come costrutti puri, spettri, elementali puri o alcune melme, non possono essere bersagliate dal tuo Dominio Ematico, salvo capacità specifiche di livello alto.
 
----
 ## Dominio Ematico (1°)
 **Azione • 18 m • Catalisi Vitale • Tensione, fino a 1 minuto**
 >Infili la volontà nel sangue del bersaglio e stringi. Non è dolore soltanto. È il terrore di sentire il proprio corpo rispondere a qualcun altro.
@@ -113,7 +111,6 @@ Una creatura sotto Dominio Ematico può ripetere il TS COS alla fine di ciascun 
 
 Finché una creatura è sotto il tuo Dominio Ematico, una volta nel tuo turno puoi infliggerle danni necrotici pari al tuo Mod INT se non usi un Comando Ematico su di essa in quello stesso turno.
 
----
 ## Comandi Ematici (2°)
 **Speciale**
 >Il Dominio Ematico non è una maledizione. È una mano nel sistema circolatorio del bersaglio.
@@ -124,7 +121,6 @@ Puoi usare un Comando Ematico solo su una creatura attualmente sotto il tuo Domi
 
 Quando ottieni un livello da Sangromante, puoi sostituire un Comando Ematico che conosci con un altro Comando Ematico per cui soddisfi i requisiti.
 
----
 ## Tecnica Proibita (3°)
 **Passiva**
 >Le Tecniche Proibite non sono scuole, ordini o sottoclassi. Sono procedure individuali: salassi controllati, contaminazioni volontarie, rituali sporchi, traumi autoindotti e segreti imparati dove la medicina finisce.
@@ -139,12 +135,10 @@ Quando ottieni un livello da Sangromante, puoi sostituire un Rituale Proibito ch
 
 Vedi [[Tecniche Proibite]] nel capitolo *17. De Tabellorum*.
 
----
 ## Aumento di Caratteristica (4°)
 **Passiva**
 >Quando raggiungi il 4° livello, e poi ancora all'8°, 12°, 16° e 19° livello, puoi aumentare di 2 un punteggio di caratteristica a tua scelta, oppure puoi aumentare di 1 due punteggi di caratteristica a tua scelta. Non puoi aumentare un punteggio oltre 20 usando questo privilegio.
 
----
 ## Dominio Rapido (5°)
 **Azione Bonus**
 >Una ferita appena aperta è una serratura ancora calda.
@@ -153,7 +147,6 @@ Quando colpisci una creatura con un attacco che infligge danni taglienti, perfor
 
 Devi comunque spendere un Dado Vita tramite Catalisi Vitale.
 
----
 ## Emostasi Forzata (6°)
 **Azione Bonus • 9 m • Catalisi Vitale**
 >Puoi chiudere una ferita con la stessa brutalità con cui potresti aprirla. Le arterie si serrano. I tessuti bruciano. Il paziente sopravvive.
@@ -164,7 +157,6 @@ La creatura recupera PF pari alla tua Potenza Ematica + Mod INT.
 
 Questa guarigione non è delicata. Una creatura può beneficiare di Emostasi Forzata una sola volta per Riposo Breve o Lungo.
 
----
 ## Doppio Dominio (9°)
 **Passiva**
 >Due cuori. Due ritmi. Due corpi che tremano sullo stesso filo.
@@ -175,7 +167,6 @@ Quando subisci danni e devi effettuare un TS COS per mantenere la Tensione, un s
 
 Puoi usare un solo Comando Ematico per turno, anche se controlli due creature.
 
----
 ## Corpo Anestetizzato (10°)
 **Passiva**
 >Il dolore diventa un'informazione, non un limite.
@@ -184,14 +175,12 @@ Ottieni Resistenza ai danni da veleno e necrotici.
 
 Inoltre, quando usi Catalisi Vitale, puoi ridurre i danni necrotici subiti di un ammontare pari al tuo Mod INT. Questa riduzione non può portare il danno sotto 1.
 
----
 ## Comandi Maggiori (11°)
 **Passiva**
 >Il Dominio non si limita più a disturbare il corpo. Ora può sostituirsi alla volontà.
 
 Ottieni accesso ai Comandi Maggiori. Quando impari un nuovo Comando Ematico, puoi scegliere anche tra i Comandi Maggiori.
 
----
 ## Campione Vivo (13°)
 **Passiva**
 >Una goccia basta. Il sangue ricorda la strada verso il corpo da cui è uscito.
@@ -200,7 +189,6 @@ Se possiedi un campione fresco del sangue, carne o fluido vitale di una creatura
 
 Inoltre, se una creatura sotto il tuo Dominio Ematico diventa *Invisibile*, continui a conoscere la sua posizione finché il Dominio resta attivo.
 
----
 ## Sangue Ribelle (14°)
 **Passiva**
 >Il tuo corpo ha imparato a mordere chi prova a comandarlo.
@@ -209,7 +197,6 @@ Ottieni Vantaggio ai TS contro le condizioni *Affascinato*, *Spaventato*, *Paral
 
 Inoltre, hai Vantaggio ai TS contro qualsiasi effetto che tenti di controllare direttamente il tuo corpo o costringerti a muoverti contro la tua volontà.
 
----
 ## Dominio Cardiaco (17°)
 **Azione • 18 m • Catalisi Vitale doppia**
 >Per un istante, prendi in mano il battito. Puoi lasciarlo andare. Puoi anche decidere di no.
@@ -223,7 +210,6 @@ Il bersaglio effettua un TS COS.
 
 Se questa capacità riduce il bersaglio a 0 PF, puoi scegliere di lasciarlo vivo ma *Incosciente* e stabile, invece di ucciderlo.
 
----
 ## Sangue Sovrano (20°)
 **Passiva**
 >Non distingui più il tuo sangue da quello che comandi. Tutto pulsa sullo stesso tempo.
