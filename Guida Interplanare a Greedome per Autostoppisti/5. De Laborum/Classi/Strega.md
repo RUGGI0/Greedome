@@ -1,273 +1,406 @@
-*Il Sangromante è un occultista proibito che usa il proprio sangue come catalizzatore e quello altrui come leva biologica. In un mondo dove alchimia, industria e anatomia hanno ridotto il corpo a un sistema di pompe, condotti e pressioni, la sangromanzia spinge questa logica oltre ogni limite morale: non cura, non preserva, non santifica la vita. La comanda.*
-
-*A Greedome, i Sangromanti sono tollerati solo finché restano nascosti o utili. Le corporazioni biotecniche li studiano come risorse da brevettare, i culti ematici li venerano come profeti della carne, mentre autorità civili e ordini religiosi li trattano come torturatori, mostri o armi viventi. La loro arte non fa paura perché uccide: fa paura perché dimostra che un corpo può smettere di appartenere a chi lo abita.*
-
-*Per il Sangromante, ogni ferita è un accesso, ogni battito è un segnale e ogni vena è un filo teso. Quando alza una mano, il nemico non viene convinto, maledetto o ipnotizzato: viene mosso dall'interno.*
+*Le Streghe sono le detentrici di una delle prime forme di magia apparse nel mondo, risalenti a un'epoca in cui l'arcano e il naturale venivano studiati come una cosa sola. A Greedome, questa antica arte è un segreto custodito e tramandato esclusivamente da donne. È una sorellanza spietata e pragmatica: alcune venerano i vecchi dei in giardini nascosti tra il cemento, altre non disdegnano la modernità, fondendo antichi patti di sangue con il cromo, l'acciaio e i motori. 
+Quale che sia la loro Congrega o il loro stile, le Streghe dominano la magia, il destino e i le ombre notturne.*
 
 ---
-# Privilegi di Classe Sangromante
+# Privilegi di Classe Strega
 
 ## Dado Vita
-d8
-
+d6
 ## Competenze
-**Armature:** leggere  
-**Armi:** armi semplici, pugnali, lame leggere, armi da fianco (*sidearm*)  
-**Strumenti:** strumenti da alchimista o borsa da avvelenatore  
-**Tiri Salvezza:** COS, INT  
-**Abilità:** 3 a scelta tra Arcana, Furtività, Indagare, Intimidire, Intuizione, Percezione, Religione, Rapidità di Mano, Sopravvivenza
+**Armature:** nessuna
+**Armi:** cerbottane (o pistole a dardi tranquillanti), pugnali (o lame tattiche), bastoni ferrati (o aste stordenti), falcetti (o lame termiche a mezzaluna)
+**Strumenti:** strumenti da alchimista, borsa da erborista, borsa da avvelenatore
+**TS:** INT, SAG
+**Abilità:** 2 a scelta tra Arcano, Furtività, Intuizione, Medicina, Natura, Percezione Animale, Religione, Sopravvivenza, Storia
 
 ---
-# Tabella Sangromante
+# Tabella Strega
 
-| Liv | Bonus | Comandi Ematici | Tecniche Proibite | Caratteristiche                                      |
-| --- | ----- | ---------------- | ----------------- | ---------------------------------------------------- |
-| 1   | +2    | —                | —                 | Sangue Catalitico, Ferita Aperta, Presa Ematica      |
-| 2   | +2    | 2                | —                 | Comandi Ematici                                      |
-| 3   | +2    | 2                | 1                 | Tecnica Proibita                                     |
-| 4   | +2    | 2                | 1                 | Aumento di Caratteristica                            |
-| 5   | +3    | 3                | 1                 | Presa Rapida                                         |
-| 6   | +3    | 3                | 1                 | Presa Lacerante                                      |
-| 7   | +3    | 4                | 2                 | Tecnica Proibita                                     |
-| 8   | +3    | 4                | 2                 | Aumento di Caratteristica                            |
-| 9   | +4    | 4                | 2                 | Doppia Presa                                         |
-| 10  | +4    | 5                | 2                 | Corpo Anestetizzato                                  |
-| 11  | +4    | 5                | 3                 | Comandi Maggiori                                     |
-| 12  | +4    | 5                | 3                 | Aumento di Caratteristica                            |
-| 13  | +5    | 6                | 3                 | Campione Vivo                                        |
-| 14  | +5    | 6                | 3                 | Sangue Ribelle                                       |
-| 15  | +5    | 7                | 4                 | Tecnica Proibita                                     |
-| 16  | +5    | 7                | 4                 | Aumento di Caratteristica                            |
-| 17  | +6    | 7                | 4                 | Dominio Cardiaco                                     |
-| 18  | +6    | 8                | 5                 | Tecnica Proibita                                     |
-| 19  | +6    | 8                | 5                 | Aumento di Caratteristica                            |
-| 20  | +6    | 8                | 5                 | Sangue Sovrano                                       |
+| Liv | Bonus | Caratteristiche | Trucchetti | Inc. Conosciuti | Max Liv. Inc. |
+| --- | ----- | ------------------------------------- | ---------- | --------------- | ------------- |
+| 1 | +2 | Magia della Strega, Famiglio Occulto | 3 | 3 | 1° |
+| 2 | +2 | Malocchio, Specializzazione | 3 | 4 | 1° |
+| 3 | +2 | Arte della Pozione, Infondere Pozione | 3 | 5 | 2° |
+| 4 | +2 | Aumento di Caratteristica | 4 | 6 | 2° |
+| 5 | +3 | — | 4 | 7 | 3° |
+| 6 | +3 | Privilegio Specializzazione | 4 | 8 | 3° |
+| 7 | +3 | Incantare Scopa | 4 | 9 | 4° |
+| 8 | +3 | Aumento di Caratteristica | 4 | 10 | 4° |
+| 9 | +4 | — | 4 | 11 | 5° |
+| 10 | +4 | Privilegio Specializzazione | 5 | 12 | 5° |
+| 11 | +4 | Salute di Ferro | 5 | 13 | 6° |
+| 12 | +4 | Aumento di Caratteristica | 5 | 14 | 6° |
+| 13 | +5 | — | 5 | 15 | 7° |
+| 14 | +5 | Privilegio Specializzazione | 5 | 16 | 7° |
+| 15 | +5 | — | 5 | 17 | 8° |
+| 16 | +5 | Aumento di Caratteristica | 5 | 18 | 8° |
+| 17 | +6 | — | 5 | 19 | 9° |
+| 18 | +6 | — | 5 | 20 | 9° |
+| 19 | +6 | Aumento di Caratteristica | 5 | 21 | 9° |
+| 20 | +6 | Somma Strega | 5 | 22 | 9° |
 
 ---
-
-## Sangue Catalitico (1°)
+## Magia della Strega (1°)
 **Passiva**
->Il Sangromante non possiede una riserva astratta di mana. Usa il proprio sangue come reagente, conduttore e prezzo.
+>La Strega tesse l'antica magia naturale e arcana.
+- **Caratteristica da Incantatore:** INT.
+- **Focus:** Un focus arcano o un focus druidico.
+- **Incantesimi Conosciuti:** Apprende magie dalla Lista della Strega. Al passaggio di livello può scambiare un incantesimo conosciuto con un altro.
+- **Libro dei Rituali:** Possiede un grimorio che contiene inizialmente due incantesimi di 1° livello con l'etichetta *Rituale* dalla lista della Strega. Questi non contano tra gli Incantesimi Conosciuti e possono essere lanciati solo come rituali. Può trascrivere nuovi rituali della Strega spendendo 2 ore e 50 mo per livello dell'incantesimo.
 
-Le tue capacità da Sangromante usano la tua **Potenza Ematica**, che misura la pressione con cui riesci a imporre la tua volontà sul corpo altrui.
-
->**Potenza Ematica = BC + Mod INT**
-
-La CD delle capacità da Sangromante è chiamata **CD Sangromanzia**:
-
->**CD = 8 + Mod INT + BC**
-
-L'INT rappresenta anatomia proibita, pressione sanguigna, ritualistica, controllo nervoso e comprensione dei punti di rottura biologici.
-
-### Catalisi Vitale
-**Speciale • 1/Turno**
->Quando il controllo ordinario non basta, il Sangromante apre il proprio corpo e spinge più sangue nel comando.
-
-Una volta per turno, quando usi una capacità da Sangromante che applica la tua Potenza Ematica, puoi spendere un Dado Vita da Sangromante e tirarlo. Subisci danni necrotici pari al risultato del dado. Questi danni non possono essere ridotti in alcun modo.
-
-Per quella capacità, aggiungi il risultato del Dado Vita alla tua Potenza Ematica.
-
-Se la capacità richiede un TS al bersaglio, puoi dichiarare la Catalisi Vitale dopo aver visto che il bersaglio ha fallito il TS, salvo che la capacità indichi **Catalisi Obbligatoria**. Se la capacità non richiede un TS, devi dichiarare la Catalisi Vitale prima di applicarne l'effetto.
-
-Un Dado Vita speso tramite Catalisi Vitale è consumato come un normale Dado Vita: non può essere usato per recuperare PF durante un Riposo Breve finché non viene recuperato.
-
-### Oltre il Limite
-**Speciale**
->Quando il sangue non basta più, il Sangromante può continuare. Il corpo, però, registra il debito.
-
-Se devi spendere un Dado Vita da Sangromante ma non ne hai più disponibili, puoi comunque usare Catalisi Vitale. Invece di spendere un Dado Vita:
-
-- subisci danni necrotici pari a 8 + BC;
-- ottieni 1 livello di Sfinimento;
-- aggiungi 8 alla tua Potenza Ematica per quella capacità.
-
----
-
-## Ferita Aperta (1°)
+## Famiglio Occulto (1°)
 **Passiva**
->La sangromanzia richiede un accesso. Una vena scoperta, una lama bagnata, un campione raccolto in una fiala. Il corpo deve avere una porta.
+>Lo spirito legato alla Strega è la manifestazione del suo potere e il suo compagno più fedele. La sua forma è spesso legata alla sua Congrega d'appartenenza, con eventuali innesti punk, cyber o bizzarrie alchemiche.
+>Apprende l'incantesimo *Trova Famiglio* (non conta tra gli incantesimi conosciuti) e può lanciarlo senza spendere slot o componenti materiali. Il famiglio ottiene questi potenziamenti:
+- INT e CAR diventano 12 (se non erano già superiori).
+- Può parlare, leggere e comprendere tutte le lingue conosciute dalla Strega.
+- Il suo movimento non provoca Attacchi di Opportunità.
+- Aggiunge il Livello da Strega ai suoi Punti Ferita massimi.
+- Se supera un TS che dimezzerebbe i danni, non subisce alcun danno.
 
-Una creatura è considerata sotto **Ferita Aperta** per te se almeno una delle seguenti condizioni è vera:
+## Malocchio (2°)
+**Azione Bonus • Costo Variabile**
+>Le Streghe possono distorcere sottilmente la trama della magia per punire i nemici o sabotare il loro equipaggiamento.
+>Una volta per turno, se una creatura entro 36 metri fallisce un TS contro un incantesimo della Strega o viene colpita da un suo attacco, la Strega può usare un'Azione Bonus per infliggerle un *Malocchio*.
+- Gli effetti durano fino all'inizio del prossimo turno della Strega.
+- Può usare questo privilegio un numero di volte pari al proprio Mod INT (minimo 1 volta). Recupera tutti gli usi spesi al termine di un Riposo Breve o Lungo.
+- Sceglie i Malocchi conosciuti dalla relativa lista (vedi fine della classe).
 
-- l'hai colpita con un attacco che infligge danni taglienti, perforanti o necrotici;
-- ha meno dei suoi PF massimi;
-- possiedi un campione fresco del suo sangue, carne o fluido vitale;
-- è sanguinante, mutilata, malata o alterata da esperimenti, interrogatori o violenze recenti, a discrezione del DM.
-
-Le creature prive di sangue o fluido vitale equivalente, come costrutti puri, spettri, elementali puri o alcune melme, non possono essere bersagliate dalla tua Presa Ematica, salvo capacità specifiche di livello alto.
-
----
-
-## Presa Ematica (1°)
-**Azione • 18 m • Tensione, fino a 1 minuto**
->Infili la volontà nel sangue del bersaglio e stringi. Non è dolore soltanto. È il terrore di sentire il proprio corpo rispondere a qualcun altro.
-
-Scegli una creatura con **Ferita Aperta** che puoi vedere entro 18 metri. Il bersaglio deve effettuare un TS COS contro la tua CD Sangromanzia.
-
-- **Fallimento:** il bersaglio è sotto la tua **Presa Ematica** per 1 minuto.
-- **Successo:** la Presa fallisce, ma il bersaglio subisce una contrazione interna: la sua velocità è ridotta di 3 metri fino all'inizio del tuo prossimo turno.
-
-Mantenere la Presa richiede **Tensione**. La Tensione funziona come la Concentrazione, ma non è un incantesimo. Se subisci danni, devi superare un TS COS con CD pari a 10 o metà dei danni subiti, quale dei due valori sia più alto. Se fallisci, la Presa termina.
-
-Una creatura sotto Presa Ematica può ripetere il TS COS alla fine di ciascun suo turno. Se lo supera, la Presa termina.
-
-Finché una creatura è sotto la tua Presa Ematica, una volta nel tuo turno puoi infliggerle danni necrotici pari al tuo Mod INT se non usi un Comando Ematico su di essa in quello stesso turno.
-
----
-
-## Comandi Ematici (2°)
-**Speciale**
->Una Presa Ematica non è una maledizione. È una mano nel sistema circolatorio del bersaglio.
-
-Al 2° livello impari due Comandi Ematici. Ne impari altri salendo di livello, come indicato nella tabella.
-
-Puoi usare un Comando Ematico solo su una creatura attualmente sotto la tua Presa Ematica, salvo diversa indicazione. I Comandi Ematici non sono incantesimi.
-
-Quando ottieni un livello da Sangromante, puoi sostituire un Comando Ematico che conosci con un altro Comando Ematico per cui soddisfi i requisiti.
-
-La lista dei Comandi Ematici è nel capitolo *17. De Tabellorum*: [[Comandi Ematici]].
-
----
-
-## Tecnica Proibita (3°)
+## Specializzazione (2°)
 **Passiva**
->Le Tecniche Proibite non sono scuole, ordini o sottoclassi. Sono procedure individuali: cicatrici volontarie, codici di tortura, rituali sporchi, traumi autoindotti e segreti imparati dove la legge e la morale non entrano.
+>La Strega si unisce a un'antica congrega magica, vere e proprie "società" nel tessuto di Greedome. Sceglie tra: **Luna Nera, Luna Piena, Mezza Luna, Luna Crescente, Eclissi, Luna Gibbosa o Luna Perduta**.
 
-Al 3° livello apprendi una Tecnica Proibita. Ne apprendi altre ai livelli 7, 11, 15 e 18.
-
-Quando ottieni un livello da Sangromante, puoi sostituire una Tecnica Proibita che conosci con un'altra Tecnica Proibita per cui soddisfi i requisiti.
-
-La lista delle Tecniche Proibite è nel capitolo *17. De Tabellorum*: [[Tecniche Proibite]].
-
----
-
-## Aumento di Caratteristica (4°)
+## Arte della Pozione (3°)
 **Passiva**
->Quando raggiungi il 4° livello, e poi ancora all'8°, 12°, 16° e 19° livello, puoi aumentare di 2 un punteggio di caratteristica a tua scelta, oppure puoi aumentare di 1 due punteggi di caratteristica a tua scelta. Non puoi aumentare un punteggio oltre 20 usando questo privilegio.
+>Le Streghe sono maestre nell'estrarre il potenziale arcano. Alcune seguono l'antica via pestando erbe in mortai di pietra, altre sintetizzano composti chimici nei laboratori dei bassifondi.
+>Quando fabbrica un Oggetto Magico nella categoria *Pozione*, la Strega impiega un quarto del tempo normale e spende la metà delle monete d'oro richieste.
+
+## Infondere Pozione (3°)
+**Azione (Durante Riposo Breve o Lungo)**
+>La Strega può intrappolare fisicamente l'essenza di un incantesimo in un supporto consumabile (un infuso ribollente, un inalatore chimico o una siringa ipertecnologica colma di mana liquido).
+>Avendo un contenitore vuoto, la Strega può infondere un incantesimo in una pozione durante un Riposo.
+- **Costo:** Spende le componenti materiali e 1 Slot Incantesimo del livello adeguato. Lo slot speso non si ricarica finché la pozione non viene consumata o distrutta.
+- **Scelta Incantesimo:** Può scegliere magie specifiche da una lista apposita (es. *Cura Ferite*, *Invisibilità*, *Volare*).
+- **Effetto:** Qualsiasi creatura può usare un'Azione per consumare la pozione. Diventa il bersaglio dell'incantesimo. Se l'incantesimo richiede Concentrazione, la mantiene chi l'ha consumata. Se la creatura che concentra subisce danni, è lei a dover effettuare il TS COS per mantenere l'effetto. Se l'incantesimo richiede un TS ai nemici, usa la CD della Strega.
+- **Limite:** Massimo numero di pozioni attive contemporaneamente pari al Livello da Strega diviso 3 (arrotondato per difetto).
+
+## Incantare Scopa (7°)
+**Rituale (1 ora)**
+>La cavalcatura occulta è profondamente legata allo stile della Strega. Può essere una magnifica scopa intarsiata da maestri artigiani, un hoverboard metallico o una rombante moto arcana in pelle e cromo.
+>Trasforma l'oggetto scelto nella sua personale *Scopa Volante* (oggetto magico). Risponde solo alla sua parola di comando e non si muove o accende se qualcun altro prova a cavalcarla senza il permesso della Strega.
+
+## Salute di Ferro (11°)
+**Passiva**
+>Il corpo della Strega respinge le impurità e l'inquinamento mondano.
+>Ottiene Resistenza ai danni da veleno e immunità alle Malattie e alla condizione *Avvelenato*. Invecchia di 1 anno per ogni 7 anni solari e non può morire di vecchiaia.
+
+## Somma Strega (20°)
+**Passiva**
+>Il potere oscuro scorre senza limiti.
+>Dopo aver tirato l'Iniziativa, la Strega può scegliere di lanciare i suoi *Malocchi* senza consumare usi per 1 minuto.
 
 ---
+# Malocchi
 
-## Presa Rapida (5°)
+vedi [[Malocchi]] nel capitolo *17. De Tabellorum*
+
+---
+# Pozioni
+
+vedi [[Pozioni]] nel capitolo *17. De Tabellorum*
+
+---
+# Codice della Sorellanza
+---
+## Pax Stregorium  
+
+Sebbene le Congreghe siano fazioni distinte e spesso in brutale competizione tra loro, condividono un'antica e inviolabile legge: i Santuari. 
+Per tacito accordo tra tutte le Streghe (e temuto rispetto da parte delle corporazioni, dei sindacati criminali e dell'Impero Eldreicht), i Santuari sono Zone Neutrali. È severamente vietato versare sangue, estrarre armi o lanciare incantesimi e Malocchi ostili al loro interno. 
+Qualsiasi avventuriero, civile o strega stessa che violi la Pax del Santuario perde immediatamente ogni protezione e viene marchiato come nemico dell'intera Sorellanza di Greedome.
+E' inoltre assolutamente vietato per una Strega versare il sangue di una consorella Strega, anche se di fazioni avversarie. Questa regola è presa molto letteralmente dalla Sorellanza, che semplicemente disdegna la violenza fisica tra consorelle. Questo si traduce molto spesso in Streghe che assumono intermediari e mercenari al fine di regolari i conti tra loro.
+
+---
+## Marchio della Sorellanza
+
+Ogni Strega porta sempre con sé un talismano che ne riconosce l'appartenenza alla propria Congregazione. La forma di quest'ultimo dipende: alcune Congregazioni forniscono alle proprie consorelle medaglioni o spille d'ordinanza personalizzate con gusto dalle posseditrici (Streghe Nere, Rosse, Blu e Bianche), mentre altre costruiscono i propri Marchi artigianalmente come parte del proprio addestramento o della loro personale filosofia (Streghe Verdi ed Indaco). Il marchio può essere usato per comunicare tra membri della stessa Congregazione.
+In caso di tradimento della propria Congregazione o della Pax Stregorium, il Marchio perde il colore originale, diventa grigio e una spaccatura rovina il simbolo. Ogni Strega Grigia mantiene il Marchio della propria congregazione originale, per quanto rotto e grigio.  
+
+---
+# SPECIALIZZAZIONI
+---
+## <u>Congrega della Luna Nera (Streghe Nere)</u>
+
+*Organizzazione segreta dedita allo spionaggio e all'assassinio, opera in tutto il mondo ed è riconosciuta come una delle più potenti società segrete di Greedome. La loro primaria occupazione è la vendita di informazioni e lavori su commissione.*
+
+**Famigli prediletti**: corvi, gatti, civette, animali notturni.
+
+### Magie della Luna Nera
+**Passiva**
+>Incantesimi aggiuntivi sempre conosciuti.
+- **2° Liv. da Strega:** *Rovina*, *Risata Incontenibile di Tasha*
+- **3° Liv. da Strega:** *Cecità/Sordità*, *Oscurità*
+- **5° Liv. da Strega:** *Animare Morti*, *Scagliare Maledizione*
+- **7° Liv. da Strega:** *Inaridire*, *Tentacoli Neri di Evard*
+- **9° Liv. da Strega:** *Contagio*, *Piaga degli Insetti*
+
+### Eletta della Mezzanotte (2°)
+**Passiva / Azione Bonus**
+>La Strega Oscura è a suo agio dove la luce muore.
+- Ottiene Scurovisione 9 m (o l'aumenta di 9 m se la possiede) e può vedere attraverso l'oscurità magica.
+- Come Azione Bonus, riduce il livello di illuminazione in un raggio di 3 metri centrato su di sé o sul famiglio (da Luce Brillante a Luce Fioca, o da Fioca a Oscurità) per 1 minuto.
+
+### Servitori della Luna Nera (6°)
+**Reazione • Mod INT / Riposo Lungo**
+>La morte è solo l'inizio del servizio.
+- Se un umanoide (Medio o Piccolo) muore entro 3 m da lei o dal famiglio, la Strega può usare la Reazione per rianimarlo come Zombi o Scheletro con 1 PF massimo. Dura 1 ora e poi diventa cenere.
+- Ogni non morto evocato con incantesimi aumenta i propri PF massimi di un ammontare pari a metà livello della Strega, e aggiunge metà del BC ai danni.
+
+### Globo della Notte (10°)
+**Azione • 1/Riposo Breve o Lungo**
+>Una sfera di pura oscurità entropica che consuma i nemici.
+- Crea una sfera di oscurità magica (raggio 1,5 m) entro 18 m. Dura 1 minuto. 
+- Chi inizia il turno adiacente o dentro la sfera subisce 3d10 danni necrotici (5d10 al 14° liv) e deve superare un TS SAG o essere *Accecato*. 
+- Con un'Azione Bonus la Strega può spostare la sfera di 4,5 m.
+
+### Creare Spaventapasseri (14°)
+**Rituale (1 ora)**
+>La Strega costruisce un servitore intrecciando vimini, cavi, scarti e un'anima umanoide.
+- Richiede una creatura viva o uccisa di fresco per il rituale, la cui anima anima uno *Spaventapasseri* (vedi Manuale dei Mostri) fedele alla Strega. 
+- Ne può avere attivi fino a 4 contemporaneamente.
+
+---
+## <u>Congrega della Luna Piena (Streghe Bianche)</u>
+
+*Una delle poche organizzazioni assistenzialistiche di Greedome. Operano come infermiere/suore, prendendosi cura dei malati nei Santuari (che fungono da abbazie, sanatori e hub di ricerca medica). Fortemente concentrate nella Repubblica Unita, sono intrinsecamente benevole ma letali se minacciate.*
+
+**Famigli prediletti**: conigli, roditori, animali "carini".
+
+### Magie della Luna Piena
+**Passiva**
+>Incantesimi aggiuntivi sempre conosciuti.
+- **2° Liv. da Strega:** *Cura Ferite*, *Parola Guaritrice*
+- **3° Liv. da Strega:** *Calmare Emozioni*, *Ristorare Inferiore*
+- **5° Liv. da Strega:** *Rimuovi Maledizione*, *Rinascita*
+- **7° Liv. da Strega:** *Aura di Purezza*, *Interdizione alla Morte*
+- **9° Liv. da Strega:** *Dissipare Bene e Male*, *Ristorare Superiore*
+
+### Salute Abbondante (2°)
+**Passiva**
+>La magia vitale in eccesso si condensa in scudi protettivi.
+- Quando cura una creatura facendole raggiungere i PF massimi, la cura in eccesso si trasforma in Punti Ferita Temporanei che durano 1 minuto.
+
+### Conforto del Famiglio (6°)
 **Azione Bonus**
->Una ferita appena aperta è una serratura ancora calda.
+>Il famiglio è un faro di salvezza.
+- Stabilizza istantaneamente qualsiasi creatura a 0 PF entro 1,5 metri dal Famiglio. 
+- Può ripristinare 1 PF a ciascuna di queste creature (max 1 volta per creatura per Riposo Lungo).
 
-Quando colpisci una creatura con un attacco che infligge danni taglienti, perforanti o necrotici, puoi tentare la Presa Ematica contro quella creatura come Azione Bonus nello stesso turno.
+### Raggio di Luna Protettivo (10°)
+**Reazione • 1/Riposo Breve o Lungo**
+>La luce lunare solidifica le difese al momento del bisogno.
+- Quando una creatura entro 1,5 metri dalla Strega o dal Famiglio subisce danni, la Strega conferisce a quella creatura PF Temporanei pari al Livello da Strega + Mod INT.
+
+### Luce della Luna Piena (14°)
+**Azione • 1/Riposo Lungo**
+>La Strega infonde l'essenza stessa della luna in un alleato.
+- Infonde una creatura a vista (entro 18 m) di pura radiosità lunare per 1 minuto. Emette luce fioca per 9 m.
+- È immune ad *Affascinato*, *Spaventato*, *Avvelenato*, Malattie e Riduzione dei PF massimi. 
+- La creatura infusa può usare un'Azione Bonus per curarsi di un ammontare pari a: Mod INT + Metà livello della Strega.
 
 ---
+## <u>Congrega della Mezza Luna (Streghe Blu)</u>
 
-## Presa Lacerante (6°)
-**Passiva • 1/Turno**
->Ogni comando tira qualcosa che non dovrebbe essere tirato. Vene, tendini, muscoli, respiro. Il corpo obbedisce e si lacera dall'interno.
+*Un circolo di giornaliste d'inchiesta, informatrici e whistleblower votate alla verità scomoda. Sfruttano la stampa clandestina per smascherare i segreti corporativi. I loro poteri illusori permettono di trovarsi laddove ci sono le informazioni: si intrufolano senza farsi vedere o distraggono i nemici per estrarre dati sensibili in incognito.*
 
-Una volta per turno, quando una creatura fallisce un TS contro un tuo Comando Ematico, subisce danni necrotici pari al tuo BC.
+**Famigli prediletti**: volpi di strada, ratti, corvi o animali mimetici come camaleonti.
 
-Se la creatura è sotto la metà dei suoi PF massimi, i danni aumentano a BC + Mod INT.
-
----
-
-## Doppia Presa (9°)
+### Magie della Mezza Luna
 **Passiva**
->Due cuori. Due ritmi. Due corpi che tremano sullo stesso filo.
+>Incantesimi aggiuntivi sempre conosciuti.
+- **2° Liv. da Strega:** *Camuffare Se Stesso*, *Immagine Silenziosa*
+- **3° Liv. da Strega:** *Forza Fantasmatica*, *Immagine Speculare*
+- **5° Liv. da Strega:** *Immagine Maggiore*, *Trama Ipnotica*
+- **7° Liv. da Strega:** *Invisibilità Superiore*, *Terreno Illusorio*
+- **9° Liv. da Strega:** *Fuorviare*, *Sembrare*
 
-Puoi mantenere la Presa Ematica su due creature contemporaneamente.
-
-Quando subisci danni e devi effettuare un TS COS per mantenere la Tensione, un singolo fallimento interrompe entrambe le Prese.
-
-Puoi usare un solo Comando Ematico per turno, anche se controlli due creature.
-
----
-
-## Corpo Anestetizzato (10°)
+### Illusionista del Chiaro di Luna (2°)
 **Passiva**
->Il dolore diventa un'informazione, non un limite.
+>La Strega Blu riconosce le menzogne perché vive tra esse.
+- Ottiene Vantaggio alle prove di Indagare per scoprire illusioni e mutaforma. 
+- Apprende il trucchetto *Illusione Minore* (può lanciarlo come Azione o Azione Bonus).
 
-Ottieni Resistenza ai danni da veleno e necrotici.
+### Camuffare Famiglio (6°)
+**Azione**
+>Il compagno della Strega diventa chiunque serva che sia per intrufolarsi.
+- Il famiglio è sotto l'effetto permanente di *Camuffare Se Stesso* (CD incantesimi della Strega). 
+- Può assumere forme di umanoidi Medi o Piccoli, ma le sue meccaniche fisiche restano le stesse (non può manipolare oggetti complessi se originariamente non possedeva pollici opponibili).
 
-Inoltre, quando usi Catalisi Vitale, puoi ridurre i danni necrotici subiti di un ammontare pari al tuo Mod INT. Questa riduzione non può portare il danno sotto 1.
+### Occultare Magia (10°)
+**Passiva • 1/Riposo Breve o Lungo**
+>Le magie ad area perdono i loro connotati visivi.
+- Quando lancia un incantesimo ad Area con durata maggiore di 1 round, può renderne invisibili gli effetti visivi. 
+- Gli effetti meccanici agiscono normalmente. Una prova di Indagare superata contro la CD Magia rivela i bordi della zona invisibile.
+
+### Creare Fantasmi (14°)
+**Azione • Tocco • 1/Riposo Lungo**
+>La Strega imprime una maledizione illusoria direttamente nella mente della vittima.
+- Il bersaglio effettua un TS CAR. Se fallisce, subisce un effetto a scelta della Strega, che dura finché non viene rimosso, o finché la Strega non completa un Riposo Lungo:
+- **Falso Volto:** Il bersaglio appare agli occhi di tutti cambiato (altezza, stazza, voce). È necessaria un'Azione e una prova di Indagare contro la CD Magia per capire l'illusione.
+- **Visione Distorta:** Una singola sfaccettatura del mondo appare sbagliata agli occhi del bersaglio (es. "Tutti gli umani sembrano Orchi"). Può fare prove di Indagare con Svantaggio per capirlo.
 
 ---
+## <u>Congrega della Luna Crescente (Streghe Verdi)</u>
 
-## Comandi Maggiori (11°)
+*Selvagge e isolate. Abitano paludi impenetrabili, foreste e qualsiasi altro luogo estremo che nessun altro abiterebbe. Sono il gruppo più disomogeneo, ma anche le più vicine al mondo naturale, il che le porta ad essere estremamente tecnofobe. I loro rituali sono di tipo sciamanico.*
+
+**Famigli prediletti**: scimmie, coccodrilli, rapaci o fiere selvagge.
+
+### Magie della Luna Crescente
 **Passiva**
->La Presa non si limita più a disturbare il corpo. Ora può sostituirsi alla volontà.
+>Incantesimi aggiuntivi sempre conosciuti.
+- **2° Liv. da Strega:** *Falsa Vita*, *Scudo*
+- **3° Liv. da Strega:** *Lama Ombra*, *Nube di Pugnali*
+- **5° Liv. da Strega:** *Arma Elementale*, *Protezione dall'Energia*
+- **7° Liv. da Strega:** *Pelle di Pietra*, *Scudo di Fuoco*
+- **9° Liv. da Strega:** *Colpo del Vento d'Acciaio*, *Onda Distruttiva*
 
-Ottieni accesso ai Comandi Maggiori. Quando impari un nuovo Comando Ematico, puoi scegliere anche tra i Comandi Maggiori.
-
-La lista dei Comandi Maggiori è nel capitolo *17. De Tabellorum*: [[Comandi Ematici]].
-
----
-
-## Campione Vivo (13°)
+### Strega da Battaglia (2°)
 **Passiva**
->Una goccia basta. Il sangue ricorda la strada verso il corpo da cui è uscito.
+>Armata di falcetto e concentrazione d'acciaio.
+- Ottiene competenza in scimitarre, spade corte e stocchi. Il falcetto per lei ottiene la proprietà *Accurata* e infligge 1d6 danni base.
+- Quando attacca con un'arma da mischia in cui è competente, può usare il suo Mod INT, invece di FOR o DES, per i Tiri per Colpire e per i danni.
+- Somma il Mod INT ai Tiri per l'Iniziativa e ai TS COS per mantenere la Concentrazione. 
+- Ottiene un bonus alla Classe Armatura pari a metà del Mod INT (arrotondato per eccesso) finché non indossa armature.
 
-Se possiedi un campione fresco del sangue, carne o fluido vitale di una creatura, puoi tentare la Presa Ematica su di essa anche se non la vedi, purché sia entro 18 metri da te. Devi comunque sapere che la creatura è presente.
-
-Inoltre, se una creatura sotto la tua Presa Ematica diventa *Invisibile*, continui a conoscere la sua posizione finché la Presa resta attiva.
-
----
-
-## Sangue Ribelle (14°)
+### Colpo Crescente (2°)
 **Passiva**
->Il tuo corpo ha imparato a mordere chi prova a comandarlo.
+>Famiglio e padrona attaccano in perfetta sincronia.
+- Una volta nel turno della Strega, quando colpisce con un'arma da mischia, il Famiglio può usare la sua Reazione per effettuare un attacco in mischia contro un nemico adiacente al famiglio stesso. 
+- Usa il BC della Strega e il Mod INT della Strega per il Tiro per Colpire: infligge 1d6 danni magici (2d6 al 6°, 3d6 al 10°, 4d6 al 14°, 5d6 al 18°).
 
-Ottieni Vantaggio ai TS contro le condizioni *Affascinato*, *Spaventato*, *Paralizzato*, *Trattenuto* e *Avvelenato*.
-
-Inoltre, hai Vantaggio ai TS contro qualsiasi effetto che tenti di controllare direttamente il tuo corpo o costringerti a muoverti contro la tua volontà.
-
----
-
-## Dominio Cardiaco (17°)
-**Azione • 18 m • Catalisi Obbligatoria doppia**
->Per un istante, prendi in mano il battito. Puoi lasciarlo andare. Puoi anche decidere di no.
-
-Scegli una creatura sotto la tua Presa Ematica. Spendi due Dadi Vita tramite Catalisi Vitale e somma i risultati. Per questa capacità, la tua Potenza Ematica aumenta di un ammontare pari alla somma ottenuta.
-
-Il bersaglio effettua un TS COS.
-
-- **Fallimento:** subisce danni necrotici pari alla tua Potenza Ematica + il tuo livello da Sangromante ed è *Stordito* fino all'inizio del tuo prossimo turno.
-- **Successo:** subisce metà dei danni e non è *Stordito*.
-
-Se questa capacità riduce il bersaglio a 0 PF, puoi scegliere di lasciarlo vivo ma *Incosciente* e stabile, invece di ucciderlo.
-
----
-
-## Sangue Sovrano (20°)
+### Attacco Extra (6°)
 **Passiva**
->Non distingui più il tuo sangue da quello che comandi. Tutto pulsa sullo stesso tempo.
+>La Strega può attaccare due volte invece di una quando usa l'Azione di Attacco nel proprio turno.
 
-Ottieni i seguenti benefici:
+### Camminare sul Sentiero (10°)
+**Azione Bonus**
+>Una volta per turno, prima o dopo aver effettuato gli attacchi dell'Azione di Attacco, la Strega o il Famiglio si teletrasportano di 3 metri in uno spazio non occupato.
 
-- quando tiri Iniziativa e non hai Dadi Vita da Sangromante disponibili, recuperi 1 Dado Vita da Sangromante;
-- quando usi Catalisi Vitale, puoi considerare il Dado Vita come se avesse ottenuto il suo risultato massimo;
-- puoi mantenere la Presa Ematica su tre creature contemporaneamente;
-- puoi usare un Comando Ematico per turno su ciascuna creatura sotto la tua Presa Ematica, usando normalmente l'Azione, l'Azione Bonus e la Reazione richieste;
-- le creature prive di sangue ma dotate di nucleo energetico, fluido sintetico, anima vincolata o circuito vitale possono essere bersagliate dalla tua Presa Ematica, a discrezione del DM.
-
----
-# Dottrina della Sangromanzia
----
-## Pratica Oscena
-
-La sangromanzia non è semplicemente una disciplina pericolosa. È una violazione pubblica e visibile dell'autonomia corporea. Anche dove non è formalmente proibita, usarla apertamente può causare panico, disgusto, accuse di tortura, linciaggi, indagini corporative o interventi delle autorità locali.
-
-Un Sangromante che manifesta i propri poteri davanti a testimoni può attirare conseguenze a discrezione del DM:
-
-- ostilità immediata di civili, guardie, clero o autorità locali;
-- accuse di mutilazione, controllo mentale, tortura o contaminazione biologica;
-- taglie, denunce o richieste di internamento;
-- interesse di corporazioni biotecniche, culti del sangue, inquisitori o ricercatori;
-- rifiuto di servizi, rifugi o protezione;
-- terrore o diffidenza anche da parte degli alleati, soprattutto dopo l'uso di Comandi Maggiori.
-
-La sangromanzia non convince, non seduce e non persuade. Il bersaglio resta cosciente della propria volontà. È il corpo a tradirla.
+### Arcani Accelerati (14°)
+**Azione Bonus**
+>Nel turno in cui usa l'Azione di Attacco, la Strega può lanciare un Trucchetto usando l'Azione Bonus.
 
 ---
-# Comandi Ematici
+## <u>Congrega dell'Eclissi (Streghe Rosse)</u>
 
-vedi [[Comandi Ematici]] nel capitolo *17. De Tabellorum*
+*Ai vertici della società dell'Impero Eldreicht, sono uno dei gruppi di streghe più noti in tutta Greedome. Infide e classiste, sono una delle associazioni più antiche (compaiono persino nelle storie di fondazione dell'Impero). Estremamente intelligenti, hanno intuito subito le implicazioni della tecnologia e sono state le prime ad opporvisi per preservare l'antica dominazione oscura.*
+
+**Famigli prediletti**: grossi insetti come ragni, millepiedi e scorpioni giganti.
+
+### Magie dell'Eclissi
+**Passiva**
+>Incantesimi aggiuntivi sempre conosciuti.
+- **2° Liv. da Strega:** *Braccia di Hadar*, *Sussurri Dissonanti*
+- **3° Liv. da Strega:** *Corona di Follia*, *Sfera Infuocata*
+- **5° Liv. da Strega:** *Evoca Demoni Minori*, *Fame di Hadar*
+- **7° Liv. da Strega:** *Assassino Fantasmagorico*, *Evoca Demone Maggiore*
+- **9° Liv. da Strega:** *Chiamata Infernale*, *Immolazione*
+
+### Affinità Immonda (2°)
+**Passiva / Reazione • 1/Riposo Breve o Lungo**
+>Un legame diretto con le profondità dell'Abisso.
+- Impara a parlare Infernale e Abissale. Il suo Famiglio può assumere la forma di un *Imp* o un *Quasit*.
+- Se una creatura muore adiacente al Famiglio immondo, il famiglio "mangia" la sua anima usando una Reazione: la Strega o il Famiglio ottengono PF Temporanei pari al Livello della Strega + Mod INT. 
+
+### Pioggia Sanguigna (6°)
+**Azione • 1/Riposo Breve o Lungo**
+>Evoca una pioggia di sangue innaturale in un cilindro (raggio 4,5 m, alto 18 m) per 1 minuto. 
+- La Strega e i demoni che evoca ottengono Vantaggio a tutti gli attacchi effettuati mentre si trovano dentro il cilindro.
+- Entità nemiche che attaccano dall'esterno verso l'interno subiscono lo svantaggio della Mezza Copertura.
+
+### Influenza Infernale (10°)
+**Azione • 1/Riposo Lungo**
+>Invia un demone invisibile nella mente di un umanoide a vista. Dura 24 ore.
+- La Strega riceve un collegamento telepatico costante con la creatura. 
+- Come Azione, la Strega può dettare un comando mentale. Il bersaglio fa un TS SAG: se fallisce, obbedisce al meglio delle sue capacità (il comando deve sembrare "ragionevole" per lui). Se ha successo, il demone viene espulso.
+
+### Forma di Megera (14°)
+**Azione Bonus • 1/Riposo Lungo**
+>Si trasforma fisicamente in una Megera della Notte per 2 minuti o finché non scende a 0 PF. 
+- Il suo Tipo di Creatura diventa *Immondo*. Ottiene Scurovisione 36 m.
+- Resistenza ai danni Contundenti, Perforanti e Taglienti non magici (a meno che non siano d'argento).
+- Può lanciare *Forma Eterea* su se stessa (come Azione, senza usare slot, ma l'effetto termina istantaneamente se finisce la trasformazione in Megera).
+- I danni dei suoi Trucchetti infliggono sempre il danno massimo possibile senza tirare i dadi.
 
 ---
-# Tecniche Proibite
+## <u>Congrega della Luna Gibbosa (Streghe Indaco)</u>
 
-vedi [[Tecniche Proibite]] nel capitolo *17. De Tabellorum*
+*Isolate e solitarie, preferiscono la solitudine alla congrega. Per via della loro magia divinatoria, tendono naturalmente ad allontanarsi da qualsiasi altro divinatore per non subire pericolose interferenze nelle loro predizioni.*
+
+**Famigli prediletti**: lepidotteri e farfalle.
+
+### Magie della Luna Gibbosa
+**Passiva**
+>Incantesimi aggiuntivi sempre conosciuti.
+- **2° Liv. da Strega:** *Dardo Guida*, *Dardo Caotico*
+- **3° Liv. da Strega:** *Presagio*, *Riposo Inviolato*
+- **5° Liv. da Strega:** *Guardiani Spirituali*, *Parlare con i Morti*
+- **7° Liv. da Strega:** *Divinazione*, *Segugio Fedele di Mordenkainen*
+- **9° Liv. da Strega:** *Legame Telepatico di Rary*, *Scrutare*
+
+### Leggere le Viscere (2°)
+**Reazione • 1/Riposo Breve o Lungo (2 al 14° Liv)**
+>Quando una creatura corporea (che non sia non-morto o costrutto) muore entro 3 metri, la Strega ne legge il fato dal cadavere. 
+- Tira 2d10 (3d10 al 14° liv.) sulla tabella delle Viscere, sceglie uno dei risultati e conferisce la benedizione corrispondente a un alleato entro 9 m.
+- La benedizione dura fino al completamento del prossimo Riposo Breve o Lungo.
+
+### Psicopompo (6°)
+**Passiva**
+>Il famiglio è uno spirito guida tra i due mondi.
+- Il famiglio assume una forma spettrale. Ottiene una velocità di Volare 9 m (Fluttuare). 
+- Come Azione può diventare *Invisibile* per un turno. Oltrepassa materia solida (ma se termina il turno in un muro subisce 2d10 danni da forza). Ha Resistenza a tutti i danni tranne psichici, radiosi, o contundenti, perforanti e taglienti da attacchi magici.
+- Se si trova nello spazio di una creatura alleata, il famiglio può usare una Reazione per concederle un beneficio spettrale per 1 turno (1 volta per Riposo Breve).
+
+### Lettura del Destino (10°)
+**Rituale (10 min) • 1/Riposo Lungo**
+>Usa un Mazzo del Tarocco per predirne e manipolarne il futuro.
+- Usa le carte su un alleato consenziente. Pescano 3 carte e il bersaglio ne sceglie 1 da attivare entro le prossime 24 ore. L'effetto può salvare la vita o alterare drasticamente il fato (basato sulla tabella dei Tarocchi del manuale).
+
+---
+## <u>Congrega della Luna Perduta (Streghe Grigie)</u>
+
+*Rifugio per le reiette per scelta, o per le streghe che sono state severamente bandite dalla loro congrega originale. Vivono costantemente ai margini e in movimento. Sfruttando la loro magia spaziale, sgattaiolano tra i confini in cerca di sopravvivenza o contrabbando, odiate e disprezzate dal resto delle Streghe.*
+
+**Famigli prediletti**: creature abituate a sopravvivere ai margini come cani meticci randagi, procioni, piccioni o gatti di strada.
+
+### Magie della Luna Perduta
+**Passiva**
+>Incantesimi aggiuntivi sempre conosciuti.
+- **2° Liv. da Strega:** *Disco Fluttuante di Tenser*, *Passo Veloce*
+- **3° Liv. da Strega:** *Trucco della Corda*, *Vedere Invisibilità*
+- **5° Liv. da Strega:** *Passo Tonante*, *Velocità*
+- **7° Liv. da Strega:** *Esilio*, *Porta Dimensionale*
+- **9° Liv. da Strega:** *Cerchio di Teletrasporto*, *Passo Lontano*
+
+### Cercatrice di Stelle (2°)
+**Passiva / Rituale (10 min) • 1/Riposo Breve o Lungo**
+>Esploratrice instancabile dei segreti dell'universo.
+- Ottiene Competenza in Indagare e ne raddoppia il BC.
+- Può lanciare come rituale di 10 minuti: *Trovare Trappole*, *Localizzare Animali o Piante* o *Localizzare Oggetto* (*Localizzare Creatura* dal 5° livello) senza spendere slot. 
+
+### Nexus del Famiglio (6°)
+**Passiva**
+>Il famiglio è un'ancora dimensionale per la magia.
+- Può lanciare incantesimi con **qualsiasi gittata** originandoli dallo spazio del suo famiglio (non solo quelli con gittata contatto). 
+- Conosce sempre passivamente la direzione e la distanza dei Portali Planari entro 1,5 km.
+
+### Distorsione della Strega (10°)
+**Azione Bonus**
+>La Strega scambia istantaneamente la propria posizione fisica con quella del suo Famiglio tramite un teletrasporto spaziale.
+- Può anche includere 1 creatura adiacente a sé o al famiglio nel teletrasporto (la creatura viene posizionata in uno spazio adiacente alla nuova destinazione). Dopo aver trasportato una terza creatura, la Strega deve completare un Riposo Breve o Lungo per poterlo fare di nuovo.
+
+### Conoscenza Perduta (14°)
+**Azione Bonus • 1/Riposo Lungo**
+>La Strega attinge direttamente alla rete di magia del multiverso.
+- Come Azione Bonus apprende per 1 turno **qualsiasi incantesimo** esistente (da qualsiasi lista di classe). 
+- Deve possedere lo slot adeguato per poterlo lanciare in questo turno. Al termine del turno, l'incantesimo svanisce dalla sua memoria.
